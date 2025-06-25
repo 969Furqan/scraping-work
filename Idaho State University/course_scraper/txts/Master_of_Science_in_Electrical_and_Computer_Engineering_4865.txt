@@ -1,0 +1,123 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/electrical-and-computer-engineering/msece/
+Master of Science in Electrical and Computer Engineering
+Department website:
+https://www.isu.edu/ece/
+Student Learning Outcomes
+Students graduating from this program will have the ability to:
+Identify, formulate, and solve novel engineering problems by applying principles of engineering, science, and mathematics.
+Communicate experimental results to professional audiences both verbally and orally.
+Work in a collaborative environment that may contain engineers from other disciplines. This will enable them to quickly become contributors in the industry.
+Students completing the degree with the thesis option will perform original research.
+Admission Requirements
+All applicants for the M.S. in ECE program must have a Bachelor of Science degree in engineering, physical sciences, mathematics or a closely related field. All applicants must meet Idaho State University Graduate School M.S. admission requirements.
+Although the GRE is not required, applicants with B.S. degrees from other institutions besides ISU are recommended to supply GRE scores with their application for priority admission and GTA funding consideration.
+Minimum English language proficiency requirements via TOEFL and IELTS are listed by the ISU Graduate School. Applicants who wish to be considered for competitive GTA funding are encouraged to exceed these requirements.
+Some international applicants may be able to bypass English language proficiency requirements if you hold a B.S. degree from an institution that lists English as the official language of instruction in an official database such as the World Higher Education Database (WHED).
+Unofficial transcripts should be submitted at the time of application in accordance with ISU Graduate School admission policy. Official transcripts are due upon admission. For direct admission into the MS in ECE, your official transcripts should clearly show required mathematical background. Details about the mathematical background are listed below.
+Application Fee Waivers: Not available.
+Admission Requirements for those without a B.S. Electrical Engineering (BS EE) or B.S. Computer Engineering (BS CpE)
+Applicants from allied disciplines, programs, or technology degree fields are welcome, but will need to demonstrate competence in preliminary coursework. In particular, please note that technology degrees are not considered to be engineering degrees or degrees in closely related fields. This includes degrees with names such as “B.S. Electrical Engineering Technology” (B.S. EET). Technology degrees are applied degrees and do not include sufficient mathematics and theoretical preparation for the M.S. ECE degree. The M.S. ECE degree is a traditional engineering graduate program designed for students with a strong theoretical background in mathematics and upper-division engineering coursework.
+Applicants with a technology degree or insufficient mathematics background must demonstrate the following prerequisite knowledge prior to applying to the M.S. ECE program.
+Required Math Background
+The following courses (or course equivalents, supported by syllabi and accepted at the discretion of the program) must appear on a transcript:
+MATH 1170 Calculus I
+MATH 1175 Calculus II
+MATH 2240 Linear Algebra
+MATH 2275 Calculus III (For the M.S. EE track)
+MATH 3360 Differential Equations
+Applicants without the appropriate mathematics background must enroll as a non-degree seeking (or degree-seeking) undergraduate student to complete the math background.
+Required Electrical/Computer Engineering Coursework
+Candidates from other engineering, physical sciences, mathematics or closely related fields with the mathematical background above are required to take the following courses, depending on the desired MS track.
+Applicants pursuing the MS Electrical Engineering track should have taken MATH 2275 (Calculus III) and must demonstrate coursework in at least 3 of the 5 following areas:
+ECE 3340 Electromagnetics
+Equivalent courses must have MATH 2275 prerequisite and cover transmission line theory
+ECE 3310 Signals and Systems
+Equivalent courses must have MATH 3360 prerequisite
+ECE 4410 Automatic Control Systems
+Equivalent courses must have MATH 3360 prerequisite
+ECE 4420 Advanced Electronics
+Equivalent courses must have MATH 2240 somewhere in the prerequisite chain
+ECE 4412 Communication Systems
+Equivalent courses should have a rigorous course on Signals and Systems (ECE 3310) prerequisite
+Applicants pursuing the MS Computer Engineering track are required to demonstrate coursework in at least 3 of the 4 following areas:
+ECE 4460 Advanced Computer Architecture
+Or CS 1137 or equivalent
+ECE 4451 Embedded Systems Engineering
+Equivalent courses must have computer architecture as a prerequisite
+ECE 4450 Advanced Digital Logic Design
+Equivalent courses should be upper division courses with another digital system course as a prerequisite (e.g. ECE 2250).
+CS 3337 Secure Systems and Networks
+Equivalent courses should be upper division courses with prerequisites of computer architecture (e.g. ECE 4460, CS 1337) and CS 2235 Data Structures and Algorithms (or equivalent)
+Applicants who have the required mathematics background may fulfill the EE or CpE background coursework at the undergraduate level as non-degree seeking students, or seek admission to the M.S. ECE program and take the courses at the 5xxx level as part of a performance requirement plan. For students entering with a performance requirement, they may not take any classes at the >6000 level until completion of the performance requirement plan.  Applicants taking the background courses as part of the performance requirement plan must complete all background courses with a grade of B+ or higher within one (1) academic year. In some cases, when the ECE course is cross-listed with another department, applicants may complete the background courses by taking cross-listed 5xxx versions of the required courses.
+One or more background courses may be waived with a student petition which requires submission of syllabi and transcripts from previous coursework demonstrating similarity to the listed ISU courses. The waiver will be granted at the discretion of the graduate program director.
+General Requirements
+Computer Engineering Track or Electrical Engineering Track
+Thesis or Project Option (30 credits): A total of 30 credits is required for the Thesis or Project Option. All 30 credits must be at the 5000 level or higher and 50% of the credits must be at the 6000 level or higher. Students may only register for ECE 6650 Thesis or ECE 6660 Special Project after they have set up a Thesis/Special Project Committee. The project option is primarily intended for students who are working professionals.
+Nine (9) semester hours are to be taken from either the EE or CpE focus tracks. The EE and CpE focus courses may be replaced with other courses with approval from the Thesis/Special Project Committee.
+The remaining elective hours can be from the ECE curriculum, from allied science, engineering, and mathematics areas, or from any other areas as approved by the Thesis/Special Project Committee. For any course that is cross-listed, the ECE version should be taken.
+ECE 6650 Thesis may be taken repeatedly; however no more than 9 credits can be applied toward the MS ECE degree thesis option. ECE 6660 Special Project may be taken repeatedly; however no more than 6 credits can be applied toward the MS ECE degree project option. Both ECE 6650 and ECE 6660 count towards the required >6000 courses.
+Course List
+Code
+Title
+Credits
+EE Focus
+ECE 5518
+Communication Systems
+3
+ECE 5573
+Automatic Control Systems
+3
+ECE 5575
+Digital Signal Processing
+3
+ECE 5520
+Advanced Electronics
+3
+CpE Focus
+ECE 5508
+Advanced Digital Logic Design
+3
+ECE 5551
+Embedded Systems Engineering
+2
+ECE 5551L
+Embedded Systems Engineering Laboratory (Must take both lecture and laboratory)
+1
+ECE 5560
+Advanced Computer Architecture
+3
+CS 5512
+Advanced Algorithms
+3
+CS 5578
+Machine Learning
+3
+Total Credits
+27
+Focus Course Tracks: 9 Semester Hours
+EE Track
+Take 6 semester hours from EE focus courses
+Take 3 semester hours from CpE focus courses
+CpE Track
+Take 6 semester hours from CpE focus courses
+Take 3 semester hours from EE focus courses
+Course List
+Code
+Title
+Credits
+Thesis Option
+Focus Courses
+9
+Electives
+12 - 15
+ECE 6650
+Thesis
+6 - 9
+Project Option
+Focus Courses
+9
+Electives
+15 - 18
+ECE 6660
+Special Project
+3 - 6

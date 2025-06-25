@@ -1,0 +1,255 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/physics
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+Physics studies provide an education that ranges from a purely cognitive domain, focused on the theoretical and experimental study of the fundamental laws of nature, to specific fields that intersect with technological and applied aspects. While experimental observation is fundamental, Physics is characterized by an approach to studying phenomena based on the interplay of empirical observation, theoretical development, and mathematical language. This dual nature gives physicists a "flexibility" that prepares them to work in a wide range of professional sectors where creativity and problem-solving skills are required. Physics studies are suited for students who have a passion for the subject, curiosity, a taste for investigation, a propensity for Mathematics, and an interest in experimentation.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Paolo Maria Montagna
+Area
+Mathematic, Physical and Natural Sciences
+Access
+Open
+Language
+Italian
+Degree class
+L-30 - Physics
+Department
+DEPARTMENT OF PHYSICS
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+FISICA
+Year of study:
+1
+Compulsory
+LINEAR ALGEBRA
+9
+							CFU -
+							 84 							hours
+1st semester
+MATHEMATICAL ANALYSIS 1
+9
+							CFU -
+							 84 							hours
+1st semester
+CHEMISTRY
+6
+							CFU -
+							 48 							hours
+2nd semester
+COMPLEMENTS OF MATHEMATICAL ANALYSIS I
+6
+							CFU -
+							 60 							hours
+2nd semester
+EXPERIMENTAL PHYSICS I
+12
+							CFU -
+							 120 							hours
+Annual
+ENGLISH LANGUAGE
+3
+							CFU -
+							 24 							hours
+1st semester
+MECHANICS AND THERMODYNAMICS
+12
+							CFU -
+							 120 							hours
+Annual
+COMPUTER SCIENCE FOR PHYSICS
+6
+							CFU -
+							 60 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+COMPLEMENTS OF MATHEMATICAL ANALYSIS II
+6
+							CFU -
+							 60 							hours
+ELECTROMAGNETISM I
+6
+							CFU -
+							 60 							hours
+ELECTROMAGNETISM II
+6
+							CFU -
+							 60 							hours
+EXPERIMENTAL PHYSICS II
+12
+							CFU -
+							 116 							hours
+INTRODUCTION TO MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+CLASSICAL MECHANICS
+9
+							CFU -
+							 84 							hours
+MATHEMATICAL METHODS OF PHYSICS I
+6
+							CFU -
+							 48 							hours
+Year of study:
+3
+Compulsory
+INTRODUCTION TO NUCLEAR AND PARTICLE PHYSICS
+9
+							CFU -
+							 72 							hours
+PHYSICS LABORATORY III
+6
+							CFU -
+							 64 							hours
+QUANTUM MECHANICS
+12
+							CFU -
+							 108 							hours
+MATHEMATICAL METHODS OF PHYSICS II
+3
+							CFU -
+							 24 							hours
+FINAL EXAM
+6
+							CFU -
+							 0 							hours
+STRUCTURE OF MATTER
+12
+							CFU -
+							 108 							hours
+Choose a subject
+ADVANCED TOPICS IN EXPERIMENTAL PHYSICS
+6
+							CFU -
+							 60 							hours
+ADVANCED TOPICS IN THEORETICAL PHYSICS
+6
+							CFU -
+							 48 							hours
+12 CFU a libera scelta tra gli insegnamenti offerti dal corso di studio (12 CFU)
+ELECTRODYNAMICS AND RELATIVITY
+6
+							CFU -
+							 48 							hours
+DIFFERENTIAL EQUATIONS AND DYNAMICAL SYSTEMS
+6
+							CFU -
+							 56 							hours
+INTRODUCTION TO ASTRONOMY
+6
+							CFU -
+							 48 							hours
+INTRODUCTION TO SOLID STATE PHYSICS
+6
+							CFU -
+							 48 							hours
+STATISTICAL MECHANICS
+6
+							CFU -
+							 52 							hours
+PARTICLE DETECTORS
+6
+							CFU -
+							 48 							hours
+PHYSICS OF IONIZING RADIATIONS
+6
+							CFU -
+							 48 							hours
+TEACHING TOOLS AND METHODS
+6
+							CFU -
+							 56 							hours
+PROBLEM SOLVING IN PHYSICS
+6
+							CFU -
+							 60 							hours
+RADIOACTIVITY
+6
+							CFU -
+							 48 							hours
+HISTORY OF PHYSICS
+6
+							CFU -
+							 48 							hours
+DIGITAL TECHNIQUES FOR DATA ACQUISITION
+6
+							CFU -
+							 60 							hours
+PHYSICAL TECHNOLOGIES AND CULTURAL HERITAGE
+6
+							CFU -
+							 48 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+Specific educational objectives of the degree course are the formation of a wide and solid set of skills on contents and methods typical of physics and mathematics.
+They must be solidly founded, in addition to the necessary knowledge in the field of physics and related disciplines, on the achievement of a complete familiarity with the scientific method, both as regards the processing and interpretation of experimental data, and as regards the elaboration of models and theoretical descriptions of physical reality. Through the various courses proposed, students are constantly prepared to deal with increasingly complex issues and ever-changing problems, in order to develop scientific knowledge and know-how, particularly in the field of problem solving, which they can then put to good use both in subsequent studies in a master's degree and in access to the world of work.
+The degree course has a methodological character and provides a single curriculum, with courses organized in such a way as to encourage a progressive acquisition of the mathematical, physical and computer skills necessary for the continuation of studies.
+The training course is structured in the following learning areas:
+
+PHYSICAL AREA
+It allows students to acquire adequate knowledge of classical physics (mechanics, thermodynamics, waves, electromagnetism) and modern physics (special relativity and quantum mechanics), with particular reference to their applications
+in the field of physics of matter and nuclear and subnuclear physics. At the same time, during the three years, students will become familiar with the experimental method through dedicated laboratory activities and data analysis with statistical and computer methods.
+
+MATHEMATICS AREA
+It allows students to acquire adequate knowledge of the methods of mathematical analysis, algebra, geometry and functional analysis, probability and statistics, with particular reference to their applications in the development of theoretical models for the interpretation and representation of physical phenomena and for the statistical analysis of experimental data.
+
+COMPUTER SCIENCE AND INTERDISCIPLINARY AREA
+It allows students to acquire adequate knowledge of computer science and programming with particular reference to languages and techniques widely used in physics, and the basic elements of chemistry.
+In addition, in the laboratories, students will acquire basic skills and abilities of electronics and some methodologies also used in different fields
+interdisciplinary physics (e.g. medical physics, optics, nuclear and subnuclear physics).
+
+Students' preparation is completed by elective courses and a final exam consisting of a report on a topic of their choice discussed in front of an Examination Committee.
+The teaching methods of the courses are mainly the conventional ones of lectures and exercises both in the classroom and in the laboratory, which are in any case constantly and progressively updated
+also through the inclusion of innovative, interactive and digital teaching techniques.
+The particular attention to interactive and digital teaching and laboratory activities (also in groups) is an important complement
+It also provides necessary skills that are highly valued for inclusion in many sectors of work.
+Teaching is supported and supported by numerous tutoring projects, articulated in guided study activities aimed at both groups and individual students, from the beginning of the course (basic preparatory courses in mathematics and physics), up to the following years (contrast to dropouts, exam simulations to reduce graduation times...), also in support of the most disadvantaged students,  and/or personalized for students of particular categories (workers, part-timers, SLD...).
+The assessment of the achievement of the learning objectives takes place through the evaluation of written and/or oral tests at the end of each course, possibly preceded by ongoing tests.
+The final exam is a test of the ability to synthesize and the degree of autonomy of study in the face of new problems.
+The training obtained in the degree course constitutes the necessary basis for the continuation of studies in a master's degree, but also allows immediate entry into the world of work.
+Due to the skills acquired in the physical-mathematical-computer field, and in particular for the familiarity with the scientific method and the aptitude for problem solving, graduates in physics are very flexible and adaptable to the needs of disparate fields of work, in numerous possible employment and professional outlets described below.
+The preparation provided by the degree course is suitable for further studies in various STEM master's degree courses.
+The courses of the classes LM-17 Physics and LM-58 Sciences of the Universe are the natural continuation of this, but also master's degree courses of classes contiguous to physics (LM-40 Mathematics, LM Sc. Mat. – Materials Sciences, LM-54 Chemical Sciences, LM-44 Mathematical-Physical Modeling for Engineering, LM-91 Techniques and Methods for the Digital Society) are profitably accessible from the L-30 degree course.
+Moreover, with the skills of electronics and computer science acquired, degree courses specifically dedicated to these disciplines are also accessible, as well as master's courses in the economic-financial field, for which the techniques of calculation and mathematical-statistical simulation studied today in econometrics are particularly useful.
+Career opportunities
+Physical
+The skills achieved allow the placement (in roles of limited responsibility, which can possibly be increased
+with subsequent training at master's degree level) in many work activities, in particular at:
+- physical research centres and laboratories at public bodies or companies;
+- astronomical observatories;
+- laboratories using accelerators or nuclear research reactors;
+- centres and laboratories requiring expertise in the acquisition and processing of data;
+- healthcare facilities that require knowledge of diagnostic imaging, radiotherapy and radiation protection;
+- research centres and laboratories in areas of application for social purposes (e.g. energy, environment, cultural heritage,...);
+- museums and other bodies for the promotion and dissemination of science;
+- journalism and publishing in the scientific field, including media and web;
+- research centres of banks and insurance companies;
+- structures in which skills in the modelling of phenomena in various fields are required.
+Admission requirements
+To be admitted to the degree course, students must have a high school diploma required by current legislation, or another qualification obtained abroad, recognized as suitable by the competent offices of the University.
+Enrolment in the degree programme is also required to possess or acquire an adequate initial preparation which is verified through an entrance test, the procedures for which are announced at the time of enrolment.
+Further details on how to verify the adequacy of the initial preparation and on the recovery of any gaps and educational debts of the student (to be filled in any case within the first year of study) are governed by the Didactic Regulations of the degree course.
+Academic Regulation
+Academic Regulation
+Useful information
+Assessment test (link in italiano)
+How to apply
+Student Portal
+FAQ
+Watch the tutorial
+Contacts
+Incoming transfer
+Fees and funding
+Course website

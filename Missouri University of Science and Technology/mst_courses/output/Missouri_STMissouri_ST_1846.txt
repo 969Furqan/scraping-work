@@ -1,0 +1,118 @@
+Source: https://econ.mst.edu/academic-programs/
+
+Curriculum
+By completing 120 credit hours, students can earn a bachelor's degree and multiple undergraduate certificates in Decision Data Analytics, Energy Economics, and Financial Economics and Technology.
+Economics
+Curriculum for Majors
+S&T’s Bachelor of Science (BS) degree in economics is a 120-credit-hour program.
+Required Economics Courses – 10 Courses
+Principles of Microeconomics
+Principles of Macroeconomics
+Intermediate Microeconomics
+Intermediate Macroeconomics
+Introduction to Econometrics
+Computational Economics
+Advanced Econometrics
+3 Economics Elective Courses
+Three Emphasis Areas
+For students who pursue a specific emphasis area, they must take courses (see below) that are additional to the required economics courses for the degree:
+Decision Data Analytics Emphasis
+Positions students to succeed in all industry positions focused on data analysis, including decision data scientist, forecast analyst, and quantitative modeler.
+Data-Driven Strategic Insights
+Data Intelligence using Case Studies
+Financial Economics & Technology Emphasis
+Designed to prepare students for success in the financial industry in a range of positions, including financial analyst, financial technology developer, and quantitative analyst.
+Financial Economics
+Financial Mathematics
+Data-Driven Strategic Insights
+Energy Economics Emphasis
+Prepares students for positions across the energy sector, including energy analyst, environmental economist, load forecast analyst, and regulatory analyst.
+Environmental and Natural Resource Economics
+Energy Economics
+Mining Industry Economics or Advanced Mining Economics
+Energy and Sustainability Management Engineering or Sustainability, Population, Energy, Water & Materials
+Economics Elective Courses
+Students have access to a wide variety of applications through the electives offered, including (but not limited to):
+Advanced Econometrics
+Cost-Benefit Analysis
+Data-Driven Strategic Insights
+Data Intelligence using Case Studies
+Energy Economics
+Environmental and Natural Resource Economics
+Financial Economics
+Financial Mathematics
+Foundations of Sustainability
+Introduction to Sports Economics
+International Finance
+Mining Industry Economics
+Money And Banking
+Open image link
+Economics
+Curriculum for Non-Majors
+Engineers, business managers, and applied scientists need to make decisions about projects, budgets, and teams regularly; core knowledge of Economics on allocating resources is critical for all to succeed in their careers. The S&T’s economics curriculum enables non-economics majors, including business, engineering, and science students, to take industry-focused certificates, quantitative economics minor, and even Economics as a second major to add job-market competitiveness to students’ primary major.
+A Level-up System for students to become more competitive in today’s job market:
+Add an Industry-focused Certificate: Requires a total of
+four (4) courses
+.
+Decision Data Analytics Certificate
+Adds competitiveness to students interested in all industry positions focused on data analysis.
+Required courses:
+-   ECON 3300 Introduction to Econometrics
+-   ECON 3333 Computational Economics
+-   ECON 5360 Data-Driven Strategic Insights
+-   ECON 5380 Data Intelligence Using Case Studies
+Financial Economics & Technology Certificate
+Adds competitiveness to students interested in positions across the financial industry.
+Required courses:
+-   ECON 3333 Computational Economics
+-   ECON 4383 Financial Economics
+-   ECON 5337 (MATH 5737) Financial Mathematics
+-   ECON 5360 Data-Driven Strategic Insights
+Energy Economics Certificate
+Adds competitiveness to students interested in positions across the energy sector.
+Required courses:
+-   ECON 4440 Environmental and Natural Resource Economics
+-   ECON 4540 Energy Economics
+Select two of the following Engineering courses:
+-   CHEM ENG 5325 Carbon Capture Process Engineering
+-   ELEC ENG 3540 Power System Design And Analysis
+-   ELEC ENG 5150 Photovoltaic Systems Engineering
+-   ELEC ENG 5510 Electric-Drive Vehicles
+-   ENG MGT 5513 Energy and Sustainability Management Engineering
+-   ENV ENG 5642 Sustainability, Population, Energy, Water, and Materials
+-   MECH ENG 5541 Applied Energy Conversion
+-   MECH ENG 5543 Energy Efficiency of Vehicles
+-   MIN ENG 3512 (ECON 3512) or MIN ENG 5532 Mining Industry Economics
+-   MS&E 4230 Energy Materials
+-   PET ENG 4531 Natural Gas Engineering
+-   PET ENG 4590 Subsurface Energy Economics
+-   PET ENG 5050 Carbon Storage
+-   PET ENG 5801 Petroleum Data Analytics
+-   NUC ENG 4207 Nuclear Fuel Cycle
+-   NUC ENG 4281 Probabilistic Risk Assessment
+Add a Quantitative Economics Minor: Requires a total of
+six (6) courses
+.
+Quantitative Economics Minor
+Why Earn a Quantitative Economics Minor?
+For business, engineering, or science students who want to supplement their major, the quantitative economics minor is designed to prepare them to become future business and industry professionals who can apply the core economics principles and quantitative methods to articulate and make policy recommendations aligned with the current and projected economic environment. The minor provides foundational knowledge of market structure, the global business environment, data analytics, and public policies necessary for strategic corporate and government decision-making.
+Quantitative Economics Minor Curriculum
+Requires a total of six courses (18 hours):
+Required courses (nine hours):
+ECON 1100 Principles of Microeconomics
+ECON 1200 Principles of Macroeconomics
+ECON 3300 Introduction to Econometrics
+ECON 5350 Data Intelligence using Case Studies or ECON 5360 Data-Driven Strategic Insights
+Elective courses (five-six hours): Select two (2) courses from ENG MGT 1210, ECON 2100, 2200, or any 3000-level and above economic electives.
+Add Economics as the Secondary Major: Requires a total of
+eight (8) courses
+with approved
+substitutions; ten (10) courses without approved substitutions.
+Economics as the Secondary Major
+Required courses:
+-   ECON 1100 Principles of Microeconomics
+-   ECON 1200 Principles of Macroeconomics
+-   ECON 2100 Intermediate Microeconomics
+-   ECON 2200 Intermediate Macroeconomics
+-   ECON 3300 Introduction to Econometrics
+Select five (5) 3000-level or above economic electives. One finance, one statistics, or one programming class may be substituted for up to two elective courses.

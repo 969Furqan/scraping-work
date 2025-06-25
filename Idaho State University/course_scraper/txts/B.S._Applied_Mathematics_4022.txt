@@ -1,0 +1,133 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/mathematics/bs-applied-mathematics/
+B.S. Applied Mathematics
+The Bachelor of Science program in Applied Mathematics is designed to prepare students to take positions in industry or pursue graduate training. Students must fulfill the university’s General Education Requirements (a minimum of 36 credits – see the
+General Education Requirements
+in the Academic Information section of this catalog).
+Program Admissions Requirements
+There are no program admission requirements for the BS Applied Mathematics.
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3 -
+MATH 1170
+4
+Objective 4
+6
+Objective 5
+7
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7 -
+CS 1181
+Objective 8
+Objective 9
+3
+Total Credits
+38
+Major Requirements
+Course List
+Code
+Title
+Credits
+Mathematics Core
+CS 1181
+Computer Science and Programming I (satisfies General Education Objective 7)
+1
+3
+MATH 1170
+Calculus I (satisfies General Education Objective 3)
+4
+MATH 1175
+Calculus II
+4
+MATH 2275
+Calculus III
+4
+MATH 2240
+Linear Algebra
+3
+MATH 3326
+Elementary Analysis
+3
+Other Required Courses
+MATH 3310
+Mathematical Modeling
+3
+MATH 3352
+Introduction to Probability
+3
+MATH 3360
+Differential Equations
+3
+MATH 4423
+Introduction to Real Analysis I
+3
+MATH 4441
+Introduction to Numerical Analysis I
+3
+Plus one of the following two courses:
+3
+MATH 4421
+Advanced Engineering Mathematics I
+MATH 4465
+Partial Differential Equations
+A student must take nine additional credits from the following list to complete the degree:
+2
+9
+MATH 3362
+Introduction to Complex Variables
+MATH 4405
+Numerical Linear Algebra
+MATH 4422
+Advanced Engineering Mathematics II
+MATH 4424
+Introduction to Real Analysis II
+MATH 4442
+Introduction to Numerical Analysis II
+MATH 4450
+Mathematical Statistics I
+MATH 4451
+Mathematical Statistics II
+MATH 4463
+Topics in Applied Mathematics
+Total Credits
+48
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+38
+Major Requirements (Required General Education credits removed.)
+41
+Upper Division Free Electives
+6
+Free Electives
+35
+Total Credits
+120
+1
+Students may take both
+ME 1165
+Structured Programming and
+ME 2266
+Symbolic Programming instead of
+CS 1181
+.
+2
+With departmental approval, up to three of these credits may be completed by taking an appropriate course in this or another department.
+ISU Degree Requirements
+ISU General Education
+Major Academic Plan (MAP)

@@ -1,0 +1,44 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/computerscience/certifcate-computer-science-cybersecurity/
+Academic Certificate, Computer Science Cybersecurity
+Course List
+Code
+Title
+Credits
+All required courses for the Academic Certificate must be completed with a grade of C- or higher.
+CS 1181
+Computer Science and Programming I
+3
+CS 1337
+Computer Organization and Architecture
+3
+CS 2235
+Data Structures and Algorithms
+3
+CS 3309
+Advanced Object-Oriented Programming
+3
+CS 3337
+Secure Systems and Networks
+3
+CS 4416
+Foundations in Cybersecurity and Resilience
+3
+CS 4417
+Cybersecurity Threat Intelligence
+3
+CS 4461
+Secure Operating Systems
+3
+CS 4465
+Special Problems in Cybersecurity
+or
+CS 4476
+Introduction to Compilers
+or
+ECE 4451
+&
+4451L
+Embedded Systems Engineering
+and Embedded Systems Engineering Laboratory
+Total Credits
+24

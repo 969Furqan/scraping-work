@@ -1,0 +1,242 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/mathematics
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Bachelor’s Degree in Mathematics aims to provide a well-rounded mathematical education at the post-secondary level, with a focus on interdisciplinary aspects, motivations, and applications within the current scientific context.
+The three-year program features a comprehensive core curriculum for all students, balancing instruction across various scientific and disciplinary sectors to ensure a strong grasp of fundamental concepts and methods in key mathematical theories. The program emphasizes foundational and didactic aspects while also fostering an understanding of how to approach and solve mathematical problems.
+The skills and experience gained during the course will be valuable for advancing to more specialized studies in Master’s programs in mathematics or related scientific fields, as well as for entering the job market, potentially with further professional training through a first-level master’s program.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Enrico Vitali
+Area
+Mathematic, Physical and Natural Sciences
+Access
+Open
+Language
+Italian
+Degree class
+L-35 - Mathematics
+Department
+DEPARTMENT OF MATHEMATICS "FELICE CASORATI"
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+MATEMATICA
+Year of study:
+1
+Compulsory
+ALGEBRA 1
+9
+							CFU -
+							 84 							hours
+2nd semester
+LINEAR ALGEBRA
+9
+							CFU -
+							 84 							hours
+1st semester
+MATHEMATICAL ANALYSIS 1
+9
+							CFU -
+							 84 							hours
+1st semester
+MATHEMATICAL ANALYSIS 2
+9
+							CFU -
+							 84 							hours
+2nd semester
+GENERAL PHYSICS 1
+9
+							CFU -
+							 84 							hours
+2nd semester
+ENGLISH LANGUAGE
+3
+							CFU -
+							 24 							hours
+1st semester
+PROGRAMMING 1
+6
+							CFU -
+							 56 							hours
+1st semester
+PROGRAMMING 2
+3
+							CFU -
+							 28 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+MATHEMATICAL ANALYSIS 3
+9
+							CFU -
+							 84 							hours
+NUMERICAL ANALIYSIS
+12
+							CFU -
+							 112 							hours
+PROBABILITY - NOTIONS
+9
+							CFU -
+							 84 							hours
+FOUNDATIONS OF MECHANICS
+9
+							CFU -
+							 84 							hours
+GEOMETRY 1
+9
+							CFU -
+							 84 							hours
+GEOMETRY 2
+9
+							CFU -
+							 84 							hours
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+ALGEBRA 2
+6
+							CFU -
+							 60 							hours
+FOUNDATIONS OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+Year of study:
+3
+Compulsory
+MATHEMATICAL ANALYSIS 4
+9
+							CFU -
+							 84 							hours
+GENERAL PHYSICS 2
+9
+							CFU -
+							 72 							hours
+FINAL EXAM
+6
+							CFU -
+							 0 							hours
+If you have chosen ALGEBRA 2 in the 2nd year: you can now choose 4 courses
+TOPICS IN GEOMETRY
+6
+							CFU -
+							 60 							hours
+STATISTICS MATHEMATICAL NOTIONS
+6
+							CFU -
+							 56 							hours
+MATHEMATICAL PHYSICS EQUATIONS
+6
+							CFU -
+							 56 							hours
+FOUNDATIONS OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+NUMERICAL MODELLING
+6
+							CFU -
+							 56 							hours
+NUMBER THEORY
+6
+							CFU -
+							 60 							hours
+If you have chosen FOUNDATIONS OF MATHEMATICS in the 2nd year: you must choose a compulsory exam
+ALGEBRA 2
+6
+							CFU -
+							 60 							hours
+If you have chosen FOUNDATIONS OF MATHEMATICS in the 2nd year: you can now choose 3 courses
+TOPICS IN GEOMETRY
+6
+							CFU -
+							 60 							hours
+STATISTICS MATHEMATICAL NOTIONS
+6
+							CFU -
+							 56 							hours
+MATHEMATICAL PHYSICS EQUATIONS
+6
+							CFU -
+							 56 							hours
+NUMERICAL MODELLING
+6
+							CFU -
+							 56 							hours
+NUMBER THEORY
+6
+							CFU -
+							 60 							hours
+If you have chosen 6 CFUs as elective course(s) (TAF D) in the 2nd year, the exam is mandatory
+ALGEBRA 2
+6
+							CFU -
+							 60 							hours
+If you have chosen 6 CFUs as elective course(s) (TAF D) in the 2nd year, select 4 teachings.
+TOPICS IN GEOMETRY
+6
+							CFU -
+							 60 							hours
+STATISTICS MATHEMATICAL NOTIONS
+6
+							CFU -
+							 56 							hours
+MATHEMATICAL PHYSICS EQUATIONS
+6
+							CFU -
+							 56 							hours
+FOUNDATIONS OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+NUMERICAL MODELLING
+6
+							CFU -
+							 56 							hours
+NUMBER THEORY
+6
+							CFU -
+							 60 							hours
+From 6 to 12 elective ECTS (CFU). It is possible to choose among all subjects offered by the University (1 CFU)
+Overview of the program, goals and career opportunities
+Educational goals
+The Bachelor's Degree in Mathematics aims to provide a balanced mathematical culture, at a first post-secondary level, with attention to interdisciplinary aspects, motivations and applications in the current scientific context.
+The proposed scheme, spread over three academic years, has a large part common to all study plans.
+This guarantees a uniformity of preparation around a solid body of knowledge in all the basic areas of Mathematics: Algebra and Geometry, Mathematical Analysis, Probability and Mathematical Statistics, Mathematical Physics, Numerical Analysis.
+The educational offer is completed with courses aimed at the necessary computer and computational skills and also includes a first contact with the foundational aspects of Mathematics. Beyond the educational activities autonomously chosen by the student as prescribed by current legislation, the personalization of the course is implemented in the choice of a range of courses mainly placed in the third year.
+The courses are designed to allow students to acquire a good mastery of the fundamental concepts and methods of the main theories, privileging the basic and didactically formative aspects and the methodological point of view. At the same time, attention is paid to stimulating the acquisition of awareness about how a mathematical problem can be tackled and solved. In the same way, the physical-natural, economic, technological, etc. modelling links are made explicit where possible, both in a historical-motivational key and as a projection of the applicability of the theories.
+The training project outlined above is carried out according to the following scheme:
+• In the first two years, the ECTS credits of the sectors from MAT/02 to MAT/08 are entered in a balanced way, in addition to the courses dedicated to computer science and computational aspects. A first course of General Physics deals with the basic physical notions intrinsically linked to the development of Mathematics.
+• The third year presents both a more advanced compulsory disciplinary completion (in the MAT/* and FIS/* sectors) and a choice of in-depth study among a range of courses (in the MAT/* sectors) that can allow a personalization according to directions of proven validity, but without overlapping with the fundamental contents developed in the subsequent master's degree. In addition to this, there are the free choice credits prescribed by current legislation.
+• The work required for the final exam is an opportunity for the student to experience more directly the organization and presentation of a scientific result; It is also an opportunity to verify the ability to synthesize and the degree of autonomy of study in the face of problems that, although consolidated, are often not presented in a unitary and coordinated form.
+The teaching methods of the courses are mainly the conventional ones of lectures and exercises, both in the classroom and in computer labs; The latter typology is not confined to purely computer courses, but is an important complement to the theoretical treatment also for other courses (think of numerical analysis or statistics). Added to this is the well-established support provided by tutoring projects, articulated in guided study activities aimed at both groups and individual students. It should be noted, however, that the teacher/student ratio facilitates direct contact with teachers, also allowing the latter a better perception of the learning situation of the class.
+The assessment of the expected learning outcomes is mainly delegated to the classic form of evaluation at the end of the course or "in itinere" during the course itself, usually through the evaluation of a written paper and/or an oral interview.
+The skills and experience gained during the course can be usefully put to good use both for those who intend to access the most advanced developments contained in the master's degree courses of the mathematics class, and for those who want to directly address the world of work (possibly after obtaining a more professionalizing first-level master's degree), and as disciplinary premises in master's degree courses in the scientific or economic area in which mathematics plays a leading role.
+Career opportunities
+Basic Mathematician
+The vast majority of Mathematics graduates continue their studies in a master's degree, typically in the Mathematics class.
+Those who enter the world of work directly find employment both in small and medium-sized private companies and in some public administrations, mainly in the field of information technology, commerce and professional consultancy (Alma Laurea data): data management and processing technicians, computer scientists, statistical technicians and related professions.
+Admission requirements
+To be admitted to the degree course, students must have an upper secondary school diploma required by current legislation, or another qualification obtained abroad, recognized as equivalent.
+For admission, the student is also required to have a good command of the basic concepts of arithmetic, algebra and geometry and to have an aptitude for logical-deductive reasoning and problem solving.
+The procedures for verifying the adequacy of the initial preparation and the recovery of any gaps and educational debts of the student (to be filled in any case within the first year of study) are governed by the Didactic Regulations of the degree course.
+Academic Regulation
+Academic Regulation
+Useful information
+Assessment test (link in italiano)
+How to apply
+Course website
+Student Portal
+Watch the tutorial
+Incoming transfer
+Fees and funding
+FAQ
+Contacts

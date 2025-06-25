@@ -1,0 +1,154 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/nuclear-engineering/bs-health-physics/
+B.S. Health Physics
+The following courses are required in addition to completion of 8 of the 9 General Education Objectives for the B.S. degree (a minimum of 36 credits--see the
+General Education Requirements
+described in the Academic Information section of this catalog).
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3
+3
+Objective 4
+6
+Objective 5
+8
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7
+Objective 8
+Objective 9
+3
+Total Credits
+38
+Major Requirements
+Course List
+Code
+Title
+Credits
+BIOL 1101
+&
+1101L
+Biology I
+and Biology I Lab
+(Partially satisfies General Education Objective 5)
+4
+BIOL 3301
+&
+3301L
+Advanced Human Anatomy and Physiology 1
+and Advanced Human Anatomy and Physiology 1 Lab
+4
+BIOL 3302
+&
+3302L
+Advanced Human Anatomy and Physiology 2
+and Advanced Human Anatomy and Physiology 2 Lab
+4
+CHEM 1102
+&
+CHEM 1103
+Essentials of Organic and Biochemistry
+and Essentials of Organic and Biochemistry Laboratory
+(Partially satisfies General Education Objective 5)
+4
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+5
+CHEM 1112
+&
+1112L
+General Chemistry II
+and General Chemistry II Lab
+4
+CS 1181
+Computer Science and Programming I (Satisfies General Education Objective 7)
+3
+ENGL 3307
+Professional and Technical Writing
+3
+HPHY 4416
+Introduction to Nuclear Measurements
+3
+HPHY 4431
+Radiation Physics I
+3
+HPHY 4432
+Radiation Physics II
+3
+HPHY 4433
+External Dosimetry
+3
+HPHY 4434
+Internal Dosimetry
+3
+HPHY 4455
+Topics in Health Physics I
+2
+HPHY 4456
+Topics in Health Physics II
+2
+HPHY 4480
+Health Physics Capstone Course
+3
+HPHY 4488
+Advanced Radiobiology
+3
+MATH 1170
+Calculus I
+4
+MATH 1175
+Calculus II
+4
+MATH 2275
+Calculus III
+4
+MATH 3350
+Statistical Methods
+3
+PHYS 2211
+&
+PHYS 2212
+Engineering Physics I
+and Engineering Physics II
+8
+PHYS 2213
+&
+PHYS 2214
+Engineering Physics I Laboratory
+and Engineering Physics II Laboratory
+2
+NE 4451
+Nuclear Seminar
+1
+Total Credits
+82
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+38
+Major Requirements (Required General Education credits removed)
+67
+Free Electives
+15
+Total Credits
+120
+ISU Degree Requirements
+ISU General Education
+Major Academic Plan (MAP)

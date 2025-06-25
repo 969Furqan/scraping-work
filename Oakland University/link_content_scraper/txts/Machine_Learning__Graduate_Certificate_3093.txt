@@ -1,0 +1,198 @@
+URL: https://catalog.oakland.edu/preview_program.php?catoid=61&poid=11977&returnto=12919
+
+Dec 18, 2024
+2023-2024 Graduate Catalog
+Select a Catalog
+2024-2025 Undergraduate Catalog
+2024-2025 Graduate Catalog
+2023-2024 Professional and Continuing Education Catalog
+2023-2024 Undergraduate Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Catalog [ARCHIVED CATALOG]
+2022-2023 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2021-2023 Graduate Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+2021-2022 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-2021 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Catalog [ARCHIVED CATALOG]
+2019-2020 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2019-2021 Graduate Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Catalog [ARCHIVED CATALOG]
+2018-2019 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Catalog [ARCHIVED CATALOG]
+2017-2019 Graduate Catalog [ARCHIVED CATALOG]
+2017-2018 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Catalog [ARCHIVED CATALOG]
+2015-2017 Graduate Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Catalog [ARCHIVED CATALOG]
+2013-2014 Undergraduate Catalog [ARCHIVED CATALOG]
+2013-2014 Graduate Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Catalog [ARCHIVED CATALOG]
+2012-2013 Graduate Catalog [ARCHIVED CATALOG]
+2011-2012 Undergraduate Catalog [ARCHIVED CATALOG]
+2011-2012 Graduate Catalog [ARCHIVED CATALOG]
+2010-2011 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-21 Syllabus [ARCHIVED CATALOG]
+2018-19 Syllabus [ARCHIVED CATALOG]
+2017-18 Syllabus [ARCHIVED CATALOG]
+2019-20 Syllabus [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Colleges and Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Addendum to the 2021- 2023 Graduate Catalog
+Online Catalog User Guide
+Archived catalogs
+Degree Programs and Graduate Certificates
+Online Programs
+Combined Bachelor/Graduate Degree Programs
+Graduate Admission Requirements
+Admission terms and application deadlines
+Graduate Course Descriptions
+Oakland University
+University Information
+Graduate School at Oakland University
+Academic Departments
+College of Arts and Sciences
+School of Music, Theatre and Dance
+School of Business Administration
+School of Education and Human Services
+School of Engineering and Computer Science
+School of Health Sciences
+School of Nursing
+University Libraries
+Oakland University William Beaumont School of Medicine
+Graduate/University Policies
+Graduate Academic Advising
+Student Responsibility
+Student Code Of Conduct
+Office of Research Administration
+Office of the Registrar
+Student Financial Services
+International Students and Scholars
+Student Services and Centers
+Calendars and Deadlines
+Graduate Assistantships, Scholarships and Fellowships
+Graduation and Commencement
+Doctoral Dissertations and Abstracts Archive
+Campus Map
+My Portfolio
+HELP
+2023-2024 Graduate Catalog
+[ARCHIVED CATALOG]
+Machine Learning, Graduate Certificate
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs and Graduate Certificates
+Department of Computer Science and Engineering
+546 Engineering Center
+(map)
+(248) 370-2200 • Fax (248) 370-4625
+https://www.cse.secs.oakland.edu
+►
+Apply Online
+►
+Class Schedule Search
+►
+Graduate Catalog Addendum
+Coordinator
+Mehdi Bagherzadeh
+542 Engineering Center
+(248) 370-2208
+mbagherzadeh@oakland.edu
+Program Description:
+CSE offers a series of stackable certificate programs that can lead to an M.S. degree in Computer Science, Software Engineering & Information Technology, Cybersecurity, or Artificial Intelligence. We have partnered with industry to develop stackable certificates featuring cutting-edge skills in the areas of high demand by employers. You can work at your own pace towards your degree, building skills as you need them to maximize your career success.
+The certificate in Machine Learning is intended for students seeking to upskill from engineering, computer science, math, or other non-computing background, to be ready for future coursework through a CSE graduate degree program or additional certificates to stack into a CSE master program.
+Admission terms and application deadlines
+Before an applicant’s file can be reviewed for full program admission, all application documents must be received in Oakland University Graduate School by the semester deadlines listed below. Incomplete applications will not be sent to departments for admission review.
+February 15 (early) April 15 (regular) and July 15 (late) for fall semester
+October 1 (early) and November 15 (regular) for winter semester
+March 1 (regular) for summer semester
+International applicants
+Application requirements
+To be considered for graduate admission, applicants must submit all Graduate Application Requirements
+and
+additional department requirements by the published application deadlines:
+Graduate Application Requirements
+Additional department application requirements
+Applicants must possess an undergraduate degree in any engineering or computer science or related disciplines with an overall GPA of 3.0 or higher. Applicants from outside the above fields may apply and the completion of pre-requisite courses can be requested.
+Completion of a bachelor’s degree from a U.S. college or university accredited by a regional accrediting association, or completion of an international degree that is equivalent to a U.S. bachelor’s degree from a college or university recognized and approved by the Ministry of Education or Commission responsible for higher education in the country where the degree is earned.
+Admission review and assessment
+Admission to graduate school at Oakland University is selective. In making admission recommendations to Oakland University Graduate School, each department assesses the potential of applicants for success in the program by examining their undergraduate records, goal statement, letters of recommendation, prerequisite courses and any other admission requirements established by the academic department.
+Certificate requirements
+To fulfill the certificate requirements, a student must
+complete at least 16 credits of graduate-level work as described below under
+Course requirements
+,
+earn a cumulative GPA of at least 3.0 in courses applied toward the certificate,
+satisfy all requirements concerning academic progress (see
+Good academic standing
+).
+Course requirements
+a. Required courses (8 credits)
+Students are required to select at least three courses from:
+CSI 5130 - Artificial Intelligence (4 credits)
+CSI 5170 - Machine Learning (4 credits)
+b. Elective course (4 credits)
+Select one course from any one of the following courses:
+CSI 5140 - Deep Learning and Applications (4 credits)
+CSI 5170 - Machine Learning (4 credits)
+CSI 5810 - Information Retrieval and Knowledge Discovery (4 credits)
+CSI 5180 - Natural Language Processing (4 credits)
+ME 5310 - Machine Learning Engineering Design (4 credits)
+ISE 5002 - Engineering Operations Research (4 credits)
+ISE 5430 - Engineering Operations Research - Deterministic Models (4 credits)
+ISE 5431 - Engineering Operations Research - Stochastic Models (4 credits)
+ISE 5517 - Statistical Methods in Engineering (4 credits)
+These courses are cross-listed as advanced undergraduate and graduate courses. If completed as a 4000-level course or equivalent as part of a baccalaureate degree, the course may be used to offset graduate program requirements. However, credit will not then be awarded and must be earned by completion of an approved substitute course.
+Satisfactory academic progress
+Satisfactory Academic Progress (SAP) is the term used to denote a student’s successful completion of coursework toward a certificate or degree. Federal regulations require the Office of Financial Aid to monitor Satisfactory Academic Progress for all financial aid recipients each semester.
+Students who fall behind in their coursework, or fail to achieve minimum standards for grade point average and completion of classes, may lose their eligibility for all types of federal, state and university aid. Contact the
+Office of Financial Aid
+for additional details.
+Good academic standing
+All graduate students are expected to remain in
+good academic standing
+throughout the entire course of their graduate program. To be in good academic standing, a graduate student must make satisfactory progress toward fulfilling degree requirements, including the completion of critical degree milestones as set forth by the academic program. The student must also maintain a minimum semester and overall GPA of 3.0.
+Good academic standing is a requirement for:
+Holding a Graduate Assistantship
+Receiving a fellowship or scholarship
+Advancing to candidacy for a graduate degree
+Going on a leave of absence
+Obtaining a graduate certificate or degree from Oakland University.
+Additionally, graduate students must meet all department academic standards, which may be more stringent than the minimum set forth by the University.
+Department requirements
+:
+The minimum satisfactory grade for graduate work is B. Credit for completion of a course in the Master of Science program will be given for grades of B- or above but no more than two grades may be B-. Graduate credit will not be awarded for grades below B-. To repeat a course, a student must have the permission of the graduate committee of the school.
+All grades received as a graduate student are used in computing the GPA, except that, if a course has been repeated, the most recent grade is used in the calculation of the GPA.  A graduate student is placed on academic probation if the student’s overall GPA drops below 3.0 or if the student receives more than one grade below B, including the original grade(s) of any repeated course(s). A graduate student receiving a grade less than B while on probation is subject to dismissal. A graduate student receiving more than two grades below B is subject to dismissal whether or not the student was put on probation previously. The earned credits of this certificate can be applied towards any of the master programs offered by the CSE department including Computer Science, Software Engineering & Information Technology, Cybersecurity, or Artificial Intelligence.
+In all programs, the minimum GPA requirement is an average of at least 3.0. If a student’s GPA is less than 3.0 after having attempted 16 credits, the student will be recommended for dismissal from the program.
+Graduate students who are not in good academic standing for any reason are subject to probation and/or dismissal from further graduate study.
+Related program information
+Plan of study
+All accepted applicants, in consultation with their assigned faculty program adviser, must develop a plan of study that details specific courses the students will use to satisfy their degree requirements. The plan of study must be approved by the faculty program adviser and submitted by the student to Oakland University Graduate School.
+Master’s and graduate certificate students must submit a department-approved plan of study by the end of their first semester of graduate coursework. Doctoral students must submit an approved plan of study prior to completion of the first year of coursework. (See the
+Graduate Student Responsibility
+section of this catalog.)
+Note:  Credit granted for successful completion of a course toward an undergraduate degree program may not be repeated for a graduate degree. If a substitution is approved, the minimum number of program-approved graduate credits will be required. A
+Petition of Exception - OU Course Waiver/ Substitution
+requesting the substitution must be approved.
+Return to:
+Degree Programs and Graduate Certificates
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+

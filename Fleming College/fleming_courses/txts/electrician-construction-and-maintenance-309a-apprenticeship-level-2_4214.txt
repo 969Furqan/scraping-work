@@ -1,0 +1,136 @@
+URL: https://flemingcollege.ca/programs/electrician-construction-and-maintenance-309a-apprenticeship-level-2
+
+Home
+»
+Home
+»
+Programs
+»
+Electrician - Construction and Maintenance (309A) Apprenticeship - Level 2
+Electrician - Construction and Maintenance (309A) Apprenticeship - Level 2
+Today's electricians are working with cutting edge technology such as programmable logic controls (PLC), sophisticated fire alarm systems, robotics in industry, and assisting in setting up "smart house" systems--where everything in a house can be programmed for the needs of the homeowner. Electricians play a critical role, providing homeowners, businesses, and industries with the means to access electricity while ensuring people's safety and providing a higher quality of life.
+Program Information
+Start Date
+February 24, 2025
+Sutherland Campus
+February 24, 2025
+Domestic Availability
+Start an apprenticeship
+International Availability
+Not Available
+Program Code
+AEI
+Delivery
+In Person
+Credential
+Apprenticeship
+Academic School
+School of Trades and Technology
+Location
+Sutherland Campus
+Program Contacts
+Rick Murdock
+Program Coordinator
+Patti-Lynn Davis
+Program Contact
+Apprenticeship Registration
+Ministry Offers Contact
+View Curriculum
+10 weeks
+Note:
+This is an apprenticeship program. You cannot apply to this program through ontariocolleges.ca. Eligibility to attend this program is determined by the Ministry of Labour, Immigration, Training and Skills Development. You must be a registered apprentice with the Ministry which includes being sponsored by an eligible employer. The Ministry specifies all the eligibility requirements and extends offers to attend this program only to eligible students. For more information on Apprenticeship in Ontario see
+Start an apprenticeship | Ontario.ca
+Program Highlights
+In Fleming's Electrician -- Construction and Maintenance 309A Apprenticeship program, you will develop trade related skills including:
+project electrical layout
+system installations
+repair and maintenance
+connecting and testing of electrical devices, apparatus, control equipment, and wiring
+how to work with alarm, communication, lighting, heating, and power and control systems
+the use of computer-based control systems and motion control
+You'll learn these skills and more through your schooling and ongoing work with your employer.
+Why Choose Fleming
+The instructors for Fleming's Electrician Apprentice program are dedicated and fully-qualified tradespeople. That means you will be learning from people who have worked or continue to work in the trade. Your theoretical classes are supplemented by hands-on training. Your instructors will be there to answer your questions, troubleshoot, and facilitate your learning. Fleming has an excellent reputation in the trade and with trade unions for producing well-qualified tradespeople.
+Is this You?
+Success as an electrician starts with your interest in how things work, and learning how you can provide customers with safe, helpful means to access power and electricity.
+Besides this key interest, it is helpful if you have, or are willing to develop the following skills:
+attention to detail and dedication to quality
+a strong customer service ethic
+excellent problem solving ability
+willingness to learn on the job/continuous learning
+We'll help you to graduate as a fully qualified, competent electrician--and prepare you for trade exams.
+Career Opportunities
+As an electrician working for an industrial or institutional company, you will likely have your hours and duties laid out for you with the benefit of job security in this type of position. If you choose to work independently, or as part of a group providing electrical or related services, you will be able to decide which projects you want to pursue, when you want to work, and set your own prices. Regardless of where or how you choose to work and pursue your career, there are plenty of opportunities out there. If you are willing to relocate or travel for work, your opportunities are even greater.
+Minimum Admission Requirements
+OSSD or equivalent
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10
+Processor:
+Core i5 - 1.6Ghz minimum
+Memory:
+8GB minimum
+Hard Disk:
+160GB minimum
+Internet Connection: 2.5 Mbps Download and 3.0 Mbps Upload (minimum)
+Students are required to have their own computer, internet access, webcam and microphone.
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+AEI - Electrician Apprentice Intermediate Fees
+$ 500.00
+Total
+$ 500.00
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  February 2025
+Semester 1
+Delivery: In Person
+Canadian Electrical Code - Level II
+ELCT  33
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to interpret the CEC requirements pertaining to the installations for:  interior and exterior lighting systems; fire alarm and fire pumps, emergency systems, unit equipment and exit signs; fuses, circuit breakers and ground fault protection and control devices; equipment in hazardous locations; hospitals and patient care areas; storage batteries; individual continuous and non-continuous duty service motors   The apprentice will also be able to calculate conductor and overcurrent device sizes required for specific continuous and non-continuous loads and the minimum ampacity of conductors and overcurrent devices for apartment and similar buildings.
+Electrical Theory - Level II
+ELCT  28
+Units/ Hours: 80
+Upon successful completion of this course, the apprentice will be able to:  describe magnetic flux and flux density; solve problems associated with magnetic energy; explain Ohm's Law as applied to magnetic circuits; describe factors which affect inductance and perform related calculations; apply Fleming's hand rules and Lenz's law; describe the types, construction, operation and characteristics of DC machines; describe a sine wave: calculate RMS, average, maximum, and instantaneous values; calculate frequency, electrical and mechanical degrees; calculate phasors, vectors and vector diagrams;  describe the effects of alternating voltage and current in a resistive device;  calculate inductive reactance, voltage, current, and power of an inductive circuit; calculate capacitive reactance, voltage, current, power and phase relationships of a capacitive circuit; calculate values for RL/RC/RLC series and parallel circuits; and, calculate resonant circuits.  Note: Each candidate must be indentured to a qualified contractor or Union and be registered with the Ministry of Training, Colleges and Universities - Workplace/Employed Workers Support Branch.
+Electronics - Level II
+ELCT  14
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will have demonstrated the ability to:  use an oscilloscope to test circuits; explain the importance of isolation when using test equipment; describe and demonstrate half and full wave rectification;  connect capacitors and inductors to filter a power supply output; demonstrate the use of a zener diode as a regulator; demonstrate the operation of an SCR as well as a DIAC and TRIAC; demonstrate how a DIAC and RC network can be used to phase shift a TRIAC; describe the operation and applications of a pulse transformer; explain the operation of a field effect transistor (FET) and operational amp (OP Amp); calculate the expected gain of inverting and non-inverting OP-Amp circuits; and, demonstrate the operation of an OP-Amp used as a comparator and an amplifier.  Note: Each candidate must be indentured to a qualified contractor or Union and be registered with the Ministry of Training, Colleges and Universities - Workplace/Employed Workers Support Branch.
+Installation Methods - Level II
+ELCT  23
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to: identify the mechanical parts, windings and wiring connections of DC machines; demonstrate manual and magnetic across-the-line starting techniques for motors; demonstrate methods for forward-reverse control of motors; and, demonstrate reduced voltage starting techniques for DC motors.   The apprentice will also be able to: identify the mechanical parts, windings, and wiring connections for a single- and three-phase squirrel cage induction AC motor (SCIM); demonstrate manual and magnetic across-the-line starting techniques for single- and three-phase squirrel cage motors; demonstrate methods for forward and reverse control of single- and three-phase squirrel cage motors; demonstrate the control of a Single Phase Capacitor Start Dual Voltage Motor with a reversing drum switch, manual starter and a reversing magnetic starter; state the procedures for installing and aligning belt driven motors; and, calculate and connect single-phase, 3-wire transformer services.  Note: Each candidate must be indentured to a qualified contractor or Union and be registered with the Ministry of Training, Colleges and Universities - Workplace/Employed Workers Support Branch.
+Instrumentation - Level II
+ELCT  36
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to: identify and describe the operation of various level and flow sensing instruments; draw basic process and instrument diagrams using standard ISA instrumentation; explain the operation and applications of typical level and flow measurement devices and transmitters; demonstrate the hydrostatic pressure principle of liquid level measurement;  predict with calculations the effect of liquids of different specific gravities on the system; demonstrate the use of the venturi and the orifice plate in flow measurement; install, connect and test load cells in typical weight measurement applications
+Monitoring&Communication Systems-Level II
+ELCT  38
+Units/ Hours: 30
+Upon successful completion of this course, the apprentice will have demonstrated the ability to:  describe the operation, installation, testing and troubleshooting requirements for initiation, signal, ancillary and supervisory circuits and devices, in a single two stage fire alarm system using the NBC, CEC, ULC and manufacturer's documentation; describe the basic operation of wet and dry sprinkler systems; describe the fire suppression agents, components and systems used in fire suppression systems; describe the methods used to terminate and test fibre optic cables; demonstrate an understanding of intrusion systems and devices; describe and demonstrate the wiring and operation of nurse call systems; lay out and wire common paging and communications systems; describe the operation of institutional clock systems; and, describe the operation and installation requirements for common home automation systems.
+Prints - Level II
+ELCT  26
+Units/ Hours: 30
+Upon successful completion of this course, the apprentice will be able to: determine utility location and site features using site drawings; determine methods of construction using architectural and structural drawings; determine the electrical characteristics and layout of mechanical equipment and systems; lay out commercial distribution and service equipment and wiring; lay out branch circuit for lighting and equipment; prepare a material take off using drawings and specifications; prepare sketches to solve and document construction problems and solutions; prepare as-built drawings; and, develop basic single line, schematic, and wiring diagrams.

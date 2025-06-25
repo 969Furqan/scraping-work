@@ -1,0 +1,60 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/geosciences/postbacgeotechcert/
+Post-Baccalaureate GeoTechnology Certificate
+Goals
+Graduates will have the knowledge and skills necessary to apply Geotechnology in their chosen careers or fields of interest.
+Graduates will have the background to compete successfully for industrial and academic positions.
+Objectives
+Learn and perform techniques in Geographic Information Systems, Global Positioning Systems, Remote Sensing, and related skills.
+Increase knowledge of how geotechnical applications are incorporated into research, education, and industry.
+Increase knowledge of geotechnical workforce needs and the future directions of geotechnological applications.
+The Graduate Certificate in GeoTechnology is offered to students who wish to become proficient in the collection, management, and analysis of spatial data. Courses in three disciplines — geographic information systems (GIS), global positioning systems (GPS), and remote sensing—are used to teach the theory and application of GeoTechnology. Students may pursue the Certificate independently or in conjunction with another Idaho State University degree.
+Admission Requirements
+Classified admission is necessary to complete the Certificate and is recommended by the graduate faculty of the Geosciences Department in accordance with standards set by the Graduate School. Applicants must have a bachelor’s degree from an accredited school and meet the Graduate School admission requirements. All applicants must submit an application to the Graduate School.
+Students will complete 14 credits of required coursework and 5 credits of elective coursework to obtain the Certificate. The following courses are relevant:
+Course List
+Code
+Title
+Credits
+Core Courses:
+14
+GEOL 5503
+Principles of Geographical Information System
+GEOL 5504
+Advanced Geographic Information Systems
+GEOL 5507
+GPS/GNSS Applications in Research
+GEOL 5508
+GeoTechnology Seminar
+or
+BIOL 5518
+Ecological Topics
+GEOL 5509
+Remote Sensing
+Electives
+5
+ANTH 5582
+Independent Problems in Anthropology
+BIOL 5582
+Independent Problems
+GEOL 5527
+Information Technology for GIS
+GEOL 5528
+Programming for GIS
+GEOL 5580
+Special Topics in GIS
+GEOL 5581
+GeoTechnology Internship
+GEOL 6607
+Spatial Analysis
+GEOL 6608
+Geostatistics Spatial Data Analysis and Modeling
+GEOL 6611
+UAS Applications for the Geosciences
+GEOL 6628
+Advanced GIS Programming
+GEOL 6648
+Research Problems
+Total Credits
+19
+For current information regarding GIS Center and courses, see the website:
+http://giscenter.isu.edu.

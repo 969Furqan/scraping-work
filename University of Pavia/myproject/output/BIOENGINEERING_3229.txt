@@ -1,0 +1,408 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/bioengineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Master's Degree Program in Bioengineering aims to train professionals with an in-depth knowledge of both the theoretical and practical aspects of basic engineering disciplines and those characterizing the field. These professionals will be able to identify, analyze, formalize, and solve, when necessary in an innovative way, the main problems, including complex ones, typical of biomedical engineering. Particular importance is given to the generalization of theoretical and practical content, ensuring that the training is not quickly outdated, enabling graduates to confidently tackle new problems and providing them with the necessary tools to keep up with professional updates over time, both in scientific and technological fields.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Paolo Magni
+Area
+Engineering
+Access
+Open
+Language
+Italian
+Degree class
+LM-21 - Biomedical engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso in CELLULE, TESSUTI E DISPOSITIVI
+Percorso in SANITÀ DIGITALE
+Percorso SENSORISTICA E STRUMENTAZIONE BIOMEDICA
+Year of study:
+1
+Compulsory
+MULTIMODAL BIOMEDICAL IMAGES
+6
+							CFU -
+							 50 							hours
+BIOMATERIALS
+6
+							CFU -
+							 48 							hours
+2nd semester
+ORGANIC CHEMISTRY AND BIOCHEMISTRY
+9
+							CFU -
+							 68 							hours
+FUNDATIONS OF BIOLOGY AND GENETICS
+6
+							CFU -
+							 46 							hours
+CONSTITUTIVE MODELING OF MATERIALS
+6
+							CFU -
+							 68 							hours
+1st semester
+DIFFERENTIAL MODELS: NUMERICAL METHODS AND APPLICATIONS
+9
+							CFU -
+							 79 							hours
+BIOMEDICAL OPTOELECTRONICS
+6
+							CFU -
+							 46 							hours
+Choose a subject
+COMPUTATIONAL LEARNING IN BIOMEDICINE
+9
+							CFU -
+							 80 							hours
+BIOMACHINES
+9
+							CFU -
+							 82 							hours
+Year of study:
+2
+Compulsory
+BIOINFORMATICS AND CELL AND TISSUE DESIGN
+15
+							CFU -
+							 123 							hours
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose a subject (6 CFU)
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+BIOMEDICAL INSTRUMENTATION LM
+6
+							CFU -
+							 66 							hours
+Choose a subject (3 CFU)
+ENGLISH FOR ENGINEERING
+3
+							CFU -
+							 22 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ADVANCED BIOMEDICAL MACHINE LEARNING
+6
+							CFU -
+							 46 							hours
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+FOUNDATIONS OF TELEMEDICINE
+6
+							CFU -
+							 62 							hours
+IDENTIFICATION OF MODELS AND DATA ANALYSIS B
+6
+							CFU -
+							 56 							hours
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+MECHANOBIOLOGY AND PHARMACEUTICAL RESEARCH
+6
+							CFU -
+							 72 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+PHARMACOMETRICS
+6
+							CFU -
+							 74 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+STRATEGIC MANAGEMENT AND BUSINESS PLANNING
+6
+							CFU -
+							 45 							hours
+Year of study:
+1
+Compulsory
+COMPUTATIONAL LEARNING AND DECISION SUPPORT IN BIOMEDICINE
+15
+							CFU -
+							 136 							hours
+MULTIMODAL BIOMEDICAL IMAGES
+6
+							CFU -
+							 50 							hours
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+TELEMEDICINE
+15
+							CFU -
+							 128 							hours
+Choose a subject
+APPLIED BIOLOGY AND PHYSIOLOGY
+6
+							CFU -
+							 46 							hours
+FUNDATIONS OF BIOLOGY AND GENETICS
+6
+							CFU -
+							 46 							hours
+Choose a subject
+BIOMACHINES
+9
+							CFU -
+							 82 							hours
+MOTOR CONTROL AND REHABILITATION
+9
+							CFU -
+							 70 							hours
+Year of study:
+2
+Compulsory
+BIOINFORMATICS  AND SYNTHETIC BIOLOGY
+9
+							CFU -
+							 78 							hours
+HEALTH TECHNOLOGIES MANAGEMENT
+6
+							CFU -
+							 46 							hours
+ARTIFICIAL INTELLIGENCE IN MEDICINE
+6
+							CFU -
+							 56 							hours
+DIGITAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose a subject (3 CFU)
+ENGLISH FOR ENGINEERING
+3
+							CFU -
+							 22 							hours
+HEALTH CARE ORGANIZATION AND HOSPITAL LOGISTICS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ADVANCED BIOMEDICAL MACHINE LEARNING
+6
+							CFU -
+							 46 							hours
+IDENTIFICATION OF MODELS AND DATA ANALYSIS B
+6
+							CFU -
+							 56 							hours
+INFORMATION SECURITY
+6
+							CFU -
+							 45 							hours
+PHARMACOMETRICS
+6
+							CFU -
+							 74 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+NEUROMORPHIC SENSING FOR BIOROBOTICS
+6
+							CFU -
+							 45 							hours
+STRATEGIC MANAGEMENT AND BUSINESS PLANNING
+6
+							CFU -
+							 45 							hours
+Year of study:
+1
+Compulsory
+COMPUTATIONAL LEARNING IN BIOMEDICINE
+9
+							CFU -
+							 80 							hours
+ADVANCED BIOMEDICAL IMAGING
+12
+							CFU -
+							 100 							hours
+APPLIED BIOLOGY AND PHYSIOLOGY
+6
+							CFU -
+							 46 							hours
+BIOMACHINES
+9
+							CFU -
+							 82 							hours
+MOTOR CONTROL AND REHABILITATION
+9
+							CFU -
+							 70 							hours
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+BIOMEDICAL INSTRUMENTATION LM
+6
+							CFU -
+							 66 							hours
+Year of study:
+2
+Compulsory
+HEALTH TECHNOLOGIES MANAGEMENT
+6
+							CFU -
+							 46 							hours
+MECHANICAL AND THERMAL MEASUREMENTS
+6
+							CFU -
+							 47 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+WIRELESS SENSOR SYSTEMS FOR BIOMEDICAL DATA AND SIGNAL MONITORING
+6
+							CFU -
+							 52 							hours
+Choose a subject (6 CFU)
+ENGLISH FOR ENGINEERING
+3
+							CFU -
+							 22 							hours
+HEALTH CARE ORGANIZATION AND HOSPITAL LOGISTICS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+Choose a subject
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+DIGITAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+FOUNDATIONS OF TELEMEDICINE
+6
+							CFU -
+							 62 							hours
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+BIOMEDICAL OPTOELECTRONICS
+6
+							CFU -
+							 46 							hours
+DIGITAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+NEUROMORPHIC SENSING FOR BIOROBOTICS
+6
+							CFU -
+							 45 							hours
+STRATEGIC MANAGEMENT AND BUSINESS PLANNING
+6
+							CFU -
+							 45 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Master’s in Bio-engineering aims to produce professionals with advanced knowledge of basic engineering theory and practice as well as knowledge concerning the specific disciplines that come under this degree class.  Graduates will also be able to identify, analyze, formalize and solve, even in an innovative fashion, the main problems of biomedical engineering. The curriculum focuses on methodological aspects and is organized to also provide cutting-edge engineering competencies for highly qualified activities in the following professional fields:- the conception and development of biomedical instruments;- the characterization, development and use of biomaterials;- methodologies and instruments for managing health-sector technology;- methodologies and instruments for processing biomedical data, signals and images;- methodologies to be applied in genomics, proteomics, and biotechnology;- project-related methodologies and technologies for developing health information systems and systems for the joint management of treatment and rehabilitation processes;- project-related methodologies and technologies for the development of telemedicine systems.In treating the engineering topics the focus will be on providing a general theoretical and practical background, including what was learned during the previous degree programme, so that the students’ preparation does not become quickly outdated, the students can confidently deal with new problems, and they are provided with the conceptual tools to keep up to date in future. At the same time the curriculum will allow the student to gain personal experience in the use of tools for theoretical research and experiments, a goal  which is typical of the current approach to biomedical engineering problems.  Finally, the Master’s seeks to provide the knowledge necessary for more advanced studies (second-level Master’s and research doctorate).  The curriculum will also provide proper consolidation of mathematics and life science knowledge as well as develop the students’ personal abilities and capacities, which will especially reveal themselves during the preparation of the Master’s thesis, which will involve almost the entire final semester.
+Career opportunities
+Without overlooking free-lance activities, for example, as a consultant for the local health authorities and hospitals, the job market for Master’s graduates in Bio-engineering involves above all the various health institutions, and biomedical instrumentation, medical information technology, biotechnology and pharmaceutical companies.  In particular, there is continued significant growth in the number of clinical engineers in health institutions and service companies that deal with the management of health technology; in the demand for specialists in the management and basic use of medical-health data; in the development of computer tools to support medical-clinical activities; and in the demand for biomedical engineers by biomedical instrument and biomedical technology companies, which for some time now have tended to hire engineers with a specific biomedical background rather than graduates from other engineering sectors.
+Admission requirements
+For admission to the master's degree program, the candidate, in addition to possessing the required academic degree as per the law, must have:
+
+Adequate knowledge of mathematical analysis and physics, such as that typically acquired in a first-level degree program in engineering or physics.
+Sufficient knowledge regarding the fundamental subjects and applications of information engineering and/or industrial engineering. These competencies are specified by the Didactic Regulations of the master's degree program in terms of curricular requirements, through the definition of the minimum number of University Educational Credits (CFU) that the candidate must have acquired in their academic career, referring to the various educational activities provided for by current regulations and to individual scientific-disciplinary sectors and/or groups of scientific-disciplinary sectors, recognized as suitable by the Didactic Council.
+To access the master's degree program, the student must also be able to fluently use the English language, both in written and oral form, also with reference to disciplinary vocabularies. The required level of proficiency will be specified in the Didactic Regulations of the master's degree program and will refer to the levels of competence indicated in the Common European Framework developed by the Council of Europe.
+
+Admission to the master's degree program is also subject to verification of the candidate's personal preparation adequacy, with criteria and methods set by the Faculty Council upon proposal of the Didactic Council.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

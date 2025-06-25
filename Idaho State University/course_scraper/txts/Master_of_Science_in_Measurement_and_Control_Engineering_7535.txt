@@ -1,0 +1,43 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/electrical-and-computer-engineering/msmeasurementcontrol/
+Master of Science in Measurement and Control Engineering
+Admission Requirements
+The student must meet all criteria for admission and then apply to the Graduate School. In addition, official Graduate School record Examination (GRE) score reports are required for all applicants, with a score equal or above the upper 65th percentile on the Quantitative Reasoning area being required for admission.
+General Requirements
+With the assistance of the Mechanical Engineering and/or Electrical Engineering faculty, the student shall select an initial advisor during the first semester of residence to help in planning a program of studies and research. The student must also complete a Plan of Study and form a complete advisory committee by the time six credits of course work have been completed.
+30 credit hours are required to complete the M.S. degree (at least 50% of the credits should be at the 6600 level). Approximately half of the credits are engineering and technical electives, subject to the approval of the student’s advisory committee. The Thesis or Special Project should consist of study and research that complements the course work selected.
+Required Courses (30 credits)
+1
+Students desiring to do the non-thesis option must have a minimum of two years industry experience. In place of the 6-credit thesis, the non-thesis option consists of a 3-credit Special Project in addition to a 3-credit course. At the completion of the Special Project, the student will be required to present an oral presentation/defense of the Project.
+The following courses are required of every student receiving the master's degree in Measurement and Control Engineering covered by the abbreviated list.
+Course List
+Code
+Title
+Credits
+ME 5521
+Engineering Modeling, Analysis, and Simulation
+3
+MCE 6642
+Advanced Control Systems
+3
+MCE 6643
+Advanced Measurement Methods
+3
+Approved Engineering Electives
+6
+Approved Technical Electives
+9
+ENGR 6650
+Thesis
+6
+OR
+One additional elective course
+AND
+ME 6660
+Special Project
+1
+1
+Students desiring to do the non-thesis option must have a minimum of two years industry experience. In place of the 6-credit thesis, the non-thesis option consists of a 3-credit Special Project in addition to a 3-credit course. At the completion of the Special Project, the student will be required to present an oral presentation/defense of the Project.
+Doctor of Philosophy in Engineering and Applied Science
+A doctoral program in Engineering and Applied Science, administered through the College of Science and Engineering, is available to engineering students. The complete program description is provided in the
+Engineering and Applied Science
+section of the Graduate Catalog.

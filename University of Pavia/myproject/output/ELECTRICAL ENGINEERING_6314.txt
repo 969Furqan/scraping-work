@@ -1,0 +1,469 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/electrical-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Master’s Degree in Electrical Engineering is aimed at training professionals with an in-depth understanding of both the theoretical and practical aspects of electrical engineering. Graduates will be capable of identifying, interpreting, formulating, and solving complex problems in the field, including through innovative and interdisciplinary approaches. The course emphasizes the development of solid theoretical frameworks and methodologies, ensuring that the education provided is resilient to rapid obsolescence and equips students to tackle new challenges and stay updated over time.
+The educational program allows students to gain personal experience in the use of experimental investigation tools, professional computing environments for numerical simulation of studied phenomena, techniques for the design of electrical systems, and industrial automation.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Piero Malcovati
+Area
+Engineering
+Access
+Open
+Language
+English
+Degree class
+LM-28 - Electrical engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+ELECTRICAL ENGINEERING
+Year of study:
+1
+Compulsory
+APPLIED ELECTROMAGNETISM
+12
+							CFU -
+							 104 							hours
+Annual
+DESIGN AND TECHNOLOGY OF ELECTRICAL MACHINES
+6
+							CFU -
+							 54 							hours
+2nd semester
+ELECTRICAL SYSTEMS
+12
+							CFU -
+							 102 							hours
+1st semester
+ENERGY MANAGEMENT
+9
+							CFU -
+							 90 							hours
+2nd semester
+INDUSTRIAL MEASUREMENTS AND COMMUNICATION SYSTEMS
+9
+							CFU -
+							 77 							hours
+1st semester
+POWER ELECTRONICS
+6
+							CFU -
+							 70 							hours
+2nd semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+ENERGY STORAGE AND CONVERSION
+6
+							CFU -
+							 48 							hours
+1st semester
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+1st semester
+ADVANCED ELECTRONICS
+3
+							CFU -
+							 23 							hours
+2nd semester
+DIAGNOSTICS FOR ELECTRICAL MACHINES
+3
+							CFU -
+							 26 							hours
+1st semester
+ELECTRICAL MACHINES FOR ADVANCED APPLICATIONS
+3
+							CFU -
+							 23 							hours
+2nd semester
+ELECTRONICS FOR INDUSTRIAL MEASUREMENTS
+6
+							CFU -
+							 62 							hours
+1st semester
+ENERGY MARKETS AND SUPPLY STRUCTURE
+6
+							CFU -
+							 45 							hours
+1st semester
+SOLAR AND BIOMASS ENERGY SYSTEMS
+6
+							CFU -
+							 45 							hours
+1st semester
+WIND POWER PLANTS
+3
+							CFU -
+							 23 							hours
+2nd semester
+HYDROELECTRIC PLANTS
+3
+							CFU -
+							 23 							hours
+1st semester
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+2nd semester
+MANAGEMENT OF PHOTOVOLTAIC SYSTEMS
+3
+							CFU -
+							 23 							hours
+2nd semester
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+1st semester
+OPTIMAL SYNTHESIS OF METAMATERIALS FOR 5G AND 6G TELECOMMUNICATIONS
+3
+							CFU -
+							 23 							hours
+2nd semester
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+Annual
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+Annual
+ENERGY SCENARIOS
+6
+							CFU -
+							 58 							hours
+1st semester
+SUSTAINABILITY MANAGEMENT
+3
+							CFU -
+							 23 							hours
+2nd semester
+THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+1st semester
+ELECTRIC TRACTION
+3
+							CFU -
+							 23 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+INDUSTRIAL DRIVES
+12
+							CFU -
+							 109 							hours
+MASTER THESIS
+18
+							CFU -
+							 0 							hours
+Choose a subject (6 CFU)
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+Choose a subject (6 CFU)
+ELECTRIC VEHICLES
+6
+							CFU -
+							 45 							hours
+ENERGY MARKETS AND SUPPLY STRUCTURE
+6
+							CFU -
+							 45 							hours
+SOLAR AND BIOMASS ENERGY SYSTEMS
+6
+							CFU -
+							 45 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PLANNING AND OPERATION OF POWER SYSTEMS
+6
+							CFU -
+							 49 							hours
+SYSTEMS AND TECHNOLOGIES FOR THE SMART GRID
+6
+							CFU -
+							 56 							hours
+THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+Choose a subject (6 CFU)
+ENERGY STORAGE AND CONVERSION
+6
+							CFU -
+							 48 							hours
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+ELECTRIC VEHICLES
+6
+							CFU -
+							 45 							hours
+ELECTRONICS FOR INDUSTRIAL MEASUREMENTS
+6
+							CFU -
+							 62 							hours
+ENERGY MARKETS AND SUPPLY STRUCTURE
+6
+							CFU -
+							 45 							hours
+SOLAR AND BIOMASS ENERGY SYSTEMS
+6
+							CFU -
+							 45 							hours
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PLANNING AND OPERATION OF POWER SYSTEMS
+6
+							CFU -
+							 49 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+SYSTEMS AND TECHNOLOGIES FOR THE SMART GRID
+6
+							CFU -
+							 56 							hours
+THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+Choose 6 ECTS (CFU) (6 CFU)
+ADVANCED POWER ELECTRONICS
+3
+							CFU -
+							 23 							hours
+ADVANCED ELECTRONICS
+3
+							CFU -
+							 23 							hours
+DIAGNOSTICS FOR ELECTRICAL MACHINES
+3
+							CFU -
+							 26 							hours
+WIND POWER PLANTS
+3
+							CFU -
+							 23 							hours
+HYDROELECTRIC PLANTS
+3
+							CFU -
+							 23 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+MANAGEMENT OF PHOTOVOLTAIC SYSTEMS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+HUMAN PROGRESS AND SUSTAINABLE DEVELOPMENT
+3
+							CFU -
+							 20 							hours
+SAFETY IN ENGINEERING AND TECHNOLOGY
+3
+							CFU -
+							 24 							hours
+SUSTAINABILITY MANAGEMENT
+3
+							CFU -
+							 23 							hours
+ELECTRIC TRACTION
+3
+							CFU -
+							 23 							hours
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+ENERGY STORAGE AND CONVERSION
+6
+							CFU -
+							 48 							hours
+ADVANCED POWER ELECTRONICS
+3
+							CFU -
+							 23 							hours
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+AUTOMATED MECHANICAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+ADVANCED ELECTRONICS
+3
+							CFU -
+							 23 							hours
+DIAGNOSTICS FOR ELECTRICAL MACHINES
+3
+							CFU -
+							 26 							hours
+ECONOMICS OF DIGITAL MARKETS
+6
+							CFU -
+							 44 							hours
+ELECTRIC VEHICLES
+6
+							CFU -
+							 45 							hours
+ELECTRONICS FOR INDUSTRIAL MEASUREMENTS
+6
+							CFU -
+							 62 							hours
+ENERGY MARKETS AND SUPPLY STRUCTURE
+6
+							CFU -
+							 45 							hours
+HISTORY OF TECHNOLOGY
+6
+							CFU -
+							 45 							hours
+SOLAR AND BIOMASS ENERGY SYSTEMS
+6
+							CFU -
+							 45 							hours
+WIND POWER PLANTS
+3
+							CFU -
+							 23 							hours
+HYDROELECTRIC PLANTS
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+MANAGEMENT OF PHOTOVOLTAIC SYSTEMS
+3
+							CFU -
+							 23 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PLANNING AND OPERATION OF POWER SYSTEMS
+6
+							CFU -
+							 49 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+SAFETY IN ENGINEERING AND TECHNOLOGY
+3
+							CFU -
+							 24 							hours
+ENERGY SCENARIOS
+6
+							CFU -
+							 58 							hours
+SUSTAINABILITY MANAGEMENT
+3
+							CFU -
+							 23 							hours
+SYSTEMS AND TECHNOLOGIES FOR THE SMART GRID
+6
+							CFU -
+							 56 							hours
+THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+ELECTRIC TRACTION
+3
+							CFU -
+							 23 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Second-Cycle Degree Course in Electrical Engineering is aimed at providing professionals with an in-depth knowledge of the theoretical and practical aspects of the electrical engineering disciplines so that they can adopt an interdisciplinary approach to identify, interpret, formulate, and solve problems, however complex, typical of this industrial sector. Given the globalized context in which most companies in the electrical engineering field operate, the courses are taught entirely in English to allow students to improve their skills in working and learning in an international context, as well as to increase the attractiveness of the second-cycle degree program for foreign students.
+The curriculum of the second-cycle degree course in Electrical Engineering includes a series of compulsory courses in the main sectors (ING-IND / 31, ING-IND / 32, ING-IND / 33, ING-INF / 07) and some compulsory courses in the sectors typical of industrial engineering (ING-IND / 03, ING-IND / 08, ING-IND / 09, ING-IND / 11, ING-IND / 13, ING-IND / 32) and mathematics (MAT / 07, MAT / 08). The student can then complete his or her study plan by choosing from the related/integrative sectors of the economic area (ING-IND / 35, SECS-P / 06), the hydraulic/environmental area (ICAR / 01, ICAR / 03), chemistry (CHIM / 07 ), or information (ING-INF / 01, ING-INF / 04, ING-INF / 05, ING-INF / 07) those courses considered most useful to strengthening one's preparation in the fields of greatest interest for electrical engineering, including electrical systems, renewable energy, electric mobility, and energy.
+In developing the engineering aspects of the degree programme, particular importance is given to the consolidation of the theoretical frameworks and methodologies, so that the preparation provided is not subject to rapid obsolescence and allows graduates to face even new problems with confidence, providing the tools to follow the updates needed for the profession.
+The training course allows the student to acquire personal experience in the use of instruments for experimental investigation, while also providing professional computing environments for the numerical simulation of the phenomena studied, design techniques in the field of electrical systems (plants and automation systems), and applications related more generally to energy conversion.
+The second-cycle degree programme also aims at providing the knowledge needed for in-depth study in subsequent courses (Second Level Second-Cycle degree and Research Doctorates).
+Career opportunities
+role in a work context:
+The training activity, in which particular importance is to be given to methodological aspects, shall be structured in such a way as to provide the engineering skills necessary for carrying out highly-skilled activity in private practice, in manufacturing firms or services enterprises, and in the public administration. 
+skills associated with the role:
+Upon completing their university studies, electrical engineering graduates are prepared for the following professional fields:
+- the design of electrical systems;
+- the design and implementation of systems for the automation of power grids;
+- the design of electrical and magnetic devices using advanced methods for the analysis and synthesis of fields;
+- the design, development and adjustment of converters, machines and electric drives for  application in the industrial, civil or commercial sectors and, in particular, in the field of automation and robotics;
+- the study, development and characterization of conductive, dielectric and magnetic materials for industrial applications;
+- electrical industrial measurements, the acquisition and processing of measurement data;
+- energy management and the design of energy systems in the industrial, civil or commercial sectors;
+- the evaluation of problems of electromagnetic compatibility in the industrial field.
+employment opportunities:
+Foreseeable employment opportunities following preliminary experience include:
+- the planning and management of systems for the production, transmission and distribution of electricity;
+- structural analysis of the electricity market and support services;
+- the integration of electric drives in complex systems.
+Graduates may also envisage teaching in schools as an occupation, once they have obtained a teaching qualification and passed the selection processes required by law.
+Admission requirements
+To be admitted to the master's degree program in Electrical Engineering, students must hold a bachelor's degree (including degrees obtained under the previous system outlined in DM 509/1999 and subsequent amendments and integrations) or a three-year university diploma, or another academic qualification obtained abroad, recognized by the competent authorities of the University. Admission also requires meeting curricular requirements and demonstrating the adequacy of the student's initial preparation. Access to the master's degree program in Electrical Engineering presupposes a solid knowledge in engineering disciplines, with a good preparation in basic subjects (minimum 36 ECTS credits in SSD MAT/01; MAT/02; MAT/03; MAT/04; MAT/05; MAT/06; MAT/07; MAT/08; MAT/09; FIS/01; FIS/02; FIS/03, CHIM/03; CHIM/07; ING-INF/05) and in specific subjects within the field of industrial engineering (minimum 45 ECTS credits in SSD ING-IND/31; ING-IND/32; ING-IND/33; ING-INF/07; ING-IND/12; ING-INF/01; ING-INF/05; ING-INF/04; ING-IND/13; ING-IND/08; ING-IND/09; ING-IND/10). These competencies are specified by the Educational Regulations of the master's degree program in terms of curricular requirements, through the definition of the minimum number of university educational credits (ECTS) that the candidate must have acquired in their previous academic career, referring to the various educational activities provided by current regulations and to individual scientific-disciplinary sectors and/or groups of scientific-disciplinary sectors, and recognized as suitable by the Educational Council. To access the master's degree, students must also be able to fluently use the English language, both in written and oral form, including with reference to disciplinary vocabularies; the required level of knowledge will be specified in the educational regulations of the master's degree program and will refer to the levels of competence indicated in the Common European Framework prepared by the Council of Europe. Admission to the master's degree program is also subject to the verification of the adequacy of the candidate's personal preparation, with criteria and methods set out in the Educational Regulations.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

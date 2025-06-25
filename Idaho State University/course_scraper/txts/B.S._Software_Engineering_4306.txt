@@ -1,0 +1,115 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/computerscience/bs-software-engineering/
+B.S. Software Engineering
+Program Admissions Requirements
+There are no program admission requirements for the degree and major.
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3-
+MATH 1143
+,
+MATH 1144
+, or
+MATH 1147
+4
+Objective 4
+6
+Objective 5
+7
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7 -
+CS 1181
+Objective 8
+Objective 9
+3
+Total Credits
+38
+Major Requirements
+All required courses for the BS in Software Engineering major must be completed with a grade of C- or higher.
+Course List
+Code
+Title
+Credits
+Technical Communication Requirements:
+ENGL 3307
+Professional and Technical Writing
+3
+or
+ENGL 3308
+Business Communications
+Required Business Courses:
+MGT 2261
+Legal Environment of Organizations
+3
+MGT 4482
+Project Management
+3
+Required Computer Science and Related Courses:
+CS 1181
+Computer Science and Programming I (Satisfies General Education Objective 7)
+3
+CS 1337
+Computer Organization and Architecture
+3
+CS 2235
+Data Structures and Algorithms
+3
+CS 3309
+Advanced Object-Oriented Programming
+3
+CS 3310
+Databases
+3
+CS 3311
+Secure Client Server Web Development
+3
+CS 3318
+Secure Mobile Application Development
+3
+CS 3321
+Introduction to Software Engineering
+3
+CS 4416
+Foundations in Cybersecurity and Resilience
+3
+Take 2 of any CS 44xx (ECE 44xx,
+ACCT 2201
+,
+ACCT 2202
+,
+MGT 3312
+,
+MGT 3329
+,
+MGT 4434
+)
+6
+Total Credits
+42
+Degree/Program Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+38
+Major Requirements (w/o General Education)
+39
+Upper Division Free Electives
+6
+Free Electives
+37
+Total Credits
+120

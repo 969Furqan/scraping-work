@@ -1,0 +1,82 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/informationtechnologysystems/atc-computer-network-technician/
+A.T.C. Computer Network Technician
+(2 Years)
+Program Admission Requirements
+Contact College of Technology Student Services at (208) 282-2622.
+COT Min Test Scores (No English)
+Placement Test
+Math
+SAT
+360
+ACT
+14
+ALEKS
+14
+Course List
+Code
+Title
+Credits
+Required Courses:
+ITS 1105
+Computer Hardware
+1
+ITS 1120
+Introduction to Linux
+3
+ITS 1135
+Windows Desktop Operating Systems
+3
+ITS 1150
+Networking I
+4
+ITS 1165
+Cybersecurity
+3
+ITS 1180
+Network Operating Systems I
+4
+Complete either this course:
+7
+ITS 2205
+Information Technology Internship
+OR this course:
+ITS 2290
+Internship
+2
+ITS 2215
+Networking II
+4
+ITS 2218
+PowerShell Scripting
+3
+ITS 2220
+Networking III
+4
+ITS 2235
+Network Operating Systems II
+4
+ITS 2280
+Network Operating Systems III
+4
+TGE 1158
+Employment Strategies
+2
+Objective 6 (
+TGE 1150
+recommended)
+3
+ENGL 1101
+Writing and Rhetoric I
+1
+3
+or
+ENGL 1102
+Writing and Rhetoric II
+Total Credits
+52
+1
+Contributes to a General Education requirement.
+“P” courses are equivalent to the original course.
+2
+May be repeated multiple times to reach 7 credits.
+Major Academic Plan (MAP)

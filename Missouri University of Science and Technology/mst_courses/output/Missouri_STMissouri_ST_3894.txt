@@ -1,0 +1,171 @@
+Source: https://bit.mst.edu/information-science-technology/undergraduate/
+
+Information Science and Technology
+Undergraduate Degree
+The bachelor of science in
+information science and technology
+(IST) is a STEM degree that will provide you with the necessary skills to connect management and technology in today’s workforce. Graduates in this field empower organizations by managing and supporting information systems to yield a more efficient and profitable enterprise.
+There is great demand for IT professionals who have both strong technical knowledge and broad understanding of business. These individuals are needed to implement and manage technology that supports business processes, managerial decision-making and organizational communication. Although this is a computing-focused program, you’ll spend most of your day working with people, not machines. To this end, all IST majors are eligible to receive a minor in business without any additional coursework.
+degree curriculum
+Information Science and Technology Core
+Your classes will include a core set of courses that will provide you with understanding of programming concepts, tools for project control, database management, data science, computer architecture, data networks, information systems design, technology management, and e-commerce.
+Common Core
+You will join your business and management systems classmates in a common core set of classes. These classes reflect the theme of integration of business and technology, and represent information technology, management, quantitative, and communication skills.
+Information Science and Technology Electives
+To prepare yourself for a beginning career, you will take at least fifteen credit hours of IST electives. You are encouraged to designate areas of concentration by pursuing one or more of over a dozen
+minors
+offered by our department in many popular, high-demand areas.
+Experiential Learning
+You will be required to engage in an
+experiential learning activity
+. These activities are designed to require you to go beyond mastering basic skills and knowledge in the practical application of that material, and allow you to learn in environments that align with your aptitudes.
+Full Curriculum
+NOTE: Current students should consult their degree audit report (found online at
+mydegree.mst.edu
+) to view their specific degree requirements. Degree requirements change over time. Students are normally held to the requirements in effect when they began their college studies.
+If you are a transfer student or have interrupted your studies for more than two consecutive semesters, special rules may apply to your situation.
+IST Four-Year Sample Schedule
+2024 IS&T Fact Sheet
+Information Science and Technology Curriculum - Effective Fall 2024
+General Education (31 credit hours)
+College Orientation (1 credit hour)
+BUS 1810 Introduction to College Success
+(1 hr)
+Natural Systems (6 credit hours)
+PSYCH 1101 General Psychology
+(3 hrs)
+Science Elective² (3 hrs)
+Human Institutions (12 credit hours)
+Fine Art, Social Science, and Humanities Elective
+3
+(3 hrs)
+ECON 1100 Principles of Microeconomics
+(3 hrs)
+ECON 1200 Principles of Macroeconomics
+(3 hrs)
+POL SCI 1200 American Government
+(3 hrs)
+Communication Skills (12 hours)
+SP&M S 1185 Principles of Speech
+(3 hrs)
+ENGLISH 1120 Exposition and Argumentation
+(3 hrs)
+IS&T 4654 Introduction to Web Design and Digital Media Studies
+(3 hrs)
+ENGLISH 2560
+or
+TECH COM 2560 Technical Marketing Communication
+(3 hrs)
+Common Core (27 credit hours)
+Information Technology (12 credit hours)
+IS&T 1750 Introduction to Management Information Systems
+(3 hrs)
+IS&T 1551 Implementing Information Systems: User Perspective
+(3 hrs)
+IS&T 1551 Implementing Information Systems: Data Perspective
+(3 hrs)
+ERP 2110 Introduction to Enterprise Resource Planning
+(3 hrs)
+Management (12 credit hours)
+BUS 1110 Introduction to Management and Entrepreneurship
+(3 hrs)
+BUS 1210 Financial Accounting
+(3 hrs)
+FINANCE 2150 Corporate Finance I
+(3 hrs)
+MKT 3110 Marketing
+(3 hrs)
+Entrepreneurship
+BUS 5980 Business Models for Entrepreneurship and Innovation
+(3 hrs)
+IS&T Core (24 credit hours)
+IS&T 3423 Database Management
+(3 hrs)
+IS&T 3333 Data Networks and Information Security
+(3 hrs)
+IS&T 3343 Systems Analysis
+(3 hrs)
+IS&T 3420 Introduction to Data Science and Management
+(3 hrs)
+IS&T 4444 Introduction to Data Warehouses
+(3 hrs)
+IS&T 5420 Business Analytics and Data Science
+(3 hrs)
+IS&T 5520 Data Science and Machine Learning with Python
+(3 hrs)
+IS&T 5725 Fundamentals of Cybersecurity Analytics
+(3 hrs)
+IS&T Electives (15 credit hours)
+Select any five courses (at 3000-level or above) from
+information science and technology
+or
+enterprise resource planning
+. Click on the subject to see a complete list of courses under that subject area.
+Any of
+BUS 5730
+,
+BUS 5910
+,
+COMP SCI 4700
+,
+COMP SCI 5601
+will also count toward this requirement.
+Some courses listed in the catalog are not regularly offered. Contact the department for up-to-date information on present course offerings.
+Quantitative Skills (14 credit hours)
+Mathematical Science Elective
+1
+(7 hrs)
+MATH 1212 Survey of Calculus
+(4 hrs)
+STAT 1115 Statistics for the Social Sciences
+or
+STAT 3111 Statistical Tools for Decision Making
+(3 hrs)
+Free Electives (9 credit hours)
+Total Credit Hours: 120
+A grade of 'C' or better is required in all of the following: BUS 1110, BUS 1210, BUS 1810, BUS 5980, ECON 1100, ECON 1200, ERP 2110, FINANCE 2150, IS&T 1551, IS&T 1552, IS&T 1750, IS&T 3131, IS&T 3333, IS&T 3343, IS&T 3420, IS&T 4444, IS&T 4654, IS&T 5420, IS&T 5520, IS&T 5725, MKT 3110, and all IST Electives (can include BUS 5730, BUS 5910, COMP SCI 4700, COMP SCI 5601 or any IS&T or ERP designated course at the 3000-level or above).
+1 Mathematical Science is defined as any MATH, STAT, COMP SCI, or IS&T course not otherwise covered in the degree program.
+2 Science is any course in biological science, chemistry, geology, geological engineering or physics.
+3 Fine Arts, Social Science, or Humanities is any course in art, economics, English, foreign language, history, literature, music, philosophy, political
+science, psychology, sociology or theater that is not used for other degree requirements.
+Click here to browse this degree program in the official university course catalog.
+#istminors
+To point to this anchor, create a link with the target "#istminors" instead of a URL. Note that this blue block will not be visible on your live site or in previews.
+Minors
+Even if you have already chosen a major, you might want to consider one of our department's minors. Our minors continue to be among the most popular on campus, and provide you with valuable business and information technology expertise coming out of college.
+Explore minors
+Your career
+As a graduate of the information science and technology program, you’ll have a strong technical and analytical background as well as understanding of the expanding role of technology in business. There are many career opportunities and students benefit greatly in terms of their education and the advantage they have seeking full-time employment once they graduate.
+Learn More
+Accelerated Graduate Degree Programs
+You can earn your master's degree in as little as one additional year after completing your bachelor's degree. Our graduate track pathway and 4+1 programs allow you to complete some of your graduate coursework during your last year of undergraduate studies. This saves you time and money when compared to the traditional course schedule.
+Learn more
+admissions
+For future students
+To apply for admission to Missouri S&T, choose the selection below that best describes your application status.
+First-time freshmen
+Transfer students
+Dual-enrollment
+International students
+Military-affiliated students
+Other options
+Contact the office of admissions for more information:
+Email
+:
+admissions@mst.edu
+Toll-free Phone
+:
+800-522-0938
+Local Phone
+:
+573-341-4165
+Cost Estimates
+See what makes Missouri S&T one of America's top 10 "best value" public universities.
+Financial Aid at S&T
+We offer several merit and need based scholarships to make your degree an excellent return on investment.
+Contact Us
+Contact Us
+We are happy to answer any additional questions you have
+Follow Business and Information Technology
+Facebook
+Linked In

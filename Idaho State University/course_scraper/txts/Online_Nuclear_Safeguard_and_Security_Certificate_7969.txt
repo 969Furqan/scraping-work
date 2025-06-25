@@ -1,0 +1,14 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/nuclearengineering/certsafeguardsecurity/
+Online Nuclear Safeguard and Security Certificate
+Program Description:
+Preventing, detecting and responding to theft, sabotage, unauthorized access, illegal transfer or other malicious acts involving nuclear material, other radioactive substances or their associated facilities are of paramount importance to our nation and the world. Nuclear material, whether it is from nuclear reactors, fuel cycle facilities, or spent fuel storage and disposal facilities, will require a well-trained workforce that is versed not only in physical protection but also in areas of cyber-attacks, practical and theoretical knowledge of detection techniques and strategies as well as understanding national and international nuclear security policies. Students will emerge from the certificate program with the skills that are critical for maintaining nuclear energy sources as part of our national energy plan.
+The Nuclear Safeguards and Security certificate program is a fully online graduate certificate offering students the opportunity to focus their education on a growing workforce need within the United States. The certificate is tied to the the Nuclear Engineering Department at Idaho State University (ISU), the Nuclear Engineering and Industrial Management Department at the University of Idaho (UI), and the School of Public Policy at Boise State University (BSU). Students can apply to any of the three institutions for admittance into the certificate program. All courses are asynchronous and online, and will be available for registration through Online Idaho.
+Admission:
+The student must apply to and meet all criteria for admission to the Graduate School. General Requirements: This certificate requires 12 credit hours of coursework. Required courses are offered by Idaho State University, Boise State University, and University of Idaho. Registration for these courses occurs through the Online Idaho portal. All courses are taught online.
+Required Courses:
+ISU -
+NE 5588
+, Nonproliferation and Nuclear Safeguards (3 credits lecture)
+BSU - PUBADM 555 Security Regulation and Policy for Nuclear, Radiation and Cyber-related Risk (3 credits lecture)
+BSU - CS581 Cybersecurity for Nuclear Industry (3 credits lecture)
+UI - NE 513 Nuclear Security Science (3 credits lecture)

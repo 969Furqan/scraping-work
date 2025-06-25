@@ -1,0 +1,112 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/energy-systems-mechanical-engineering-technology/-itc-industrial-maintenance-mechanic/
+I.T.C. Energy Systems Industrial Maintenance Mechanic
+Student Outcomes:
+1. Describe and conduct safe work practices in laboratory and industrial environments.
+2. Identify and apply societal and regulatory codes and standards.
+3. Select appropriate test equipment to troubleshoot and analyze mechanical systems and electrical, electronic, and motor control related circuits.
+4. Describe fundamental mechanical principles, fluid mechanics, thermodynamics, material science, and equipment design.
+5. Conduct maintenance, troubleshooting and repair of common industrial mechanical systems.
+6. Interpret and utilize technical documentation related to mechanical, electrical and motor control systems.
+7. Demonstrate basic structural welding.
+8. Demonstrate basic computer-aided drafting and design.
+9. Conduct commissioning practices for equipment setup and alignment.
+10. Recognize specific equipment applications for reactive, preventive, predictive, and proactive maintenance.
+Program Admission Requirements
+COT Min Test Scores (No English)
+Placement Test
+Math
+SAT
+360
+ACT
+14
+ALEKS
+14
+Major Requirements
+Course List
+Code
+Title
+Credits
+Choose two credits from the following:
+2
+ESET 1100
+&
+1100L
+Engineering Technology Orientation
+and Introduction to an Industrial Environment Laboratory
+or
+ESET 1162
+Industrial  Safety and Regulations
+Choose from the following:
+2-3
+ESET 1117
+&
+1117L
+Introduction to Industrial Thermal Systems
+and Introduction to Industrial Thermal Systems Lab
+or
+ESET 2220
+Thermal Cycles and Heat Transfer
+ESET 1118
+Industrial Maintenance Mechanic I
+2
+ESET 1118L
+Industrial Maintenance Mechanic Lab I
+1
+ESET 1119
+Industrial Maintenance Mechanic II
+2
+ESET 1119L
+Industrial Maintenance Mechanic Lab II
+1
+ESET 1121
+Basic Electricity and Electronics
+4
+ESET 1121L
+Basic Electricity and Electronics Laboratory
+3
+ESET 1122
+Electrical Systems and Motor Control Theory
+3
+ESET 1122L
+Electrical Systems and Motor Control Theory Laboratory
+1
+ESET 1123
+Mechanical Power Transmission I
+2
+ESET 1123L
+Mechanical Power Transmission Laboratory I
+2
+ESET 1125
+Introduction to Structural Welding
+1
+ESET 1126
+Introduction to Mechanical Drafting and Computer Aided Design
+1
+ESET 1127
+Mechanical Power Transmission II
+2
+ESET 1127L
+Mechanical Power Transmission Laboratory  II
+2
+Choose from the following:
+5
+ESET 1140
+Applied Technical Intermediate Algebra
+MATH 1143
+&
+MATH 1144
+Precalculus I: Algebra
+and Precalculus II: Trigonometry
+MATH 1147
+Precalculus
+ESET 2243
+Hydraulic and Pneumatic Power
+2
+ESET 2243L
+Hydraulic and Pneumatic Power Laboratory
+2
+ESET 2246
+Materials and Metallurgy
+2
+Total Credits
+42-43

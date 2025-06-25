@@ -1,0 +1,154 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/electrical-and-computer-engineering/bs-electrical-engineering-technology/
+B.S. Electrical Engineering Technology
+Program Admissions Requirements
+The Bachelor of Science in Electrical Engineering Technology (BSEET) program is a two-year program intended for graduates with an Associate of Applied Science degree offered by the ISU College of Technology, such as Energy Systems Electrical Engineering Technology, Energy Systems Industrial Cybersecurity Engineering Technology, Energy Systems Instrumentation Engineering Technology, Energy Systems Mechanical Engineering Technology, Energy Systems Nuclear Operation Technology, and Robotics and Communications Systems Engineering. Graduates of these programs may directly enter the BSEET program.
+It is expected that graduates of these technology programs will have completed the following courses before entering the program: ENGL 1101, COMM 1101, MATH 1170, a course fulfilling GE Objective 6 and either PHYS 1101/PHYS 1101L or CHEM 1111/CHEM 1111L. Graduates of the BSEET program are required to complete both PHYS 1101/PHYS 1101L and CHEM 1111/CHEM 1111L in fulfillment of GE Objective 5 .
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3
+3
+Objective 4
+6
+Objective 5 -
+PHYS 1101
+/
+PHYS 1101L
+,
+CHEM 1111
+/
+CHEM 1111L
+7
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7 -
+CS 1181
+Objective 8
+Objective 9
+3
+Total Credits
+37
+Major Requirements
+Course List
+Code
+Title
+Credits
+ECE 2250
+&
+2250L
+Introduction to Digital Systems
+and Introduction to Digital Systems Laboratory
+4
+ECE 3360
+Software Methodology and Tools for Electrical and Computer Engineering
+3
+ECE 3300
+Electrical Circuits II
+3
+ECE 3310
+Signals and Systems
+3
+ECE 4495
+Capstone Design Project I
+3
+ECE 4496
+Capstone Design Project II
+3
+CS 1181
+Computer Science and Programming I (Satisfies General Education Objective 7)
+3
+ENGL 3307
+Professional and Technical Writing
+3
+MATH 1175
+Calculus II
+4
+MATH 2240
+Linear Algebra
+3
+MATH 3360
+Differential Equations
+3
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+(Partially satisfies General Education Objective 5)
+4
+or
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+(Partially satisfies General Education Objective 5)
+Choose 15 credits from the following list of upper division electives:
+15
+The following courses are approved upper division electives for the BSEET degree. Students may with prior approval take upper division courses that are not on the list below.
+ACCT 3303
+Accounting Concepts
+CE 3361
+Engineering Economics and Management
+CMP 4420
+Advanced Leader Communication
+CMP 4422
+Conflict Management
+ECE 3320
+Introduction to Electronics
+ECE 4411
+Applied Engineering Methods
+ECE 4412
+Communication Systems
+ECE 4460
+Advanced Computer Architecture
+ECE 4451
+Embedded Systems Engineering
+ECE 4420
+Advanced Electronics
+ECE 4421
+Introduction to VLSI Systems
+ECE 4422
+Mixed Signal Design and Synthesis
+ECE 4400
+Advanced Circuit Theory
+ECE 4470
+Digital Signal Processing
+ECE 4424
+Semiconductor Devices
+ECE 4428
+Advanced Semiconductor Devices
+ECE 4442
+Principles of Power Electronics
+FIN 3303
+Financial Concepts
+MGT 3312
+Individual and Organizational Behavior
+Total Credits
+54
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+37
+Major Requirements (w/o General Education)
+47
+Free Electives
+36
+Upper Division Free Electives
+0
+Total Credits
+120

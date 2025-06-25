@@ -1,0 +1,82 @@
+Source: https://ece.mst.edu/academic-programs/computer-engineering/graduate-degrees-certificates/
+
+Graduate Degrees and Certificates in Computer Engineering
+The computer engineering program offers graduate programs of study which lead to the MS degree (thesis and non-thesis options), the Ph.D. degree and the doctorate of engineering (D.Eng) degree. All degrees may be obtained both on-campus and through distance options. Both the Rolla campus and the Engineering Education Center in St. Louis offer M.S. programs. Selection of specific options and programs of study is determined by student subject to approval by advisor and department.
+Graduate Student Handbook and Course Information
+University Catalog for Graduate Degrees in Computer Engineering
+Why S&T
+Read testimonials from our outstanding graduate alumni and learn about how choosing S&T impacted their lives.
+Graduate Alumni Testimonials
+"Looking back, I feel pursuing both M.S. Ph.D. degrees in Electrical Engineering was worth the time invested to gain the necessary skill sets which are required in the industry today."  -Shubhankar Marathe (Amazon)
+Read other testimonials
+Graduate Alumni Testimonials
+"Outstanding faculty, state-of-the-art research, well equipped laboratories, and a variety of industry-demanding course offerings are the key elements that categorize the Missouri S&T ECE Department as one of the best-in-class schools in the region." -Ashkan Hashemi (Intel)
+Read other testimonials
+Graduate Degree Programs (Master and Doctoral)
+The electrical and computer engineering graduate programs lead to the M.S. degree (thesis and non-thesis options) and the doctoral degree (Ph.D. and D.Eng.) including specialization in one or more of four areas:
+Integrated Circuits and Logic Design
+Topics include hardware/software co-design, IC design, electromagnetic compatibility, VLSI design, and secure embedded systems design.
+Networking, Security and Dependability
+Topics include network analysis and synthesis, cyber-physical systems, wireless networks, sensor networks, dependability, and fault tolerance.
+Computer Architecture and Embedded Systems
+Topics include high performance systems, parallel processors, GPU computing, and heterogeneous systems architecture.
+Computational Intelligence
+Topics include clustering, adaptive resonance and reinforcement learning architectures, learning and adaptation, hardware and applications, neurofuzzy regression, traveling salesman problem heuristics, robotic swarms, bioinformatics, medical informatics, machine vision, and automation.
+Graduate Certificate Programs
+Graduate certificates give students the opportunity to broaden their knowledge in a particular discipline, learn the latest in developing fields, and stay competitive in today's marketplace. By taking a few courses, students will be able to demonstrate advanced knowledge in a field. Graduate certificate programs may also be used as a pathway to a graduate degree program and credit earned in the certificate can be counted toward the master’s degree. A student needs to earn a B or better in each certificate course to continue on for their master’s degree without needing to submit GRE/GMAT scores.
+University Catalog for Graduate Certificates
+Computational Intelligence
+This graduate certificate program provides practicing engineers the opportunity to develop the necessary skills in the use and development of computational intelligence algorithms based on evolutionary computation, neural networks, fuzzy logic, and complex systems theory. Engineers can also learn how to integrate common sense reasoning with computational intelligence elective courses such as data mining and knowledge discovery.
+Cyber-Physical Systems
+This certificate is a joint effort between computer engineering and systems engineering to provide practicing engineers with the necessary skills to develop and design the operation of network centric systems. These four courses count towards a M.S. degree in computer engineering or systems engineering and they address the intersection between network engineering, systems engineering, and architecting.
+Distance Graduate Programs
+You could be earning college credit toward your master's degree and advancing your career. At Missouri S&T, we offer nationally ranked online graduate programs
+Distance Master Degree
+A distance Master program is available. Learn more at:
+Distance - Master of Science of Computer Engineering
+Distance Certificates
+There are two distance certificate programs are available. Learn more at:
+Computational Intelligence
+Cyber-Physical Systems
+Distance Course Schedules
+Distance Course Schedules
+Degree (Master and Doctoral) Admission Requirements
+Electrical and Computer Engineering's minimum admission requirements may exceed general university requirements. In case of discrepancies, departmental requirements supersede all others.
+Recommended B.S. GPA of 3.3/4.0 for M.S. and B.S. GPA of 3.5/4.0 for Ph.D.
+Recommended GRE score of Q=155, Q+V=305, and AW=3.5 (waived for Missouri S&T GPA 3.5 of ECE courses; must be > 18 hours)
+For PhDs and thesis option Masters, it is strongly recommended to secure research advisor (see "Securing Research Advisor" below).
+For university-wide general information:
+https://futurestudents.mst.edu/admissions/graduate/
+Certificate Admission Requirements
+B.S. degree in any field of engineering
+B.S. GPA of 3.0/4.0(a minimum 'B' grade is required) in the CT courses
+Securing an Advisor
+All doctoral and thesis option master students are expected to conduct research with their research advisors. Here are some tips how to secure research advisor.
+Doctoral Degree
+The most important thing for PhD admission is to secure your tentative advisor by individual contact as stated below, even before you formally apply. View the department's
+faculty directory
+to review each faculty member's research areas and identify your potential PhD advisor. Contact the faculty member(s) by email with your portfolio (CV, transcript, publication, etc.) for seeking confirmation to serve as your PhD advisor.
+Once you have a confirmation, ask for a Recommendation Letter from your potential advisor and specify the advisor in your Statement of Purpose to be part of your application package. Please note that the confirmation to serve as your advisor does not mean you’ll be automatically offered a financial assistantship. You need to ask the advisor about the availability of assistantship (see the link to “Graduate Assistantship” below).
+You may apply formally for PhD without this procedure of securing the advisor. We will circulate your application materials to faculty members to see if someone is interested in serving as your advisor. If you are applying for the PhD program without a MS degree (directly from BS) and without securing an advisor, we may still admit you as an MS to be able to convert to PhD within 2-3 semesters (all your credits are then counted toward PhD). During this period, you interact with faculty and demonstrate your aptitude for PhD.
+Master's Degree (thesis option only)
+There are two options in the Master program: thesis option and non-thesis option. The non-thesis option requires coursework only, while the thesis option requires a thesis with your research advisor with less course work.
+Both options are equally considered for admission without preference or priority. For the thesis option, procedure of how to secure an advisor and seek his or her confirmation is the same as that of PhD (see "Doctoral degree" above). Master students may change the degree option at any time during the study.
+Graduate Assistantship
+We value our graduate students. In our commitment to your education, we've put together several funding opportunities to help make your degree an excellent return on investment. Electrical and Computer Engineering programs offer the following opportunities:
+Graduate Assistantship
+There are two major mechanisms of assistantship for graduate students in ECE: Graduate Research Assistants (GRA), Graduate Teaching Assistants (GRA) and Fellowship. There are also Grader positions based on hourly rate wages. Students can be appointed as GRA or GTA by 25% or 50% FTE (Full-Time Equivalent), which is the maximum part-time employment rate for students (100% represents the full-time job). Monthly wage for 50% FTE is approximately $2,000, which is proportional to the % FTE (e.g. $1,000 for 25% FTE). Student’s out-of-tuition is waived if the student is offered at least a 25% FTE or higher.
+Graduate Research Assistantship (GRA)
+This assistantship is to support students by contributing to faculty members’ research. If a GRA is offered, the out-of-state tuition is waived (if higher than 25% FTE) and the monthly wage is provided according to % FTE. Students may contact individual faculty members with materials (CVs, publication, etc.) preferably before application to demonstrate their qualification and competency in the interested research areas. The faculty member may offer a GRA position with admission if the student is qualified and funding is available. Or it may be offered anytime with continued interactions with faculty members during study in the ECE program.
+Graduate Teaching Assistantship (GTA)
+GTAs are normally required to teach undergraduate-level laboratory courses. If a GTA is offered, the out-of-state tuition is waived (if higher than 25% FTE) and the monthly wage is provided according to % FTE. The department appoints GTAs every semester. Students apply for the GTA positions several months earlier before the start of class to teach, pass the communication test (non-native speakers only) and are selected by the department. Therefore, new incoming international students are not eligible for the Grader position during the first semester (US citizens or permanent residents are eligible).
+Grader
+This mechanism provides students with biweekly wages based on hourly rates (no tuition waived). Graders are normally required to grade assignments from undergraduate-level courses. Students may contact individual faculty members who teach the course to be appointed as Grader several months earlier before the start of class. Therefore, new incoming international students are not eligible for the Grader position during the first semester (US citizens or permanent residents are eligible).
+Other Campus-Level Assistantship Opportunities
+Other Campus-level assistantship opportunities are found at:
+Domestic students:
+https://futurestudents.mst.edu/admissions/graduate/
+International students:
+https://futurestudents.mst.edu/admissions/international/
+Follow Electrical and Computer Engineering
+Facebook
+Linked In

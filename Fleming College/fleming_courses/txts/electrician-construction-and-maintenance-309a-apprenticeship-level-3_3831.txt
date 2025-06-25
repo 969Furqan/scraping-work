@@ -1,0 +1,144 @@
+URL: https://flemingcollege.ca/programs/electrician-construction-and-maintenance-309a-apprenticeship-level-3
+
+Home
+»
+Home
+»
+Programs
+»
+Electrician - Construction and Maintenance (309A) Apprenticeship - Level 3
+Electrician - Construction and Maintenance (309A) Apprenticeship - Level 3
+Today's electricians work with cutting edge technology such as programmable logic controls (PLC), sophisticated fire alarm systems, robotics, and assisting in setting up "smart house" systems--where everything in a house can be programmed for the needs of the homeowner. Electricians play a critical role, providing access to electricity for homeowners, businesses, and industries.
+Program Information
+Start Date
+February 24, 2025
+Sutherland Campus
+February 24, 2025
+Domestic Availability
+Start an apprenticeship
+International Availability
+Not Available
+Program Code
+AEA
+Delivery
+In Person
+Credential
+Ontario College Certificate
+Academic School
+School of Trades and Technology
+Location
+Sutherland Campus
+Program Contacts
+Rick Murdock
+Program Coordinator
+Patti-Lynn Davis
+Program Contact
+Apprenticeship Registration
+Ministry Offers Contact
+View Curriculum
+11 weeks
+Note:
+This is an apprenticeship program. You cannot apply to this program through ontariocolleges.ca. Eligibility to attend this program is determined by the Ministry of Labour, Immigration, Training and Skills Development. You must be a registered apprentice with the Ministry which includes being sponsored by an eligible employer. The Ministry specifies all the eligibility requirements and extends offers to attend this program only to eligible students. For more information on Apprenticeship in Ontario see
+Start an apprenticeship | Ontario.ca
+Program Highlights
+In Fleming's Electrician -- Construction and Maintenance 309A Apprenticeship program, you will develop trade related skills including:
+project electrical layout
+system installations
+repair and maintenance
+connecting and testing of electrical devices, apparatus, control equipment, and wiring
+how to work with alarm, communication, lighting, heating, and power and control systems
+the use of computer-based control systems and motion control
+You'll learn these skills and more through your schooling and ongoing work with your employer.
+Why Choose Fleming
+The instructors for Fleming's Electrician Apprentice program are dedicated and fully-qualified tradespeople. That means you will be learning from people who have worked or continue to work in the trade. Your theoretical classes are supplemented by hands-on training. Your instructors will be there to answer your questions and troubleshoot, and to facilitate your learning. Fleming has an excellent reputation in the trade and with trade unions for producing well-qualified technicians.
+Pre-Exam Course
+The Pre Certificate of Qualification Exam Preparation Course is now embedded into the Advanced-Level 3 program.
+Is this You?
+Success as an electrician starts with your interest in how things work, and learning how you can provide customers with safe, helpful means to access power and electricity. Besides this key interest, it is helpful if you have, or are willing to develop the following skills:
+attention to detail and dedication to quality
+a strong customer service ethic
+excellent problem solving ability
+willingness to learn on the job/continuous learning
+We'll help you to graduate as a fully qualified, competent electrician--and prepare you for trade exams.
+Career Opportunities
+As an electrician working for an industrial or institutional company, you will likely have your hours and duties laid out for you with the benefit of job security in this type of position. If you choose to work independently, or as part of a group providing electrical or related services, you will be able to decide which projects you want to pursue, when you want to work, and set your own prices. Regardless of where or how you choose to work and pursue your career, there are many opportunities out there. If you are willing to relocate or travel for work, your opportunities are even greater.
+Minimum Admission Requirements
+OSSD or equivalent
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10
+Processor:
+Core i5 - 1.6Ghz minimum
+Memory:
+8GB minimum
+Hard Disk:
+160GB minimum
+Internet Connection: 2.5 Mbps Download and 3.0 Mbps Upload (minimum)
+Students are required to have their own computer, internet access, webcam and microphone.
+In The News:
+Electrician - Construction and Maintenance (309A) Apprenticeship - Level 3
+Trades students create tour bus for James Barker Band
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+AEA - Electrician Apprentice Advanced Fees
+$ 550.00
+Total
+$ 550.00
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  February 2025
+Semester 1
+Delivery: In Person
+Canadian Electrical Code - Level III
+ELCT  34
+Units/ Hours: 50
+Upon successful completion of this course, the apprentice will be able to interpret the CEC requirements pertaining to the installations for:  two or more continuous and non-continuous duty service motor on a feeder or branch circuit; hermetic refrigerant motor-compressor; power and distribution transformers on a feeder and branch circuit; welders on a feeder and branch circuit; capacitors on a feeder, branch circuit and motor branch circuit; high-voltage installations; overcurrent device selection based on load, interrupting ratings and coordination.
+Electrical Theory - Level III
+ELCT  29
+Units/ Hours: 60
+Upon successful completion of this course, the apprentice will be able to:  list the advantages of three phase circuits over single phase circuits; state the advantages and disadvantages of three phase Wye and Delta systems; calculate voltage, current, power and power factor for three-phase Wye and Delta systems, three phase series and parallel RLC circuits; connect wattmeters, power-factor meters and phase-angle meters in a three phase system; list different types of transformers and their applications and associated losses; explain the principles of three-phase open delta connections; describe the theory of operation and the synchronizing of alternators; illustrate by calculation the principles for single- and three-phase power conversion; describe the construction, operation and troubleshooting procedures for single- and three-phase AC induction motors; identify connections for multiple voltages and speeds for AC motors; describe the construction, operation, power factor correction and troubleshooting procedures for three-phase synchronous motors; state the types of insulation classifications and applications using AC motors; and, describe motor specifications and procedures for adjustments and lubrication.
+Electronics - Level III
+ELCT  15
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to: state how three-phase rectification is accomplished; connect a single quadrant DC motor drive system; describe the relationship between firing angle, load, voltage, CEMF, and motor speed; describe application of two and four quadrant drive systems; describe and connect open and closed loop speed control systems; explain the operation of DC chopper drive controller; connect, calibrate and test an SCR speed controller for a DC system motor; describe the operation of a three-phase AC variable speed drive controller; connect, calibrate and confirm the operation of an AC variable speed drive controller; identify the major components of AC variable speed drive controller; explain the procedure to test, remove and replace the output transistors in an AC variable speed drive; describe the effects of harmonics on AC systems; explain the operation of reactors and their application to AC variable speed drive systems to control harmonics on AC Power Systems; describe the operation and application of encoders, resolvers and tachogenerators as feedback devices; and, explain the operation of and identify hardware and protocol for serial communication.
+Installation Methods (Motors) - Level III
+ELCT 132
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to: test transformers to determine polarity, impedance, winding ratio and insulation resistance; connect three-phase transformers in Wye and Delta configurations; connect three-phase transformers in balanced and unbalanced configurations; connect single- and three-phase auto transformers for reduced voltage motor starting; identify the parts and connections for a three-phase wound rotor motor; describe the effects of differing resistance in the rotor circuit of a wound rotor motor under varying loads; and, connect a two-speed control circuit for a two-speed squirrel-cage motor.
+Installation Methods (PLC) - Level III
+ELCT 131
+Units/ Hours: 40
+Upon completion of this course, the apprentice will be able to:  State the functions and applications of a Programmable Logic Controller (PLC); determine language and addressing requirements of a PLC; demonstrate the programming of common relay instructions, timers, counters, mathematic functions, and word comparisons on a PLC; identify methods and hard wiring of PLC's to equipment; demonstrate methods of testing PLC inputs and outputs; and design programs to operate machines in a required manner using many of the internal functions of a PLC.
+Instrumentation - Level III
+ELCT  37
+Units/ Hours: 40
+Upon successful completion of this course, the apprentice will be able to:  describe the use and list the requirements for instrumentation air supplies; explain terminology of instrumentation systems; describe the operation and applications of proportional 3-15 psi pneumatic instrumentation systems; connect and adjust pneumatic control valves to current/pressure (I/P) and pressure/current (P/I) devices; calibrate typical pneumatic valves; explain the principles of ON/OFF control&; identify the four basic elements of a control system; explain the two general categories of automatic control and shielded cable in instrumentation systems; demonstrate shield grounding techniques; connect, program and test microprocessor based ultrasonic measuring transmitters; explain the operation and application of position measurement devices; install, connect and test resolver and shaft encoders; explain the principles of Proportional Integrated Derivative (PID) control; explain the advantages and limitations of the common methods of communicating instrumentation information; revise and explain control loops on instrumentation drawings.
+Pre-Exam: Electrician Construction and Maintenance
+ELCT 118
+Units/ Hours: 30
+This course is for those apprentices who are preparing to write the examination for their Certificate of Qualification. Classes are conducted in a very informal setting, and you will be encouraged to ask questions. Students who have taken these courses in the past have been very successful when writing the CFQ.
+Prints - Level III Construction & Maintenance
+ELCT  31
+Units/ Hours: 30
+Upon successful completion of this course, the apprentice will be able to: obtain installation details for a construction project from a complete set of drawings and specifications; develop complex single line, schematic and wiring diagrams; layout single- and three-phase systems for feeder and branch circuits from utility supply to utilization points; calculate pulling stresses on a conductor/cable; layout the grounding and bonding requirements for high-voltage indoor and outdoor substations and vaults; identify precautions for installing stress cones; describe the requirements for terminating shielded and concentric neutral high-voltage cables; and, describe the testing methods and safety requirements for testing high-voltage cables.

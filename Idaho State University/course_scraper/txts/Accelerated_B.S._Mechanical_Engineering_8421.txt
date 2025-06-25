@@ -1,0 +1,291 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/mechanicalengineering/accelerated-bs-mechanical-engineering/
+Accelerated B.S. Mechanical Engineering
+Accelerated BS to MS Program
+Students accepted into an accelerated undergraduate program may take departmentally approved graduate coursework as part of their undergraduate curriculum.  These credits will count towards both their bachelor's and master's degrees and can fulfill major requirements, upper-division requirements, and/or free electives.  For details on accelerated programs at Idaho State University, please see (
+Degree Requirements
+).
+Once accepted into an
+accelerated
+degree program, it is strongly recommended for students to stay in close communication with their advisor regarding pursuit of acceptance into the Graduate School and the master's degree program at Idaho State University. Acceptance into an
+accelerated
+program during the bachelor's degree program is the first step in the admissions process. A separate application to the Graduate School is necessary for all
+accelerated
+programs. For more information regarding application and admission to the Graduate School at Idaho State University, please see the Graduate Admissions section of the graduate catalog (
+http://coursecat.isu.edu/graduate/graduateadmissions/
+).
+Mechanical Engineering Accelerated Criteria
+This accelerated program gives outstanding bachelor's degree students in Mechanical Engineering a "fast-track" option to pursue graduate-level coursework towards the Master in Science degree (ME or MCE) during the last two semesters of undergraduate coursework and count up to 12 credits of that coursework towards completion of the bachelor's degree.  For details on application and admission into the Accelerated program in Mechanical Engineering, please see (
+Mechanical Engineering
+).
+Including the University General Education Requirements listed elsewhere (8 of the 9 General Education Objectives, a minimum of 36 credits--s
+ee the
+General Education Requirements
+in the Academic Information section of this catalog)
+, the program of study for the Bachelor of Science in Mechanical Engineering degree totals a minimum of 120 credits as follows:
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3-
+MATH 1170
+4
+Objective 4
+6
+Objective 5-
+CHEM 1111
+&
+CHEM 1111L
+,
+PHYS 2211
+9
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7
+Objective 8
+Objective 9
+3
+Total Credits
+40
+Additional Mathematics and Science Course Requirements:
+Course List
+Code
+Title
+Credits
+MATH 1170
+Calculus I (Satisfies General Education Objective 3)
+4
+MATH 1175
+Calculus II
+4
+MATH 2240
+Linear Algebra
+3
+MATH 2275
+Calculus III
+4
+MATH 3360
+Differential Equations
+3
+CHEM 1111
+General Chemistry I (Partially satisfies General Education Objective 5)
+4
+CHEM 1111L
+General Chemistry I Lab (Partially satisfies General Education Objective 5)
+1
+PHYS 2211
+Engineering Physics I (Partially satisfies General Education Objective 5)
+4
+The three previous courses together satisfy Objective 5.
+PHYS 2212
+Engineering Physics II
+4
+Total Credits
+31
+Mechanical Engineering Course Requirements:
+Course List
+Code
+Title
+Credits
+CE/ME 2210
+Engineering Statics
+1
+3
+CE/ME 3350
+Mechanics of Materials
+1
+3
+CE 3360
+Engineering Economics
+2-3
+or
+CE 3361
+Engineering Economics and Management
+ECE 2205
+Principles of Electrical Circuits
+3
+ME 1105
+Solid Modeling
+2
+ME 1165
+Structured Programming
+2
+CE/ME 2220
+Engineering Dynamics
+1
+3
+ME 3307
+Thermodynamics
+1
+3
+ME 3320
+Kinematics and Dynamics of Machinery
+1
+3
+ME 3322
+Mechanical Engineering Materials
+3
+ME 3323
+Machine Design
+3
+ME 3325
+Advanced Machine Design
+3
+CE/ME 3341
+Fluid Mechanics
+1
+3
+ME 4406
+Measurement Systems Laboratory
+1
+ME 4440/5540
+Vibration Analysis
+3
+ME 4443
+Thermal Fluids Laboratory
+1
+ME 4463
+Mechanical Systems Design
+3
+ME 4465
+Thermal Fluid System Design
+3
+ME 4473/5573
+Mechanical Control Systems
+3
+ME 4476
+Heat Transfer
+3
+ME 4496A
+Project Design I
+3
+ME 4496B
+Project Design II
+3
+ME Electives
+2
+6
+Total Credits
+65-66
+1
+Course may involve evening examinations and/or presentations.
+2
+Students are to consult with their advisors
+regarding other 5000 level courses available for the accelerated BS to MS program (4000/5000)
+For students interested in focusing their ME degree in the
+Systems
+area, suggested electives are:
+Course List
+Code
+Title
+Credits
+MATH 3350
+Statistical Methods
+3
+MATH 3352
+Introduction to Probability
+3
+ME 3355
+System Dynamics
+3
+ME 4415
+Model Theory
+3
+ME 4421/5521
+Engineering Modeling, Analysis, & Simulation
+3
+ME 4425/5525
+Mechatronics
+3
+ME 4464/5564
+Engineering Numerical Techniques
+3
+For students interested in focusing their ME degree in the
+Thermal/Fluids
+area, suggested electives are:
+Course List
+Code
+Title
+Credits
+ME 3355
+System Dynamics
+3
+CE 4435
+Hydraulic Design
+3
+ME 4451/5551
+Compressible Fluid Flow
+3
+ME 4421/5521
+Engineering Modeling, Analysis, & Simulation
+3
+ME 4464/5564
+Engineering Numerical Techniques
+3
+For students interested in focusing their ME degree in the
+Robotics and Mechanical Design
+area, suggested electives are:
+Course List
+Code
+Title
+Credits
+CE 4431
+Advanced Mechanics of Solids
+3
+ME 3353
+Manufacturing Processes
+3
+ME 4425/5525
+Mechatronics
+3
+ME 4421/5521
+Engineering Modeling, Analysis, & Simulation
+3
+ME 4464/5564
+Engineering Numerical Techniques
+3
+For students interested in focusing their ME degree in the
+Energy
+area, suggested electives are:
+Course List
+Code
+Title
+Credits
+ME 4421/5521
+Engineering Modeling, Analysis, & Simulation
+3
+ME 4464/5564
+Engineering Numerical Techniques
+3
+NE 3301
+Nuclear Engineering I
+3
+NE 3302
+Nuclear Engineering II
+3
+NE 4419
+Energy Systems and Nuclear Power
+3
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+40
+Major Requirements (Required General Education credits removed)
+83-84
+Free Electives
+0
+Total Credits
+123-124
+Master of Science in Mechanical Engineering

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# Data files
+*.csv
+
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+txts/
+jsons/
+txt_processed/
+json_processed/
+
+txts
+jsons
+txt_processed
+json_processed
+
+/txts
+/jsons
+/txt_processed
+/json_processed
+
+.env
+
+output/

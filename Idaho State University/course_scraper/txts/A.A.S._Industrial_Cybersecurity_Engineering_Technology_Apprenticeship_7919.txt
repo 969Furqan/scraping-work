@@ -1,0 +1,29 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/aas-industrial-cybersecurity-engr-tech-apprenticeship/
+A.A.S. Industrial Cybersecurity Engineering Technology Apprenticeship
+Program Admissions Requirements
+Industrial Cybersecurity Engineering Technology Apprenticeship is an online program that prepares students to safely and securely design, operate, and defend cyber-physical systems used in industrial and critical infrastructure environments while working full-time under a mentor. Students must have a mentor to enroll into the Apprenticeship program.
+Students pursuing the Apprenticeship option must complete all requirements of the AAS Industrial Cybersecurity Engineering Technology degree. Apprenticeship students will select the following courses as their twelve (12) credit options.
+Course List
+Code
+Title
+Credits
+ESET 1120
+Introduction to Energy Systems
+2
+ESET 1120L
+Introduction to Energy Systems Laboratory
+1
+ESET 1122
+Electrical Systems and Motor Control Theory
+3
+ESET 1122L
+Electrical Systems and Motor Control Theory Laboratory
+1
+ESET 2205
+Fundamentals of Control Logic
+3
+ESET 2242
+Practical Process Measurements and Control
+2
+Total Credits
+12

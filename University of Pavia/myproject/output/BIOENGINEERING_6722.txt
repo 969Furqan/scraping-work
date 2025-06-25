@@ -1,0 +1,213 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/bioengineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+Bioengineering, or Biomedical Engineering, focuses on the application of engineering principles in the fields of healthcare and life sciences. It arises from the intersection of various disciplines, including electronics, automation, computer science, mechanics, chemistry, biology, physiology, medicine, and economics. This field has evolved progressively, acquiring its own scientific and cultural autonomy, and currently represents a rapidly growing sector. The market for biomedical equipment has experienced steady expansion in recent decades, with prospects for further growth in the future.
+The increasing complexity of equipment has made it essential to have personnel with high technical and scientific skills within healthcare facilities. Furthermore, in recent years, there has been a significant expansion of biomedical applications based on information and communication technologies (ICT).
+The skills required of a bioengineer are diverse: from the ability to provide a methodological contribution in basic biomedical research or clinical practice, to the technological knowledge necessary for the development and use of innovative technologies, to managerial applications in various healthcare sectors. The degree program aims to train professionals capable of working effectively in these fields at the design, implementation, and management levels.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Paolo Magni
+Area
+Engineering
+Access
+Open
+Language
+Italian
+Degree class
+L-8 - Information technology engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+BIOINGEGNERIA
+Year of study:
+1
+Compulsory
+MATHEMATICAL ANALYSIS 1
+9
+							CFU -
+							 83 							hours
+1st semester
+MATHEMATICAL ANALYSIS 2
+9
+							CFU -
+							 83 							hours
+2nd semester
+BIOENGINEERING AND PHYSIOLOGY
+12
+							CFU -
+							 114 							hours
+Annual
+PHYSICS
+9
+							CFU -
+							 90 							hours
+2nd semester
+PRINCIPLES OF COMPUTER SCIENCE
+9
+							CFU -
+							 90 							hours
+Annual
+GEOMETRY AND ALGEBRA
+6
+							CFU -
+							 60 							hours
+1st semester
+CIRCUIT THEORY
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+BIOMECHANICS AND SIMULATION OF BIOMEDICAL DEVICES
+6
+							CFU -
+							 45 							hours
+BIOMEDICAL DATA ANALYSIS
+6
+							CFU -
+							 120 							hours
+ELECTRONICS I
+9
+							CFU -
+							 102 							hours
+PHYSICS II
+9
+							CFU -
+							 86 							hours
+DYNAMIC SYSTEMS & CONTROL
+9
+							CFU -
+							 140 							hours
+MEDICAL INFORMATICS
+12
+							CFU -
+							 174 							hours
+MATHEMATICAL METHODS
+9
+							CFU -
+							 88 							hours
+Year of study:
+3
+Compulsory
+BIOSIGNALS AND BIOIMAGES PROCESSING
+12
+							CFU -
+							 110 							hours
+CLINICAL ENGINEERING
+6
+							CFU -
+							 45 							hours
+INTERNET IN MEDICINE
+6
+							CFU -
+							 75 							hours
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+FINAL EXAM
+3
+							CFU -
+							 0 							hours
+BIOMEDICAL INSTRUMENTATION
+9
+							CFU -
+							 108 							hours
+18 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (18 CFU)
+ALGORITHMS AND DATA STRUCTURES
+6
+							CFU -
+							 45 							hours
+LABORATORY FINAL PROJECT
+6
+							CFU -
+							 135 							hours
+BIOPHOTONICS
+6
+							CFU -
+							 60 							hours
+COMPUTER ARCHITECTURE
+6
+							CFU -
+							 61 							hours
+CHEMISTRY
+6
+							CFU -
+							 45 							hours
+ECONOMICS
+6
+							CFU -
+							 45 							hours
+PRINCIPLES OF BIOROBOTICS
+6
+							CFU -
+							 51 							hours
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+BUSINESS MANAGEMENT
+6
+							CFU -
+							 50 							hours
+MECHATRONICS
+6
+							CFU -
+							 51 							hours
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+ENGINEERED CELLULAR SYSTEMS FOR THE PHARMACEUTICAL INDUSTRY)
+6
+							CFU -
+							 64 							hours
+TRAINEESHIP
+12
+							CFU -
+							 300 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The objective of the degree course is to produce professionals able to operate independently, at the planning, construction and management level, in the field of bio-medical engineering or bioengineering. By the end of the course, graduates will be able to identify, analyse, report on and resolve the main problems that arise in the sector; further, they will be able to build a flexible career that keeps pace with developments in technology.
+
+To this end, the course programme is structured to provide students with a grounding in physics, mathematics and engineering (electronics, information technology and robotics) as well as modules, e.g. biomedical instruments, information technology and medicine, clinical engineering and biomedical technologies. The teaching is both theory-based and practical, including extensive sessions of laboratory work. This approach provides students a solid theoretical and methodological foundation in order to furnish them with a lasting knowledge which also forms the basis for further learning once the degree course has ended.
+
+The eventual career progression of graduates in bioengineering is taken into account when designing the course modules. These include industrial producers and/or suppliers of systems and machinery, materials and/or software for: diagnosis, treatment and rehabilitation; public and private hospitals; national health service organisations; service companies for the management of machinery and medical equipment or telemedicine services.
+The aim of the course is to provide the students with the knowledge and skills required for further study at Masters level.
+Career opportunities
+Advanced nations face a dilemma: containing spending on health while also improving public services. New technologies will play a strategic role in solving the problems provided that there are enough competent, well-educated professionals on hand. An interdisciplinary course of engineering and biomedical sciences is justified by the requests that emerge from private companies and public health bodies.
+
+The natural field of work for Bioengineering graduates is in the health service and companies who operate in the biomedical technologies, pharmacology and medical IT sectors. Clinical engineers who oversee the running of biomedical instruments in health organisations are an ever-growing group. No less important are biomedical engineers who run biomedical databases and their use in clinical practices, making the most of appropriate analysis methods and multimedia presentations.
+
+As for the industrial sector, Italy is characterised by production enterprises of various sizes across the whole country but with a greater concentration in the north. In recent years, these companies have tended to employ engineers with specialist skills in the biomedical sector rather than engineering graduates from other backgrounds
+Admission requirements
+To access and successfully attend the bachelor's degree program, specific knowledge in mathematics and English language is considered indispensable, details of which will be specified in the Didactic Regulations of the degree course. Moreover, a good basic knowledge of physics and chemistry is deemed important. The Faculty offers students intending to enroll a test (entrance exam), the outcome of which assesses the student's overall competence in the aforementioned areas. Specifically concerning mathematics and English language, the same test determines any knowledge deficit of the student. For students with deficits, the Faculty organizes remedial courses with subsequent assessment and provides study tools and self-learning resources, particularly in the linguistic field. Math deficits must be remedied within the first year of the course, according to procedures established by the Didactic Regulations of the degree program. For English, passing the specific section of the entrance test or holding a certification from an accredited external body, or in the case of a deficit, passing a subsequent assessment, are necessary requirements for accessing the graduation exam.
+Academic Regulation
+Academic Regulation
+Useful information
+Assessment test
+How to apply
+Student Portal
+FAQ
+Watch the tutorial
+Contacts
+Incoming transfer
+Fees and funding
+Course website

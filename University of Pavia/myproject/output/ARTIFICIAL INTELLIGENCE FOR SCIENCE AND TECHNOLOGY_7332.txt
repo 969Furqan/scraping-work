@@ -1,0 +1,72 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/artificial-intelligence-science-and-technology
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+Artificial intelligence for science and technology
+Graduates of this program will possess strongly interdisciplinary knowledge and skills in a variety of fields that characterize artificial intelligence study programs according to the best international practices. They will receive a solid and comprehensive common education in the fundamentals of certain areas of computer science, mathematics, physics, and statistics, specifically focused on those that enable a deep understanding of the theoretical aspects and advanced techniques of artificial intelligence, as well as the foundations for its use in scientific, industrial, and technological innovation contexts.
+Additionally, they will receive the necessary legal and social education essential to understanding the constraints that limit the socially acceptable use of these techniques. Graduates will also have the opportunity to make some choices, based on their personal goals, to enrich this common education with additional knowledge and skills useful for applying artificial intelligence in advanced ways to complex systems in specific areas, such as industrial automation, environmental monitoring, embedded systems, biomedical and health systems, complex systems modeling, and systems for physics and quantum technologies.
+Graduates of this program will thus be able to contribute, based on constantly updated interdisciplinary knowledge and skills, to designing and implementing innovative solutions based on advanced artificial intelligence techniques for complex applications in both the public and private sectors. The Bachelor's degree program is delivered in English jointly with the University of Milan and the University of Milano-Bicocca.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Area
+Mathematic, Physical and Natural Sciences
+Access
+Open
+Language
+English
+Degree class
+LM-91 - Methods and techniques for the information society
+Department
+DEPARTMENT OF PHYSICS
+Location
+MILANO BICOCCA
+Overview of the program, goals and career opportunities
+Educational goals
+The international master's degree program in Artificial Intelligence for Science and Technology (taught in English) is specifically aimed at training graduate students specialized in advanced aspects of the theoretical foundations, techniques, methodologies, and usage of artificial intelligence in complex applications in scientific and technological fields, including industry, environment, biomedical systems, embedded systems, and complex physical systems. Graduates in Artificial Intelligence for Science and Technology will be able to significantly and effectively contribute to the dissemination and advancement of knowledge and skills in this discipline and its application areas, promoting technological innovation for complex problems and systems, fostering managerial modernization in companies and public administrations, and contributing innovatively and creatively to the economic and social development of the country.
+
+Graduates of this program will possess strongly interdisciplinary knowledge and skills in various areas characterizing artificial intelligence courses in the best international practices. They will receive a solid and in-depth common specialized training in the fundamentals of certain areas of computer science, mathematics, physics, and statistics, specifically focused on those that enable a thorough understanding of the theoretical aspects and advanced techniques of artificial intelligence, as well as the fundamentals for its use in scientific, industrial, and technological innovation contexts. Additionally, they will receive necessary training in organizational-management to understand, manage, and integrate information and communication technologies into companies, as well as legal training essential to understand the constraints limiting the socially acceptable use of artificial intelligence.
+
+Furthermore, graduates will have the opportunity to make choices, based on their personal goals, to enrich the common specialized training with additional knowledge and skills useful for applying artificial intelligence in advanced ways for complex systems in specific areas, such as industrial automation, environmental monitoring, embedded systems, biomedical systems and health, modeling of complex systems, physics, and quantum technologies.
+
+Graduates of this program will thus be able to contribute, based on continuously updated interdisciplinary knowledge and skills, to designing and implementing innovative solutions based on advanced artificial intelligence techniques for complex applications in both the public and private sectors.
+
+The master's degree program is structured with a succession of activities aimed at providing in-depth specialized knowledge and developing the necessary skills for entering the workforce with the ability to successfully address complex problems. The program is structured as follows:
+
+The first year typically includes advanced educational activities dedicated to the core of specialized training in artificial intelligence, mandatory for all students, in the areas of information and communication technologies, as well as their mathematical, statistical, and physical foundations.
+The first year also includes experimentation with artificial intelligence in application areas, through some recommended educational activities chosen by the student based on the selected application area offered by the degree program.
+In the second year, training is completed both in the 'Business-organizational' and 'Humanities, social, legal, and economic disciplines' areas.
+In the second year, it is also possible to deepen knowledge and skills in the chosen application area by selecting additional recommended educational activities, as well as freely choosing some courses based on personal cultural interests.
+Typically, in the second year, students deepen their understanding of artificial intelligence, also in application areas, through theoretical-experimental internship activities for the preparation of the thesis, aimed at refining knowledge and skills in a specific theoretical or applied topic, to be carried out in a university, institution, or company, in Italy or abroad.
+The educational path is completed with the final examination.
+Particular attention will be given not only to conceptual aspects but also to practical experimentation in laboratory-based educational activities, especially for courses more oriented towards the study of artificial intelligence usage in application areas, in order to facilitate entry into the workforce through immediately applicable practical skills.
+
+To ensure adequate homogenization and appropriate alignment of knowledge and skills of students coming from bachelor's degrees with diversified educational paths, even with a limited focus on information and communication technologies, activities covering specific themes will be offered to allow students to achieve, by the end of the first year, solid knowledge and skills in the areas of information and communication technologies, mathematics, and physics that are relevant for building upon the specific knowledge and skills offered by the artificial intelligence degree program. In particular, educational activities will be offered in the mathematical area to better support modeling in discrete and continuous systems, in the physical area to better support the observation, description, analysis, and modeling of elementary phenomena and systems, and in the area of information and communication technologies to better support data management, algorithm design, and the use of dedicated processing architectures and distributed processing systems.
+Career opportunities
+Specialist in Artificial Intelligence for Industry and Environment
+
+The Master's graduate will be able to operate in the design, implementation, and management of computer systems, including complex ones, for manufacturing and environmental industrial applications, as well as coordinate and lead workgroups in these areas. In particular, the Master's graduate can leverage their skills in artificial intelligence methodologies and techniques, signal and image processing, industrial automation, robotics, and environmental monitoring. This activity can be pursued, even as a freelance professional, in all sectors of the private and public sectors operating in industrial and environmental fields, as well as in the healthcare aspects of the environment. The main market segments include manufacturing industries, companies operating in smart environments (including smart buildings and smart cities) and intelligent infrastructures (including the energy sector and transportation), service companies, and public administrations operating in industrial, environmental, and environmental health sectors, research institutions, and universities providing technical support for research and experimentation activities in the knowledge and skills of this professional profile.
+
+Specialist in Artificial Intelligence for Intelligent Embedded Systems
+
+The Master's graduate will be able to work in the design, implementation, and management of computer systems, including complex ones, for intelligent embedded systems and their various application areas, as well as coordinate and lead workgroups in these areas. In particular, the Master's graduate can leverage their skills in artificial intelligence methodologies and techniques, signal and image processing, control, and human-system interaction. This activity can be pursued, even as a freelance professional, in all sectors of the private and public sectors operating in the field of embedded systems across a wide range of sectors, including industrial, biomedical, automotive, and transportation. The main market segments include companies in the consumer electronics area, biomedical companies, automotive and transportation companies, service companies, public administrations operating in industrial, environmental, biomedical, healthcare, automotive, and transportation sectors, research institutions, and universities providing technical support for research and experimentation activities in the knowledge and skills of this professional profile or requiring intelligent embedded systems for their activities.
+
+Specialist in Artificial Intelligence for Signal and Image Processing in Healthcare and Environment
+
+The Master's graduate will be able to work in the design, implementation, and management of computer systems, including complex ones, for signal and image processing applications in healthcare and environmental observation, as well as coordinate and lead workgroups in these areas. In particular, the Master's graduate can leverage their skills in artificial intelligence methodologies and techniques, sensor technology, signal and image processing, and knowledge extraction from environmental and biomedical images and signals. This activity can be pursued, even as a freelance professional, in all sectors of the private and public sectors operating in healthcare and environmental areas. The main market segments include companies operating in the production of components and systems for healthcare and the environment, service companies, and public administrations operating in the fields of health and the environment, research institutions, universities, and hospitals providing technical support for research, experimentation, diagnosis, and medical assistance activities in the knowledge and skills of this professional profile.
+
+Specialist in Artificial Intelligence for Complex Systems and Quantum Technologies
+
+The Master's graduate will be able to work in the design, implementation, and management of computer systems, including complex ones, for modeling, analysis, and simulation of physical systems and for applications based on quantum computing, as well as coordinate and lead workgroups in these areas. This activity can be pursued, even as a freelance professional, in all sectors of the private and public sectors that require modeling of complex physical systems and can benefit from the use of quantum approaches to information processing. The main market segments include companies operating in various sectors where modeling phenomena and complex physical systems is useful or adopting quantum approaches to addressing complex problems (including manufacturing industry, new materials, pharmaceutical and chemical industry, environmental management, healthcare), service companies and public administrations operating in these sectors, and research institutions and universities providing technical support for research and experimentation activities in the knowledge and skills of this professional profile.
+Admission requirements
+To be admitted to the Master's degree program in Artificial Intelligence for Science and Technology, candidates must hold a Bachelor's degree or a three-year university diploma, or an equivalent foreign qualification recognized as suitable. Basic knowledge of computer science, mathematics, statistics, and physics is required. Therefore, applicants must have obtained at least 30 CFU (University Credits) overall in the scientific-disciplinary sectors INF/01, ING-INF/05, ING-INF/03, from MAT/01 to MAT/09, from SECS-S/01 to SECS-S/06, and from FIS/01 to FIS/08. Additionally, admission requires a level of proficiency in the English language equivalent to or higher than level B2 to enable comprehension and participation in educational activities. The Educational Regulations of the Study Program determine the methods for assessing personal preparation.
+Academic Regulation
+Academic Regulation
+Useful information
+Course website

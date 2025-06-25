@@ -1,0 +1,1031 @@
+https://www.georgebrown.ca/programs/mobile-application-development-and-strategy-program-postgraduate-t440?year=2024
+
+Home
+Programs
+Mobile Application Development and Strategy Program (Postgraduate) T440
+Main Content
+Mobile Application Development and Strategy Program (Postgraduate) (T440)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Mobile Application Development and Strategy
+Code:
+T440
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, May, September
+Domestic Tuition:
+$5,860.00 * ‡
+International Tuition:
+$18,850.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work-Integrated Project
+Program Availability
+Semester
+Domestic
+International
+Fall
+2025
+Open
+Open
+Winter
+2026
+Open
+Opens Feb 3, 2025
+Spring
+2026
+Open
+Opens Jun 2, 2025
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The
+Mobile Application Development and Strategy
+one-year graduate certificate program will equip you with a wide variety of skills related to developing, testing and deploying apps for iOS and Android devices.
+If you apply to the May 2024/25 intake for this program, you will start in May 2025.
+Full Description
+The field of mobile application development is rapidly expanding within the IT industry. In our three-semester
+Mobile Application Development and Strategy
+graduate certificate program, you’ll gain a diverse skill set as you learn to design, test and launch apps for tablets and phones.
+We’ll highlight the top two mobile platforms – iOS and Android – and teach you Kotlin and Swift programming languages, which will set you up to develop mobile apps. We’ll cover client-side development tools like HTML 5, CSS3 and JavaScript, plus aspects of server-side programming to increase your knowledge as an app developer. You’ll also take part in either a co-op work term or an applied project, giving you the competitive edge you need to work in the industry.
+In this program, you’ll learn how to develop mobile apps from a business perspective, like performing competitive research and exploring revenue-generating ideas. You’ll also learn how to submit apps to the App Store and Android Market.
+Technology Requirements
+You'll need to have access to a personal computer with the following specifications:
+16 GB RAM minimum
+256 GB SSD Hard Drive (500+ GB is optimal)
+quad-core i7 2.4GHz or better
+video card (2GB RAM minimum/4GB RAM recommended)
+webcam
+Mac is recommended
+Your Field Education Options
+In semester 3, students complete a Work-Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+As a graduate of this program, you’ll be ready to take on roles such as:
+mobile developer
+iOS developer
+Android developer
+mobile engineer
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest Alumni Stories
+Courses
+Required Courses
+Semester 1
+Code
+Course name
+MADS 4001
+Introduction to Android Development
+MADS 4006
+Advanced Android Development
+MADS 4007
+Web Development Fundamentals
+MADS 4012
+Full Stack Development
+MADS 4013
+Introduction to Kotlin
+Semester 2
+Code
+Course name
+COMP 4064
+Career Planning and Portfolio Development
+MADS 4002
+Swift Fundamentals
+MADS 4003
+Introduction to IOS Development
+MADS 4005
+Advanced IOS Development
+MADS 4009
+Mobile Application Strategy
+MADS 4014
+Cross Platform Mobile Development
+Semester 3
+Code
+Course name
+MADS 4010
+Work-Integrated Project
+OR
+TCOP 4010
+Co-op
+Detailed course outlines
+Program Learning Outcomes
+Create meaningful design artifacts using modern software engineering methodologies and project management principles.
+Implement native mobile applications for different mobile platforms.
+Develop solution architectures for mobile applications by applying enterprise architecture principles and best practices.
+Develop creative concepts for mobile applications that meet innovation, entrepreneurship and social enterprise objectives.
+Develop secure mobile applications by implementing the security principles, standards and best practices of mobile application development.
+Develop usable, friendly, fast and reliable mobile applications by applying the principles and best practices of User Interface design and experience (UI/UX).
+Work independently and as a team member to develop mobile application solutions for a business.
+Use industry-standard testing methodologies to ensure software quality and improve software performance.
+Apply various strategies for developing competitive mobile applications.
+Tuition & Fees
+Domestic Tuition
+$5,860.00 * ‡
+International Tuition
+$18,850.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the
+first
+two semesters of the program starting in Fall
+2024
+. Fees are subject to change for programs starting in Fall 2025 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2025
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information. This program is available for funding through our partnership with
+Passage
+, who provide student loans to qualified international student applicants. To find out more about this opportunity, and if you may qualify, visit our
+Passage
+page.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid web pages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Two- or three-year college diploma or bachelor’s degree in Information Technology, Computer Science or a related field.
+ENGLISH LANGUAGE PROFICIENCY
+English language proficiency is essential. Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+Course Exmptions
+College or university credits may qualify you for course exemptions. Please visit the
+Transfer Guide
+for more information.
+Apply to
+Domestic students should apply through
+Ontario Colleges.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday - Friday, 9 a.m.–6 p.m.
+Program Co-ordinator: Maziar Masoudi
+Phone: 416-415-5000, ext. 3345
+Email:
+mmasoudi@georgebrown.ca
+International Students
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Visit Our Campus
+The Mobile Application Development and Strategy is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA
+Mobile Application Development and Strategy Program (Postgraduate) (T440)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Mobile Application Development and Strategy
+Code:
+T440
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, May, September
+Domestic Tuition:
+$6,137.00 * ‡
+International Tuition:
+$18,603.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2024 Delivery:
+Semester 1, 2: On Campus; Semester 3: Co-op
+Winter 2025 Delivery:
+Semester 1, 2: On Campus; Semester 3: Co-op
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Closed
+Closed
+Winter
+2025
+Open
+Open
+Spring
+2025
+Open
+Open
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The
+Mobile Application Development and Strategy
+one-year graduate certificate program will equip you with a wide variety of skills related to developing, testing, and deploying apps for iOS and Android devices.
+If you apply to the May 2024/25 intake for this program, you will start in May 2025. To begin your studies in May 2024, apply to the 2023/24 academic year.
+Full Description
+The field of mobile application development is rapidly expanding within the IT industry. In our three-semester
+Mobile Application Development and Strategy
+graduate certificate program, you'll gain a diverse skill set as you learn to design, test, and launch apps for tablets and phones.
+We'll highlight the top two mobile platforms––iOS and Android––and teach you Kotlin and Swift programming languages, which will set you up to develop mobile apps. We'll cover client-side development tools like HTML 5, CSS3, and JavaScript, plus aspects of server-side programming to increase your knowledge as an app developer. You'll also take part in either a co-op work term or an applied project, giving you the competitive edge you need to work in the industry.
+In this program, you'll learn how to develop mobile apps from a business perspective, like performing competitive research and exploring revenue-generating ideas. You'll also learn how to submit apps to the App Store and Android Market.
+Technology Requirements
+You'll need to have access to a personal computer with the following specifications:
+16 GB RAM minimum
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i7 2.4GHz or better
+Video card (2GB RAM minimum/4GB RAM recommended)
+Webcam
+Mac is recommended
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+As a graduate of this program, you'll be ready to take on roles such as:
+mobile developer
+iOS developer
+Android developer
+mobile engineer
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest Alumni Stories
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2024-2025
+SEMESTER 1
+Code
+Course name
+MADS 4001
+Introduction to Android Development
+MADS 4006
+Advanced Android Development
+MADS 4007
+Web Development Fundamentals
+MADS 4012
+Full Stack Development
+MADS 4013
+Introduction to Kotlin
+SEMESTER 2
+Code
+Course name
+MADS 4002
+Swift Fundamentals
+MADS 4003
+Introduction to IOS Development
+MADS 4005
+Advanced IOS Development
+MADS 4009
+Mobile Application Strategy
+MADS 4014
+Cross Platform Mobile Development
+COMP 4064
+Career Planning and Portfolio Development
+SEMESTER 3
+Code
+Course name
+TCOP 4010
+Co-op
+OR
+MADS 4010
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+Create meaningful design artifacts using modern software engineering methodologies and project management principles.
+Implement native mobile applications for different mobile platforms.
+Develop solution architectures to support mobile applications by applying enterprise architecture principles and best practices.
+Develop creative concepts for mobile applications that meet innovation, entrepreneurship and social enterprise objectives.
+Develop secure mobile applications by implementing the security principles, standards and best practices of mobile application development.
+Develop usable, friendly, fast and reliable mobile applications by applying the principles and best practices of User Interface design and experience (UI/UX).
+Work independently and as a team member to develop mobile application solutions for a business.
+Use industry-standard testing methodologies to ensure software quality and improve software performance.
+Apply various strategies for developing competitive mobile applications.
+Tuition & Fees
+Domestic Tuition
+$6,137.00 * ‡
+International Tuition
+$18,603.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the
+first
+two semesters of the program starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information. This program is available for funding through our partnership with
+Passage
+, who provide student loans to qualified international student applicants. To find out more about this opportunity, and if you may qualify, visit our
+Passage
+page.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid webpages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Two- or three-year college diploma or bachelor's degree in Information Technology, Computer Science, or a related field.
+ENGLISH LANGUAGE PROFICIENCY
+English language proficiency is essential. Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+Course Exmptions
+College or university credits may qualify you for course exemptions. Please visit the
+Transfer Guide
+for more information.
+Apply to
+Domestic students should apply through
+Ontario Colleges.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday, Tuesday, Thursday and Friday: 9 – 6 p.m.
+Wednesday: 9 – 4 p.m.
+Program Co-ordinator: Maziar Masoudi
+Phone: 416-415-5000, ext. 3345
+Email:
+mmasoudi@georgebrown.ca
+International Students
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Visit Our Campus
+The Mobile Application Development and Strategy is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA

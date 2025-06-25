@@ -1,0 +1,120 @@
+URL: https://catalog.oakland.edu/preview_program.php?catoid=59&poid=11935
+
+Dec 18, 2024
+2023-2024 Undergraduate Catalog
+Select a Catalog
+2024-2025 Undergraduate Catalog
+2024-2025 Graduate Catalog
+2023-2024 Professional and Continuing Education Catalog
+2023-2024 Undergraduate Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Catalog [ARCHIVED CATALOG]
+2022-2023 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2021-2023 Graduate Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+2021-2022 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-2021 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Catalog [ARCHIVED CATALOG]
+2019-2020 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2019-2021 Graduate Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Catalog [ARCHIVED CATALOG]
+2018-2019 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Catalog [ARCHIVED CATALOG]
+2017-2019 Graduate Catalog [ARCHIVED CATALOG]
+2017-2018 Professional and Continuing Education Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Catalog [ARCHIVED CATALOG]
+2015-2017 Graduate Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Catalog [ARCHIVED CATALOG]
+2013-2014 Undergraduate Catalog [ARCHIVED CATALOG]
+2013-2014 Graduate Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Catalog [ARCHIVED CATALOG]
+2012-2013 Graduate Catalog [ARCHIVED CATALOG]
+2011-2012 Undergraduate Catalog [ARCHIVED CATALOG]
+2011-2012 Graduate Catalog [ARCHIVED CATALOG]
+2010-2011 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-21 Syllabus [ARCHIVED CATALOG]
+2018-19 Syllabus [ARCHIVED CATALOG]
+2017-18 Syllabus [ARCHIVED CATALOG]
+2019-20 Syllabus [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Colleges and Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Course Descriptions
+Programs
+NEW Programs 2023-2024
+Combined Bachelor/Masters
+Schools and Colleges
+Departments and Programs
+Register for Classes
+Schedule of Classes
+Interdisciplinary Studies, BIS
+International Education
+General Education Requirements
+Admissions
+Tuition and Financial Aid
+Graduate School
+University Libraries
+My Portfolio
+HELP
+2023-2024 Undergraduate Catalog
+[ARCHIVED CATALOG]
+Computer Science, B.S., Specialization in Artificial Intelligence
+Print Degree Planner (opens a new window)
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Department Website
+The Department of Computer Science and Engineering offers an optional specialization in Artificial Intelligence to students interested in broadening their knowledge in this specific area of computer science and wishing this area of specialization in their degree. The specialization is available to, but not required of, any student enrolled in the Bachelor of Science degree in Computer Science. The specialization will be noted on the transcript and diploma of the students.
+Schedule of Classes
+Specific offerings for each semester may be found in the
+Schedule of Classes
+.
+Artificial Intelligence Specialization
+To earn a Bachelor of Science degree in Computer Science with a specialization in Artificial Intelligence, students must complete the following sequence of courses to satisfy their professional track and professional electives requirements of the Bachelor of Science degree in Computer Science. Students who are interested in the specialization are advised to select the Computational Intelligence Track. See
+Computer Science, B.S.
+for degree requirements.
+In general, students may require up to 131 credits to complete the specialization. However, by careful selection of courses students may be able to complete the specialization with no more than 128 credits. Students who are interested in the specialization should consult an academic adviser for guidance on course selection.
+Primary Subject
+Select one of the following courses
+CSI 4130 - Artificial Intelligence
+(4)
+CSI 4140 - Deep Learning and Applications
+(4)
+CSI 4170 - Machine Learning
+(4)
+Additional Subjects
+Select additional three courses from the following
+CSI 4130 - Artificial Intelligence
+(4)
+CSI 4140 - Deep Learning and Applications
+(4)
+CSI 4170 - Machine Learning
+(4)
+CSI 4180 - Natural Language Processing
+(4)
+CSI 4550 - Visual Computing
+(4)
+CSI 4810 - Information Retrieval and Knowledge Discovery
+(4)
+Note
+Students can substitute one of the additional subjects with at least 3 credits of CSI 4900 (Special Topics), CSI 4995 (Undergraduate Research), or
+CSI 4996
+(Independent Study) provided that the coursework is in the area of artificial intelligence. Approvals of both the instructor and the chair of the Department of Computer Science and Engineering are required for such a substitution.
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+

@@ -1,0 +1,141 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/finance
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The program is conducted in English and aims to train highly qualified professionals for international careers in the financial sector. Graduates will be able to develop and master specific skills in quantitative finance, with a particular focus on portfolio management, derivative pricing, and risk assessment. The curriculum includes courses in econometrics, statistics (including machine learning), economics, mathematics, stochastic calculus, and coding. In addition to a solid theoretical foundation, the program emphasizes applied skills to meet the needs of an increasingly technology-driven sector. The courses are taught by faculty from the Departments of Economics, Physics, and Mathematics.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Benedetta Ferrario
+Area
+Economics
+Access
+Open
+Language
+English
+Degree class
+LM-16 - Finance
+Department
+DEPARTMENT OF ECONOMICS AND MANAGEMENT
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+FINANCE
+Year of study:
+1
+Compulsory
+CAPITAL MARKETS AND EU COMPANY LAW
+6
+							CFU -
+							 44 							hours
+1st semester
+ECONOMETRICS
+6
+							CFU -
+							 44 							hours
+2nd semester
+FIRM VALUATION AND CAPITAL MARKET INSTRUMENTS
+6
+							CFU -
+							 44 							hours
+1st semester
+PROBABILITY AND STOCHASTIC PROCESSES
+9
+							CFU -
+							 66 							hours
+1st semester
+QUANTITATIVE FINANCE
+6
+							CFU -
+							 44 							hours
+2nd semester
+TOPICS IN PORTFOLIO MANAGEMENT
+6
+							CFU -
+							 44 							hours
+2nd semester
+Choose a subject
+ECONOMIC MODELS
+9
+							CFU -
+							 66 							hours
+1st semester
+REAL ANALYSIS
+9
+							CFU -
+							 66 							hours
+1st semester
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ALGORITHMS FOR OPTIMIZATION
+6
+							CFU -
+							 44 							hours
+2nd semester
+COMPUTATIONAL METHODS
+6
+							CFU -
+							 44 							hours
+2nd semester
+LABORATORY ON QUANTITATIVE FINANCE
+3
+							CFU -
+							 22 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+APPLIED FINANCE
+6
+							CFU -
+							 44 							hours
+ASSET PRICING AND MACROECONOMICS
+9
+							CFU -
+							 66 							hours
+FINANCIAL ECONOMETRICS
+9
+							CFU -
+							 66 							hours
+FINAL EXAM
+24
+							CFU -
+							 0 							hours
+STATISTICS FOR FINANCE
+9
+							CFU -
+							 66 							hours
+Choose a subject
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 30 							hours
+LABORATORY ON FINANCIAL MANAGEMENT AND ETHICAL BEHAVIOUR
+3
+							CFU -
+							 44 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The master's degree course in Finance is offered to students, including foreigners, in possession of a three-year degree, or equivalent qualification, in economic, scientific (mathematics and physics) or technological subjects. The master's degree in Finance aims to offer its students a general education, which includes knowledge of the interpretative models of quantitative finance and mastery of statistical and econometric techniques, with the dual aim of allowing graduates to enter professionally in the most advanced segments of the financial services industry, i.e. those most involved in product and process innovation, and to be able to contribute to the process of change that the digitalisation of the sector imposes on all its operators. The training offered is aimed at the student achieving a high level of specialization in mathematical, statistical and IT techniques applied to financial markets and at acquiring full mastery of the tools to: 1. Determine the value of financial assets consistently with the prices of products traded on the market; 2. Measure the risk of financial products and portfolios with econometric techniques and prepare risk hedging techniques with both static and dynamic optimization tools; 3. Design quantitative tools for optimal portfolio management that are able to merge the information contained in historical data and that implicit in the current evaluation of financial products; 4. Analyze large databases with artificial intelligence and machine learning techniques. The training course is divided into four semesters and takes place entirely in English and is structured as follows: 1. acquisition of the specific knowledge of mathematics and theory of stochastic processes necessary for understanding quantitative finance models; 2. acquisition of knowledge of macroeconomics and economic models for the evaluation of financial assets; 3. acquisition of knowledge of statistics and econometrics for risk assessment and the specification and estimation of models for asset pricing and portfolio allocation; 4. acquisition of skills in the field of programming with Python and Matlab and the simulation of complex systems; 5. acquisition of elements of corporate finance, economics of financial intermediaries and financial market law. The training process ends with the development and discussion of a degree dissertation which will ascertain the student's analytical skills, his ability to express himself in the English language and the ability to tackle complex problems using the theoretical and quantitative tools offered. from the degree course. The thesis may also have as its object the development, within a multinational company, an international institution, or a national and/or international research body, of a project previously agreed between the supervisor designated by the Department and the manager at the host structure.
+Career opportunities
+Expert in quantitative finance,the LM in Finance prepares you for a job placement in: Investment Banks and Asset Management Companies (SGR), Consulting Companies, Supervisory Authorities and Central Banks, Insurance, Fintech and Trading, Venture Capital, Companies financial consultancy, banks, central banks, control and regulatory institutions. Study centers. The professional roles that master's degree graduates in Finance can access are those of the risk manager, the quantitative analyst for portfolio management, the strategic analyst within savings management companies, the quantitative analyst for fintech and trading.
+Admission requirements
+To be admitted to the master's degree course, the student must be in possession of a degree (including that obtained according to the regulations previously in force in Ministerial Decree 509/1999 and subsequent amendments and additions) or a three-year university diploma, or another qualification studies obtained abroad, recognized as suitable by the competent bodies of the University. Admission also requires possession of the curricular requirements specified below and the adequacy of the student's initial preparation verified through an interview, the implementation methods of which are defined from year to year in the Teaching Regulations of the Course of Studies. Since this is a Master's Degree Course carried out entirely in English, knowledge of this language equal to level B2 according to the European classification is required; To be admitted to the Master's Degree Course, the candidate must possess the following minimum curricular requirements: • at least n. 6 credits in one or more of the following SSDs in economics: SECS-P/01, SECS-P/02, SECS-P/03, SECS-P/05, SECS-P/06; • at least n. 6 credits in one or more of the following SSDs in the statistical-mathematical field: SECS-S/01, SECS-S/02, SECS-S/03, SECS-S/05, SECS-S/06, MAT/06; • at least n. 3 credits relating to the IT area; • at least n. 6 credits relating to English language courses, corresponding to a knowledge of this language equal to level B2 according to the European classification. or must have obtained a degree in one of the following classes: CLASS L-08 Degrees in Information Engineering; CLASS L-09 Degrees in Industrial Engineering; CLASS L-30 Degrees in Physical Sciences and Technologies; CLASS L-31 Degrees in Computer Science and Technology; CLASS L-35 Degrees in Mathematical Sciences; CLASS L-41 Degrees in Statistics. A margin of tolerance is allowed, with respect to the satisfaction of the minimum curricular requirements illustrated above, the method of which will be established in the Teaching Regulations.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Fees and funding
+Student Portal
+Contacts

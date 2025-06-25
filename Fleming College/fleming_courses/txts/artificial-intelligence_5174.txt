@@ -1,0 +1,845 @@
+URL: https://flemingcollege.ca/programs/artificial-intelligence
+
+Home
+»
+Home
+»
+Programs
+»
+Artificial Intelligence
+Artificial Intelligence
+As the role of automation expands in all industries, Artificial Intelligence professionals are in high demand. This unique, hybrid, two semester post graduate program meets this growing need for talented individuals equipped with the knowledge, skills, and tools to implement AI and machine learning technologies in different industries. Our unique learning environment and hands on training will prepare students for this emerging trend.
+Program Information
+Start Date
+January 06, 2025
+Sutherland Campus
+September 02, 2025
+Sutherland Campus
+January 05, 2026
+Sutherland Campus
+January 06, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+AI
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Manan Kaushikbhai Patel
+Program Coordinator
+Domestic Tuition
+$2508.03
+per semester*
+International Tuition
+$9738.74
+per semester*
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+2 semesters
+September 02, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+AI
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Manan Kaushikbhai Patel
+Program Coordinator
+Domestic Tuition
+$2709.22
+per semester*
+International Tuition
+$9738.74
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+2 semesters
+January 05, 2026
+Domestic Availability
+Accepting Applications
+International Availability
+Closed
+Program Code
+AI
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Manan Kaushikbhai Patel
+Program Coordinator
+Domestic Tuition
+$2709.22
+per semester*
+International Tuition
+$9738.74
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+2 semesters
+Program Highlights
+Artificial Intelligence (AI) is a two-semester Ontario College Graduate Certificate where students learn how to design and create software by embedding AI into applications that meet industry needs. Modern software design and AI frameworks, machine learning, and big data fundamentals are the basis of this program.
+This program will be delivered in a hybrid format with online lectures and face-to-face computer labs where students will apply their knowledge and skills to applied projects. The program also includes applied research and applied learning experiences throughout the curriculum culminating in a second semester capstone project course.
+Students will learn to obtain and analyze data sets in deep learning and machine learning applications, work collaboratively using principles of project management, and design and create software to fulfil industry project requirements. All work completed in the program will be in accordance with relevant legal statutes and ethical codes. In addition to gaining technical knowledge, students will expand their skills in project and time management, collaboration, independent initiative, and communication.
+Why are these skills in demand?
+Artificial Intelligence is transforming the way we do business, our economy, and our society. It increases the velocity, efficiency and accuracy of human efforts and is being widely adopted across most industries. The Artificial Intelligence sector is one of the fastest growing disruptive technologies in the industry, with projected labour shortages over the next 10 years. Emerging trends in industry include the integration of AI in industry/trades training, integrated applications, manufacturing, and gaming.
+Why Choose Fleming
+You will benefit from our established reputation in related fields of study, as well as strong support from our industry partners. Our state-of-the-art facilities feature the latest software, and leading-edge technology to ensure you will graduate with an advantage.
+Experiential Learning
+The program features a workplace applied project in the second semester. This allows you to interact with industry partners, building your collaboration and communication skills at the same time as gaining real-world experience and knowledge in your area of study. Throughout the program, you will gain applied, hands-on experience in our leading-edge labs.
+Career Opportunities
+The options for careers in the field are varied across both the private and public sector, and include:
+AI Engineer / Programmer
+Business Intelligence Developer
+Data Analyst
+Research Scientist / Engineer
+Software Engineer / Architect
+Machine Learning Engineer
+Data Scientist / Analyst / Architect
+Interactive Media and simulation Developer
+Game Developer
+Application Architect
+Programmer Analyst
+Minimum Admission Requirements
+Completion of an Ontario College Diploma, Ontario College Advanced Diploma, degree or equivalent with a focus in computer studies, technology, engineering, analytics, mathematics, or statistics, OR an acceptable combination of related work experience and post-secondary education. Proof of English language proficiency will also be required.
+Learning Outcomes
+Analyze and apply datasets and data mining principles to meet machine learning software project requirements.
+Recommend different systems architectures and data storage technologies to support data analytics.
+Design and apply deep/machine learning algorithms and models to meet client project specifications.
+Develop NLP Algorithm to analyze information from structured and unstructured data.
+Communicate and collaborate effectively with colleagues and clients though all stages of artificial intelligence software creation and production to meet project objectives.
+Apply project management principles to successfully complete software development projects to client specifications.
+Implement data solutions in compliance with corporate policies, ethical standards, and industry regulations.
+Design Artificial Intelligence applications using appropriate algorithm and platform to maximize the end-user experience.
+Analyze, design, and implement artificial intelligence (AI) systems through the application of systematic approaches and methodologies to meet organizational needs.
+Extract media information and integrate artificial intelligence elements to meet industry project requirements.
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10
+Processor:
+Core i5 - 1.6Ghz minimum
+Memory:
+8GB minimum
+Hard Disk:
+160GB minimum
+Internet Connection: 2.5 Mbps Download and 3.0 Mbps Upload (minimum)
+Students are required to have their own computer, internet access, webcam and microphone.
+Some required software applications are not available for MAC OS or Chromebook.
+Transfer Agreements
+You may be able to use credits obtained at Fleming College to continue your postsecondary education in pursuit of a degree.  The articulation and credit transfer agreements with our partner institutions are summarized here.
+Griffith University
+Master of Information Technology
+Requirement
+Minimum B cumulative program average.
+Bachelor's degree in any discipline.
+The program is offered face-to-face (Gold Coast campus) or online.
+Transfer Credit
+40 credit points out of a 160-credit point degree.
+Review the articulation agreement for further details.
+To apply please see the
+Griffith University's admissions
+website.
+For more information
+Visit the
+Griffith University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+University of Niagara Falls
+Master of Data Analytics
+Requirement
+Minimum 3.0 cumulative program Grade Point Average (GPA).
+Minimum grade of 3.0 GPA (B) in each course will be given transfer credit equivalencies.
+Undergraduate degree equivalent to the four-year honours degree standard identified in the PEQAB Degree Level Standard and the Ontario Qualifications Framework, in an appropriate specialization or relevant bridging studies, with a CGPA of 3.0 (on a 4.33 scale).
+Transfer Credit
+9 out of a 45-credit degree.
+Refer to the University of Niagara Falls' website for further details.
+To apply please see the
+University of Niagara Falls' admissions
+website.
+For more information
+Visit the
+University of Niagara Falls website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+You might also be interested in:
+Computer Engineering Technician
+Program Code:
+CTN
+Ontario College Diploma
+Sutherland Campus
+September 2025
+Check Availability
+Computer Security and Investigations
+Program Code:
+CSI
+Ontario College Advanced Diploma
+Sutherland Campus
+September 2025, January 2026
+Check Availability
+Wireless Information Networking
+Program Code:
+WIN
+Ontario College Graduate Certificate
+Sutherland Campus
+May 2025, September 2025, January 2026, May 2026
+Check Availability
+Program Delivery Options
+Program Availability
+Go to the
+program page
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 215.71
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2508.03
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2036.82
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+International Health Plan
+$ 844.10
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 9738.74
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 8639.14
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2709.22
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2709.22
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+International Health Plan
+$ 844.10
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 9738.74
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 8639.14
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2709.22
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1500.00
+Total
+$ 2709.22
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+International Health Plan
+$ 844.10
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 9738.74
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8102.32
+Total
+$ 8639.14
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  January 2025
+Semester 1
+Delivery: In Person
+Applied Machine Learning
+COMP 647
+Units/ Hours: 60
+Fundamental concept and knowledge of machine learning will be covered in this course using Python and MATLAB. This includes supervised and unsupervised learning (e.g., support vector machine, clustering, neural network), mathematical and probative approaches. Students will have an opportunity to experiment with machine teaming solutions on various datasets.
+Cloud Computing for AI
+COMP 648
+Units/ Hours: 60
+This course offers the student both theory and lab work that examines modern cloud technologies and `everything-as-a-service (EAAS) and explore the Machine learning and AI workbench in cloud. The students will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today for AI, Data Science Analytics and Engineering. Also, security and disaster recovery strategies will be studied and applied.
+Data and Ethics
+LAWS 333
+Units/ Hours: 14
+Data governance is the management of the availability, usability, integrity and security of data and information. Legal, ethical, and organizational frameworks all must be considered whenever working presenting information from data. Reviewing studies and applicable legislation students will learn to exercise ethical judgement in the use of data for an organization while also protecting the rights of groups and individuals.
+Introduction to Data Analysis
+COMP 646
+Units/ Hours: 60
+The focus of this is to explore the analytical and Statistical methods and tools used to process and visualize data. In this course, students will learn the essential concept of data analysis using Python programming. Students will work with Python tools and libraries for AI algorithms in a lab environment.
+Linear Algebra and Statistics for Machine Learning
+BUSN 266
+Units/ Hours: 60
+This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. Students will learn the fundamentals of working with data in vector and matrix form and formulate machine learning tasks.
+Technical Project Management
+BUSN 254
+Units/ Hours: 21
+This is a multi-disciplinary course designed to help students develop their skills in managing technical project management methods. Students will learn how to plan a project and work toward achieving their project goals.
+Semester 2
+Delivery: In Person
+AI and ML Capstone Project
+APST 180
+Units/ Hours: 45
+This course allows students to work through a guided project from design, development to implementation. This team-based project will provide students the opportunity to demonstrate their combined knowledge in AI, machine learning. Students will be challenged to assign responsibilities, create, and maintain satisfactory working relationships with the client, accept feedback, meet project deadlines, manage the production of deliverables to industry standards, and formally present their findings.
+Deep Learning
+COMP 650
+Units/ Hours: 60
+This deep learning course is based in the Python programming language and will provide students with experience in pandas, matplot, numpy and TensorFlow. Students will have the opportunity to implement different types of Deep learning algorithms, such as Convolution Neural Networks, Recurrent Networks, Generative Adversarial Networks, and Autoencoders. Students will train neural networks and create neural network architectures in TensorFlow.
+Machine Vision and Image Processing
+COMP 649
+Units/ Hours: 60
+This course introduces basic knowledge and concepts of Machine Vision, including image processing, pattern recognition, and object tracking. To gain practical experience in this field, students will use the industry standard OpenCV library for developing Machine Vision applications. Students will create real-time applications, such as games or simulations, using image and video processing techniques.
+Natural Language Processing
+COMP 652
+Units/ Hours: 60
+By the end of this course, students should have a broad understanding of the field of natural language processing. They should have a sense of the capabilities and limitations of current natural language technologies, and some of the algorithms and techniques that underlie these technologies. They should also understand the theoretical underpinnings of natural language processing in linguistics and formal language theory.
+Social Media Analytics
+COMP 651
+Units/ Hours: 60
+This course introduces the core concepts of social media analytics. An introduction to social media, the foundations, the foundations of collecting and storing social media data and how to use AI and ML tools to analyze social media data. Also, the course provided students with hands on practices and the opportunity to build, train and apply models that analyze social media data.
+Courses and Descriptions
+Curriculum:  September 2025
+Semester 1
+Delivery: In Person
+Applied Machine Learning
+COMP 647
+Units/ Hours: 60
+Fundamental concept and knowledge of machine learning will be covered in this course using Python and MATLAB. This includes supervised and unsupervised learning (e.g., support vector machine, clustering, neural network), mathematical and probative approaches. Students will have an opportunity to experiment with machine teaming solutions on various datasets.
+Cloud Computing for AI
+COMP 648
+Units/ Hours: 60
+This course offers the student both theory and lab work that examines modern cloud technologies and `everything-as-a-service (EAAS) and explore the Machine learning and AI workbench in cloud. The students will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today for AI, Data Science Analytics and Engineering. Also, security and disaster recovery strategies will be studied and applied.
+Data and Ethics
+LAWS 333
+Units/ Hours: 14
+Data governance is the management of the availability, usability, integrity and security of data and information. Legal, ethical, and organizational frameworks all must be considered whenever working presenting information from data. Reviewing studies and applicable legislation students will learn to exercise ethical judgement in the use of data for an organization while also protecting the rights of groups and individuals.
+Introduction to Data Analysis
+COMP 646
+Units/ Hours: 60
+The focus of this is to explore the analytical and Statistical methods and tools used to process and visualize data. In this course, students will learn the essential concept of data analysis using Python programming. Students will work with Python tools and libraries for AI algorithms in a lab environment.
+Linear Algebra and Statistics for Machine Learning
+BUSN 266
+Units/ Hours: 60
+This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. Students will learn the fundamentals of working with data in vector and matrix form and formulate machine learning tasks.
+Technical Project Management
+BUSN 254
+Units/ Hours: 21
+This is a multi-disciplinary course designed to help students develop their skills in managing technical project management methods. Students will learn how to plan a project and work toward achieving their project goals.
+Semester 2
+Delivery: In Person
+AI and ML Capstone Project
+APST 180
+Units/ Hours: 45
+This course allows students to work through a guided project from design, development to implementation. This team-based project will provide students the opportunity to demonstrate their combined knowledge in AI, machine learning. Students will be challenged to assign responsibilities, create, and maintain satisfactory working relationships with the client, accept feedback, meet project deadlines, manage the production of deliverables to industry standards, and formally present their findings.
+Deep Learning
+COMP 650
+Units/ Hours: 60
+This deep learning course is based in the Python programming language and will provide students with experience in pandas, matplot, numpy and TensorFlow. Students will have the opportunity to implement different types of Deep learning algorithms, such as Convolution Neural Networks, Recurrent Networks, Generative Adversarial Networks, and Autoencoders. Students will train neural networks and create neural network architectures in TensorFlow.
+Machine Vision and Image Processing
+COMP 649
+Units/ Hours: 60
+This course introduces basic knowledge and concepts of Machine Vision, including image processing, pattern recognition, and object tracking. To gain practical experience in this field, students will use the industry standard OpenCV library for developing Machine Vision applications. Students will create real-time applications, such as games or simulations, using image and video processing techniques.
+Natural Language Processing
+COMP 652
+Units/ Hours: 60
+By the end of this course, students should have a broad understanding of the field of natural language processing. They should have a sense of the capabilities and limitations of current natural language technologies, and some of the algorithms and techniques that underlie these technologies. They should also understand the theoretical underpinnings of natural language processing in linguistics and formal language theory.
+Social Media Analytics
+COMP 651
+Units/ Hours: 60
+This course introduces the core concepts of social media analytics. An introduction to social media, the foundations, the foundations of collecting and storing social media data and how to use AI and ML tools to analyze social media data. Also, the course provided students with hands on practices and the opportunity to build, train and apply models that analyze social media data.
+Courses and Descriptions
+Curriculum:  January 2026
+Semester 1
+Delivery: In Person
+Applied Machine Learning
+COMP 647
+Units/ Hours: 60
+Fundamental concept and knowledge of machine learning will be covered in this course using Python and MATLAB. This includes supervised and unsupervised learning (e.g., support vector machine, clustering, neural network), mathematical and probative approaches. Students will have an opportunity to experiment with machine teaming solutions on various datasets.
+Cloud Computing for AI
+COMP 648
+Units/ Hours: 60
+This course offers the student both theory and lab work that examines modern cloud technologies and `everything-as-a-service (EAAS) and explore the Machine learning and AI workbench in cloud. The students will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today for AI, Data Science Analytics and Engineering. Also, security and disaster recovery strategies will be studied and applied.
+Data and Ethics
+LAWS 333
+Units/ Hours: 14
+Data governance is the management of the availability, usability, integrity and security of data and information. Legal, ethical, and organizational frameworks all must be considered whenever working presenting information from data. Reviewing studies and applicable legislation students will learn to exercise ethical judgement in the use of data for an organization while also protecting the rights of groups and individuals.
+Introduction to Data Analysis
+COMP 646
+Units/ Hours: 60
+The focus of this is to explore the analytical and Statistical methods and tools used to process and visualize data. In this course, students will learn the essential concept of data analysis using Python programming. Students will work with Python tools and libraries for AI algorithms in a lab environment.
+Linear Algebra and Statistics for Machine Learning
+BUSN 266
+Units/ Hours: 60
+This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. Students will learn the fundamentals of working with data in vector and matrix form and formulate machine learning tasks.
+Technical Project Management
+BUSN 254
+Units/ Hours: 21
+This is a multi-disciplinary course designed to help students develop their skills in managing technical project management methods. Students will learn how to plan a project and work toward achieving their project goals.
+Semester 2
+Delivery: In Person
+AI and ML Capstone Project
+APST 180
+Units/ Hours: 45
+This course allows students to work through a guided project from design, development to implementation. This team-based project will provide students the opportunity to demonstrate their combined knowledge in AI, machine learning. Students will be challenged to assign responsibilities, create, and maintain satisfactory working relationships with the client, accept feedback, meet project deadlines, manage the production of deliverables to industry standards, and formally present their findings.
+Deep Learning
+COMP 650
+Units/ Hours: 60
+This deep learning course is based in the Python programming language and will provide students with experience in pandas, matplot, numpy and TensorFlow. Students will have the opportunity to implement different types of Deep learning algorithms, such as Convolution Neural Networks, Recurrent Networks, Generative Adversarial Networks, and Autoencoders. Students will train neural networks and create neural network architectures in TensorFlow.
+Machine Vision and Image Processing
+COMP 649
+Units/ Hours: 60
+This course introduces basic knowledge and concepts of Machine Vision, including image processing, pattern recognition, and object tracking. To gain practical experience in this field, students will use the industry standard OpenCV library for developing Machine Vision applications. Students will create real-time applications, such as games or simulations, using image and video processing techniques.
+Natural Language Processing
+COMP 652
+Units/ Hours: 60
+By the end of this course, students should have a broad understanding of the field of natural language processing. They should have a sense of the capabilities and limitations of current natural language technologies, and some of the algorithms and techniques that underlie these technologies. They should also understand the theoretical underpinnings of natural language processing in linguistics and formal language theory.
+Social Media Analytics
+COMP 651
+Units/ Hours: 60
+This course introduces the core concepts of social media analytics. An introduction to social media, the foundations, the foundations of collecting and storing social media data and how to use AI and ML tools to analyze social media data. Also, the course provided students with hands on practices and the opportunity to build, train and apply models that analyze social media data.

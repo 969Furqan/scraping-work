@@ -1,0 +1,121 @@
+Link: https://coursecat.isu.edu/undergraduate/business/accounting/bba-information-technology-systems/
+B.A.S. Information Technology Systems
+Program Admissions Requirements
+Admission is based upon completion of an approved A.A.S. degree.
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3-
+MATH 1153
+or
+MGT 2216
+3
+Objective 4
+6
+Objective 5
+7
+Objective 6-
+ECON 2201
+or
+ECON 2202
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7
+Objective 8-
+FIN 1115
+Objective 9
+3
+Total Credits
+37
+Major Requirements
+Course List
+Code
+Title
+Credits
+Specific General Education Requirements:
+ECON 2201
+Principles of Macroeconomics (Partially satisfies Objective 6 )
+3
+or
+ECON 2202
+Principles of Microeconomics
+MATH 1153
+Statistical Reasoning (Fulfills General Education Objective 3)
+3
+or
+MGT 2216
+Business Statistics
+Required Certificate in Information Systems:
+9
+INFO 4150
+Information Systems and Controls
+INFO 4380
+Networking and Cybersecurity
+INFO 4480
+Systems Administration and Cloud Computing
+Required Certificate in Personal Finance:
+9
+FIN 1115
+Personal Finance (Fulfills General Education Objective 8)
+FIN 3303
+Financial Concepts
+FIN 4485
+Financial Applications
+Complementary Business Coursework:
+Students are required to take the following courses:
+ACCT 3303
+Accounting Concepts
+3
+BA 3316
+Introduction to Data Analytics
+3
+MGT 3312
+Individual and Organizational Behavior
+3
+MGT 4441
+Leading in Organizations
+3
+MGT 4482
+Project Management
+3
+Recommended Courses:
+6
+Student must choose 6 credits of coursework from the following list:
+ENGL 3307
+Professional and Technical Writing
+ENGL 3308
+Business Communications
+OLP 4431
+Workplace Leadership
+CMP 3320
+Foundations of Leadership
+CMP 4422
+Conflict Management
+Students completing the BAS in ITS are required to also obtain and be awarded the two required certificates in order to fulfill the BAS requirements
+Total Credits
+45
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements (From AAS)
+52
+General Education
+37
+Major Requirements (w/o General Education)
+36
+Upper Division Free Electives
+0
+Free Electives
+0
+Total Credits
+125

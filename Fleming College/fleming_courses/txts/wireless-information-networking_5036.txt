@@ -1,0 +1,1981 @@
+URL: https://flemingcollege.ca/programs/wireless-information-networking
+
+Home
+»
+Home
+»
+Programs
+»
+Wireless Information Networking
+Wireless Information Networking
+There is a high demand for graduates who can develop and implement solutions for the configuration and integration of wireless devices and networks with wired networks in this growing technology sector.
+Program Information
+Start Date
+May 05, 2025
+Sutherland Campus
+September 02, 2025
+Sutherland Campus
+January 05, 2026
+Sutherland Campus
+May 04, 2026
+Sutherland Campus
+May 05, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+WIN
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$2920.65
+per semester*
+International Tuition
+$10067.41
+per semester*
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+4 semesters
+September 02, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+WIN
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$3292.65
+per semester*
+International Tuition
+$10067.41
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+4 semesters
+January 05, 2026
+Domestic Availability
+Accepting Applications
+International Availability
+Closed
+Program Code
+WIN
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$3292.65
+per semester*
+International Tuition
+$10067.41
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+4 semesters
+May 04, 2026
+Domestic Availability
+Accepting Applications
+International Availability
+Closed
+Program Code
+WIN
+Delivery
+In Person
+Credential
+Ontario College Graduate Certificate
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$3292.65
+per semester*
+International Tuition
+$10067.41
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+4 semesters
+Program Highlights
+Networks, and increasingly wireless networks, are becoming the hub of commercial and industrial development across the world as we understand and experience the benefits of wireless networking for day to day functions, including:
+operations monitoring and control
+communications within and between organizations
+information sharing within and between organizations
+mobile real time accounting and cost control
+real time sales support and marketing
+At the heart of the wireless world is Wireless Information Networking (WIN), and the growing need for professionals who can develop and implement solutions for the configuration and integration of wireless devices.
+Capturing data from wireless sensors or wireless synching of mobile devices within secure environments are only a couple of the types of wireless information networking challenges facing businesses, government and organizations today that this program addresses.
+Building on the success of our Computer Engineering, Security, and Instrumentation and Control Diplomas,  this intensive, unique Graduate Certificate program reflects the latest developments in WIN and relies heavily on applied teaching approaches. It focuses on the design, planning, implementation, operation and troubleshooting of wireless networks, and will cover a wide range of topics including:
+cloud computing
+server technology
+technical project management throughout technology life cycles
+technology as a service - preventing network wide service outages
+domestic vs. commercial/industrial needs
+data mining
+wireless LAN and WAN setup, security and troubleshooting
+embedded wireless sensor network programming
+VOIP
+802.11 (a, b and g) technologies
+vendor interoperability strategies
+emerging wireless technologies
+Why Choose Fleming?
+To expand and enrich your knowledge in a cutting edge field, you must learn from leading industry experts. Our faculty are experienced industry professionals at the top of their field. For you this means hands-on, application-oriented learning and building of wireless information networks. You will learn by practicing on the equipment used in industry.
+While at Fleming, you will learn through a variety of methods, including: lectures and labs, analysis of best practices, simulations, guest speakers, field trips, and an applied industry project. During the capstone applied industry project in semesters three and four, you will work on real-life industry Wireless Information Networking problems for diverse businesses and organizations. This experience will demonstrate to others that you can develop innovative solutions to today’s real-world business and organization problems. Graduates will be well-equipped with the theoretical and practical skills necessary to pursue careers as network professionals.
+Career Opportunities
+For graduates of the Wireless Information Networking program, your specialist knowledge and skills could be used to support and manage wireless information networks in any organization that uses them.
+You will be qualified for positions in:
+wireless LAN management and support
+wireless service providers
+broadband and mobile communications
+Learning Outcomes
+Test and measure RF (radio frequency) signals, attenuation and antenna systems.
+Assist with the preparation and execution of wireless site surveys.
+Build a wired and/or wireless computer network using system design documentation.
+Measure performance of both wired and wireless network components and applications using a variety of basic and advanced network management tools.
+Produce documentation and reports related to network components and applications performance.
+Troubleshoot and resolve technical problems related to both wired and wireless networks using standardized approaches and methodologies.
+Install and upgrade network hardware (e.g. workstations, servers, wireless access points, routers, switches, firewalls) and related components and software according to best practices in the industry.
+Monitor and evaluate network security issues and perform basic security audits on both wired and wireless networks.
+Assist in the collection and analysis of user requirements related to wired and wireless networks.
+Utilize change control, issue documentation and problem escalation procedures and processes as per industry best practices.
+Generate and maintain "as built" network documentation following industry best practices.
+Compare network performance against service levels and assist in the development of action plans as required against service level agreements.
+Employ concepts and practices as defined in ITIL (IT Infrastructure Library) to manage IT.
+Minimum Admission Requirements
+Students applying to Wireless Information Networking must meet the following requirements:
+Undergraduate degree or Ontario College diploma in a related field or equivalent
+Applicants who do not meet the requirements listed above who possess a combination of education and relevant experience may be considered on an individual basis.
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10 Professional
+Processor:
+Core i5  7th Gen (i7 10th Gen recommended) OR Ryzen5 Mobile 4000 series (Ryzen7 4000 series recommended)
+Memory:
+16GB minimum (32+ GB recommended)
+Hard Disk:
+1TB (SSD recommended)
+Internet Connection: 40 Mbps Download and 10 Mbps Upload (minimum).  Unlimited bandwith capacity.
+Students are required to have their own computer, internet access, webcam and microphone.
+Some required software applications are not available for MAC OS or Chromebook.
+Computer must be virtual machine capable. No tablets or Chromebooks for lab work.
+In The News:
+Wireless Information Networking
+Student Success Shines at Fleming's Innovation and Technology Showcase
+Wireless Information Networking student Innovates for Change
+International student Hannah Le impresses at Field Placement
+You might also be interested in:
+Artificial Intelligence
+Program Code:
+AI
+Ontario College Graduate Certificate
+Sutherland Campus
+January 2025, September 2025, January 2026
+Check Availability
+Computer Engineering Technician
+Program Code:
+CTN
+Ontario College Diploma
+Sutherland Campus
+September 2025
+Check Availability
+Computer Security and Investigations
+Program Code:
+CSI
+Ontario College Advanced Diploma
+Sutherland Campus
+September 2025, January 2026
+Check Availability
+Program Delivery Options
+Program Availability
+Go to the
+program page
+Mamdouh Mina MBA, MSc, BA, APMG,PMAC Cert.APM
+Professor: Computer Security Investigations
+Get ready to meet Mamdouh Mina, the dynamic Program Coordinator behind Fleming College's Computer Security and Investigations (CSI) program! With a diverse background spanning from running his own Internet Service Provider (ISP) company to managing large-scale government projects, Mamdouh has a wealth of experience in the computer field. His specialties include researching and acquiring unique solutions to seemingly impossible problems, data security and privacy, project management (including agile project management and project team coaching), network design, network forensics and investigation, cybersecurity, risk assessment, data backup, and wireless solutions. He loves to solve challenges and believes that there is always a way to tackle even the most daunting problems.
+But what really sets Mamdouh apart is his unwavering dedication to his students. Since taking on the role of Program Coordinator in early 2021, he has been on a mission to modernize and energize the CSI program, keeping it in line with the latest trends and technologies in computer security. This unique program encompasses a wide variety of computer security topics, including investigations, forensics, and cybersecurity, all in one 3-year program that is well-balanced and unique. Mamdouh is passionate about making a positive impact in his community, and he is working on ways to offer applied projects that benefit both students and the local community through the CSI program.
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 158.05
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 142.35
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 2920.65
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3426.65
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3262.65
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 2331.25
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 142.35
+International Health Plan
+$ 698.48
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 10067.41
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9360.58
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9196.58
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 8937.58
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3292.65
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3426.65
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3262.65
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 2331.25
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 142.35
+International Health Plan
+$ 698.48
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 10067.41
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9360.58
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9196.58
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 8937.58
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3292.65
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3426.65
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3262.65
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 2331.25
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 142.35
+International Health Plan
+$ 698.48
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 10067.41
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9360.58
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9196.58
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 8937.58
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3292.65
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3426.65
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 3262.65
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1575.43
+Total
+$ 2331.25
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 142.35
+International Health Plan
+$ 698.48
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 508.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 10067.41
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 642.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9360.58
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 478.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 9196.58
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 219.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 8181.76
+Total
+$ 8937.58
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  May 2025
+Semester 1
+Delivery: In Person
+Advanced Operating Systems - Unix and Windows
+COMP 500
+Units/ Hours: 45
+This course is designed to familiarize the student with the UNIX operating system. Students will be introduced to UNIX and Windows architecture, features and usage, as well as learn the principles of script programming. The role of the UNIX operating system in the development, evolution and continued operation of the Internet will be discussed in detail. The management of Windows Directory Service will be discussed and applied in laboratory exercises.
+Broadcast Technology
+ELCT 120
+Units/ Hours: 60
+This course introduces the students to theory and practical aspects of Radio Spectrum, Modulation techniques and wireless telecommunications systems and networks.
+Electronics
+ELCT 136
+Units/ Hours: 60
+This course introduces students to the fundamental concepts of electrical and electronic circuits. The student investigates, analyzes and tests the basic DC and AC circuits. The student measures and analyzes the parameters and characteristics of semiconductor devices and becomes familiar with the major applications of diodes, transistors, and operational amplifiers. The student also constructs, tests, and analyzes the most common circuits of any wireless communication system including; power supply, filter, amplifier, and oscillator circuits. Trouble-shooting procedures and techniques are introduced. Integrated circuits are also constructed and tested.
+Interfacing
+COMP 551
+Units/ Hours: 45
+Microcontrollers are basically self-contained computer systems that work in real time to control devices such as motors, appliances, instrumentation, robots, cell phones, vehicle control system, etc.  This course introduces students to microcontrollers and how to interface them to various devices, such as LCD's, 7-segment displays, RFID readers and a D.C. motor.  Student's will be working with a microcontroller development board and an integrated development environment, to learn how to develop, modify and troubleshoot embedded microcontroller software to create interfacing systems for basic input/output operations.
+Introduction to CyberSecurity
+COMP 552
+Units/ Hours: 45
+Cybersecurity has become an important field due to our professional and personal dependence on the Internet, Cloud storage, and mobile devices for everyday computing and server infrastructure.  The Introduction to CyberSecurity course will arm our students with the basic information needed to be able to protect and defend themselves and their employers from cyber attacks through awareness and hands-on, real-life activities that will whet their appetites to learn more about the computer security field.  The evolution of the cyber age has led us to be concerned about the confidentiality, integrity, and availability of financial, political, personal, and health information stored on the Cloud, thus creating the need to have cybersecurity professionals at all levels of network administration.  Upon successful completion of this course, students will be able to apply their knowledge and understanding of cybersecurity to make more informed decisions on how to protect computer systems and their valuable data and applications from unwanted access and corruption.
+Introduction to Networks
+COMP 591
+Units/ Hours: 45
+Introduction to Networks (ITN) covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
+Semester 2
+Delivery: In Person
+Advanced Managing Technical Projects
+MGMT 192
+Units/ Hours: 60
+This is a multi-disciplinary course designed to help students develop their skills in managing technical projects. Students will learn how to identify and plan a project and work toward achieving their project goals. They will interact with a team in ways that contribute to effective working relationships and the achievement of the project goals. They will communicate in written, spoken, or visual format at various stages of the project. The course also includes evaluating the technical, interpersonal, and communication processes the team uses. Students will work on managing a project typical to one that a computer-systems professional would be involved in.
+Digital Signal Processing
+COMP 554
+Units/ Hours: 45
+Comp554 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information source coding theorem, lossless compression of data, optimal lossless coding, noisy communication 
+channels, and channel coding theorem.
+Emerging Wireless Technologies
+COMP 600
+Units/ Hours: 45
+The course will offer topics related to emerging wireless technologies such as NFC, RFID, LiFi, Bluetooth Low Energy (BLE), ZigBee. In addition, the concept of securing these technologies will be introduced to overcome the related threats. The purpose of this course is to provide foundational knowledge of the emerging wireless technologies and to implement these technologies practically with related security techniques to secure data communication. There will be hands-on assignments and exercises, which help students to gain practical experience and demonstrate skills as they achieve the course objectives. The course prepares students for recent wireless technologies where it is used widely in related areas such as IoT, and Big Data; and guides them toward continuous learning with these evolving technologies.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Switching, Routing and Wireless Essentials
+COMP 628
+Units/ Hours: 45
+Switching, Routing, and Wireless Essentials (SRWE) covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and security concepts. Students learn how to configure and troubleshoot routers and switches for advanced functionality using security best practices and resolve common issues with protocols in both IPv4 and IPv6 networks.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Wireless Communication Systems
+ELCT 121
+Units/ Hours: 45
+Students will have the chance to work with the industry standard Labview and its toolkit.  Students will also have the opportunity to design and analyze the various component of Digital Signal processing systems involved in wireless network based on Labview such as OfSM, MIMO, Digital Filler and others.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Wireless Network Security
+COMP 555
+Units/ Hours: 45
+In an ever-evolving technological world, where the transmission of data and communication has shifted from traditional wired networks to various forms of wireless networks, security of data has become a necessity.  The purpose of this course is to provide foundational knowledge of wireless network systems and a hands-on guide to defending wireless networks against attacks.  It prepares students for the Certified Wireless Technology Specialist (CWTS) certification, introduces them to the Certified Wireless Network Administrator (CWNA) curriculum, and guides them toward earning the Certified Wireless Security Professional (CWSP) credential offered by the Certified Wireless Network Professional (CWNP) organization.  There will be many hands-on exercises, which allow students to demonstrate skills as they are learned.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Introduction to CyberSecurity (COMP 552)
+Semester 3
+Delivery: In Person
+Advanced Wireless Security
+COMP 556
+Units/ Hours: 45
+This course will build on previous security courses and further explore the latest security trends, instilling in the students the skills needed to implement best security practices and adapt to future security threats. Through a variety of hands-on labs. the students will examine both offensive security vectors and implement best defensive strategies to counter those offensive devices and plan for security in all aspects of computing to meet today's defensive needs, and the needs of the future.
+Pre-Requisites
+Wireless Network Security (COMP 555)
+Applied Projects I (WIN)
+APST 152
+Units/ Hours: 160
+Students use the skills and techniques learned in all other courses, to start the detailed planning and execution of an applied project which was initiated in the previous semester.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Broadcast Technology (ELCT 120)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Introduction to CyberSecurity (COMP 552)
+Wireless Communication Systems (ELCT 121)
+Wireless Network Security (COMP 555)
+Introduction to Networks (COMP 591)
+Digital Signal Processing (COMP 554)
+Emerging Wireless Technologies (COMP 600)
+Switching, Routing and Wireless Essentials (COMP 628)
+Advanced Managing Technical Projects (MGMT 192)
+Enterprise Networking Security and Automation
+COMP 627
+Units/ Hours: 45
+Enterprise Networking, Security, and Automation (ENSA) describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation.
+Pre-Requisites
+Switching, Routing and Wireless Essentials (COMP 628)
+Entrepreneurship Skills in Technology
+BUSN 244
+Units/ Hours: 45
+This course is designed to put all of the technical learning into the context of the business of working with wireless technology. Providing insight into business thinking, the student will learn to see how the technology and their expertise serves a larger organizational profit motive as well their profit motive as a technologist. It will promote the student's understanding of self-employment and their discovery of opportunities for entrepreneurship.
+Mesh Networking
+COMP 509
+Units/ Hours: 60
+Students will learn about self-configured, self-held mesh network.  Focus of this course will be on adhoc sense network where students will have a chance to learn the new operating system Tiny OS and its programming language NESC.  The student will work on applications such as weather predication and health services based on above tools.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Radio Frequency Theory and Antenna Radiation
+ELCT 119
+Units/ Hours: 60
+This course will introduce the students to Radio Frequency Theory, Antenna Types, bandwidth usage and regulations. The use of antenna and signal loss considerations over various cellular and WIFI networks will be explored.
+Pre-Requisites
+Wireless Communication Systems (ELCT 121)
+Semester 4
+Delivery: In Person
+Applied Projects II (WIN)
+APST 153
+Units/ Hours: 190
+Students use the skills and techniques learned in other courses, to continue to execute and close an applied project which was planned and partly executed the previous semester.
+Pre-Requisites
+Mesh Networking (COMP 509)
+Radio Frequency Theory and Antenna Radiation (ELCT 119)
+Advanced Wireless Security (COMP 556)
+Applied Projects I (WIN) (APST 152)
+Data Mining
+COMP 560
+Units/ Hours: 45
+Data Mining is the practice of studying large amounts of data of a variety of types to learn interesting patterns, unknown facts, and other useful information. The focus of this course is to explore the analytical, and statistical methods and tools used to process and visualize Big Data. Understanding how all the connected things (IoT) are generating Data and how to model these data for overall benefit of the society and industry.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Datacenter/Cloud Computing
+COMP 557
+Units/ Hours: 45
+This course offers the student both theory and lab work that examines modern cloud technologies and 'everything-as-a-service' (EAAS) paradigms. The student will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today. As well, security and disaster-recovery strategies will be studied and applied.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Internet of Things
+COMP 559
+Units/ Hours: 45
+This course will introduce students to the architecture and framework of the Internet of Things (IoT) and Augmented Reality. illustrating how devices and sensors connect, allowing people to monitor and act upon the world around them.  Sensors/actuators, IP gateways, edge computing, security, and data management stacks will be key topics. Students will work with augmented reality and integrate it with Internet of Things (IoT).
+Pre-Requisites
+Electronics (ELCT 136)
+OR
+Advanced Wireless Security (COMP 556)
+Interfacing (COMP 551)
+Scripting and Programing
+COMP 558
+Units/ Hours: 45
+This course will introduce students to design, write, debug, and run programs using various programing languages as functional programming to solve real-life problems such as the process of automating the configuring, managing, testing, deploying, and operating of physical and virtual devices within a network. scripting is used in Network Automation, Artificial Intelligence, Web Development, Data analysis and scientific computing, all of which are keys for pursuing IT and Network operation careers.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Mesh Networking (COMP 509)
+Courses and Descriptions
+Curriculum:  September 2025
+Semester 1
+Delivery: In Person
+Advanced Operating Systems - Unix and Windows
+COMP 500
+Units/ Hours: 45
+This course is designed to familiarize the student with the UNIX operating system. Students will be introduced to UNIX and Windows architecture, features and usage, as well as learn the principles of script programming. The role of the UNIX operating system in the development, evolution and continued operation of the Internet will be discussed in detail. The management of Windows Directory Service will be discussed and applied in laboratory exercises.
+Broadcast Technology
+ELCT 120
+Units/ Hours: 60
+This course introduces the students to theory and practical aspects of Radio Spectrum, Modulation techniques and wireless telecommunications systems and networks.
+Electronics
+ELCT 136
+Units/ Hours: 60
+This course introduces students to the fundamental concepts of electrical and electronic circuits. The student investigates, analyzes and tests the basic DC and AC circuits. The student measures and analyzes the parameters and characteristics of semiconductor devices and becomes familiar with the major applications of diodes, transistors, and operational amplifiers. The student also constructs, tests, and analyzes the most common circuits of any wireless communication system including; power supply, filter, amplifier, and oscillator circuits. Trouble-shooting procedures and techniques are introduced. Integrated circuits are also constructed and tested.
+Interfacing
+COMP 551
+Units/ Hours: 45
+Microcontrollers are basically self-contained computer systems that work in real time to control devices such as motors, appliances, instrumentation, robots, cell phones, vehicle control system, etc.  This course introduces students to microcontrollers and how to interface them to various devices, such as LCD's, 7-segment displays, RFID readers and a D.C. motor.  Student's will be working with a microcontroller development board and an integrated development environment, to learn how to develop, modify and troubleshoot embedded microcontroller software to create interfacing systems for basic input/output operations.
+Introduction to CyberSecurity
+COMP 552
+Units/ Hours: 45
+Cybersecurity has become an important field due to our professional and personal dependence on the Internet, Cloud storage, and mobile devices for everyday computing and server infrastructure.  The Introduction to CyberSecurity course will arm our students with the basic information needed to be able to protect and defend themselves and their employers from cyber attacks through awareness and hands-on, real-life activities that will whet their appetites to learn more about the computer security field.  The evolution of the cyber age has led us to be concerned about the confidentiality, integrity, and availability of financial, political, personal, and health information stored on the Cloud, thus creating the need to have cybersecurity professionals at all levels of network administration.  Upon successful completion of this course, students will be able to apply their knowledge and understanding of cybersecurity to make more informed decisions on how to protect computer systems and their valuable data and applications from unwanted access and corruption.
+Introduction to Networks
+COMP 591
+Units/ Hours: 45
+Introduction to Networks (ITN) covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
+Semester 2
+Delivery: In Person
+Advanced Managing Technical Projects
+MGMT 192
+Units/ Hours: 60
+This is a multi-disciplinary course designed to help students develop their skills in managing technical projects. Students will learn how to identify and plan a project and work toward achieving their project goals. They will interact with a team in ways that contribute to effective working relationships and the achievement of the project goals. They will communicate in written, spoken, or visual format at various stages of the project. The course also includes evaluating the technical, interpersonal, and communication processes the team uses. Students will work on managing a project typical to one that a computer-systems professional would be involved in.
+Digital Signal Processing
+COMP 554
+Units/ Hours: 45
+Comp554 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information source coding theorem, lossless compression of data, optimal lossless coding, noisy communication 
+channels, and channel coding theorem.
+Emerging Wireless Technologies
+COMP 600
+Units/ Hours: 45
+The course will offer topics related to emerging wireless technologies such as NFC, RFID, LiFi, Bluetooth Low Energy (BLE), ZigBee. In addition, the concept of securing these technologies will be introduced to overcome the related threats. The purpose of this course is to provide foundational knowledge of the emerging wireless technologies and to implement these technologies practically with related security techniques to secure data communication. There will be hands-on assignments and exercises, which help students to gain practical experience and demonstrate skills as they achieve the course objectives. The course prepares students for recent wireless technologies where it is used widely in related areas such as IoT, and Big Data; and guides them toward continuous learning with these evolving technologies.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Switching, Routing and Wireless Essentials
+COMP 628
+Units/ Hours: 45
+Switching, Routing, and Wireless Essentials (SRWE) covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and security concepts. Students learn how to configure and troubleshoot routers and switches for advanced functionality using security best practices and resolve common issues with protocols in both IPv4 and IPv6 networks.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Wireless Communication Systems
+ELCT 121
+Units/ Hours: 45
+Students will have the chance to work with the industry standard Labview and its toolkit.  Students will also have the opportunity to design and analyze the various component of Digital Signal processing systems involved in wireless network based on Labview such as OfSM, MIMO, Digital Filler and others.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Wireless Network Security
+COMP 555
+Units/ Hours: 45
+In an ever-evolving technological world, where the transmission of data and communication has shifted from traditional wired networks to various forms of wireless networks, security of data has become a necessity.  The purpose of this course is to provide foundational knowledge of wireless network systems and a hands-on guide to defending wireless networks against attacks.  It prepares students for the Certified Wireless Technology Specialist (CWTS) certification, introduces them to the Certified Wireless Network Administrator (CWNA) curriculum, and guides them toward earning the Certified Wireless Security Professional (CWSP) credential offered by the Certified Wireless Network Professional (CWNP) organization.  There will be many hands-on exercises, which allow students to demonstrate skills as they are learned.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Introduction to CyberSecurity (COMP 552)
+Semester 3
+Delivery: In Person
+Advanced Wireless Security
+COMP 556
+Units/ Hours: 45
+This course will build on previous security courses and further explore the latest security trends, instilling in the students the skills needed to implement best security practices and adapt to future security threats. Through a variety of hands-on labs. the students will examine both offensive security vectors and implement best defensive strategies to counter those offensive devices and plan for security in all aspects of computing to meet today's defensive needs, and the needs of the future.
+Pre-Requisites
+Wireless Network Security (COMP 555)
+Applied Projects I (WIN)
+APST 152
+Units/ Hours: 160
+Students use the skills and techniques learned in all other courses, to start the detailed planning and execution of an applied project which was initiated in the previous semester.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Broadcast Technology (ELCT 120)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Introduction to CyberSecurity (COMP 552)
+Wireless Communication Systems (ELCT 121)
+Wireless Network Security (COMP 555)
+Introduction to Networks (COMP 591)
+Digital Signal Processing (COMP 554)
+Emerging Wireless Technologies (COMP 600)
+Switching, Routing and Wireless Essentials (COMP 628)
+Advanced Managing Technical Projects (MGMT 192)
+Enterprise Networking Security and Automation
+COMP 627
+Units/ Hours: 45
+Enterprise Networking, Security, and Automation (ENSA) describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation.
+Pre-Requisites
+Switching, Routing and Wireless Essentials (COMP 628)
+Entrepreneurship Skills in Technology
+BUSN 244
+Units/ Hours: 45
+This course is designed to put all of the technical learning into the context of the business of working with wireless technology. Providing insight into business thinking, the student will learn to see how the technology and their expertise serves a larger organizational profit motive as well their profit motive as a technologist. It will promote the student's understanding of self-employment and their discovery of opportunities for entrepreneurship.
+Mesh Networking
+COMP 509
+Units/ Hours: 60
+Students will learn about self-configured, self-held mesh network.  Focus of this course will be on adhoc sense network where students will have a chance to learn the new operating system Tiny OS and its programming language NESC.  The student will work on applications such as weather predication and health services based on above tools.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Radio Frequency Theory and Antenna Radiation
+ELCT 119
+Units/ Hours: 60
+This course will introduce the students to Radio Frequency Theory, Antenna Types, bandwidth usage and regulations. The use of antenna and signal loss considerations over various cellular and WIFI networks will be explored.
+Pre-Requisites
+Wireless Communication Systems (ELCT 121)
+Semester 4
+Delivery: In Person
+Applied Projects II (WIN)
+APST 153
+Units/ Hours: 190
+Students use the skills and techniques learned in other courses, to continue to execute and close an applied project which was planned and partly executed the previous semester.
+Pre-Requisites
+Mesh Networking (COMP 509)
+Radio Frequency Theory and Antenna Radiation (ELCT 119)
+Advanced Wireless Security (COMP 556)
+Applied Projects I (WIN) (APST 152)
+Data Mining
+COMP 560
+Units/ Hours: 45
+Data Mining is the practice of studying large amounts of data of a variety of types to learn interesting patterns, unknown facts, and other useful information. The focus of this course is to explore the analytical, and statistical methods and tools used to process and visualize Big Data. Understanding how all the connected things (IoT) are generating Data and how to model these data for overall benefit of the society and industry.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Datacenter/Cloud Computing
+COMP 557
+Units/ Hours: 45
+This course offers the student both theory and lab work that examines modern cloud technologies and 'everything-as-a-service' (EAAS) paradigms. The student will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today. As well, security and disaster-recovery strategies will be studied and applied.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Internet of Things
+COMP 559
+Units/ Hours: 45
+This course will introduce students to the architecture and framework of the Internet of Things (IoT) and Augmented Reality. illustrating how devices and sensors connect, allowing people to monitor and act upon the world around them.  Sensors/actuators, IP gateways, edge computing, security, and data management stacks will be key topics. Students will work with augmented reality and integrate it with Internet of Things (IoT).
+Pre-Requisites
+Electronics (ELCT 136)
+OR
+Advanced Wireless Security (COMP 556)
+Interfacing (COMP 551)
+Scripting and Programing
+COMP 558
+Units/ Hours: 45
+This course will introduce students to design, write, debug, and run programs using various programing languages as functional programming to solve real-life problems such as the process of automating the configuring, managing, testing, deploying, and operating of physical and virtual devices within a network. scripting is used in Network Automation, Artificial Intelligence, Web Development, Data analysis and scientific computing, all of which are keys for pursuing IT and Network operation careers.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Mesh Networking (COMP 509)
+Courses and Descriptions
+Curriculum:  January 2026
+Semester 1
+Delivery: In Person
+Advanced Operating Systems - Unix and Windows
+COMP 500
+Units/ Hours: 45
+This course is designed to familiarize the student with the UNIX operating system. Students will be introduced to UNIX and Windows architecture, features and usage, as well as learn the principles of script programming. The role of the UNIX operating system in the development, evolution and continued operation of the Internet will be discussed in detail. The management of Windows Directory Service will be discussed and applied in laboratory exercises.
+Broadcast Technology
+ELCT 120
+Units/ Hours: 60
+This course introduces the students to theory and practical aspects of Radio Spectrum, Modulation techniques and wireless telecommunications systems and networks.
+Electronics
+ELCT 136
+Units/ Hours: 60
+This course introduces students to the fundamental concepts of electrical and electronic circuits. The student investigates, analyzes and tests the basic DC and AC circuits. The student measures and analyzes the parameters and characteristics of semiconductor devices and becomes familiar with the major applications of diodes, transistors, and operational amplifiers. The student also constructs, tests, and analyzes the most common circuits of any wireless communication system including; power supply, filter, amplifier, and oscillator circuits. Trouble-shooting procedures and techniques are introduced. Integrated circuits are also constructed and tested.
+Interfacing
+COMP 551
+Units/ Hours: 45
+Microcontrollers are basically self-contained computer systems that work in real time to control devices such as motors, appliances, instrumentation, robots, cell phones, vehicle control system, etc.  This course introduces students to microcontrollers and how to interface them to various devices, such as LCD's, 7-segment displays, RFID readers and a D.C. motor.  Student's will be working with a microcontroller development board and an integrated development environment, to learn how to develop, modify and troubleshoot embedded microcontroller software to create interfacing systems for basic input/output operations.
+Introduction to CyberSecurity
+COMP 552
+Units/ Hours: 45
+Cybersecurity has become an important field due to our professional and personal dependence on the Internet, Cloud storage, and mobile devices for everyday computing and server infrastructure.  The Introduction to CyberSecurity course will arm our students with the basic information needed to be able to protect and defend themselves and their employers from cyber attacks through awareness and hands-on, real-life activities that will whet their appetites to learn more about the computer security field.  The evolution of the cyber age has led us to be concerned about the confidentiality, integrity, and availability of financial, political, personal, and health information stored on the Cloud, thus creating the need to have cybersecurity professionals at all levels of network administration.  Upon successful completion of this course, students will be able to apply their knowledge and understanding of cybersecurity to make more informed decisions on how to protect computer systems and their valuable data and applications from unwanted access and corruption.
+Introduction to Networks
+COMP 591
+Units/ Hours: 45
+Introduction to Networks (ITN) covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
+Semester 2
+Delivery: In Person
+Advanced Managing Technical Projects
+MGMT 192
+Units/ Hours: 60
+This is a multi-disciplinary course designed to help students develop their skills in managing technical projects. Students will learn how to identify and plan a project and work toward achieving their project goals. They will interact with a team in ways that contribute to effective working relationships and the achievement of the project goals. They will communicate in written, spoken, or visual format at various stages of the project. The course also includes evaluating the technical, interpersonal, and communication processes the team uses. Students will work on managing a project typical to one that a computer-systems professional would be involved in.
+Digital Signal Processing
+COMP 554
+Units/ Hours: 45
+Comp554 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information source coding theorem, lossless compression of data, optimal lossless coding, noisy communication 
+channels, and channel coding theorem.
+Emerging Wireless Technologies
+COMP 600
+Units/ Hours: 45
+The course will offer topics related to emerging wireless technologies such as NFC, RFID, LiFi, Bluetooth Low Energy (BLE), ZigBee. In addition, the concept of securing these technologies will be introduced to overcome the related threats. The purpose of this course is to provide foundational knowledge of the emerging wireless technologies and to implement these technologies practically with related security techniques to secure data communication. There will be hands-on assignments and exercises, which help students to gain practical experience and demonstrate skills as they achieve the course objectives. The course prepares students for recent wireless technologies where it is used widely in related areas such as IoT, and Big Data; and guides them toward continuous learning with these evolving technologies.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Switching, Routing and Wireless Essentials
+COMP 628
+Units/ Hours: 45
+Switching, Routing, and Wireless Essentials (SRWE) covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and security concepts. Students learn how to configure and troubleshoot routers and switches for advanced functionality using security best practices and resolve common issues with protocols in both IPv4 and IPv6 networks.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Wireless Communication Systems
+ELCT 121
+Units/ Hours: 45
+Students will have the chance to work with the industry standard Labview and its toolkit.  Students will also have the opportunity to design and analyze the various component of Digital Signal processing systems involved in wireless network based on Labview such as OfSM, MIMO, Digital Filler and others.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Wireless Network Security
+COMP 555
+Units/ Hours: 45
+In an ever-evolving technological world, where the transmission of data and communication has shifted from traditional wired networks to various forms of wireless networks, security of data has become a necessity.  The purpose of this course is to provide foundational knowledge of wireless network systems and a hands-on guide to defending wireless networks against attacks.  It prepares students for the Certified Wireless Technology Specialist (CWTS) certification, introduces them to the Certified Wireless Network Administrator (CWNA) curriculum, and guides them toward earning the Certified Wireless Security Professional (CWSP) credential offered by the Certified Wireless Network Professional (CWNP) organization.  There will be many hands-on exercises, which allow students to demonstrate skills as they are learned.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Introduction to CyberSecurity (COMP 552)
+Semester 3
+Delivery: In Person
+Advanced Wireless Security
+COMP 556
+Units/ Hours: 45
+This course will build on previous security courses and further explore the latest security trends, instilling in the students the skills needed to implement best security practices and adapt to future security threats. Through a variety of hands-on labs. the students will examine both offensive security vectors and implement best defensive strategies to counter those offensive devices and plan for security in all aspects of computing to meet today's defensive needs, and the needs of the future.
+Pre-Requisites
+Wireless Network Security (COMP 555)
+Applied Projects I (WIN)
+APST 152
+Units/ Hours: 160
+Students use the skills and techniques learned in all other courses, to start the detailed planning and execution of an applied project which was initiated in the previous semester.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Broadcast Technology (ELCT 120)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Introduction to CyberSecurity (COMP 552)
+Wireless Communication Systems (ELCT 121)
+Wireless Network Security (COMP 555)
+Introduction to Networks (COMP 591)
+Digital Signal Processing (COMP 554)
+Emerging Wireless Technologies (COMP 600)
+Switching, Routing and Wireless Essentials (COMP 628)
+Advanced Managing Technical Projects (MGMT 192)
+Enterprise Networking Security and Automation
+COMP 627
+Units/ Hours: 45
+Enterprise Networking, Security, and Automation (ENSA) describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation.
+Pre-Requisites
+Switching, Routing and Wireless Essentials (COMP 628)
+Entrepreneurship Skills in Technology
+BUSN 244
+Units/ Hours: 45
+This course is designed to put all of the technical learning into the context of the business of working with wireless technology. Providing insight into business thinking, the student will learn to see how the technology and their expertise serves a larger organizational profit motive as well their profit motive as a technologist. It will promote the student's understanding of self-employment and their discovery of opportunities for entrepreneurship.
+Mesh Networking
+COMP 509
+Units/ Hours: 60
+Students will learn about self-configured, self-held mesh network.  Focus of this course will be on adhoc sense network where students will have a chance to learn the new operating system Tiny OS and its programming language NESC.  The student will work on applications such as weather predication and health services based on above tools.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Radio Frequency Theory and Antenna Radiation
+ELCT 119
+Units/ Hours: 60
+This course will introduce the students to Radio Frequency Theory, Antenna Types, bandwidth usage and regulations. The use of antenna and signal loss considerations over various cellular and WIFI networks will be explored.
+Pre-Requisites
+Wireless Communication Systems (ELCT 121)
+Semester 4
+Delivery: In Person
+Applied Projects II (WIN)
+APST 153
+Units/ Hours: 190
+Students use the skills and techniques learned in other courses, to continue to execute and close an applied project which was planned and partly executed the previous semester.
+Pre-Requisites
+Mesh Networking (COMP 509)
+Radio Frequency Theory and Antenna Radiation (ELCT 119)
+Advanced Wireless Security (COMP 556)
+Applied Projects I (WIN) (APST 152)
+Data Mining
+COMP 560
+Units/ Hours: 45
+Data Mining is the practice of studying large amounts of data of a variety of types to learn interesting patterns, unknown facts, and other useful information. The focus of this course is to explore the analytical, and statistical methods and tools used to process and visualize Big Data. Understanding how all the connected things (IoT) are generating Data and how to model these data for overall benefit of the society and industry.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Datacenter/Cloud Computing
+COMP 557
+Units/ Hours: 45
+This course offers the student both theory and lab work that examines modern cloud technologies and 'everything-as-a-service' (EAAS) paradigms. The student will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today. As well, security and disaster-recovery strategies will be studied and applied.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Internet of Things
+COMP 559
+Units/ Hours: 45
+This course will introduce students to the architecture and framework of the Internet of Things (IoT) and Augmented Reality. illustrating how devices and sensors connect, allowing people to monitor and act upon the world around them.  Sensors/actuators, IP gateways, edge computing, security, and data management stacks will be key topics. Students will work with augmented reality and integrate it with Internet of Things (IoT).
+Pre-Requisites
+Electronics (ELCT 136)
+OR
+Advanced Wireless Security (COMP 556)
+Interfacing (COMP 551)
+Scripting and Programing
+COMP 558
+Units/ Hours: 45
+This course will introduce students to design, write, debug, and run programs using various programing languages as functional programming to solve real-life problems such as the process of automating the configuring, managing, testing, deploying, and operating of physical and virtual devices within a network. scripting is used in Network Automation, Artificial Intelligence, Web Development, Data analysis and scientific computing, all of which are keys for pursuing IT and Network operation careers.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Mesh Networking (COMP 509)
+Courses and Descriptions
+Curriculum:  May 2026
+Semester 1
+Delivery: In Person
+Advanced Operating Systems - Unix and Windows
+COMP 500
+Units/ Hours: 45
+This course is designed to familiarize the student with the UNIX operating system. Students will be introduced to UNIX and Windows architecture, features and usage, as well as learn the principles of script programming. The role of the UNIX operating system in the development, evolution and continued operation of the Internet will be discussed in detail. The management of Windows Directory Service will be discussed and applied in laboratory exercises.
+Broadcast Technology
+ELCT 120
+Units/ Hours: 60
+This course introduces the students to theory and practical aspects of Radio Spectrum, Modulation techniques and wireless telecommunications systems and networks.
+Electronics
+ELCT 136
+Units/ Hours: 60
+This course introduces students to the fundamental concepts of electrical and electronic circuits. The student investigates, analyzes and tests the basic DC and AC circuits. The student measures and analyzes the parameters and characteristics of semiconductor devices and becomes familiar with the major applications of diodes, transistors, and operational amplifiers. The student also constructs, tests, and analyzes the most common circuits of any wireless communication system including; power supply, filter, amplifier, and oscillator circuits. Trouble-shooting procedures and techniques are introduced. Integrated circuits are also constructed and tested.
+Interfacing
+COMP 551
+Units/ Hours: 45
+Microcontrollers are basically self-contained computer systems that work in real time to control devices such as motors, appliances, instrumentation, robots, cell phones, vehicle control system, etc.  This course introduces students to microcontrollers and how to interface them to various devices, such as LCD's, 7-segment displays, RFID readers and a D.C. motor.  Student's will be working with a microcontroller development board and an integrated development environment, to learn how to develop, modify and troubleshoot embedded microcontroller software to create interfacing systems for basic input/output operations.
+Introduction to CyberSecurity
+COMP 552
+Units/ Hours: 45
+Cybersecurity has become an important field due to our professional and personal dependence on the Internet, Cloud storage, and mobile devices for everyday computing and server infrastructure.  The Introduction to CyberSecurity course will arm our students with the basic information needed to be able to protect and defend themselves and their employers from cyber attacks through awareness and hands-on, real-life activities that will whet their appetites to learn more about the computer security field.  The evolution of the cyber age has led us to be concerned about the confidentiality, integrity, and availability of financial, political, personal, and health information stored on the Cloud, thus creating the need to have cybersecurity professionals at all levels of network administration.  Upon successful completion of this course, students will be able to apply their knowledge and understanding of cybersecurity to make more informed decisions on how to protect computer systems and their valuable data and applications from unwanted access and corruption.
+Introduction to Networks
+COMP 591
+Units/ Hours: 45
+Introduction to Networks (ITN) covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
+Semester 2
+Delivery: In Person
+Advanced Managing Technical Projects
+MGMT 192
+Units/ Hours: 60
+This is a multi-disciplinary course designed to help students develop their skills in managing technical projects. Students will learn how to identify and plan a project and work toward achieving their project goals. They will interact with a team in ways that contribute to effective working relationships and the achievement of the project goals. They will communicate in written, spoken, or visual format at various stages of the project. The course also includes evaluating the technical, interpersonal, and communication processes the team uses. Students will work on managing a project typical to one that a computer-systems professional would be involved in.
+Digital Signal Processing
+COMP 554
+Units/ Hours: 45
+Comp554 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information source coding theorem, lossless compression of data, optimal lossless coding, noisy communication 
+channels, and channel coding theorem.
+Emerging Wireless Technologies
+COMP 600
+Units/ Hours: 45
+The course will offer topics related to emerging wireless technologies such as NFC, RFID, LiFi, Bluetooth Low Energy (BLE), ZigBee. In addition, the concept of securing these technologies will be introduced to overcome the related threats. The purpose of this course is to provide foundational knowledge of the emerging wireless technologies and to implement these technologies practically with related security techniques to secure data communication. There will be hands-on assignments and exercises, which help students to gain practical experience and demonstrate skills as they achieve the course objectives. The course prepares students for recent wireless technologies where it is used widely in related areas such as IoT, and Big Data; and guides them toward continuous learning with these evolving technologies.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Switching, Routing and Wireless Essentials
+COMP 628
+Units/ Hours: 45
+Switching, Routing, and Wireless Essentials (SRWE) covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and security concepts. Students learn how to configure and troubleshoot routers and switches for advanced functionality using security best practices and resolve common issues with protocols in both IPv4 and IPv6 networks.
+Pre-Requisites
+Introduction to Networks (COMP 591)
+Wireless Communication Systems
+ELCT 121
+Units/ Hours: 45
+Students will have the chance to work with the industry standard Labview and its toolkit.  Students will also have the opportunity to design and analyze the various component of Digital Signal processing systems involved in wireless network based on Labview such as OfSM, MIMO, Digital Filler and others.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Wireless Network Security
+COMP 555
+Units/ Hours: 45
+In an ever-evolving technological world, where the transmission of data and communication has shifted from traditional wired networks to various forms of wireless networks, security of data has become a necessity.  The purpose of this course is to provide foundational knowledge of wireless network systems and a hands-on guide to defending wireless networks against attacks.  It prepares students for the Certified Wireless Technology Specialist (CWTS) certification, introduces them to the Certified Wireless Network Administrator (CWNA) curriculum, and guides them toward earning the Certified Wireless Security Professional (CWSP) credential offered by the Certified Wireless Network Professional (CWNP) organization.  There will be many hands-on exercises, which allow students to demonstrate skills as they are learned.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Introduction to CyberSecurity (COMP 552)
+Semester 3
+Delivery: In Person
+Advanced Wireless Security
+COMP 556
+Units/ Hours: 45
+This course will build on previous security courses and further explore the latest security trends, instilling in the students the skills needed to implement best security practices and adapt to future security threats. Through a variety of hands-on labs. the students will examine both offensive security vectors and implement best defensive strategies to counter those offensive devices and plan for security in all aspects of computing to meet today's defensive needs, and the needs of the future.
+Pre-Requisites
+Wireless Network Security (COMP 555)
+Applied Projects I (WIN)
+APST 152
+Units/ Hours: 160
+Students use the skills and techniques learned in all other courses, to start the detailed planning and execution of an applied project which was initiated in the previous semester.
+Pre-Requisites
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Broadcast Technology (ELCT 120)
+Electronics (ELCT 136)
+Interfacing (COMP 551)
+Introduction to CyberSecurity (COMP 552)
+Wireless Communication Systems (ELCT 121)
+Wireless Network Security (COMP 555)
+Introduction to Networks (COMP 591)
+Digital Signal Processing (COMP 554)
+Emerging Wireless Technologies (COMP 600)
+Switching, Routing and Wireless Essentials (COMP 628)
+Advanced Managing Technical Projects (MGMT 192)
+Enterprise Networking Security and Automation
+COMP 627
+Units/ Hours: 45
+Enterprise Networking, Security, and Automation (ENSA) describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation.
+Pre-Requisites
+Switching, Routing and Wireless Essentials (COMP 628)
+Entrepreneurship Skills in Technology
+BUSN 244
+Units/ Hours: 45
+This course is designed to put all of the technical learning into the context of the business of working with wireless technology. Providing insight into business thinking, the student will learn to see how the technology and their expertise serves a larger organizational profit motive as well their profit motive as a technologist. It will promote the student's understanding of self-employment and their discovery of opportunities for entrepreneurship.
+Mesh Networking
+COMP 509
+Units/ Hours: 60
+Students will learn about self-configured, self-held mesh network.  Focus of this course will be on adhoc sense network where students will have a chance to learn the new operating system Tiny OS and its programming language NESC.  The student will work on applications such as weather predication and health services based on above tools.
+Pre-Requisites
+Broadcast Technology (ELCT 120)
+Radio Frequency Theory and Antenna Radiation
+ELCT 119
+Units/ Hours: 60
+This course will introduce the students to Radio Frequency Theory, Antenna Types, bandwidth usage and regulations. The use of antenna and signal loss considerations over various cellular and WIFI networks will be explored.
+Pre-Requisites
+Wireless Communication Systems (ELCT 121)
+Semester 4
+Delivery: In Person
+Applied Projects II (WIN)
+APST 153
+Units/ Hours: 190
+Students use the skills and techniques learned in other courses, to continue to execute and close an applied project which was planned and partly executed the previous semester.
+Pre-Requisites
+Mesh Networking (COMP 509)
+Radio Frequency Theory and Antenna Radiation (ELCT 119)
+Advanced Wireless Security (COMP 556)
+Applied Projects I (WIN) (APST 152)
+Data Mining
+COMP 560
+Units/ Hours: 45
+Data Mining is the practice of studying large amounts of data of a variety of types to learn interesting patterns, unknown facts, and other useful information. The focus of this course is to explore the analytical, and statistical methods and tools used to process and visualize Big Data. Understanding how all the connected things (IoT) are generating Data and how to model these data for overall benefit of the society and industry.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Advanced Operating Systems - Unix and Windows (COMP 500)
+Datacenter/Cloud Computing
+COMP 557
+Units/ Hours: 45
+This course offers the student both theory and lab work that examines modern cloud technologies and 'everything-as-a-service' (EAAS) paradigms. The student will learn installation, networking, support, and administration of cloud technologies that can serve the needs of the businesses of today. As well, security and disaster-recovery strategies will be studied and applied.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Internet of Things
+COMP 559
+Units/ Hours: 45
+This course will introduce students to the architecture and framework of the Internet of Things (IoT) and Augmented Reality. illustrating how devices and sensors connect, allowing people to monitor and act upon the world around them.  Sensors/actuators, IP gateways, edge computing, security, and data management stacks will be key topics. Students will work with augmented reality and integrate it with Internet of Things (IoT).
+Pre-Requisites
+Electronics (ELCT 136)
+OR
+Advanced Wireless Security (COMP 556)
+Interfacing (COMP 551)
+Scripting and Programing
+COMP 558
+Units/ Hours: 45
+This course will introduce students to design, write, debug, and run programs using various programing languages as functional programming to solve real-life problems such as the process of automating the configuring, managing, testing, deploying, and operating of physical and virtual devices within a network. scripting is used in Network Automation, Artificial Intelligence, Web Development, Data analysis and scientific computing, all of which are keys for pursuing IT and Network operation careers.
+Pre-Requisites
+Advanced Wireless Security (COMP 556)
+Mesh Networking (COMP 509)

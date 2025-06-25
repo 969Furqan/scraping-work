@@ -1,0 +1,23 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/businesstechnology/basic-technical-certificate-cloud-computing/
+Basic Technical Certificate in Cloud Computing
+Course List
+Code
+Title
+Credits
+BT 1160
+Foundations of Cloud Computing
+2
+BT 1161
+Introduction to Cloud Computing Languages I
+3
+BT 1162
+Introduction to Cloud Computing Languages II
+3
+BT 1163
+Cloud Computing Architecture
+4
+BT 1164
+Cloud Computing Operations
+4
+Total Credits
+16

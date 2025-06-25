@@ -1,0 +1,212 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/civilandenvironmentalengineering/msenvironmentalscience/
+Master of Science in Environmental Science and Management
+Students entering the ENSM program are required to obtain interdisciplinary admission into the Department of Civil and Environmental Engineering and one other academic discipline (emphasis). Admission requirements vary between academic units, and there may be departmental requirements beyond those of the Department of Civil and Environmental Engineering that the student must fulfill to gain departmental admission. At least 30 credits are required for the degree, of which at least 15 must be at the 6600 level. At least 10 credits must be completed within the academic emphasis, with the remainder of the course work representing ENSM course work. No more than 9 credits may be transferred from another university, with the exception of courses from the University of Idaho, which will be accepted as resident credits. Students must have completed coursework equivalent to Idaho State University’s
+MATH 1160
+and Idaho State University’s
+CHEM 1111
+and
+CHEM 1112
+with grades of “C” or better. Students with prerequisite course deficiencies may be admitted as Classified with Performance Requirements with the understanding that these requirements must be satisfied prior to graduation, and such efforts may not necessarily count toward graduation. Classified with Performance Requirements (w/PR) admission into the ENSM program is the prerogative of individual departments.
+Thesis and non-thesis options are available for the ENSM degree. For the thesis option, a maximum of ten thesis credits may be counted toward the degree. For the non-thesis option, a maximum of three “Special Project” credits may be counted toward the degree. These credits may apply toward the requirement of 15 credits at the 6600 level. There are program-wide and department-specific requirements for the thesis and non-thesis options, and students must create a program of study in conjunction with their advisory committee. Students will register for thesis credits or non-thesis project credits in the home department of the thesis/project advisor. Some departments’ “Special Project” courses may have a different title and/or course number.
+Within the framework of the basic degree requirements, an advisory committee is chosen to work with the student to create an individualized program of study. The advisory committee consists of two faculty advisors: one from the Department of Civil and Environmental Engineering (CEE), and one from the student’s other academic discipline (emphasis). The student’s major advisor provides direction to the student regarding all relevant aspects of the program. All courses selected for fulfillment of the  program of study must be approved by the advisory committee. The initial program of study must be submitted to the ENSM program director no later than the second semester of enrollment. Changes in the initial program of study may only be made with the approval of the student’s advisory committee. The final program of study is submitted to the Graduate School for graduation clearance in accordance with Graduate School policy.
+Required Courses
+The following courses are required for every student receiving the M.S. degree in Environmental Science and Management.
+Course List
+Code
+Title
+Credits
+ENVE 5510
+Introduction to Environmental Engineering
+3
+ENGR 6655
+Environmental Topics Seminar
+1
+1
+ENGR 6650
+Thesis
+2
+1-9
+or
+ENGR 6660
+Special Project
+1
+Course must be completed two times in order to satisfy requirement. A student may select a seminar other than
+ENGR 6655
+offered in his/her interdisciplinary discipline with approval of the advisory committee.
+2
+Students will register for thesis or non-thesis "Special Project" credits in the home department of the thesis/non-thesis project advisor. Some departments' "Special Project" courses may have a different title and/or course number.
+In addition, the following courses are required for students choosing chemistry, environmental engineering, or mathematics as the second academic emphasis. Coursework in other emphasis areas will be selected from elective courses with the approval of the advisory committee.
+Chemistry Emphasis
+Course List
+Code
+Title
+Credits
+CHEM 5533
+Environmental Chemistry
+2
+CHEM 5537
+Environmental Chemistry Laboratory
+1
+Environmental Engineering Emphasis
+Course List
+Code
+Title
+Credits
+ENVE 5508
+Water and Waste Water Quality
+3
+ENVE 5509
+Water and Waste Water Lab
+1
+ENVE 5504
+Environmental Risk Assessment
+3
+Mathematics Emphasis
+Course List
+Code
+Title
+Credits
+MATH 5521
+Advanced Engineering Mathematics I
+3
+MATH 5522
+Advanced Engineering Mathematics II
+3
+MATH 5565
+Partial Differential Equations
+3
+OR
+MATH 6664
+Methods of Applied Mathematics I
+AND
+MATH 6665
+Methods of Applied Mathematics II
+Elective Courses
+Students will select a core of courses from the following list. (Students may select one or more courses not on this list, with the approval of the advisory committee, for the purpose of focusing students in a particular direction not covered by this abbreviated list.)
+Chemistry Electives
+Course List
+Code
+Title
+Credits
+CHEM 5507
+Inorganic Chemistry II
+2
+CHEM 6601
+Seminar
+1
+CHEM 6609
+Advanced Inorganic Chemistry
+3
+CHEM 6630
+Advanced Analytical Chemistry
+3
+CHEM 6621
+Organic Reactions
+3
+CHEM 6655
+Advanced Physical Chemistry
+3
+CHEM 6671
+Advanced Organic Chemistry
+3
+Environmental Engineering Electives
+Course List
+Code
+Title
+Credits
+ENVE 5508
+Water and Waste Water Quality
+3
+ENVE 5509
+Water and Waste Water Lab
+1
+ENVE 5530
+Air Pollution and Solid Waste
+3
+ENVE 6610
+Introduction to Radioactive Waste Management
+3
+ENVE 6611
+Treatment Systems for Environmental Engineering
+3
+ENVE 6615
+Water Quality Modeling and Control
+3
+ENVE 6617
+Environmental Systems Engineering and Design
+3
+ENVE 6629
+Physical and Chemical Treatment of Water and Waste Water
+3
+ENVE 6630
+Air Pollution and Control
+3
+ENGR 6606
+Environmental Law and Regulations
+3
+CE 5599
+Experimental Course (Open Channel Flow)
+3
+CE 5535
+Hydraulic Design
+3
+CE 5554
+Basic Engineering Geology
+3
+CE 5555
+Geologic Data Methods
+3
+NSEN 6618
+Radioactive Waste Management
+3
+NSEN 6619
+Materials Science of Radwaste
+3
+Geosciences Electives
+Course List
+Code
+Title
+Credits
+GEOL 5504
+Advanced Geographic Information Systems
+3
+GEOL 5509
+Remote Sensing
+3
+GEOL 5515
+Quaternary Global Change
+4
+GEOL 5516
+Global Environmental Change
+3
+GEOL 5520
+Principles of Geochemistry
+3
+GEOL 5530
+Principles of Hydrogeology
+3
+GEOL 5554
+Basic Engineering Geology
+3
+GEOL 5583
+Earthquake Engineering
+3
+GEOL 6602
+Advanced Geomorphology
+3
+GEOL 6608
+Geostatistics Spatial Data Analysis and Modeling
+3
+GEOL 6617
+Environmental Geochemistry
+3
+GEOL 6625
+Quantitative Geochemistry Lab
+3
+GEOL 6630
+Advanced Hydrogeology
+3
+Doctor of Philosophy in Engineering and Applied Science
+A doctoral program in Engineering and Applied Science, administered through the College of Science and Engineering, is available to engineering students. The complete program description is provided in the
+Engineering and Applied Science
+section of the Graduate Catalog.

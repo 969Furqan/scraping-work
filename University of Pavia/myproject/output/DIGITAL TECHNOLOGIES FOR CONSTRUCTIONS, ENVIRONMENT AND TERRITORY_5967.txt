@@ -1,0 +1,199 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/digital-technologies-constructions-environment-and-territory
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The professional degree program in Digital Technologies for Construction, Environment, and Territory will train professionals with a cultural profile rooted in the traditional figure of the Surveyor but expanded to include topics such as: energy efficiency, structural safety, territory protection, monitoring of territory, artifacts, and infrastructure, workplace safety, mediation and conflict management, and real estate valuation. The profile of the trained technicians will be intermediate between the executive and the design roles typical of traditional engineering degrees. The entire course of study will have a strong focus on digitization and the IT management of projects and activities.
+The degree program includes a single track that comprises both basic and specialized courses with a strong presence of laboratory activities and a third year dedicated to an internship at professional studios, companies, construction firms, or public entities. Moreover, given the professional nature of the degree program, various courses and laboratories will aim to prepare students to obtain certifications such as ICDL Standard, CAD 2D and GIS; BIM Specialist; Safety Coordinator in construction sites; and Energy Certifier.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Vittorio Marco Casella
+Area
+Engineering
+Access
+Programmed
+Language
+Italian
+Degree class
+L-P01 - Professioni tecniche per l'edilizia e il territorio
+Department
+DEPARTMENT OF CIVIL ENGINEERING AND ARCHITECTURE
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+TECNOLOGIE DIGITALI PER LE COSTRUZIONI, L’AMBIENTE E IL TERRITORIO
+Year of study:
+1
+Compulsory
+CHEMISTRY OF TRADITIONAL AND INNOVATIVE MATERIALS FOR CONSTRUCTION
+3
+							CFU -
+							 28 							hours
+2nd semester
+DIGITAL REPRESENTATION
+6
+							CFU -
+							 45 							hours
+1st semester
+PHYSICS FOR CONSTRUCTION AND TERRITORY
+3
+							CFU -
+							 28 							hours
+2nd semester
+FUNDAMENTALS OF ARCHITECTURAL DESIGN
+3
+							CFU -
+							 23 							hours
+1st semester
+LABORATORY OF CAD AND BIM
+6
+							CFU -
+							 80 							hours
+Annual
+LABORATORY OF GIS AND CADASTRAL PROCEDURES
+9
+							CFU -
+							 122 							hours
+2nd semester
+LABORATORY OF APPLIED IINFORMATICS
+3
+							CFU -
+							 36 							hours
+1st semester
+LABORATORY OF DIGITAL SURVEYING AND DRONES
+9
+							CFU -
+							 128 							hours
+2nd semester
+MATHEMATICS FOR CONSTRUCTION AND TERRITORY
+6
+							CFU -
+							 55 							hours
+1st semester
+DIGITAL SURVEYING OF LAND AND CONSTRUCTIONS
+6
+							CFU -
+							 59 							hours
+1st semester
+STATICS
+3
+							CFU -
+							 30 							hours
+2nd semester
+DIGITAL URBAN PLANNING
+6
+							CFU -
+							 60 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ELEMENTS OF LAW
+3
+							CFU -
+							 30 							hours
+ENGLISH FOR ENGINEERING
+3
+							CFU -
+							 22 							hours
+FUNDAMENTALS OF GEOTECHNICS
+3
+							CFU -
+							 30 							hours
+FUNDAMENTALS OF ENVIRONMENTAL AND URBAN HYDRAULICS
+6
+							CFU -
+							 55 							hours
+FUNDAMENTALS OF BUILDING AND TECHNOLOGICAL DESIGN
+6
+							CFU -
+							 45 							hours
+FUNDAMENTALS OF STRUCTURAL ENGINEERING
+3
+							CFU -
+							 30 							hours
+LABORATORY OF ENERGY CERTIFICATION
+6
+							CFU -
+							 80 							hours
+LABORATORY OF PUBLIC WORKS MANAGEMENT
+3
+							CFU -
+							 40 							hours
+LABORATORY OF FACILITY MANAGEMENT
+3
+							CFU -
+							 40 							hours
+LABORATORY OF SAFETY AND COORDINATION OF CONSTRUCTION SITES
+9
+							CFU -
+							 120 							hours
+ENVIRONMENTAL SUSTAINABILITY, WASTE AND REMEDIATION
+3
+							CFU -
+							 30 							hours
+DIGITAL TOOLS FOR REAL ESTATE APPRAISAL AND ACCOUNTING OF WORKS
+6
+							CFU -
+							 45 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+APPLIED GEOLOGY
+6
+							CFU -
+							 52 							hours
+HEATING SYSTEMS AND THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+EXPERIMENTAL CHARACTERISATION, CERTIFICATION AND HEALTH MONITORING OF STRUCTURES
+6
+							CFU -
+							 64 							hours
+Year of study:
+3
+Compulsory
+FINAL EXAM
+3
+							CFU -
+							 0 							hours
+PRACTICAL EVALUATION TRAINEESHIP (TPV)
+48
+							CFU -
+							 1200 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The TeDCAT Bachelor's Degree Course will train graduate surveyors qualified for registration with the Board of Surveyors and Graduate Surveyors, with a cultural profile focused on three main areas: land surveying, construction, territorial planning, and valuation. The curriculum also includes topics such as energy efficiency, workplace and worksite safety, land protection, land, building, and infrastructure monitoring, workplace safety, property valuation, and asset management. The entire course will have a strong orientation towards digitization and computerized project and activity management. Various computer programs useful for the activities of trained professionals will be taught in courses and, especially, in laboratories: CAD software, BIM, GIS, topographic surveying, energy certification; advanced use of spreadsheets for technical calculations, reporting, and quantity surveying will be taught. The use of digital tools for land surveying and monitoring, such as digital and motorized total station, GNSS receivers, lidar, and drones, will be taught. The proposed Bachelor's Degree Course curriculum is essentially rigid, with the exception of 12 CFU to be freely chosen from the University's educational offerings. Credits are allocated for core subjects, in a limited number. Credits are assigned to core and related subjects, as specified in the tables in the following sections. There are 48 CFU dedicated to laboratory activities. Finally, 48 CFU are assigned to the practical-evaluative internship (PEI), carried out at affiliated facilities, aimed at exposing students to the typical practices of the graduate surveyor profession. Teaching at TeDCAT will have original characteristics. It will be rigorous, as is typical of university teaching, and at the same time oriented towards applications. The use of mathematical formalism will be kept to a minimum. The main focus will be on how to tackle different study subjects using selected hardware and software tools. Courses will not be limited to teaching the mere operation of tools but will aim to train qualified technicians capable of supporting projects (surveying, structural calculation, representation, safety, and construction site). Given the professionalizing nature of the Bachelor's Degree Course, several courses and laboratories will, among their various objectives, prepare students to obtain certain certifications: ICDL (International Certification of Digital Literacy) Standard; ICDL CAD 2D; ICDL GIS; BIM Specialist; Construction Safety Coordinator (CSE); Energy Certifier. Professionalizing degree courses do not naturally lead to enrollment in a master's degree, although this is not explicitly prohibited by the regulations. The natural outcome is entering the workforce.
+Career opportunities
+Graduate Surveyor.
+
+Skills in the use of digital technologies and in the management of digital processes in civil and environmental engineering are highly sought after by the market. The transition from traditional systems of design and management of civil works to digital systems and systems based on BIM technologies is underway, and the demand for professionals capable of operating with these new systems is significant. A similar transition is occurring in the field of cartography, spatial planning, and land management: the demand for professionals capable of operating appropriately with GIS technologies is strong. Therefore, professional opportunities may include:
+
+- Private technical firms involved in the design and management of civil works
+- Private technical firms specializing in topographic surveying and land monitoring
+- Construction companies
+- Public technical organizations
+- Companies supplying systems, services, and components for civil and environmental engineering
+- Professional studios operating in the field of civil and environmental engineering, urban planning, valuation, and territorial informatics
+
+Enrollment in a master's degree program is not a natural progression for graduates.
+Admission requirements
+It is required high school diploma or another equivalent foreign qualification recognized as suitable. Additionally, the knowledge and skills required are:
+- Logical reasoning skills
+- Ability to apply basic mathematics and principles of experimental sciences
+The verification of the possession of the entry knowledge, mandatory according to D.M. 270/04, will take place according to the methods specified in the educational regulations of the course of study, where any Additional Training Obligations required in case of negative verification will also be indicated, to be fulfilled in the first year of the course.
+Academic Regulation
+Academic Regulation
+Useful information
+FAQ
+Watch the tutorial
+How to enroll
+Contacts
+Fees and funding
+Course website

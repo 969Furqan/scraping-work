@@ -1,0 +1,368 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/industrial-automation-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The educational activities of the Master's Degree Program in Industrial Automation Engineering allow students to acquire highly qualified engineering skills in the field of industrial automation, also addressing the economic and managerial issues typical of companies and market contexts. At the end of the training course, the graduate will be able to:
+Understand theoretical and practical aspects of both basic engineering disciplines and, in a more in-depth manner, automation engineering
+Identify, formulate, and solve complex problems, even in innovative ways, requiring an interdisciplinary and multidisciplinary approach
+Design, plan, develop, and manage complex and/or innovative systems, processes, and services • Design and manage highly complex experiments
+Understand different industrial contexts by leveraging cross-disciplinary skills
+Understand the fundamental aspects of business organization (corporate culture) and professional ethics.
+The training program is entirely in English.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Hermes Giberti
+Area
+Engineering
+Access
+Open
+Language
+English
+Degree class
+LM-25 - Automation engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso ROBOTICS AND MECHATRONICS
+Percorso INDUSTRIAL TECHNOLOGIES AND MANAGEMENT
+Year of study:
+1
+Compulsory
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+1st semester
+AUTOMATED MECHANICAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+2nd semester
+ELECTRONICS FOR INDUSTRIAL MEASUREMENTS
+6
+							CFU -
+							 62 							hours
+1st semester
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+2nd semester
+POWER ELECTRONICS
+6
+							CFU -
+							 70 							hours
+2nd semester
+PROCESS CONTROL AND ROBOTICS
+12
+							CFU -
+							 90 							hours
+Annual
+Choose a subject
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+1st semester
+MECHATRONICS
+6
+							CFU -
+							 51 							hours
+1st semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 45 							hours
+1st semester
+ELECTRONICS
+6
+							CFU -
+							 74 							hours
+Annual
+IDENTIFICATION OF MODELS AND DATA ANALYSIS A
+6
+							CFU -
+							 56 							hours
+Annual
+LOGISTICS MANAGEMENT
+6
+							CFU -
+							 45 							hours
+1st semester
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+STRATEGIC MANAGEMENT AND BUSINESS PLANNING
+6
+							CFU -
+							 45 							hours
+2nd semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+APPLIED PROJECT MANAGEMENT AND AGILE METHODS
+6
+							CFU -
+							 44 							hours
+1st semester
+DATA SCIENCE AND BIG DATA ANALYTICS
+6
+							CFU -
+							 60 							hours
+2nd semester
+IDENTIFICATION OF MODELS AND DATA ANALYSIS B
+6
+							CFU -
+							 56 							hours
+Annual
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+2nd semester
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+APPLIED ROBOTICS TECHNOLOGIES
+9
+							CFU -
+							 68 							hours
+ELECTRICAL DRIVES FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 52 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+NONLINEAR CONTROL AND OPTIMIZATION
+12
+							CFU -
+							 111 							hours
+WIRED AND WIRELESS COMMUNICATION SYSTEMS
+6
+							CFU -
+							 45 							hours
+Choose a subject (3 CFU)
+ENERGY EFFICIENCY IN COMPRESSED AIR SYSTEMS
+3
+							CFU -
+							 30 							hours
+INDUSTRIAL PROJECT
+3
+							CFU -
+							 23 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+SAFETY IN ENGINEERING AND TECHNOLOGY
+3
+							CFU -
+							 24 							hours
+Year of study:
+1
+Compulsory
+AUTOMATED MECHANICAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+2nd semester
+ELECTRONICS FOR INDUSTRIAL MEASUREMENTS
+6
+							CFU -
+							 62 							hours
+1st semester
+LOGISTICS MANAGEMENT
+6
+							CFU -
+							 45 							hours
+1st semester
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+2nd semester
+POWER ELECTRONICS
+6
+							CFU -
+							 70 							hours
+2nd semester
+PROCESS CONTROL AND ROBOTICS
+12
+							CFU -
+							 90 							hours
+Annual
+STRATEGIC MANAGEMENT AND BUSINESS PLANNING
+6
+							CFU -
+							 45 							hours
+2nd semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends:
+ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 45 							hours
+1st semester
+ECONOMICS OF DIGITAL MARKETS
+6
+							CFU -
+							 44 							hours
+2nd semester
+ELECTRONICS
+6
+							CFU -
+							 74 							hours
+Annual
+ENERGY MARKETS AND SUPPLY STRUCTURE
+6
+							CFU -
+							 45 							hours
+1st semester
+IDENTIFICATION OF MODELS AND DATA ANALYSIS A
+6
+							CFU -
+							 56 							hours
+Annual
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends:
+APPLIED PROJECT MANAGEMENT AND AGILE METHODS
+6
+							CFU -
+							 44 							hours
+1st semester
+DATA SCIENCE AND BIG DATA ANALYTICS
+6
+							CFU -
+							 60 							hours
+2nd semester
+IDENTIFICATION OF MODELS AND DATA ANALYSIS B
+6
+							CFU -
+							 56 							hours
+Annual
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+2nd semester
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+APPLIED ROBOTICS TECHNOLOGIES
+9
+							CFU -
+							 68 							hours
+ELECTRICAL DRIVES FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 52 							hours
+LEAN PRODUCTION
+6
+							CFU -
+							 45 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+NONLINEAR CONTROL AND OPTIMIZATION
+12
+							CFU -
+							 111 							hours
+Choose a subject (3 CFU)
+ENERGY EFFICIENCY IN COMPRESSED AIR SYSTEMS
+3
+							CFU -
+							 30 							hours
+INDUSTRIAL PROJECT
+3
+							CFU -
+							 23 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+SAFETY IN ENGINEERING AND TECHNOLOGY
+3
+							CFU -
+							 24 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The second-cycle degree in Industrial Automation Engineering seeks to produce professionals with deep knowledge of the theoretical and practical aspects of engineering disciplines in the industrial automation sector, also focusing on economic and management issues typical of firms and markets.
+The curriculum will be completed with subjects in the field of electronics, telecommunications and informatics, which are increasingly more common in automation systems.
+The courses are taught in English, which is the dominant language in the engineering field.
+At the end of the degree programme graduates will be able to identify, analyze, formalize and solve in innovative fashion the main problems, even complex ones, typical of industrial automation.
+Graduates will also be able to build a professional career that is flexible and keeps pace with the evolution of technology and an international jobs market where English is increasingly prevalent. They will also have the possibility of undertaking research in a national or international context.
+To obtain the above results the degree programme emphasizes in particular a deepened knowledge of the theoretical and practical aspects dealt with during the first-cycle degree as well as the study of the most innovative technologies, so that the knowledge acquired does not soon become obsolete but instead keeps pace with changes in the world of industrial automation, allowing graduates to confidently deal with new problems while acquiring the conceptual tools to keep up-to-date in the field over time.
+Along with the theoretical preparation are important lab experiences which, together with the preparation of the final thesis, will allow students to apply the theoretical content learned in their courses.
+The academic programme, which emphasizes methodology in particular, will also provide students with advanced engineering skills necessary for highly qualified activity in the following professional fields:
+- the planning, supervision and control of robotic systems;
+- the planning of automation systems for industries and the service sector;
+- methodologies for modeling, simulating and controlling complex systems;
+The Master programme also aims at providing knowledge useful for more advanced study in future degree programmes (Level II Master’s and Doctoral Research degree).
+The degree programme includes a number of basic courses and a group of courses that will allow the student to achieve an advanced professional profile. These profiles will keep pace with changes over time in automation technology. The student may also choose courses to meet the credit requirements (CFU) for elective courses in order to vary his or her preparation and gain the greater flexibility the profession requires. Some of the elective courses may be in Italian.
+Career opportunities
+The main professional opportunities for Master degree graduates in Industrial Automation Engineering are in the areas of production innovation and development, advanced design, planning and programming, and the management of complex systems regarding both free-lance activities and manufacturing, service companies or public administration. 
+Graduates can find employment with: electronic, electromechanical, space, chemical and aeronautic companies that deal with the sizing and implementation of complex architectural structures, automatic systems, and processes and facilities for automation that integrate informatics components and measuring, transmission and implementation apparatuses.
+
+Below is a list of some of the most common professional fields for the automation sector:
+- planning of automation systems for industry and the service sector;
+- planning, supervision and control of robotic systems;
+- planning of methodologies for modeling, simulating and controlling complex systems;
+- senior manager in charge of logistics and/or client services in industrial firms;
+- operational management of commercial and technical sectors in telecommunications and energy companies.
+Admission requirements
+To be admitted to the master's degree course, the student must be in possession of a degree (including that obtained according to the regulations previously in force under Ministerial Decree 509/1999 and subsequent amendments and additions) or a three-year university diploma, or another qualification obtained abroad, recognized as suitable by the competent bodies of the University. Admission also requires the possession of curricular requirements and the adequacy of the student's initial preparation. Access to the master's degree in Industrial Automation Engineering presupposes solid knowledge in engineering disciplines, with good preparation in the basic subjects and specific subjects in the field of industrial engineering in the fields of automation, electrical drives and mechanics. These skills are specified by the teaching regulations of the master's degree course in terms of curricular requirements, through the definition of the minimum number of university training credits (CFU) that the candidate must have acquired in his previous career, referring to the various training activities envisaged by the current legislation and to individual scientific-disciplinary sectors and/or groups of scientific-disciplinary sectors, and recognized as suitable by the Teaching Council. To access the master's degree, the student must also be able to use the English language fluently, in written and oral form, also with reference to disciplinary lexicons; the level of knowledge required will be explained in the teaching regulations of the master's degree course and will refer to the levels of competence indicated in the Common European Framework drawn up by the Council of Europe. Admission to the Master's Degree Course is also subject to verification of the adequacy of the candidate's personal preparation, with criteria and methods established in the Teaching Regulations.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+Watch the tutorial
+Incoming transfer
+Fees and funding
+Student Portal
+FAQ
+Contacts

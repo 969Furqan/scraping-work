@@ -1,0 +1,134 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/roboticsandcommunicationsystemsengineeringtechnology/aas-robotics-and-communications-systems-engineering-technology/
+A.A.S. Robotics and Communications Systems Engineering Technology
+(3 Years)
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+3
+Objective 2
+3
+Objective 3
+3
+Objective 6
+3
+Any unfilled objective
+3
+Total Credits
+15
+Course List
+Code
+Title
+Credits
+Required Courses:
+RCET 1153A
+Basic Electricity and DC Circuit Theory
+4
+RCET 1153B
+Basic Electricity and AC Circuit Theory
+4
+RCET 1154A
+Analog Control Devices Theory
+4
+RCET 1154B
+Digital Control Devices Theory
+4
+RCET 1155A
+Basic Electricity and DC Circuit Lab
+2
+RCET 1155B
+Basic Electricity and AC Circuit Lab
+2
+RCET 1156A
+Analog Control Devices Laboratory
+2
+RCET 1156B
+Digital Control Devices Laboratory
+2
+RCET 2251
+Systems Analog and Digital Theory
+6
+RCET 2253
+Systems Analog and Digital Laboratory
+5
+RCET 2265
+Computer Fundamentals and Introduction to Programming
+4
+RCET 2267
+Radio Frequency Transmission Theory
+6
+RCET 2268
+Radio Frequency Transmission Lab
+5
+RCET 2271
+Introduction to Lab Simulation Software
+2
+RCET 1372
+Calculus for Electronics
+4
+RCET 3371
+Advanced Programming Techniques and GUI Development
+4
+RCET 3372
+Advanced Applications of Calculus for Robotics
+4
+RCET 3373
+Advanced Computer Architecture and Embedded Systems Theory
+5
+RCET 3374
+Advanced Systems Analysis Theory
+4
+RCET 3375
+Advanced Computer Architecture and Embedded Systems Laboratory
+5
+RCET 3376
+Advanced Systems Analysis Theory
+5
+General Education courses:
+1
+COMM 1101
+Fundamentals of Oral Communication
+2
+3
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+2
+4
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1111/1113
+General Physics I
+Additional General Education courses
+6
+Total Credits
+96
+1
+See
+General Education Requirements
+(minimum 15 credits) for A.A.S. Degree at the start of the College of Technology section of the catalog.
+2
+Contributes to a General Education requirement.
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admissions Requirements
+0
+General Education
+15
+Major Requirements (w/o General Education)
+83
+Free Electives
+0
+Total Credits
+98
+Major Academic Plan (MAP)

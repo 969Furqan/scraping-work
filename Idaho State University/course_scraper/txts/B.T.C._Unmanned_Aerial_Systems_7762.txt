@@ -1,0 +1,37 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/unmannedaerialsystems/btc-unmanned-aerial-systems/
+B.T.C. Unmanned Aerial Systems
+(1/2 Year)
+Program Admission Requirements
+Contact College of Technology Student Services at (208) 282-2622.
+COT Min Test Scores (No English)
+Placement Test
+Math
+SAT
+320
+ACT
+14
+ALEKS
+14
+Course List
+Code
+Title
+Credits
+Required Courses:
+UAS 1115
+Flight Theory
+3
+UAS 1120
+Flight Laboratory I
+4
+UAS 1150
+Unmanned Systems Design
+3
+UAS 2250
+Imagery Analysis
+4
+UAS 2252
+Ground Control Points for Unmanned Aerial Systems
+1
+Total Credits
+15
+Major Academic Plan (MAP)

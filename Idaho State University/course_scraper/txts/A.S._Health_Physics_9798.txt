@@ -1,0 +1,100 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/nuclear-engineering/as-health-physics/
+A.S. Health Physics
+Admission to this program requires approval of the Department Chair.
+The objective of the Idaho State University program that awards an Associate of Science in Health Physics is to develop an individual to assume the role of a health physics technician (sometimes referred to as Radiological Control Technician or RCT) with the knowledge in radiological and biological sciences appropriate for this career option. That same knowledge serves as the basis for certification by the National Registry of Radiation Protection Technologist (NRRPT). Students completing this program will develop the fundamental skills important to life-long learning and advancing within the discipline of Health Physics.
+Students must fulfill 8 of the 9 University General Education Requirements (a minimum of 36 credits--see the
+General Education Requirements
+described in the Academic Information section of this catalog.)
+Course List
+Code
+Title
+Credits
+BIOL 1101
+&
+1101L
+Biology I
+and Biology I Lab
+(Partially Satisfies General Education Objective 5)
+4
+BIOL/HPHY 3307
+Radiobiology
+2
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+(Partially satisfies General Education Objective 5)
+5
+CHEM 1112
+&
+1112L
+General Chemistry II
+and General Chemistry II Lab
+4
+COMM 1101
+Fundamentals of Oral Communication (Satisfies General Education Objective 2)
+3
+ENGL 1102
+Writing and Rhetoric II (Partially Satisfies General Education Objective 1)
+3
+ECON 1100
+Economic Issues (Partially Satisfies General Education Objective 6)
+3
+MATH 1147
+Precalculus
+5
+or
+MATH 1143
+&
+MATH 1144
+Precalculus I: Algebra
+and Precalculus II: Trigonometry
+5
+MATH 1153
+Statistical Reasoning (Satisfies General Education Objective 3)
+3
+PHIL 1101
+Introduction to Philosophy (Partially Satisfies General Education Objective 4)
+3
+PHYS 1111
+General Physics I
+3
+PHYS 1113
+General Physics I Laboratory
+1
+PHYS 1112
+General Physics II
+3
+PHYS 1114
+General Physics II Laboratory
+1
+PSYC 1101
+Introduction to Psychology (Partially satisfies General Education Objective 6)
+3
+HPHY 2217
+RCT Internship
+3
+HPHY 2218
+Fundamentals of Radiation Protection Physics
+3
+HPHY 2219
+RCT Internship II
+3
+HPHY 2225
+Radiation Protection Instrumentation
+3
+HPHY 2226
+Radiation Protection I
+3
+HPHY 2227
+Radiation Protection II
+3
+HPHY 2228
+Health Physics Regulations
+3
+HPHY 3300
+Medical Electronics
+2
+Total Credits
+74

@@ -1,0 +1,1368 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/mathematics
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Master’s Degree in Mathematics aims to provide a solid mathematical foundation that enables graduates to explore a wide range of exciting opportunities available to mathematicians today, whether in advanced research, highly qualified employment, or secondary school teaching.
+The program offers several profiles based on the chosen credits, allowing students to develop different cultural profiles: theoretical, didactic, or applied.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Matteo Negri
+Area
+Mathematic, Physical and Natural Sciences
+Access
+Open
+Language
+Italian
+Degree class
+LM-40 - Classes of Laurea Magistrale in Mathematics
+Department
+DEPARTMENT OF MATHEMATICS "FELICE CASORATI"
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso - Generale
+Percorso - Modellistico-applicativo
+Year of study:
+1
+Three elective courses among the following (including at least two courses to be chosen in the first year) (between 18 and 27 CFU)
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+1st semester
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+1st semester
+SPECIFIC DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+2nd semester
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+Choose a subject among courses offered in the first and second year
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+2nd semester
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+2nd semester
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+2nd semester
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+1st semester
+Choose at least 18 credits from Table 1 (including 6 in the first year) (6 CFU)
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+1st semester
+FUNCTIONAL ANALYSIS AND DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 56 							hours
+2nd semester
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+CALCULUS OF VARIATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+COMPLEMENTS OF ALGEBRA
+6
+							CFU -
+							 48 							hours
+1st semester
+ALGEBRAIC CURVES AND RIEMANN SURFACES
+6
+							CFU -
+							 60 							hours
+2nd semester
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+1st semester
+DIDATTICHE SPECIFICHE DELLA MATEMATICA
+9
+							CFU -
+							 72 							hours
+2nd semester
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+2nd semester
+EVOLUTION EQUATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+2nd semester
+MATHEMATICAL FINANCE
+6
+							CFU -
+							 52 							hours
+1st semester
+DIFFERENTIAL GEOMETRY
+6
+							CFU -
+							 48 							hours
+2nd semester
+HIGHER GEOMETRY
+6
+							CFU -
+							 48 							hours
+1st semester
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+MACHINE LEARNING FOR SCIENTIFIC COMPUTING
+6
+							CFU -
+							 48 							hours
+1st semester
+ELEMENTARY MATHEMATICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ADVANCED MECHANICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ADVANCED NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+KINETIC MODELS AND APPLICATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+2nd semester
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+2nd semester
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+1st semester
+STOCHASTIC PROCESSES
+6
+							CFU -
+							 48 							hours
+2nd semester
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+1st semester
+HISTORY OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+1st semester
+DYNAMICAL SYSTEMS
+6
+							CFU -
+							 56 							hours
+2nd semester
+Choose up to 18 credits in Table 2 (between 6 and 18 CFU)
+DATA BASE
+6
+							CFU -
+							 60 							hours
+1st semester
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+1st semester
+DECISIONS AND CHOICES
+6
+							CFU -
+							 44 							hours
+2nd semester
+PHYSICS EDUCATION
+6
+							CFU -
+							 48 							hours
+2nd semester
+ECONOPHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ELEMENTS OF MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ELECTRODYNAMICS AND RELATIVITY
+6
+							CFU -
+							 48 							hours
+1st semester
+PHILOSOPHY OF SCIENCE - ADVANCED
+6
+							CFU -
+							 36 							hours
+2nd semester
+FINANCIAL ECONOMETRICS
+6
+							CFU -
+							 44 							hours
+1st semester
+PHYSICS OF QUANTUM COMPUTATION
+6
+							CFU -
+							 48 							hours
+2nd semester
+GAME AND EQUILIBRIUM THEORY: TOOLS AND APPLICATIONS
+6
+							CFU -
+							 44 							hours
+2nd semester
+LIE GROUPS AND REPRESENTATION THEORY
+6
+							CFU -
+							 48 							hours
+2nd semester
+INTRODUCTION TO ASTRONOMY
+6
+							CFU -
+							 48 							hours
+1st semester
+INTRODUCTION TO MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+2nd semester
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+2nd semester
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+1st semester
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+2nd semester
+TEACHING TOOLS AND METHODS
+6
+							CFU -
+							 56 							hours
+1st semester
+GENERAL  RELATIVITY
+6
+							CFU -
+							 60 							hours
+2nd semester
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+Annual
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+1st semester
+STATISTICAL METHODS IN PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+HISTORY OF PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+HISTORY OF SCIENCES
+6
+							CFU -
+							 48 							hours
+1st semester
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+DISCIPLINARY CLOSE EXAMINATION
+3
+							CFU -
+							 24 							hours
+INTRODUCTION TO THE THEORY OF STOCHASTIC PROCESSES
+3
+							CFU -
+							 30 							hours
+STOCHASTIC DIFFERENTIAL EQUATIONS
+3
+							CFU -
+							 24 							hours
+HISTORY OF ANCIENT MATHEMATICS
+6
+							CFU -
+							 48 							hours
+GEOMETRICAL STRUCTURES IN MATHEMATICAL PHYSICS
+3
+							CFU -
+							 24 							hours
+GAMES THEORY
+3
+							CFU -
+							 24 							hours
+INTERNSHIP 1
+3
+							CFU -
+							 75 							hours
+INTERNSHIP 2
+6
+							CFU -
+							 150 							hours
+INTERNSHIP 3
+9
+							CFU -
+							 225 							hours
+Year of study:
+2
+Compulsory
+SCIENTIFIC ENGLISH
+3
+							CFU -
+							 24 							hours
+FINAL EXAM
+33
+							CFU -
+							 0 							hours
+Three elective courses among the following (including at least two courses to be chosen in the first year) (9 CFU)
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+SPECIFIC DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+Scegli un insegnamento tra il primo ed il secondo anno
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+Choose at least 18 credits from Table 1 (including 6 in the first year) (between 12 and 30 CFU)
+HIGHER ALGEBRA
+6
+							CFU -
+							 60 							hours
+ALGEBRAIC GEOMETRY
+6
+							CFU -
+							 60 							hours
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+FUNCTIONAL ANALYSIS AND DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 56 							hours
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+CALCULUS OF VARIATIONS
+6
+							CFU -
+							 48 							hours
+COMPLEMENTS OF ALGEBRA
+6
+							CFU -
+							 48 							hours
+ALGEBRAIC CURVES AND RIEMANN SURFACES
+6
+							CFU -
+							 60 							hours
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+DIDATTICHE SPECIFICHE DELLA MATEMATICA
+9
+							CFU -
+							 72 							hours
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+EVOLUTION EQUATIONS
+6
+							CFU -
+							 48 							hours
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+MATHEMATICAL FINANCE
+6
+							CFU -
+							 52 							hours
+ALGEBRAIC GEOMETRY
+6
+							CFU -
+							 48 							hours
+DIFFERENTIAL GEOMETRY
+6
+							CFU -
+							 48 							hours
+HIGHER GEOMETRY
+6
+							CFU -
+							 48 							hours
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+MACHINE LEARNING FOR SCIENTIFIC COMPUTING
+6
+							CFU -
+							 48 							hours
+ELEMENTARY MATHEMATICS
+6
+							CFU -
+							 48 							hours
+ELEMENTARY MATHEMATICS FROM AN ADVANCED STANDPOINT
+6
+							CFU -
+							 48 							hours
+ADVANCED MECHANICS
+6
+							CFU -
+							 48 							hours
+ADVANCED NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 48 							hours
+KINETIC MODELS AND APPLICATIONS
+6
+							CFU -
+							 48 							hours
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+STOCHASTIC PROCESSES
+6
+							CFU -
+							 48 							hours
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+HISTORY OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+DYNAMICAL SYSTEMS
+6
+							CFU -
+							 56 							hours
+Choose up to 18 credits in Table 2 (between 6 and 18 CFU)
+DATA BASE
+6
+							CFU -
+							 60 							hours
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+DECISIONS AND CHOICES
+6
+							CFU -
+							 44 							hours
+PHYSICS EDUCATION
+6
+							CFU -
+							 48 							hours
+ECONOPHYSICS
+6
+							CFU -
+							 48 							hours
+ELEMENTS OF MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+ELECTRODYNAMICS AND RELATIVITY
+6
+							CFU -
+							 48 							hours
+PHILOSOPHY OF SCIENCE - ADVANCED
+6
+							CFU -
+							 36 							hours
+FINANCIAL ECONOMETRICS
+6
+							CFU -
+							 44 							hours
+PHYSICS OF QUANTUM COMPUTATION
+6
+							CFU -
+							 48 							hours
+GAME AND EQUILIBRIUM THEORY: TOOLS AND APPLICATIONS
+6
+							CFU -
+							 44 							hours
+LIE GROUPS AND REPRESENTATION THEORY
+6
+							CFU -
+							 48 							hours
+INTRODUCTION TO ASTRONOMY
+6
+							CFU -
+							 48 							hours
+INTRODUCTION TO MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+TEACHING TOOLS AND METHODS
+6
+							CFU -
+							 56 							hours
+GENERAL  RELATIVITY
+6
+							CFU -
+							 60 							hours
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+STATISTICAL METHODS IN PHYSICS
+6
+							CFU -
+							 48 							hours
+HISTORY OF PHYSICS
+6
+							CFU -
+							 48 							hours
+HISTORY OF SCIENCES
+6
+							CFU -
+							 48 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+DISCIPLINARY CLOSE EXAMINATION
+3
+							CFU -
+							 24 							hours
+INTRODUCTION TO THE THEORY OF STOCHASTIC PROCESSES
+3
+							CFU -
+							 30 							hours
+STOCHASTIC DIFFERENTIAL EQUATIONS
+3
+							CFU -
+							 24 							hours
+HISTORY OF ANCIENT MATHEMATICS
+6
+							CFU -
+							 48 							hours
+GEOMETRICAL STRUCTURES IN MATHEMATICAL PHYSICS
+3
+							CFU -
+							 24 							hours
+GAMES THEORY
+3
+							CFU -
+							 24 							hours
+INTERNSHIP 1
+3
+							CFU -
+							 75 							hours
+INTERNSHIP 2
+6
+							CFU -
+							 150 							hours
+INTERNSHIP 3
+9
+							CFU -
+							 225 							hours
+Year of study:
+1
+Compulsory
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+1st semester
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+DISCIPLINARY CLOSE EXAMINATION
+3
+							CFU -
+							 24 							hours
+INTRODUCTION TO THE THEORY OF STOCHASTIC PROCESSES
+3
+							CFU -
+							 30 							hours
+STOCHASTIC DIFFERENTIAL EQUATIONS
+3
+							CFU -
+							 24 							hours
+HISTORY OF ANCIENT MATHEMATICS
+6
+							CFU -
+							 48 							hours
+GEOMETRICAL STRUCTURES IN MATHEMATICAL PHYSICS
+3
+							CFU -
+							 24 							hours
+GAMES THEORY
+3
+							CFU -
+							 24 							hours
+INTERNSHIP 1
+3
+							CFU -
+							 75 							hours
+INTERNSHIP 2
+6
+							CFU -
+							 150 							hours
+INTERNSHIP 3
+9
+							CFU -
+							 225 							hours
+Choose a subject among courses offered in the first and second year
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+Two elective courses among the following (including at least one course to be chosen in the first year) (between 9 and 18 CFU)
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+2nd semester
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+2nd semester
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+2nd semester
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+1st semester
+Choose at least 18 credits from Table 1 (including 6 in the first year) (6 CFU)
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+1st semester
+FUNCTIONAL ANALYSIS AND DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 56 							hours
+2nd semester
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+CALCULUS OF VARIATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+COMPLEMENTS OF ALGEBRA
+6
+							CFU -
+							 48 							hours
+1st semester
+ALGEBRAIC CURVES AND RIEMANN SURFACES
+6
+							CFU -
+							 60 							hours
+2nd semester
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+1st semester
+DIDATTICHE SPECIFICHE DELLA MATEMATICA
+9
+							CFU -
+							 72 							hours
+2nd semester
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+2nd semester
+EVOLUTION EQUATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+2nd semester
+MATHEMATICAL FINANCE
+6
+							CFU -
+							 52 							hours
+1st semester
+DIFFERENTIAL GEOMETRY
+6
+							CFU -
+							 48 							hours
+2nd semester
+HIGHER GEOMETRY
+6
+							CFU -
+							 48 							hours
+1st semester
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+1st semester
+MACHINE LEARNING FOR SCIENTIFIC COMPUTING
+6
+							CFU -
+							 48 							hours
+1st semester
+ELEMENTARY MATHEMATICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ADVANCED MECHANICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ADVANCED NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+KINETIC MODELS AND APPLICATIONS
+6
+							CFU -
+							 48 							hours
+2nd semester
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+2nd semester
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+2nd semester
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+1st semester
+STOCHASTIC PROCESSES
+6
+							CFU -
+							 48 							hours
+2nd semester
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+1st semester
+HISTORY OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+1st semester
+DYNAMICAL SYSTEMS
+6
+							CFU -
+							 56 							hours
+2nd semester
+Choose up to 18 credits in Table 2 (between 6 and 18 CFU)
+DATA BASE
+6
+							CFU -
+							 60 							hours
+1st semester
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+1st semester
+DECISIONS AND CHOICES
+6
+							CFU -
+							 44 							hours
+2nd semester
+PHYSICS EDUCATION
+6
+							CFU -
+							 48 							hours
+2nd semester
+ECONOPHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ELEMENTS OF MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ELECTRODYNAMICS AND RELATIVITY
+6
+							CFU -
+							 48 							hours
+1st semester
+PHILOSOPHY OF SCIENCE - ADVANCED
+6
+							CFU -
+							 36 							hours
+2nd semester
+FINANCIAL ECONOMETRICS
+6
+							CFU -
+							 44 							hours
+1st semester
+PHYSICS OF QUANTUM COMPUTATION
+6
+							CFU -
+							 48 							hours
+2nd semester
+GAME AND EQUILIBRIUM THEORY: TOOLS AND APPLICATIONS
+6
+							CFU -
+							 44 							hours
+2nd semester
+LIE GROUPS AND REPRESENTATION THEORY
+6
+							CFU -
+							 48 							hours
+2nd semester
+INTRODUCTION TO ASTRONOMY
+6
+							CFU -
+							 48 							hours
+1st semester
+INTRODUCTION TO MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+2nd semester
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+2nd semester
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+1st semester
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+2nd semester
+TEACHING TOOLS AND METHODS
+6
+							CFU -
+							 56 							hours
+1st semester
+GENERAL  RELATIVITY
+6
+							CFU -
+							 60 							hours
+2nd semester
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+Annual
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+1st semester
+STATISTICAL METHODS IN PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+HISTORY OF PHYSICS
+6
+							CFU -
+							 48 							hours
+1st semester
+HISTORY OF SCIENCES
+6
+							CFU -
+							 48 							hours
+1st semester
+Year of study:
+2
+Compulsory
+SCIENTIFIC ENGLISH
+3
+							CFU -
+							 24 							hours
+FINAL EXAM
+33
+							CFU -
+							 0 							hours
+Choose a subject among courses offered in the first and second year
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+Two elective courses among the following (including at least one course to be chosen in the first year) (9 CFU)
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+Choose at least 18 credits from Table 1 (including 6 in the first year) (between 12 and 30 CFU)
+HIGHER ALGEBRA
+6
+							CFU -
+							 60 							hours
+ALGEBRAIC GEOMETRY
+6
+							CFU -
+							 60 							hours
+FUNCTIONAL ANALYSIS
+9
+							CFU -
+							 78 							hours
+FUNCTIONAL ANALYSIS AND DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 56 							hours
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+CALCULUS OF VARIATIONS
+6
+							CFU -
+							 48 							hours
+COMPLEMENTS OF ALGEBRA
+6
+							CFU -
+							 48 							hours
+ALGEBRAIC CURVES AND RIEMANN SURFACES
+6
+							CFU -
+							 60 							hours
+DIDACTICS OF MATHEMATICS
+9
+							CFU -
+							 72 							hours
+DIDATTICHE SPECIFICHE DELLA MATEMATICA
+9
+							CFU -
+							 72 							hours
+FINITE ELEMENTS
+9
+							CFU -
+							 76 							hours
+EVOLUTION EQUATIONS
+6
+							CFU -
+							 48 							hours
+DIFFUSION AND TRANSPORT PHENOMENA
+9
+							CFU -
+							 78 							hours
+MATHEMATICAL FINANCE
+6
+							CFU -
+							 52 							hours
+ALGEBRAIC GEOMETRY
+6
+							CFU -
+							 48 							hours
+DIFFERENTIAL GEOMETRY
+6
+							CFU -
+							 48 							hours
+HIGHER GEOMETRY
+6
+							CFU -
+							 48 							hours
+ALGEBRA INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+GEOMETRY INSTITUTIONS
+9
+							CFU -
+							 76 							hours
+MACHINE LEARNING FOR SCIENTIFIC COMPUTING
+6
+							CFU -
+							 48 							hours
+ELEMENTARY MATHEMATICS
+6
+							CFU -
+							 48 							hours
+ELEMENTARY MATHEMATICS FROM AN ADVANCED STANDPOINT
+6
+							CFU -
+							 48 							hours
+ADVANCED MECHANICS
+6
+							CFU -
+							 48 							hours
+ADVANCED NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 48 							hours
+KINETIC MODELS AND APPLICATIONS
+6
+							CFU -
+							 48 							hours
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+OPERATIONS RESEARCH
+9
+							CFU -
+							 80 							hours
+PROBABILITY
+9
+							CFU -
+							 84 							hours
+STOCHASTIC PROCESSES
+6
+							CFU -
+							 48 							hours
+DYNAMICAL SYSTEMS: THEORY AND NUMERICAL METHODS
+6
+							CFU -
+							 56 							hours
+HISTORY OF MATHEMATICS
+6
+							CFU -
+							 48 							hours
+DYNAMICAL SYSTEMS
+6
+							CFU -
+							 56 							hours
+Choose up to 18 credits in Table 2 (between 6 and 18 CFU)
+DATA BASE
+6
+							CFU -
+							 60 							hours
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+DECISIONS AND CHOICES
+6
+							CFU -
+							 44 							hours
+PHYSICS EDUCATION
+6
+							CFU -
+							 48 							hours
+ECONOPHYSICS
+6
+							CFU -
+							 48 							hours
+ELEMENTS OF MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+ELECTRODYNAMICS AND RELATIVITY
+6
+							CFU -
+							 48 							hours
+PHILOSOPHY OF SCIENCE - ADVANCED
+6
+							CFU -
+							 36 							hours
+FINANCIAL ECONOMETRICS
+6
+							CFU -
+							 44 							hours
+PHYSICS OF QUANTUM COMPUTATION
+6
+							CFU -
+							 48 							hours
+GAME AND EQUILIBRIUM THEORY: TOOLS AND APPLICATIONS
+6
+							CFU -
+							 44 							hours
+LIE GROUPS AND REPRESENTATION THEORY
+6
+							CFU -
+							 48 							hours
+INTRODUCTION TO ASTRONOMY
+6
+							CFU -
+							 48 							hours
+INTRODUCTION TO MODERN PHYSICS
+6
+							CFU -
+							 48 							hours
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+TEACHING TOOLS AND METHODS
+6
+							CFU -
+							 56 							hours
+GENERAL  RELATIVITY
+6
+							CFU -
+							 60 							hours
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+STATISTICAL METHODS IN PHYSICS
+6
+							CFU -
+							 48 							hours
+HISTORY OF PHYSICS
+6
+							CFU -
+							 48 							hours
+HISTORY OF SCIENCES
+6
+							CFU -
+							 48 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+DISCIPLINARY CLOSE EXAMINATION
+3
+							CFU -
+							 24 							hours
+INTRODUCTION TO THE THEORY OF STOCHASTIC PROCESSES
+3
+							CFU -
+							 30 							hours
+STOCHASTIC DIFFERENTIAL EQUATIONS
+3
+							CFU -
+							 24 							hours
+HISTORY OF ANCIENT MATHEMATICS
+6
+							CFU -
+							 48 							hours
+GEOMETRICAL STRUCTURES IN MATHEMATICAL PHYSICS
+3
+							CFU -
+							 24 							hours
+GAMES THEORY
+3
+							CFU -
+							 24 							hours
+INTERNSHIP 1
+3
+							CFU -
+							 75 							hours
+INTERNSHIP 2
+6
+							CFU -
+							 150 							hours
+INTERNSHIP 3
+9
+							CFU -
+							 225 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The proposed master's degree course is an advanced level educational project in the field of mathematics.
+The course of study is designed in such a way as to lead the student towards an advanced mathematical preparation, but not monothematic, favoring contact with the leading topics of current research, where possible.
+Ample space is reserved for the main disciplines in which mathematics has the opportunity to express its applicative effectiveness. In the same way, the curricula make it possible to set up a solid educational project in the field of education aimed at secondary education.
+Although the course of study is proposed as a natural deepening of any degree of the L-35 class, it is structured in such a way not only to allow its use, but also to guarantee its effectiveness for those who, coming from similar degrees, are willing to develop their studies in a more accentuated mathematical way.
+In line with the objectives outlined above, the training course is structured as follows:
+a. In both the first and second year, an adequate number of credits is linked to a range of core courses in all the basic areas of mathematics: algebra and geometry, complementary mathematics, mathematical analysis, probability and mathematical statistics, mathematical physics, numerical analysis and operations research. The offer is balanced in such a way as to reconcile both the need to ensure adequate in-depth study in a not too narrow spectrum of disciplines, and the need to allow the right enhancement of students based on their abilities, motivations and previous career;
+b. the personalization of the course is further expressed in the student's choice of how to balance the related and supplementary courses, which are also provided for both in the first and second year, and which are drawn from the area of mathematics and from the area of related disciplines (physics, economics, engineering, ...). Both areas are represented by a wide range of appropriately selected courses and must both be included in the study plans for a minimum number of credits;
+c. the student's inclinations then find further space in the educational activities autonomously chosen within the entire framework of the courses offered by the University, as well as in the elaboration of the degree thesis, to which ample space is reserved in terms of CFU.
+The overall route is very flexible. For example,:
+• It is possible to build a theoretical-general profile by privileging the courses of the field of advanced theoretical training (sectors from MAT/01 to MAT/05) both among those of a characterizing type (point (a) above) and in the related-integrative ones (point (b)), while reducing the courses chosen outside the MAT/* sectors. Starting from the solid framework of basic knowledge built in the three-year degree, the theoretical-general profile offers the possibility of deepening and completing the study of the characterizing lines of the great and fascinating theories in which mathematical thought is articulated, as well as their potential for development. The advanced level of the proposed courses also offers the opportunity to touch on aspects that fall within the current field of research, thus constituting, for those who wish, a first introduction to post-graduate specialization (typically, the PhD).
+• On the other hand, a modelling-application profile can be organised by favouring the courses, both characterising and related-integrative, of modelling-application training (sectors from MAT/06 to MAT/09) and by adapting the weight and type of similar-integrative courses in non-MAT/* sectors according to the disciplinary approach of greatest interest (physical, socio-economic, engineering, etc.). The educational activities autonomously chosen by the student among the courses offered by the university also allow for further study and/or extension in areas of potential application interest.
+The possibilities of study range from theoretical modeling and the general framing of the appropriate solution methods, to the more distinctly numerical-computational aspect, up to modern machine-learning techniques. A strong point compared to other master's degree courses that move directly from the application context is precisely a deep knowledge of the tools, rather than the habit in their use, and the familiarity with the abstract context in which these tools have been forged: valuable expertise and a guarantee of flexibility in adapting what has been acquired to the variety of application situations and their rapid and continuous evolution.
+• The didactic profile is perfectly integrated into the organization of the courses. By privileging, where possible, the choice of courses in the MAT/04 sector (Complementary Mathematics) and in the scientific-disciplinary sectors of related sciences related to teaching (such as FIS/08), it is possible to build a path aimed at training those who wish to engage in professional activities related to the dissemination of scientific culture and the teaching of mathematics, or engage in research activities in the field of mathematics or mathematics education. of the history of mathematics. A characterizing element is the analysis, conducted in the light of the main theoretical tools developed by research in mathematics education, of the processes of teaching and learning mathematics, and of the various factors, didactic, cognitive, metacognitive, etc., that determine these processes. This analysis is combined and completed with a critical reflection on elementary mathematics issues from a didactic perspective, and with the study of the origin and evolution of theories, concepts and methods of mathematics, of the cultural contexts in which they took place, and of the scientific personalities who took part in them.
+It should be noted, however, that the rules for the inclusion of courses leave considerable freedom of personalization: the course can thus be widely characterized according to one's inclinations and skills.
+The teaching methods of the courses are mainly the conventional ones of lectures and exercises, both in the classroom and in computer labs; The latter typology is not confined to purely computer courses, but is an important complement to the theoretical treatment also for other courses (think of numerical analysis or statistics).
+The possibility of carrying out internships in companies or schools opens up to an experience of in-depth study and completion of training directly related to the world of work.
+The assessment of the expected learning outcomes is mainly delegated to the classic form of the evaluation of a written paper and/or an oral interview. In addition, the advanced nature of some courses and the greater maturity of the students compared to a first-level degree course makes it possible and adequate to entrust the assessment of learning to seminar-type activities, a modality that can be particularly significant as a confirmation of the student's communication and synthesis skills and autonomy.
+Career opportunities
+Mathematician
+Master's degree graduates in mathematics find employment in public and private institutions, research and development centers of companieshigh-tech institutions.
+
+Expert in mathematical modelling and data analysis
+Public and private entities, in which the role of advanced mathematical modelling and tools for the analysis of large amounts of data play an important role: for example, in the financial, communication, marketing, IT and telecommunications, biomedical, pharmaceutical, transport, energy, e-commerce companies and large-scale distribution.
+Admission requirements
+To be admitted to the master's degree course, the student must be in possession of a degree (including that obtained according to the regulations previously in force under Ministerial Decree 509/1999 and subsequent amendments and additions) or a three-year university diploma, or another qualification obtained abroad, recognized as suitable by the competent bodies of the University. Access to the master's degree is conditional on: a) the possession (at the time of enrolment) of university training credits obtained following activities which, overall, due to their content and breadth, allow a fruitful continuation of studies in a purely mathematical field . Please refer to the regulation for the clarification of these curricular requirements, which may be summarized in the requirements of having a degree in specific classes and/or a minimum number of credits obtained in specific scientific-disciplinary sectors. b) the adequacy of the student's personal preparation; the verification of this suitability will be carried out taking into account the student's previous career and motivations. The methods of this verification, which may also include a personal interview or a written test, will be specified in the regulation.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+Watch the tutorial
+Incoming transfer
+Student Portal
+Fees and funding
+FAQ
+Contacts

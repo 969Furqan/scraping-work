@@ -1,0 +1,267 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/artificial-intelligence
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+Artificial intelligence
+The Degree Program in Artificial Intelligence aims to provide the theoretical foundations, techniques, methodologies, and applications of artificial intelligence. Its goal is to contribute to the dissemination and advancement of knowledge and skills in this discipline and its application areas, promoting technological innovation and supporting the economic and social development of the country. The objectives of the Degree Program in Artificial Intelligence are to understand the fundamentals of artificial intelligence and to use this knowledge in significant applications relevant to the workforce. The program is inter-university and is offered in English jointly with the University of Milan and the University of Milano-Bicocca.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Claudio Cusano
+Area
+Mathematic, Physical and Natural Sciences
+Access
+Programmed
+Language
+English
+Degree class
+L-31 - Computer Science
+Department
+DEPARTMENT OF MATHEMATICS "FELICE CASORATI"
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+ARTIFICIAL INTELLIGENCE
+Year of study:
+1
+Compulsory
+CALCULUS
+12
+							CFU -
+							 108 							hours
+Annual
+COGNITIVE PSYCHOLOGY
+6
+							CFU -
+							 48 							hours
+2nd semester
+COMPUTATIONAL LOGIC
+6
+							CFU -
+							 52 							hours
+1st semester
+COMPUTER PROGRAMMING, ALGORITHMS AND DATA STRUCTURES
+12
+							CFU -
+							 110 							hours
+Annual
+EXPERIMENTAL PHYSICS FOR AI
+6
+							CFU -
+							 56 							hours
+1st semester
+KNOWLEDGE REPRESENTATION AND REASONING
+12
+							CFU -
+							 112 							hours
+Annual
+THEORETICAL AND COMPUTATIONAL LINEAR ALGEBRA
+6
+							CFU -
+							 54 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ETHICS, LAW AND AI
+12
+							CFU -
+							 96 							hours
+FUZZY SYSTEMS AND EVOLUTIONARY COMPUTING
+6
+							CFU -
+							 56 							hours
+MACHINE LEARNING, ARTIFICIAL NEURAL NETWORKS AND DEEP LEARNING
+12
+							CFU -
+							 112 							hours
+PROBABILITY AND STATISTICAL INFERENCE
+12
+							CFU -
+							 104 							hours
+TEXT MINING AND NATURAL LANGUAGE PROCESSING
+6
+							CFU -
+							 56 							hours
+THEORETICAL AND QUANTUM PHYSICS FOR AI
+12
+							CFU -
+							 112 							hours
+Year of study:
+3
+Compulsory
+BRAIN MODELLING
+6
+							CFU -
+							 52 							hours
+FINAL EXAM
+3
+							CFU -
+							 75 							hours
+STATISTICAL MODELLING
+6
+							CFU -
+							 56 							hours
+Choose 9 ECTS (CFU) (9 CFU)
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 24 							hours
+LABORATORY OF COGNITIVE AND BEHAVIOURAL MEASURES
+3
+							CFU -
+							 36 							hours
+LABORATORY OF COMPLEX SYSTEMS
+3
+							CFU -
+							 36 							hours
+LABORATORY OF COMPUTATIONAL INTELLIGENCE
+3
+							CFU -
+							 36 							hours
+LABORATORY OF MACHINE LEARNING
+3
+							CFU -
+							 36 							hours
+LABORATORY OF MEDICAL DEVICES AND SYSTEMS
+3
+							CFU -
+							 36 							hours
+LABORATORY OF NEURAL SIGNALS AND BRAIN-INSPIRED SYSTEMS
+3
+							CFU -
+							 36 							hours
+LABORATORY OF PHYSICS SENSORS AND RELATED DATA ANALYSIS
+3
+							CFU -
+							 36 							hours
+LABORATORY OF QUANTUM INFORMATION
+3
+							CFU -
+							 36 							hours
+STAGE
+9
+							CFU -
+							 225 							hours
+Compulsory subjects course Data analysis, communication and marketing (24 CFU)
+ARTIFICIAL INTELLIGENCE FOR COMMUNICATION AND MARKETING
+6
+							CFU -
+							 56 							hours
+DATA AND KNOWLEDGE BASES
+6
+							CFU -
+							 56 							hours
+INFORMATION RETRIEVAL AND RECOMMENDER SYSTEMS
+6
+							CFU -
+							 56 							hours
+WEB AND SOCIAL MEDIA SEARCH AND ANALYSIS
+6
+							CFU -
+							 56 							hours
+Compulsory subjects course Industrial Systems and Health-Care (24 CFU)
+DYNAMICAL SYSTEM FOR INDUSTRIAL AUTOMATION
+6
+							CFU -
+							 48 							hours
+HUMAN-SYSTEM INTERACTION
+6
+							CFU -
+							 56 							hours
+MEDICAL APPLICATION AND HEALTH-CARE
+6
+							CFU -
+							 48 							hours
+SIGNAL AND IMAGE PROCESSING
+6
+							CFU -
+							 56 							hours
+Compulsory subjects course Brain, Cognition and Society (24 CFU)
+ARTIFICIAL INTELLIGENCE AND SOCIETY
+6
+							CFU -
+							 48 							hours
+BRAIN-INSPIRED NEURAL NETWORKS AND NEURAL ARCHITECTURES
+6
+							CFU -
+							 56 							hours
+HUMAN-SYSTEM INTERACTION
+6
+							CFU -
+							 56 							hours
+LOGIC FOR PRACTICAL REASONING AND ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 48 							hours
+Compulsory subjects course Physics for AI : Environment, Health and Quantum Information (24 CFU)
+EXPERIMENTAL PHYSICS FOR AI 2
+6
+							CFU -
+							 56 							hours
+IMAGING AND SPECTROSCOPY FOR ENVIRONMENT AND HEALTH
+6
+							CFU -
+							 64 							hours
+MATERIALS AND PLATFORMS FOR ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 56 							hours
+MATHEMATICS FOR IMAGING AND SIGNAL PROCESSING
+6
+							CFU -
+							 56 							hours
+12 elective ECTS (CFU). It is possible to choose among all subjects offered by the University (12 CFU)
+Overview of the program, goals and career opportunities
+Educational goals
+The international degree course in Artificial Intelligence (given in English) is specifically aimed at training experts in the theoretical foundations, techniques, methodologies, and methods of application of artificial intelligence to contribute in a targeted way to the dissemination and advancement of knowledge and skills in this discipline and in the sectors of application, thereby promoting technological innovation and contributing to the economic and social development of the country. Graduates will gain strongly interdisciplinary knowledge and skills in a variety of areas that characterize the courses of study in artificial intelligence in international best practices. The graduate will receive a solid training in the fundamentals of some areas of computer science, mathematics, physics, statistics, and the cognitive sciences, specifically focusing attention on those areas that will allow them to understand the theoretical bases and techniques of artificial intelligence. They will also receive the ethical and legal training necessary to understand the constraints that limit the socially acceptable use of these techniques. In the final phase of the course, they will have the opportunity to choose, based on their personal goals, to enrich this thorough common basic knowledge with additional knowledge and skills useful for applying artificial intelligence in specific areas, such as communication, automation and robotics, cognitive sciences, and technologies for physics. The graduate will therefore be able to contribute, based on constantly updated interdisciplinary knowledge and skills, to the design and implementation of innovative solutions based on artificial intelligence techniques both in the public and private sectors. The degree course thus includes training activities aimed both at understanding the fundamentals of artificial intelligence and at experimenting with its use in applications. To this end, it is structured with a series of activities aimed at providing the knowledge and developing the skills necessary for entering the world of work. The degree course is structured as follows:
+- the first two years are normally totally devoted to activities dedicated to the core training in artificial intelligence, which are mandatory for all students; 
+- the third year is partially dedicated to the experimentation of artificial intelligence in areas of application through training activities suggested to students depending on the area of application they have chosen from among those offered by the degree course;
+- typically, in the third year, students can freely choose courses according to their educational interests;
+- in the third year, students normally complete the practical understanding of artificial intelligence, also in the applied areas, through practical-experimental teaching activities and/or internships;
+- the course of study is completed at the end of the third year with the final thesis.
+Career opportunities
+Expert in Artificial Intelligence applied to data analysis and knowledge management in communication and marketing
+Graduates will be able to work effectively in the most varied work environments in which applications and IT systems are designed, developed, and managed for the analysis of various types of data and knowledge extraction to support informed decisions, especially in the fields of communication and marketing, as well as related ones.
+Graduates can also work freelance in all areas of the private and public sector, including research centers that require data analysis and knowledge extraction for informed decisions, specifically in the communications and marketing fields. The main market segments are: marketing, banking, insurance, logistics and transport, telecommunications and media, service companies, and public administrations.
+Expert in Artificial Intelligence applied to embedded systems and intelligent manufacturing processes
+
+Graduates will be able to work productively in the design, implementation, and management of the use of artificial intelligence in computer systems for industrial, manufacturing, and environmental applications and for intelligent embedded systems (including, for example, the consumer electronics, automotive, transport, energy, medical systems, and medical prostheses sectors).
+Graduates can work as freelance professionals in all areas of the private and public sector in the industrial, environmental, and health areas. The main market segments are: manufacturing industries, service companies, and public administrations operating in the industrial, environmental, and health sectors.
+Expert in Artificial Intelligence applied to bio-inspired algorithms and human-environment interaction systems
+
+Graduates will be able to work effectively in multiple work areas where the specific ability to analyze and interpret different types and complexities of data is valued: in the health sector, both public and private, in hospitals in collaboration with health professionals, and in telemedicine platforms for remote assistance.
+Graduates will also be able to operate in the R&D departments of ICT industries and in research centers that develop solutions for applied neuroscience.
+
+Expert in Artificial Intelligence applied to mathematical models and physical technologies
+
+Graduates can find employment in both the private and public sectors in innovative small- and medium-sized companies, large industrial companies, environmental and space management and monitoring bodies, the IRCCS, and hospitals and research centers. They can work in companies in the field of consultancy and services for the development of artificial intelligence tools used by the healthcare sector, banks and credit agencies, and in areas related to engineering and sensors.
+Admission requirements
+For admission to the course, it is required the possession of a high school diploma or another qualification obtained abroad and recognized as suitable by the competent authorities of the University. Additionally, the following requirements must be met:
+
+Proficiency in the English language, at least equivalent to level B2, to enable understanding and participation in educational activities.
+Ability to comprehend texts, basic knowledge of logic, and reasoning skills.
+Knowledge of basic mathematical concepts typically taught in secondary school, with specific reference to algebraic equations of first and second degree, inequalities and systems, analytic geometry of the plane, trigonometry, and exponential and logarithmic functions.
+The initial preparation of students will be assessed according to the methods outlined in the Academic Regulations of the degree program. Any educational deficits resulting from deficiencies in the aforementioned knowledge must be remedied within the first year of the course, according to the procedures specified in the aforementioned Regulations.
+Academic Regulation
+Academic Regulation
+How to enroll - A.Y. 2024/25
+The degree in Artificial Intelligence (L-31) is an inter-university course in collaboration with the University of Milan Bicocca and the University of Milan Statale and it is entirely taught in English. Access to the course in Artificial Intelligence is limited (numerus clausus- restricted access) at local level;
+All information relating to access to the degree course, the terms and procedures to be followed (under penalty of exclusion from enrollment) are duly stated in the annual announcement.
+Appointed Evaluation Committee Artificial Intelligence 2024-2025
+Artificial Intelligence Calling 2024-2025 (eng)
+Statistics on English TOLC I and SAT scores from the ranking list of the a.y. 2023/2024
+Useful information
+FAQ
+Fees and funding
+Course website
+Incoming transfer
+Discover if your title is eligible
+Contacts

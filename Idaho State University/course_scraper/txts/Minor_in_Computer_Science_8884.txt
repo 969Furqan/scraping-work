@@ -1,0 +1,29 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/computerscience/minor-computer-science/
+Minor in Computer Science
+Course List
+Code
+Title
+Credits
+All required courses for the Minor must be completed with a grade of C- or higher.
+CS 1181
+Computer Science and Programming I (Satisfies General Education Objective 7)
+3
+CS 1337
+Computer Organization and Architecture
+3
+CS 2235
+Data Structures and Algorithms
+3
+CS 3309
+Advanced Object-Oriented Programming
+3
+CS 3321
+Introduction to Software Engineering
+3
+Any 4000-Level CS Course or
+ECE 4451
+or
+ECE 4451L
+3
+Total Credits
+18

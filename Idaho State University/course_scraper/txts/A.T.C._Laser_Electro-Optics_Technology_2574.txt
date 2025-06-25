@@ -1,0 +1,79 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/roboticsandcommunicationsystemsengineeringtechnology/atc-laser-electro-optics-technology/
+A.T.C. Laser/Electro-Optics Technology
+(1.5 Years)
+Course List
+Code
+Title
+Credits
+Required Courses:
+RCET 1153A
+Basic Electricity and DC Circuit Theory
+4
+RCET 1153B
+Basic Electricity and AC Circuit Theory
+4
+RCET 1154A
+Analog Control Devices Theory
+4
+RCET 1154B
+Digital Control Devices Theory
+4
+RCET 1155A
+Basic Electricity and DC Circuit Lab
+2
+RCET 1155B
+Basic Electricity and AC Circuit Lab
+2
+RCET 1156A
+Analog Control Devices Laboratory
+2
+RCET 1156B
+Digital Control Devices Laboratory
+2
+RCET 2251
+Systems Analog and Digital Theory
+6
+RCET 2253
+Systems Analog and Digital Laboratory
+5
+RCET 2271
+Introduction to Lab Simulation Software
+2
+RCET 1372
+Calculus for Electronics
+4
+RCET 3331
+Laser Systems and Optics Theory
+4
+RCET 3332
+Laser Systems and Optics Laboratory
+3
+ENGL 1101
+Writing and Rhetoric I
+1
+3
+or
+ENGL 1101P
+Writing and Rhetoric I Plus
+COMM 1101
+Fundamentals of Oral Communication
+1
+3
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+1
+4
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1111/1113
+General Physics I
+Total Credits
+58
+1
+Contributes to a General Education requirement.
+Major Academic Plan (MAP)

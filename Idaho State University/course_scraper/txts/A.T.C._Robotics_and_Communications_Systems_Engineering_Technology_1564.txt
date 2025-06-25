@@ -1,0 +1,48 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/roboticsandcommunicationsystemsengineeringtechnology/atc-robotics-and-communications-systems-engineering-technology/
+A.T.C. Robotics and Communications Systems Engineering Technology
+(2 Years)
+To declare a major in A.T.C. Robotics and Communications Systems Engineering Technology, a student must have completed an I.T.C in Basic Electronics at ISU.
+Course List
+Code
+Title
+Credits
+Required Courses:
+RCET 2251
+Systems Analog and Digital Theory
+6
+RCET 2253
+Systems Analog and Digital Laboratory
+5
+RCET 2265
+Computer Fundamentals and Introduction to Programming
+4
+RCET 2267
+Radio Frequency Transmission Theory
+6
+RCET 2268
+Radio Frequency Transmission Lab
+5
+RCET 2271
+Introduction to Lab Simulation Software
+2
+RCET 1372
+Calculus for Electronics
+4
+RCET 3371
+Advanced Programming Techniques and GUI Development
+4
+RCET 3373
+Advanced Computer Architecture and Embedded Systems Theory
+5
+RCET 3374
+Advanced Systems Analysis Theory
+4
+RCET 3375
+Advanced Computer Architecture and Embedded Systems Laboratory
+5
+RCET 3376
+Advanced Systems Analysis Theory
+5
+Total Credits
+55
+Major Academic Plan (MAP)

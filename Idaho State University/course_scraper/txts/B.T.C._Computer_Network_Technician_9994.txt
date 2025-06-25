@@ -1,0 +1,35 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/informationtechnologysystems/btc-computer-network-technician/
+B.T.C. Computer Network Technician
+(1 Year)
+Course List
+Code
+Title
+Credits
+Required Courses:
+ITS 1105
+Computer Hardware
+1
+ITS 1120
+Introduction to Linux
+3
+ITS 1125
+Introduction to VMWare
+3
+ITS 1135
+Windows Desktop Operating Systems
+3
+ITS 1150
+Networking I
+4
+ITS 1180
+Network Operating Systems I
+4
+ITS 2218
+PowerShell Scripting
+3
+TGE 1158
+Employment Strategies
+2
+Total Credits
+23
+Major Academic Plan (MAP)

@@ -1,0 +1,581 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/computer-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The educational activities of the Master's Degree Program in Computer Engineering (including theoretical, laboratory, and project-based contents) enable students to acquire highly qualified engineering skills in the fields of Information Technology, Data Science, Embedded Systems, and Automation Control, with attention also to economic-management aspects and their related market contexts.
+The courses are entirely taught in English.
+Upon completion of their educational path, graduates will be able to identify, analyze, formalize, and solve, sometimes innovatively, the main, even complex, problems typical of computer and automation engineering, and build a flexible professional career updated to technological advancements. The program is characterized by a strong applicative approach due to both the project-based nature of many of the offered courses and the thesis activity, which allows students to tackle business problems typical of the work environment they will later encounter. The program can be further enhanced through international experience within the Erasmus program, both during the study phase and the completion of the thesis.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Francesco Leporati
+Area
+Engineering
+Access
+Open
+Language
+English
+Degree class
+LM-32 - Computer systems engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso INTELLIGENT CONTROL SYSTEMS
+Percorso COMPUTER SCIENCE AND MULTIMEDIA
+Percorso DATA SCIENCE
+Percorso EMBEDDED IoT SYSTEMS
+Year of study:
+1
+Compulsory
+ADVANCED COMPUTER ARCHITECTURE
+6
+							CFU -
+							 60 							hours
+1st semester
+ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 45 							hours
+1st semester
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+2nd semester
+MACHINE LEARNING
+6
+							CFU -
+							 59 							hours
+2nd semester
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+PROCESS CONTROL AND ROBOTICS
+12
+							CFU -
+							 90 							hours
+Annual
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+1st semester
+Scegli un insegnamento
+DEEP LEARNING
+6
+							CFU -
+							 45 							hours
+2nd semester
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+2nd semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+DATA SCIENCE AND BIG DATA ANALYTICS
+6
+							CFU -
+							 60 							hours
+2nd semester
+DEEP LEARNING
+6
+							CFU -
+							 45 							hours
+2nd semester
+OPTIMIZATION MODELS AND ALGORITHMS FOR DATA SCIENCE
+6
+							CFU -
+							 56 							hours
+2nd semester
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+Year of study:
+2
+Compulsory
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+NONLINEAR CONTROL AND OPTIMIZATION
+12
+							CFU -
+							 111 							hours
+Choose 6 ECTS (CFU) (6 CFU)
+DATA SCIENCE AND BIG DATA ANALYTICS
+6
+							CFU -
+							 60 							hours
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+ETHICS FOR SUSTAINABLE PROJECTS
+6
+							CFU -
+							 45 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+PROJECT WORK IN COMPUTER ENGINEERING
+6
+							CFU -
+							 135 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+6 CFU a libera scelta. È possibile scegliere tra tutti gli insegnamenti offerti dall'Ateneo. Il Corso di Studio consiglia: (6 CFU)
+DEEP LEARNING
+6
+							CFU -
+							 45 							hours
+LOGISTICS MANAGEMENT
+6
+							CFU -
+							 45 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+WEB AND MULTIMEDIA TECHNOLOGIES
+6
+							CFU -
+							 52 							hours
+Year of study:
+1
+Compulsory
+ADVANCED COMPUTER ARCHITECTURE
+6
+							CFU -
+							 60 							hours
+1st semester
+ENTERPRISE DIGITAL INFRASTRUCTURE
+12
+							CFU -
+							 120 							hours
+2nd semester
+HUMAN COMPUTER INTERACTION
+6
+							CFU -
+							 45 							hours
+2nd semester
+INFORMATION RETRIEVAL
+6
+							CFU -
+							 60 							hours
+1st semester
+MULTIMEDIA COMPUTING
+12
+							CFU -
+							 102 							hours
+1st semester
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+Choose a subject
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+2nd semester
+STATISTICAL SIGNAL PROCESSING
+6
+							CFU -
+							 45 							hours
+2nd semester
+Scegli un insegnamento
+INDUSTRIAL INFORMATICS AND EMBEDDED SYSTEMS
+6
+							CFU -
+							 45 							hours
+2nd semester
+IOT MOBILE PROGRAMMING
+6
+							CFU -
+							 70 							hours
+1st semester
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+Year of study:
+2
+Compulsory
+ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 45 							hours
+INFORMATION SECURITY
+6
+							CFU -
+							 45 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+Choose a subject (6 CFU)
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+CLOUD COMPUTING
+6
+							CFU -
+							 45 							hours
+Choose 6 ECTS (CFU) (6 CFU)
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+ETHICS FOR SUSTAINABLE PROJECTS
+6
+							CFU -
+							 45 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+PROJECT WORK IN COMPUTER ENGINEERING
+6
+							CFU -
+							 135 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+CLOUD COMPUTING
+6
+							CFU -
+							 45 							hours
+DEEP LEARNING
+6
+							CFU -
+							 45 							hours
+INTERNET AND MULTIMEDIA
+6
+							CFU -
+							 46 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+SATELLITE DATA ANALYSIS
+6
+							CFU -
+							 45 							hours
+Year of study:
+1
+Compulsory
+ADVANCED COMPUTER ARCHITECTURE
+6
+							CFU -
+							 60 							hours
+1st semester
+ARTIFICIAL INTELLIGENCE
+6
+							CFU -
+							 45 							hours
+1st semester
+DATA SCIENCE AND BIG DATA ANALYTICS
+6
+							CFU -
+							 60 							hours
+2nd semester
+ENTERPRISE DIGITAL INFRASTRUCTURE
+12
+							CFU -
+							 120 							hours
+2nd semester
+INFORMATION RETRIEVAL
+6
+							CFU -
+							 60 							hours
+1st semester
+MACHINE AND DEEP LEARNING
+12
+							CFU -
+							 104 							hours
+2nd semester
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+STATISTICAL LEARNING THEORY
+6
+							CFU -
+							 45 							hours
+1st semester
+Year of study:
+2
+Compulsory
+FINANCIAL DATA SCIENCE
+6
+							CFU -
+							 45 							hours
+INFORMATION SECURITY
+6
+							CFU -
+							 45 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+SATELLITE DATA ANALYSIS
+6
+							CFU -
+							 45 							hours
+Choose 6 ECTS (CFU) (6 CFU)
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+ETHICS FOR SUSTAINABLE PROJECTS
+6
+							CFU -
+							 45 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+PROJECT WORK IN COMPUTER ENGINEERING
+6
+							CFU -
+							 135 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ADVANCED BIOMEDICAL MACHINE LEARNING
+6
+							CFU -
+							 46 							hours
+COMPUTER VISION
+6
+							CFU -
+							 50 							hours
+OPTIMIZATION MODELS AND ALGORITHMS FOR DATA SCIENCE
+6
+							CFU -
+							 56 							hours
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+Year of study:
+1
+Compulsory
+ADVANCED COMPUTER ARCHITECTURE
+6
+							CFU -
+							 60 							hours
+1st semester
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 64 							hours
+2nd semester
+INDUSTRIAL INFORMATICS AND EMBEDDED SYSTEMS
+6
+							CFU -
+							 45 							hours
+2nd semester
+IOT MOBILE PROGRAMMING
+6
+							CFU -
+							 70 							hours
+1st semester
+MACHINE AND DEEP LEARNING
+12
+							CFU -
+							 104 							hours
+2nd semester
+NUMERICAL METHODS IN ENGINEERING SCIENCES
+6
+							CFU -
+							 46 							hours
+1st semester
+PROCESS CONTROL AND ROBOTICS
+12
+							CFU -
+							 90 							hours
+Annual
+Choose a subject
+THE CLASS IS CONCERNED WITH THE DESIGN GROUND-UP OF A MICROCONTROLLER BOARD, FROM THE HARDWARE CHOICES TO THE FIRMWARE IMPLEMENTATION. FOCUS IS MORE ON SOFTWARE THAN HARDWARE
+6
+							CFU -
+							 45 							hours
+1st semester
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+2nd semester
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+POWER ELECTRONICS
+6
+							CFU -
+							 70 							hours
+2nd semester
+Year of study:
+2
+Esami obbligatori
+ALGORITHMS AND SYSTEMS FOR ROBOTICS
+6
+							CFU -
+							 50 							hours
+ELECTRICAL DRIVES FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 120 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+Choose a subjectsw
+CLOUD COMPUTING
+6
+							CFU -
+							 45 							hours
+THE CLASS IS CONCERNED WITH THE DESIGN GROUND-UP OF A MICROCONTROLLER BOARD, FROM THE HARDWARE CHOICES TO THE FIRMWARE IMPLEMENTATION. FOCUS IS MORE ON SOFTWARE THAN HARDWARE
+6
+							CFU -
+							 45 							hours
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+Choose 6 ECTS (CFU)
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+ETHICS FOR SUSTAINABLE PROJECTS
+6
+							CFU -
+							 45 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+PROJECT WORK IN COMPUTER ENGINEERING
+6
+							CFU -
+							 135 							hours
+REGULATORY AFFAIRS IN DESIGN, PRODUCTION AND CERTIFICATION OF MEDICAL DEVICES
+3
+							CFU -
+							 23 							hours
+12 Eective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+CLOUD COMPUTING
+6
+							CFU -
+							 45 							hours
+THE CLASS IS CONCERNED WITH THE DESIGN GROUND-UP OF A MICROCONTROLLER BOARD, FROM THE HARDWARE CHOICES TO THE FIRMWARE IMPLEMENTATION. FOCUS IS MORE ON SOFTWARE THAN HARDWARE
+6
+							CFU -
+							 45 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+PARALLEL PROGRAMMING
+6
+							CFU -
+							 57 							hours
+POWER ELECTRONICS
+6
+							CFU -
+							 70 							hours
+DIGITAL SYSTEM DESIGN
+6
+							CFU -
+							 62 							hours
+STATISTICAL SIGNAL PROCESSING
+6
+							CFU -
+							 45 							hours
+WEB AND MULTIMEDIA TECHNOLOGIES
+6
+							CFU -
+							 52 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Master’s in Computer Engineering seeks to produce professionals with an advanced knowledge of the theoretical and practical aspects of the engineering disciplines in the Information and Communication Technology (ICT), multimedia, automation and service engineering sectors, with an eye toward the economic and managerial problems typical of firms and market contexts.The courses are taught in English, the principal language in the ICT sector.At the end of the programme the graduate will be able to identify, analyze, formalize and solve in an innovative fashion the main (even complex) problems typical of computer and automatics engineering and of a new discipline known as service science, which is radically changing the use of computer technology in companies and in the provision of services. The graduate will be able to build a flexible professional career, and one that keeps pace with the evolution of technology and an international job market that mainly uses English. He will also have the possibility of undertaking research in a national or international organization or company. To this end the Master’s programme focuses in particular on providing more in-depth knowledge of the theoretical and practical aspects already acquired in the preceding bachelor’s degree and on teaching the more innovative technologies, so that this preparation will not soon become obsolete but will easily keep pace with trends in the world of ICT.  As a consequence the graduate will be able to confidently deal with new problems equipped with the conceptual tools needed to update his competencies over time.The theoretical aspects are complemented by important laboratory work which, together with the preparation of the thesis, allows the student to apply the theoretical notions learned to practical problems.The courses, which give particular emphasis to methodological aspects, will be organized so as to also provide engineering competencies for undertaking highly-trained activities in the following professional fields:- the design and development of multimedial systems and computing environments;- the characterization and analysis of architectural and infrastructural works and the provision of advanced services;- the design and analysis of information processing in real time and for specialized applications;- the design, supervision and control of robotic systems;- the design of systems of automation for industry and services;- methodologies for modeling, simulating, and controlling complex systems;- the analysis, design and management of systems and services for the territory and environment;- the design and management of information systems for firms, individuals and public administrations. The Master’s programme also seeks to provide the academic background for more advanced work for future study (second-level Master’s and research doctorate).  The programme calls for a certain number of courses fundamental for this field and a group of courses that are necessary for high-level professional activities.These course are adapted to keep pace with technological evolution in the areas of systems, networks, multimediality, automation and services. Elective course are also offered to allow the student to vary his background and gain the greater flexibility indispensable for a professional career. The programme also prepares the student for professional certification in the computer field, in particular in line with the CF and EUCIP European standards. Some of the courses will be given in Italian.
+Career opportunities
+There are many job opportunities available to the graduate in computer engineering, and the opportunities are continuing to expand along with the spreading popularity of these disciplines. The manufacturing and service sectors constantly demand professionals who are able to use advanced computer solutions that keep pace with the evolution of technology. Below are some of the most common professional careers open in the area of systems, multimediality, automation and services:- management and design of information systems for firms, individuals and public administrations;- the design and management of architectural and infrastructural works and advanced services for networks and for the web;- the design and analysis of information processing in real time and for specialized applications;- the design and analysis of information processing systems in real time and for specialized applications;- the design and development of multimedial systems and data processing environments;- the design of systems of automation for industry and services;- the design, supervision and control of robotic systems;- methodologies for modeling, simulating, and controlling complex systems;- the management of logistics and/or of customer services in industrial firms;- operational management in the banking, insurance and similar sectors;- operational management in the business and technical sectors in the telecommunications and energy fields;- technical organization in health agencies and the public administration;- the design of service systems with the above-mentioned organizations or with consulting and systems integration firms.
+Admission requirements
+To be admitted to the master's degree program, students must hold a bachelor's degree (including those obtained under the regulations preceding DM 509/1999 and subsequent amendments and integrations), or a three-year university diploma, or another foreign qualification recognized as suitable by the competent authorities of the University. Additionally, admission requires meeting curriculum requirements and having adequate initial preparation. 
+
+Access to the master's degree in Computer Engineering presupposes a solid knowledge of engineering disciplines, with a good preparation in basic subjects and specific subjects in the fields of computer science and automation. These competencies are specified in the educational regulations of the master's degree program in terms of curriculum requirements, defining the minimum number of university educational credits (CFU) that the candidate must have acquired in their previous academic career. These credits are related to various educational activities prescribed by current regulations, specific scientific-disciplinary sectors, and/or groups of scientific-disciplinary sectors, recognized as suitable by the Educational Council. 
+
+Additionally, students must be proficient in using the English language, both in written and oral form, including disciplinary lexicons. The required level of proficiency will be specified in the educational regulations of the master's degree program, referring to the competence levels indicated in the Common European Framework established by the Council of Europe. Admission to the Master's Degree Program is also subject to the verification of the candidate's personal preparation, according to criteria and methods established by the Faculty Council upon proposal of the Educational Council.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

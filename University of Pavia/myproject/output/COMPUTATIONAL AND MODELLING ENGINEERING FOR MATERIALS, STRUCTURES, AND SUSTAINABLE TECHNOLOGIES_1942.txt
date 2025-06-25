@@ -1,0 +1,566 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/computational-and-modelling-engineering-materials-structures-and-sustainable-technologies
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Computational and Modelling Engineering for materials, structures, and sustainable technologies aims to train graduates with expertise in the most advanced manufacturing processes, the use of innovative materials for cutting-edge applications, and mathematical knowledge for the development and study of mechanical simulation tools.
+This program is particularly well-suited to the Italian industrial fabric, whether in small, medium, or large enterprises, focusing on the management of advanced processes and technologies with a strong emphasis on innovation.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Ferdinando Auricchio
+Area
+Engineering
+Access
+Open
+Language
+English Italian
+Degree class
+LM-44 - Mathematical modelling for engineering
+Department
+DEPARTMENT OF CIVIL ENGINEERING AND ARCHITECTURE
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso Meccanica ed ingegneria computazionale
+Percorso Ingegneria delle tecnologie sostenibili
+Percorso Manifattura additiva
+Percorso Ingegneria dei materiali
+Percorso Ingegneria dei materiali e delle strutture biologiche
+Year of study:
+1
+Compulsory
+CHEMISTRY AND PHYSICS OF MATERIALS
+12
+							CFU -
+							 106 							hours
+2nd semester
+STRUCTURAL DYNAMICS
+6
+							CFU -
+							 70 							hours
+1st semester
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+2nd semester
+FUNDAMENTALS OF EXPERIMENTAL MECHANICS
+6
+							CFU -
+							 54 							hours
+2nd semester
+MATERIALS MECHANICS
+12
+							CFU -
+							 128 							hours
+1st semester
+MATHEMATICAL AND NUMERICAL ANALYSIS
+12
+							CFU -
+							 112 							hours
+1st semester
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ENGLISH LANGUAGE WORKSHOP
+3
+							CFU -
+							 32 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+NUMERICAL SIMULATIONS FOR ADVANCED INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+Choose two subjetcs
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 45 							hours
+ADVANCED MATERIALS FOR DEVICES
+6
+							CFU -
+							 45 							hours
+MECHANOBIOLOGY AND PHARMACEUTICAL RESEARCH
+6
+							CFU -
+							 72 							hours
+ADVANCED NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+6
+							CFU -
+							 48 							hours
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+OPTIMIZATION MODELS AND ALGORITHMS FOR DATA SCIENCE
+6
+							CFU -
+							 56 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+PROJECT WORKS
+12
+							CFU -
+							 270 							hours
+Year of study:
+1
+Compulsory
+CHEMISTRY AND PHYSICS OF MATERIALS
+12
+							CFU -
+							 106 							hours
+2nd semester
+STRUCTURAL DYNAMICS
+6
+							CFU -
+							 70 							hours
+1st semester
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+2nd semester
+FUNDAMENTALS OF EXPERIMENTAL MECHANICS
+6
+							CFU -
+							 54 							hours
+2nd semester
+MATERIALS MECHANICS
+12
+							CFU -
+							 128 							hours
+1st semester
+MATHEMATICAL AND NUMERICAL ANALYSIS
+12
+							CFU -
+							 112 							hours
+1st semester
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ENGLISH LANGUAGE WORKSHOP
+3
+							CFU -
+							 32 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose two subjects
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+NUMERICAL SIMULATIONS FOR ADVANCED INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+Choose a subject
+ADVANCED MATERIALS FOR DEVICES
+6
+							CFU -
+							 45 							hours
+INORGANIC NANOCHEMISTRY
+6
+							CFU -
+							 48 							hours
+NEW MATERIALS AND PROCESSES FOR PHOTOVOLTAICS
+6
+							CFU -
+							 48 							hours
+Choose a subject
+GREEN CHEMISTRY
+6
+							CFU -
+							 48 							hours
+ENERGY CONVERSION AND RENEWABLE ENERGY SOURCES
+6
+							CFU -
+							 45 							hours
+SOLAR AND BIOMASS ENERGY SYSTEMS
+6
+							CFU -
+							 45 							hours
+INNOVABILITY AND CIRCULAR ENTREPRENEURSHIP
+6
+							CFU -
+							 44 							hours
+SUSTAINABILITY AND CLIMATE CHANGE
+6
+							CFU -
+							 44 							hours
+THERMAL MANAGEMENT FOR INDUSTRIAL AND SPACE APPLICATIONS
+6
+							CFU -
+							 45 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+PROJECT WORKS
+12
+							CFU -
+							 270 							hours
+Year of study:
+1
+Compulsory
+CHEMISTRY AND PHYSICS OF MATERIALS
+12
+							CFU -
+							 106 							hours
+2nd semester
+STRUCTURAL DYNAMICS
+6
+							CFU -
+							 70 							hours
+1st semester
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+2nd semester
+FUNDAMENTALS OF EXPERIMENTAL MECHANICS
+6
+							CFU -
+							 54 							hours
+2nd semester
+MATERIALS MECHANICS
+12
+							CFU -
+							 128 							hours
+1st semester
+MATHEMATICAL AND NUMERICAL ANALYSIS
+12
+							CFU -
+							 112 							hours
+1st semester
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ENGLISH LANGUAGE WORKSHOP
+3
+							CFU -
+							 32 							hours
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose two subjects
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+HYBRID ADDITIVE/SUBTRACTIVE DESIGN
+6
+							CFU -
+							 45 							hours
+NUMERICAL SIMULATIONS FOR ADVANCED INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+Choose a subject
+INNOVABILITY AND CIRCULAR ENTREPRENEURSHIP
+6
+							CFU -
+							 44 							hours
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+OPTIMIZATION MODELS AND ALGORITHMS FOR DATA SCIENCE
+6
+							CFU -
+							 56 							hours
+MATERIALS' CHARACTERIZATION TECNIQUES
+6
+							CFU -
+							 48 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+PROJECT WORKS
+12
+							CFU -
+							 270 							hours
+Year of study:
+1
+Compulsory
+CHEMISTRY AND PHYSICS OF MATERIALS
+12
+							CFU -
+							 106 							hours
+2nd semester
+STRUCTURAL DYNAMICS
+6
+							CFU -
+							 70 							hours
+1st semester
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+2nd semester
+FUNDAMENTALS OF EXPERIMENTAL MECHANICS
+6
+							CFU -
+							 54 							hours
+2nd semester
+MATERIALS MECHANICS
+12
+							CFU -
+							 128 							hours
+1st semester
+MATHEMATICAL AND NUMERICAL ANALYSIS
+12
+							CFU -
+							 112 							hours
+1st semester
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ENGLISH LANGUAGE WORKSHOP
+3
+							CFU -
+							 32 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose two subjects
+CHEMISTRY AND TECHNOLOGIES OF POLYMERS
+6
+							CFU -
+							 48 							hours
+METALS AND CERAMICS PHYSICAL CHEMISTRY
+6
+							CFU -
+							 48 							hours
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+NANOCHEMISTRY AND NANOMATERIALS
+6
+							CFU -
+							 48 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+NUMERICAL SIMULATIONS FOR ADVANCED INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+Choose two subjects
+MATERIALS CHEMISTRY AND TECHNOLOGY
+6
+							CFU -
+							 48 							hours
+MATERIALS' CHARACTERIZATION TECNIQUES
+6
+							CFU -
+							 48 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+PROJECT WORKS
+12
+							CFU -
+							 270 							hours
+Year of study:
+1
+Compulsory
+CHEMISTRY AND PHYSICS OF MATERIALS
+12
+							CFU -
+							 106 							hours
+2nd semester
+STRUCTURAL DYNAMICS
+6
+							CFU -
+							 70 							hours
+1st semester
+INTRODUCTORY COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 73 							hours
+2nd semester
+FUNDAMENTALS OF EXPERIMENTAL MECHANICS
+6
+							CFU -
+							 54 							hours
+2nd semester
+MATERIALS MECHANICS
+12
+							CFU -
+							 128 							hours
+1st semester
+MATHEMATICAL AND NUMERICAL ANALYSIS
+12
+							CFU -
+							 112 							hours
+1st semester
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ENGLISH LANGUAGE WORKSHOP
+3
+							CFU -
+							 32 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+Choose a subject
+ADDITIVE MANUFACTURING
+6
+							CFU -
+							 82 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+Choose two subject
+ADDITIVE MANUFACTURING OF LIVING MATERIALS
+6
+							CFU -
+							 45 							hours
+BIOMACHINES
+6
+							CFU -
+							 45 							hours
+BIOMATHEMATICS
+6
+							CFU -
+							 56 							hours
+ARTIFICIAL INTELLIGENCE IN MEDICINE
+6
+							CFU -
+							 45 							hours
+MECHANOBIOLOGY AND PHARMACEUTICAL RESEARCH
+6
+							CFU -
+							 72 							hours
+NUMERICAL OPTIMIZATION AND DATA SCIENCE
+6
+							CFU -
+							 48 							hours
+OPTIMIZATION MODELS AND ALGORITHMS FOR DATA SCIENCE
+6
+							CFU -
+							 56 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+PROJECT WORKS
+12
+							CFU -
+							 270 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Master's Degree Program in "Computational Engineering and Modeling for Sustainable Materials, Structures, and Technologies" aims to train specialists in computational methods and modeling techniques for the study of engineering problems and applications, with a particular focus on advanced materials, complex structures, and innovative technologies, providing in-depth interdisciplinary knowledge for the development and management of sustainable solutions. In addition to knowledge in mathematics, physics, chemistry, and materials engineering, the degree program aims to provide specific skills in computational methods, innovative materials, complex structure design, sustainable technologies, and manufacturing processes.
+
+More specifically, graduates of this Master's Degree Program will acquire detailed knowledge in the following thematic areas:
+
+- Numerical simulation methods, including in-depth studies of analytical and numerical mathematics fundamentals, focusing on the development and management of computational algorithms for functional optimization problems, computational methodologies for the study of continuum problems, possibly in the presence of coupled multi-field or multi-physics phenomena, with particular attention to solid and fluid problems, fluid-structure interaction, as well as electromagnetics, phase transformations, and chemical reactions.
+
+- Innovative materials and sustainable processes, covering fundamentals of physics and chemistry methodologies aimed at understanding the behavior of solids and materials in general, with correlations between various structural levels and properties, chemical and physical characterization, functionalization of materials, and corresponding artifacts, with particular attention to process sustainability.
+
+- Manufacturing processes, with in-depth exploration of processes, treatments, development technologies, production, processing, and transformation of materials, especially polymers, metals, and ceramics, with particular reference to additive manufacturing, as a technology of increasing relevance in the current industrial sector, and its combination with subtractive manufacturing.
+
+The educational path of the Master's Degree Program consists of activities characterizing mathematical, physical, and computer science disciplines, for a minimum of 18 credits, particularly with courses in mathematical analysis, numerical analysis, and materials physics, and activities characterizing engineering disciplines, for a minimum of 27 credits, particularly with courses in solid mechanics and structures and materials science and technologies. To provide greater visibility to the various connotations derived from the choice of related activities, specific paths are provided that differ in the second academic year, focusing respectively on the themes of mechanics and computational engineering, sustainable technologies, additive manufacturing, and materials engineering.
+
+The Master's Degree Program places great emphasis on laboratory attendance, focused on acquiring skills to solve problems of applicative or industrial design nature. Internships will also be promoted at companies with which research collaborations are already active, allowing students to make initial contact with the business world and lay the foundations for effective employment upon completion of their studies. Furthermore, particular importance is given to consolidating theoretical frameworks and methodologies and comparing them with modern instrumentation and technologies so that the provided preparation is not subject to rapid obsolescence and enables the confident tackling of new problems by providing tools for following necessary updates over time. Considering the globalized context in which the vast majority of companies operate, attention will be paid to making students capable of acquiring knowledge and relating in English. For this reason, the Master's Degree Program already includes some courses taught entirely or partially in English. This hybrid teaching approach between Italian and English will allow students to improve their abilities to operate and learn in an international context, in addition to increasing the attractiveness of such courses for the participation of foreign students. The Master's Degree Program also aims to provide the knowledge on which to base any subsequent in-depth studies within advanced study programs such as Second Level Masters and Doctorates. In particular, the educational path of the first year focuses on formative activities characterizing mathematical, physical, and computer science disciplines, such as:
+
+- Mathematical and numerical analysis, with attention respectively to variational principles, ordinary differential equations, dynamical systems, introduction to partial differential equations or numerical modeling for boundary problems, mainly of the diffusion-reaction-transport type, with attention to stability and convergence properties of numerical solution methods.
+- Materials physics, where the study starts with an overview of mechanical, electrical, and magnetic force fields, continuing with the study of crystallographic structures and chemical bonds for solid materials, addressing mechanical, electronic, and optical properties of the materials themselves.
+
+The educational path of the first year also includes activities characterizing engineering disciplines, such as:
+
+- Mechanical characterization of materials and the link of their properties with the parameters governing production and transformation processes.
+- Mechanical, structural, and functional properties of materials with acquisition of methodologies for their modeling, with direct laboratory experiences for their characterization.
+- Statics and dynamics of solids and structures, introducing fundamental equations for their description, principle of virtual work, classical variational principles, also in the regime of large displacements.
+- Elements of computational methods, both with the development of calculation codes and through the use of commercial platforms for the study and design of components within industrial problems.
+
+The educational path continues with a second year proposing differentiated paths, focusing on activities predominantly related, to allow students in-depth exploration in various areas, such as:
+
+- Computational methodologies for material design, advanced simulation and design methodologies for structural components, numerical methods for the optimization of structural components.
+- Sustainable manufacturing processes, as well as processes aimed at energy management, including photovoltaic, solar energy, and biomass energy plants, green chemistry, computational methods for bio-organic chemistry, and study of sustainability problems.
+- Additive manufacturing (for polymers, fiber-reinforced materials, technopolymers, metals) and design capable of combining additive and subtractive processes, also completing knowledge with related advanced simulation and design methodologies.
+- Innovative materials, capable of acting as sensors and actuators, advanced use of materials in various sectors, including biological ones.
+Career opportunities
+Expert in Computational Engineering and Modeling for Sustainable Materials, Structures, and Technologies
+
+Typical areas of activity include innovation and production development, advanced design, organization and management of complex systems, and qualification and diagnostics of materials. In particular, graduates of the Master's program in "Computational Engineering and Modeling for Sustainable Materials, Structures, and Technologies" will find employment in mechanical, aerospace, and aerospace industries, packaging, chemical, biomedical, agri-food, energy, construction, and cultural heritage sectors. Other career opportunities for this professional figure include laboratories and research and development centers of public and private companies and institutions, as well as freelance practice. Therefore, they will be able to carry out:
+
+- Highly qualified professional activities in fields related to various engineering disciplines;
+- Applied research activities in the engineering field in both public and private research centers;
+- Coordination, monitoring, and management activities of applied research structures and technological innovation, both in the public and private sectors;
+- Promotion and development activities of technological innovation, technology management, and design.
+Admission requirements
+For admission to the Master's Degree program, possession of a Bachelor's Degree (including those obtained under the previous regulations outlined in the DM 509/1999 and subsequent amendments and integrations) or a three-year university diploma, or another foreign qualification recognized as suitable by the competent authorities of the University, is required. 
+
+The curriculum requirements include holding a Bachelor's Degree in the following Engineering classes according to DM 270/2004 and the corresponding classes according to DM 509/1999:
+- Environmental civil sector: Class L-7 Civil and Environmental Engineering;
+- Information sector: Class L-8 Information Engineering;
+- Industrial sector: Class L-9 Industrial Engineering.
+
+Students enrolling in the Master's Degree program are also required to have the following curricular prerequisites upon entry:
+- Proficiency in the English language at least equivalent to level B2 to enable understanding and participation in educational activities delivered in English;
+- Possession of a minimum of 36 CFU in subjects related to mathematics, physics, and chemistry (SSD MAT/05; MAT/08; FIS/03);
+- Possession of at least 45 CFU in engineering subjects (SSD ICAR/01; ICAR/02; ICAR/07; ICAR/08; ICAR/09; ING-IND/06; ING-IND/10; ING-IND/11; ING-IND/13; ING-IND/14; ING-IND/16; ING-IND/17; ING-IND/21; ING-IND/22; ING-IND/23; ING-IND/24; ING-IND/31; ING-IND/32; ING-IND/33; ING-IND/34; ING-IND/35; ING-INF/04; ING-INF/05; ING-INF/07; INF/01).
+
+Admission to the Master's Degree program is also subject to the verification of the adequacy of the candidate's personal preparation, according to criteria and methods established in the Educational Regulations.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

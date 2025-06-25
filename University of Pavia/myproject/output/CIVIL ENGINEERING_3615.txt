@@ -1,0 +1,323 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/civil-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Master’s Degree Program in Civil Engineering aims to train professionals who can identify, understand, and solve the main problems typical of this branch of engineering.
+The education provided enables graduates to work in various areas of interest, such as new and existing constructions (civil and industrial buildings, major infrastructure projects like road and rail bridges, dams, underground works) and infrastructure (transport networks, seaports, airports, water collection, distribution, and disposal systems, and earth-retaining structures). The program combines practical and theoretical concepts with advanced and innovative design and analytical skills, allowing students to tackle complex and novel situations typical of the Civil Engineering profession with confidence.
+The Master's program also provides conceptual, analytical, and computational tools for assessing and mitigating risks from natural events, a field of increasing importance due to climate change.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Domenico Gioffre'
+Area
+Engineering
+Access
+Open
+Language
+English Italian
+Degree class
+LM-23 - Civil engineering
+Department
+DEPARTMENT OF CIVIL ENGINEERING AND ARCHITECTURE
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso STRUTTURISTICO
+Percorso IDRAULICO
+Year of study:
+1
+Compulsory
+COMPLEMENTS OF MATHEMATICAL ANALYSIS
+6
+							CFU -
+							 56 							hours
+1st semester
+STRUCTURAL DYNAMICS AND INTRODUCTORY COMPUTATIONAL MECHANICS
+12
+							CFU -
+							 143 							hours
+Annual
+MECHANICS OF SOLIDS AND STRUCTURES
+6
+							CFU -
+							 60 							hours
+1st semester
+DESIGN AND REHABILITATION OF MASONRY STRUCTURES
+9
+							CFU -
+							 73 							hours
+2nd semester
+REINFORCED CONCRETE STRUCTURES, FOUNDATIONS AND EARTH RETAINING STRUCTURES
+12
+							CFU -
+							 108 							hours
+1st semester
+THEORY AND PLANNING OF STEEL CONSTRUCTIONS
+6
+							CFU -
+							 60 							hours
+2nd semester
+Choose a subject (6 CFU)
+PHOTOGRAMMETRY, LIDAR AND GIS
+6
+							CFU -
+							 61 							hours
+2nd semester
+DESIGN OF CONSTRUCTIVE ELEMENTS
+6
+							CFU -
+							 47 							hours
+2nd semester
+Choose a subject (6 CFU)
+GPS/GNSS POSITIONING
+6
+							CFU -
+							 45 							hours
+2nd semester
+EXPERIMENTAL CHARACTERISATION, CERTIFICATION AND HEALTH MONITORING OF STRUCTURES
+6
+							CFU -
+							 64 							hours
+2nd semester
+THERMOPHYSICS OF BUILDINGS
+6
+							CFU -
+							 45 							hours
+1st semester
+Year of study:
+2
+Compulsory
+SEISMIC DESIGN, ASSESSMENT AND RETROFIT OF STRUCTURES
+12
+							CFU -
+							 112 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+THEORY AND DESIGN OF BRIDGES
+9
+							CFU -
+							 74 							hours
+Choose a subject (6 CFU)
+DESIGN OF SHELL STRUCTURES
+6
+							CFU -
+							 45 							hours
+CONSTITUTIVE MODELING OF MATERIALS
+6
+							CFU -
+							 68 							hours
+9 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (9 CFU)
+CONSTRUCTION OF ROADS, RAILWAYS AND AIRPORTS
+6
+							CFU -
+							 52 							hours
+GEOTECHNICAL EARTHQUAKE ENGINEERING
+6
+							CFU -
+							 51 							hours
+BUSINESS MANAGEMENT
+6
+							CFU -
+							 50 							hours
+NONLINEAR COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 86 							hours
+CONSTRUCTION ORGANIZATION
+6
+							CFU -
+							 45 							hours
+NUMERICAL SIMULATIONS FOR INDUSTRIAL APPLICATIONS
+6
+							CFU -
+							 45 							hours
+TOOLS, METHODS AND PROJECTS FOR INCLUSION
+3
+							CFU -
+							 23 							hours
+SUSTAINABILITY SCIENCE IN THE BUILT ENVIRONMENT
+3
+							CFU -
+							 23 							hours
+HISTORICAL DEVELOPMENT OF STRUCTURAL MECHANICS
+3
+							CFU -
+							 23 							hours
+ADVANCED TECHNIQUES FOR SEISMIC PROTECTION OF STRUCTURES:BASE ISOLATION AND SUPPLEMENTAL DAMPING
+3
+							CFU -
+							 32 							hours
+Year of study:
+1
+Compulsory
+ADVANCED HYDRAULICS
+6
+							CFU -
+							 50 							hours
+2nd semester
+ELEMENTS OF MATHEMATICS
+6
+							CFU -
+							 46 							hours
+1st semester
+HYDROLOGICAL MODELING AND CLIMATE CHANGE
+6
+							CFU -
+							 55 							hours
+Annual
+FLUID MECHANICS
+6
+							CFU -
+							 52 							hours
+1st semester
+WATERWORKS AND SEWERAGE SYSTEMS PROJECT
+6
+							CFU -
+							 66 							hours
+2nd semester
+RELIABLE DESIGN AND MANAGEMENT OF URBAN HYDRAULIC INFRASTRUCTURES
+6
+							CFU -
+							 51 							hours
+1st semester
+WATERSHED PROTECTION AND MANAGEMENT
+6
+							CFU -
+							 53 							hours
+2nd semester
+REINFORCED CONCRETE STRUCTURES, FOUNDATIONS AND EARTH RETAINING STRUCTURES
+12
+							CFU -
+							 108 							hours
+1st semester
+Choose a subject (6 CFU)
+FUNDAMENTALS OF SANITARY - ENVIRONMENTAL ENGINEERING
+6
+							CFU -
+							 52 							hours
+1st semester
+PHOTOGRAMMETRY, LIDAR AND GIS
+6
+							CFU -
+							 61 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+FLOOD PROPAGATION AND DESIGN OF HYDRAULIC STRUCTURES FOR ENVIRONMENT PROTECTION
+12
+							CFU -
+							 100 							hours
+FLUVIAL HYDRAULICS AND PROTECTION WORKS
+12
+							CFU -
+							 120 							hours
+DESIGN OF SHELL STRUCTURES
+6
+							CFU -
+							 45 							hours
+FINAL EXAM
+21
+							CFU -
+							 0 							hours
+9 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (9 CFU)
+COMPUTATIONAL FLUID DYNAMICS
+6
+							CFU -
+							 51 							hours
+CONSTRUCTION OF ROADS, RAILWAYS AND AIRPORTS
+6
+							CFU -
+							 52 							hours
+GEOTECHNICAL EARTHQUAKE ENGINEERING
+6
+							CFU -
+							 51 							hours
+COASTAL HYDRODYNAMICS
+3
+							CFU -
+							 30 							hours
+HYDROELECTRIC PLANTS
+3
+							CFU -
+							 23 							hours
+HYDRAULIC MACHINES
+3
+							CFU -
+							 28 							hours
+HYDRAULIC MEASUREMENT
+3
+							CFU -
+							 35 							hours
+WATER AND WASTEWATER TREATMENT PLANTS PROJECT
+6
+							CFU -
+							 56 							hours
+SNOW AVALANCHES AND RELATED MOUNTAIN NATURAL HAZARDS
+6
+							CFU -
+							 45 							hours
+TOOLS, METHODS AND PROJECTS FOR INCLUSION
+3
+							CFU -
+							 23 							hours
+TRENCHLESS TECHNOLOGIES FOR HYDRAULIC INFRASTRUCTURES
+3
+							CFU -
+							 32 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Master degree in Civil Engineering aims at training professionals with a deep understanding of the theoretical-scientific aspects of the basic and characterizing engineering disciplines of this field. Such professionals will be able to identify, interpret, formulate and solve the main problems (even complex ones, or those requiring an interdisciplinary and innovative approaches) typical of civil engineering.
+The degree activities mainly focus on methodological aspects and will be structured so as to provide students with advanced engineering competencies to carry out highly-qualified professional activities. In presenting these engineering aspects, particular importance will be given to the generalization of the theoretical framework presented in the Bachelor degree, so that the preparation remains up-to-date and students can confidently deal with new problems. Students will also be provided with the tools necessary to remain up-to-date in their field over time.
+At the same time, the degree activities will allow the student to gain personal experience in experimental research tools (static, dynamic, kinematic measures) and in numerical tools (simulation of the phenomena studied using deterministic and stochastic mathematical models) presently used as part of advanced approaches to civil engineering problems.
+The activities are structured to provide advanced engineering competencies to carry out highly qualified work in the following professional fields:
+- design, construction and management of complex structural and geotechnical engineering works;
+- planning, design and management of control and monitoring systems for existing structural systems;
+- design of structural systems subject to environmental and/or operational vibrations;
+- assessments of the optimal intervention procedures for damaged structural systems;
+- design and management of structures for the utilization of water resources and for the hydraulic defense of the territory. 
+
+In particular, in the field of structural engineering the career-oriented coursework deals with:
+- the numerical modeling and experimental testing of materials and structures;
+- the static and dynamic behavior of structures and their interaction with the ground;
+- the design of ordinary and large-scale structures such as bridges, high buildings, and large light roofs, subject to seismic or wind actions;
+- the study of structural and geotechnical problems regarding existing buildings;
+- the safety and reliability of structures. 
+
+In the field of engineering the career-oriented coursework deals with:
+- the analysis of hydrodynamic phenomena connected with environmental and industrial problems;
+- the analysis of hydraulic and hydrological problems linked to soil protection;
+- the design and control of hydraulic facilities and structures;
+- the design, implementation and optimization of water and waste treatment plants.
+Moreover, the Master degree aims at providing the academic background necessary for more advanced studies in future (second-level Master degree and PhD studies).
+
+In order to enhance the language capabilities of the students, with a focus on the correct use of technical terminologies, to help them in working and learning within an international context, as well as to increase the enrolment of foreign students, some course can be delivered in English. Finally, the possibility of defining special ad-hoc curricula is considered.
+Career opportunities
+- Free-lance activity, either individual or as part of an engineering firm or company;
+- Public planning and design offices;
+- Management and monitoring of urban and territorial engineering works and systems;
+- Working in companies, service companies, consortiums, local authorities and agencies that observe, monitor and manage national and international civil engineering works and services;
+- National and international companies that construct and maintain civil infrastructural works and systems.
+Admission requirements
+To be admitted to the master's degree program, students must hold a three-year bachelor's degree (including those obtained under the regulations preceding the D.M. 509/1999 and subsequent amendments and integrations) or a three-year university diploma, or another foreign qualification recognized as suitable by the competent authorities of the University. Additionally, admission requires meeting curricular requirements and having adequate initial preparation. Access to the master's degree in Civil Engineering presupposes a solid knowledge in engineering disciplines, with a good preparation in basic subjects and in specific subjects within the disciplinary field of civil engineering. In particular, the Didactic Regulations of the study program set the curricular requirements by defining the minimum number of university educational credits that the candidate must have acquired in their previous academic career, referring to the various educational activities provided by current regulations, individual scientific-disciplinary sectors, or groups of scientific-disciplinary sectors, as well as proficiency in the English language. The Didactic Regulations also define the procedures to verify the adequacy of the student's initial preparation, with criteria and verification methods set by the Faculty upon proposal of the Didactic Council.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

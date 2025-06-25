@@ -1,0 +1,1007 @@
+https://www.georgebrown.ca/programs/web-development-front-end-design-program-postgraduate-g418?year=2024
+
+Home
+Programs
+Web Development – Front-End Design Program (Postgraduate) G418
+Main Content
+Web Development – Front-End Design Program (Postgraduate) (G418)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Web Development – Front-End Design
+Code:
+G418
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+September
+Domestic Tuition:
+7,162.00 * ‡
+International Tuition:
+23,225.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Design
+Location:
+Waterfront Campus
+Experiential Learning:
+Field Placement available with portfolio approval.
+Program Availability
+Semester
+Domestic
+International
+Fall
+2025
+Open
+Open
+Winter
+2026
+Not Available
+Not Available
+Spring
+2026
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Transform your passion for design into a dynamic career with our
+Web Development – Front-End Design
+one-year graduate certificate program. Focused on human-centred design and artificial intelligence, this innovative program teaches you to create high-impact websites and apps that go beyond traditional web development. You'll master the art of building apps and interfaces that meet industry standards for effective code engineering and responsible design. Immerse yourself in a learning environment where creativity meets technology, and prepare to make a significant impact in the digital world. Join us and become a leader in front-end design.
+Full Description
+Transform your ideas into compelling visual and functional interfaces with our one-year
+Web Development – Front-End Design
+graduate certificate program. This innovative program teaches you to create high-impact websites, applications, and systems that respond to diverse client needs in the health care, fintech, retail and technology sectors.
+Our program sets a new standard for application development, focusing on five core pillars: accessible user interface design (UI), intuitive user experience design (UX), industry workflow and problem-solving skills, full-stack application architecture and front-end development. Designed to meet industry demands, this program equips you with the skills necessary for effective communication and development in the digital economy.
+You'll gain theoretical knowledge and hands-on training to develop custom front-end interactive prototypes using the latest techniques in HTML, CSS and JavaScript. You'll learn to integrate artificial intelligence, cutting-edge libraries and frameworks to enhance efficiency and employability, master the development workflow, including testing, debugging, documentation, bundling and deployment, and apply UI and UX design principles to create user-friendly solutions. Utilizing your comprehensive understanding of the design and development stack, you'll be prepared to meet client requirements effectively.
+Join us and become a leader in front-end design, ready to make a significant impact in the digital world.
+Your Field Education Options
+During the third semester of the program, students will take part in a Work-Integrated Learning placement with an industry sponsor.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates from Web Development – Front-End Design may find employment in a variety of industries from retail to marketing and beyond. Graduates may go on to careers as:
+software engineers and designers
+interactive media developers
+computer programmers
+web designers
+developers
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest alumni stories
+Courses
+Required Courses
+Semester 1
+Course Code
+Courses
+DESN 3031
+Applied Interface Design
+DESN 3032
+Applied Interface Development
+DESN 3033
+User Interface Design and Technique
+DESN 3034
+Prototyping and Experience Design
+DESN 3035
+Libraries, Tools and Workflow
+DESN 3036
+Studio Practice 1
+Semester 2
+Course Code
+Courses
+DESN 3037
+Front-End Application Architecture
+DESN
+3038
+Data Design and Development
+DESN 3039
+Industry Employment and Portfolio
+DESN 3040
+Future Interface Design
+DESN 3041
+Front-End Frameworks
+DESN 3042
+Studio Practice 2
+Semester 3
+Course Code
+Courses
+DESN 3043
+Front-End Design Field Placement
+OR
+DESN 3053
+Work Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Determine and document requirements for web computing projects based on the effective application of stakeholder needs.
+Prepare and present proposals and business plans for web applications that satisfy stakeholder requirements.
+Design, model, implement and optimize accessible web solutions to meet client requirements and constraints and align with standards and best practices.
+Design, model, implement, optimize and maintain databases to support data-driven solutions for web environments.
+Implement a development process to support consistency between development platforms and production platforms.
+Develop the appropriate information architecture in order to satisfy a broad range of requirements and enhance the user experience.
+Apply project management concepts to web environment projects to ensure effective management throughout the lifecycle of the project.
+Test, troubleshoot and debug web applications to support requirements and meet Quality Assurance objectives.
+Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+Evaluate proposed solutions to optimize and improve web applications based on usability testing and analysis.
+Adhere to ethical, legal and regulatory requirements and/or principles to develop and manage web applications.
+Select and apply strategies for personal and professional development to enhance work performance.
+Use front-end frameworks to promote patterns of design and development that conform to the latest industry standards.
+Create interactive experiences for various types of front-end interfaces or devices, with a focus on user-facing applications.
+Tuition & Fees
+Domestic Tuition
+7,162.00 * ‡
+International Tuition
+23,225.00 ** ‡
+Additional Costs
+*Amounts listed are the estimated total tuition, materials (non-refundable), student service and ancillary fees for the first
+two
+semesters of programs starting in Fall 2024. Fees are subject to change for programs starting in Fall 2025 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2025
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500.00 for field placement or work-integrated project fees which must be paid separately, as this fee is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid web pages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Ontario College Diploma, advanced diploma, degree or equivalent in computer science/studies, web programming, interaction design or related, or demonstrated work experience in design or computer development.
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Design
+Phone: 416-415-5000, ext. 3129
+Email:
+game@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+This program is part of our
+School of Design
+, located at our
+Waterfront Campus
+at
+3 Lower Jarvis St.
+, Toronto, Ontario, Canada.
+School of Design Building
+The School of Design resides in a new 103,000-square-foot facility in the Daniels Waterfront – City of the Arts development. This state-of-the-art building supports academic programs and industry projects with features such as:
+virtual and augmented reality lab
+usability and testing lab
+Future Ways of Living lab
+peer tutor lab
+digital sandbox
+incubators
+prototyping and workshop spaces
+design and innovation showcase spaces
+Come and have your questions answered, learn about the program content and career options, meet your friendly professors and staff and experience what it is like to be in a George Brown College classroom at one of our
+information sessions
+. You can also
+book a campus tour
+.
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA
+Web Development – Front-End Design Program (Postgraduate) (G418)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Web Development – Front-End Design
+Code:
+G418
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+May
+Domestic Tuition:
+7,050.00 * ‡
+International Tuition:
+22,485.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Design
+Location:
+Waterfront Campus
+Experiential Learning:
+Field Placement available with portfolio approval.
+Fall 2024 Delivery:
+Semester 1: On Campus
+Winter 2025 Delivery:
+Semester 2, 3: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Closed
+Closed
+Winter
+2025
+Not Available
+Not Available
+Spring
+2025
+Open
+Open
+Add to Comparison
++
+Compare Programs
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Front-End Design focuses on human-centred design to produce high-impact websites and apps. Through our
+Web Development – Front-End Design
+one-year graduate certificate program, you'll learn how to build apps and interfaces that meet industry-standards for effective code engineering and responsible design, going beyond traditional websites.
+Full Description
+This one-year
+Web Development – Front-End Design
+graduate certificate program will teach you to translate concepts and ideas into visual and functional interfaces, websites, applications, and systems––both personal and professional. As a front-end developer, you'll use human-centred design to produce high-impact websites and apps that respond to the needs of clients in sectors ranging from healthcare to fintech, retail to technology, and beyond.
+This exciting program sets a new standard for application development with a core focus on five pillars:
+accessible user interface design (“UI”)
+intuitive user experience design (“UX”)
+industry workflow and problem solving skills
+full-stack application architecture
+front-end development
+With application design and development remaining critical skills in the digital economy, we designed this program to meet industry needs. Efficient and effective communication with stakeholders and audiences alike is needed in nearly every contemporary industry, from retail to marketing, and beyond.
+As a graduate of this program, you'll have the theoretical and hands-on training to:
+Develop custom front-end interactive prototypes and solutions, using the latest techniques in HTML, CSS and JavaScript.
+Integrate the latest libraries and frameworks to improve efficiency, while maximizing employability.
+Master the development workflow, including testing, debugging, documentation, bundling, and deployment.
+Put user interface (UI) and user experience (UX) design principles into practice.
+Apply knowledge from all levels of the design and development stack to create solutions that meet the requirements of a client brief.
+Your Field Education Options
+During the third semester of the program, students will take part in a Work-Integrated Learning placement with an industry sponsor.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates from Web Development – Front-End Design may find employment in a variety of industries from retail to marketing and beyond. Graduates may go on to careers as:
+software engineers and designers
+interactive media developers
+computer programmers
+web designers
+developers
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest alumni stories
+Courses
+Required Courses
+Semester 1
+Course Code
+Courses
+DESN 3031
+Applied Interface Design
+DESN 3032
+Applied Interface Development
+DESN 3033
+User Interface Design and Technique
+DESN 3034
+Prototyping and Experience Design
+DESN 3035
+Libraries, Tools and Workflow
+DESN 3036
+Studio Practice 1
+Semester 2
+Course Code
+Courses
+DESN 3037
+Front-End Application Architecture
+DESN 3038
+Data Design and Development
+DESN 3039
+Industry Employment and Portfolio
+DESN 3040
+Future Interface Design
+DESN 3041
+Front-End Frameworks
+DESN 3042
+Studio Practice 2
+Semester 3
+Course Code
+Courses
+DESN 3043
+Front-End Design Field Placement
+or
+DESN 3053
+Work Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Determine and document requirements for web computing projects based on the effective application of stakeholder needs.
+Prepare and present proposals and business plans for web applications that satisfy stakeholder requirements.
+Design, model, implement and optimize accessible web solutions to meet client requirements and constraints and align with standards and best practices.
+Design, model, implement, optimize and maintain databases to support data-driven solutions for web environments.
+Implement a development process to support consistency between development platforms and production platforms.
+Develop the appropriate information architecture in order to satisfy a broad range of requirements and enhance the user experience.
+Apply project management concepts to web environment projects to ensure the effective management throughout the lifecycle of the project.
+Test, troubleshoot and debug web applications to support requirements and meet Quality Assurance objectives.
+Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+Evaluate proposed solutions to optimize and improve web applications based on usability testing and analysis.
+Adhere to ethical, legal and regulatory requirements and/or principles to develop and manage web applications.
+Select and apply strategies for personal and professional development to enhance work performance.
+Use front-end frameworks to promote patterns of design and development that conform to the latest industry standards.
+Create interactive experiences for various types of front-end interfaces or devices, with a focus on user-facing applications.
+Tuition & Fees
+Domestic Tuition
+7,050.00 * ‡
+International Tuition
+22,485.00 ** ‡
+Additional Costs
+*Amounts listed are the estimated total tuition, materials (non-refundable), student service and ancillary fees for the first
+two
+semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500.00 for field placement or work integrated project fees are to be paid separately, as this fee is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid webpages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Ontario College Diploma, advanced diploma, degree or equivalent in computer science/studies, web programming, interaction design or related, or demonstrated work experience in design or computer development.
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Design
+Phone: 416-415-5000, ext. 3129
+Email:
+game@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+This program is part of our
+School of Design
+, located at our
+Waterfront Campus
+at
+3 Lower Jarvis St.
+, Toronto, Ontario, Canada.
+School of Design Building
+The School of Design resides in a new 103,000-square-foot facility in the Daniels Waterfront – City of the Arts development. This state-of-the-art building supports academic programs and industry projects with features such as:
+virtual and augmented reality lab
+usability and testing lab
+Future Ways of Living lab
+peer tutor lab
+digital sandbox
+incubators
+prototyping and workshop spaces
+design and innovation showcase spaces
+Come and have your questions answered, learn about the program content and career options, meet your friendly professors and staff and experience what it is like to be in a George Brown College classroom at one of our
+information sessions
+. You can also
+book a campus tour
+.
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA

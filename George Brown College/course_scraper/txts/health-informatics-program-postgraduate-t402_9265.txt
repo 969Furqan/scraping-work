@@ -1,0 +1,1127 @@
+https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t402?year=2024
+
+Home
+Programs
+Health Informatics Program (Postgraduate) T402
+Main Content
+Health Informatics Program (Postgraduate) (T402)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Health Informatics
+Code:
+T402
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$8,035.00 * ‡
+International Tuition:
+$19,900.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Program Availability
+Semester
+Domestic
+International
+Fall
+2025
+Open
+Open
+Winter
+2026
+Open
+Opens Feb 3, 2025
+Spring
+2026
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Health Informatics
+is a one-year graduate certificate program for health-care and information-systems professionals currently employed or with experience in health care or technology who are interested in advancing IT in health care.
+We aim to accommodate busy schedules with evening and weekend classes; however, some courses are scheduled during daytime hours. See the Full Description section for more details.
+Full Description
+The health care landscape is undergoing a remarkable transformation thanks to the evolution of information and communication technologies. This shift is revolutionizing how we access and share information, all aimed at enhancing patient care.
+Our
+Health Informatics
+one-year graduate certificate program brings together professionals from the health and IT sectors to prepare students to tackle the challenges of current and future health-care systems. If you’re an IT or health-care professional and aspire to become a health informatician or a practitioner who would like to enhance your career progression with formal education, this intensive program is for you.
+Throughout the program, the faculty, composed of seasoned health informatics professionals, will guide you through developing critical skills and competencies in these areas:
+health-care systems, technologies, and trends
+electronic medical records (EMRs)
+ethical, professional, legal and policy implications of health information systems technologies and health information standards
+problem identification and analysis
+documenting and analyzing health-care organization, health user and solution requirements
+process, workflow and system/solution modelling
+project management
+technical writing
+leadership and management
+business and system analysis techniques and core professional competencies such as analytical thinking and problem-solving, communication and facilitation and collaborative skills
+Throughout the three semesters of the Health Informatics program, you will gain hands-on experience and application. You will immerse yourself in health informatics and analysis through case studies, industry projects and practical work experience. As you develop innovative solutions, you’ll emerge from this program with skills that prepare you for the real-life demands of your career.
+Upon graduation, you’ll have the essential skills and competencies needed for professional Health Informatics and Project Management certification programs.
+Hands-On Experience With A Commercial EMR
+We've partnered with Arya Health, the maker of AryaEHR, a commercially available EMR, to give you hands-on practical experience with an EMR physicians use across Canada. This means you'll graduate with EMR experience on your resume, giving you a competitive edge in the marketplace.
+George Brown College is the only College that offers this valuable experience.
+Find out more on
+AryaEHR's website
+.
+IIBA Academic Membership
+Academic membership in the International Institute of Business Analysis (IIBA) offers colleges and universities with Business Analyst curriculums and care about advancing the BA profession within their student population the opportunity to participate in IIBA membership and benefit from IIBA’s other products and services. The academic recognition programs offer the students of Business Analyst-related programs the opportunity to receive recognition from the IIBA.
+New - Graduates Prepared to Write the IIBA Entry Certification in Business Analysis (TIM) Designation (ECBA)
+Graduates of this program will be prepared to write the exam for the IIBA Entry Certification of Business Analysis designation from the International Institute of Business Analysis. This professional designation recognizes the student’s theoretical understanding of the Business Analyst Body of Knowledge (BABOK) and the context of business analysis applied across industries.
+Learn more about the
+Entry Certification in Business Analysis
+(
+www.iiba.org
+).
+Technology Requirements
+This program requires you to have access to a personal laptop with the following specifications:
+screen 13-inch minimum
+webcam + mic
+8 GB RAM
+256 GB SSD Hard Drive (512 GB SSD is better)
+quad-core i7 2.4GHz or better
+2 TB (minimum) external hard drive
+consistent access to a reliable high-speed internet connection (minimum 10 Mbs download speed recommended)
+Program Delivery
+Note on program delivery: Most courses occur in the evening and on weekends; however, some courses may take place from 2 p.m. to 6 p.m. on weekdays.
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+Upon completion of the program, you'll have the skills needed for positions such as:
+project/program coordinator
+service desk analyst
+product analyst
+apps analyst
+testing analyst
+privacy analyst
+training co-ordinator
+clinical informatics co-ordinator
+data analyst
+junior business analyst
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest Alumni Stories
+Courses
+Required Courses
+Semester 1
+Code
+Course Name
+BUS 4051
+Foundations of Business Analysis
+BUS 4053
+Applied Business Analysis
+BUS 4054
+IT Project Management
+COMP 4014
+Health Care System
+COMP 4015
+Health Care Information Technology
+COMP 4050
+Health Informatics and Clinical Practice I
+COMP 4080
+Knowledge Management and Clinical Decision-Making
+Semester 2
+Code
+Course Name
+COMP 4024
+Health Data Standards
+COMP 4033
+Health Informatics and Data Analysis
+COMP 4051
+Health Informatics and Clinical Practice II
+COMP 4064
+Career Planning and Portfolio Development
+COMP 4083
+Health Information Legislation, Privacy and Security
+COMP 4084
+Health Business and Systems Analysis Case I
+Semester 3
+Code
+Course Name
+COMP 4090
+Work-Integrated Project
+OR
+TCOP 4012
+Co-op Work Placement
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Assess organizational requirements for health information system technologies (HIST).
+Formulate strategies for the selection and implementation of HIST.
+Design and deliver educational/training strategies for end-users.
+Evaluate the impact of HIST on business/clinical processes, and on health services delivery.
+Tuition & Fees
+Domestic Tuition
+$8,035.00 * ‡
+International Tuition
+$19,900.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of programs starting in Fall
+2024
+. Fees are subject to change for programs starting in Fall 2025 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2025
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which are not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid web pages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Health Sciences Graduates:
+Minimum two-year diploma or 3-year bachelor’s degree in health sciences or related field from an accredited institution.  Plus:
+Minimum one year of work experience as a health-care professional, or equivalent (resumé required).
+Or
+Four-year bachelor's degree in health science or related field (no work experience required)
+Computer Science/ IT Graduates:
+Three-year advanced diploma or three-year degree in Information Technology/ Computer Science or related field from an accredited institution.
+Plus:
+Minimum one year of work experience as an IT professional, or equivalent (resumé required).
+Or
+Four-year bachelor's degree in computer science or related field  (no work experience required)
+Graduates from other fields of study (outside of health science or IT/ computer technology):
+A four-year Honours Bachelor’s degree with at least a B+ or 77% (or the equivalent grade point average) in the final year.
+Applicants currently completing the final stages of a bachelor’s degree may be considered
+Undergraduate degree completion, meeting the minimum grade point average (B+ or 77%), would be a condition on the applicant’s offer of admission
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English language proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday–Friday, 9 a.m.–6 p.m.
+Program Co-ordinator: Dr. Thérèse Bernier
+Email:
+Therese.Bernier@georgebrown.ca
+Phone: 416-415-5000 x 3744
+Office hours: Monday, 2 p.m.–5 p.m.
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Health Informatics program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA
+Health Informatics Program (Postgraduate) (T402)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2024-2025
+2025-2026
+Program Name:
+Health Informatics
+Code:
+T402
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, May, September
+Domestic Tuition:
+$7,583.00 * ‡
+International Tuition:
+$18,913.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2024 Delivery:
+Semester 1: On Campus; Semester 3: Co-op
+Winter 2025 Delivery:
+Semester 1, 2: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Closed
+Closed
+Winter
+2025
+Open
+Open
+Spring
+2025
+Open
+Open
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Health Informatics
+is a one-year graduate certificate program for healthcare and information systems professionals currently employed or with experience in healthcare or technology, or who have an interest in advancing IT in healthcare.
+We aim to accommodate busy schedules with evening and weekend classes; however, some courses are scheduled during daytime hours. See the Full Description section for more details.
+Full Description
+The landscape of healthcare is undergoing a remarkable transformation thanks to the evolution of information and communication technologies. This shift is revolutionizing the way we access and share information, all aimed at enhancing patient care.
+Our
+Health Informatics
+one-year graduate certificate program brings together professionals from the health and IT sectors to prepare students to tackle the challenges of current and future healthcare systems. If you're an IT or healthcare professional  and aspire to become a health informatician, or if you're a practitioner who would like to enhance your career progression with formal education, this intensive program is for you.
+Throughout the program, our team of health informatics/business system analyst pros and faculty will guide you through developing critical skills and competencies in these areas:
+healthcare systems, technologies, and trends
+electronic medical records (EMRs)
+ethical, professional, legal, and policy implications of health information systems technologies and health information standards
+problem identification and analysis
+documenting and analyzing healthcare organization, health user, and solution requirements
+process, workflow, and system/solution modelling
+project management
+technical writing
+leadership and management
+business and system analysis techniques and core professional competencies such as analytical thinking and problem solving, communication and facilitation, and collaborative skills
+The Health Informatics program is all about diving deep into the world of health informatics. What makes this graduate certificate program stand out? It's all about hands-on experience and application. You'll immerse yourself in health informatics and analysis through case studies, industry projects, and practical work experience. As you develop innovative solutions, you'll emerge from this program with skills that prepare you for the real-life demands of your career.
+Upon graduation, you'll have the essential skills and competencies needed for professional certification programs in Health Informatics and Project Management.
+Hands-On Experience With A Commercial EMR
+We've partnered with Arya Health, the maker of AryaEHR, a commercially available EMR, to give you hands-on practical experience with an EMR that physicians use across Canada. This means you'll graduate with EMR experience on your resume, giving you a competitive edge in the marketplace.
+George Brown College is the only College that offers this valuable experience.
+Find out more on
+AryaEHR's website
+.
+IIBA Academic Membership
+Academic membership in the International Institute of Business Analysis (IIBA) offers colleges and universities that have Business Analyst curriculums and care about advancing the BA profession within their student population the opportunity to participate in IIBA membership and benefit from IIBA’s other products and services. The academic recognition programs offer the students of Business Analyst-related programs the opportunity to receive recognition from the IIBA.
+New - Graduates Prepared to Write the IIBA Entry Certification in Business Analysis (TIM) Designation (ECBA)
+Graduates of this program will be prepared to write the exam for the IIBA Entry Certification of Business Analysis designation from the International Institute of Business Analysis. This professional designation recognizes the student’s theoretical understanding of the Business Analyst Body of Knowledge (BABOK), as well as the context of business analysis applied across industries.
+Learn more about the
+Entry Certification in Business Analysis
+(
+www.iiba.org
+).
+Technology Requirements
+This program requires you to have access to a personal laptop with the following specifications:
+Screen 13-inch minimum
+Webcam + mic
+8 GB RAM
+256 GB SSD Hard Drive (512 GB SSD is better)
+Quad-core i7 2.4GHz or better
+2 TB (minimum) external hard drive
+Consistent access to a reliable high-speed internet connection (minimum 10 Mbs download speed recommended)
+Program Delivery
+Note on program delivery: Most courses take place in the evening and on weekends; however, some courses may take place from 2 PM - 6 PM on weekdays.
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+Upon completion of the program, you'll have the skills needed for positions such as:
+project/program coordinator
+service desk analyst
+product analyst
+apps analyst
+testing analyst
+privacy co-ordinator
+training co-ordinator
+clinical informatics co-ordinator
+data co-ordinator
+junior business analyst
+Alumni Impact
+We are immensely proud of the contributions of our alumni in Toronto and around the globe.
+From Michelin-starred restaurants to major construction, entertainment, community and financial organizations, our graduates are truly making an impact across a range of industries.
+Latest Alumni Stories
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2024-2025
+SEMESTER 1
+Code
+Course Name
+BUS 4051
+Foundations of Business Analysis
+BUS 4053
+Applied Business Analysis
+BUS 4054
+IT Project Management
+COMP 4050
+Health Informatics and Clinical Practice I
+COMP 4014
+Health Care System
+COMP 4015
+Health Care Information Technology
+COMP 4080
+Knowledge Management and Clinical Decision-Making
+SEMESTER 2
+Code
+Course Name
+COMP 4064
+Career Planning and Portfolio Development
+COMP 4024
+Health Data Standards
+COMP 4033
+Health Informatics and Data Analysis
+COMP 4084
+Health Business and Systems Analysis Case I
+COMP 4051
+Health Informatics and Clinical Practice II
+COMP 4083
+Health Information Legislation, Privacy and Security
+SEMESTER 3
+Code
+Course Name
+TCOP 4012
+Co-op Work Placement
+OR
+COMP 4090
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Assess organizational requirements for health information system technologies (HIST).
+Formulate strategies for the selection and implementation of HIST.
+Design and deliver educational/training strategies for end-users.
+Evaluate the impact of HIST on business/clinical processes, and on health services delivery.
+Tuition & Fees
+Domestic Tuition
+$7,583.00 * ‡
+International Tuition
+$18,913.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of programs starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which are not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Each year we award over $2 million dollars in scholarships, awards and bursaries to first-year students. Check out our financial aid webpages for ways to pay for college and the full list of available scholarships, awards and bursaries.
+Financial Aid
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Health Sciences Graduates:
+Minimum two-year diploma or 3-year bachelor’s degree in health sciences or related field from an accredited institution.
+Plus:
+Minimum one year of work experience as a health-care professional, or equivalent (resumé required).
+Or
+Four-year bachelor's degree in health science or related field (no work experience required)
+Computer Science/ IT Graduates:
+Three-year advanced diploma or three-year degree in Information Technology/ Computer Science or related field from an accredited institution.
+Plus:
+Minimum one year of work experience as an IT professional, or equivalent (resumé required).
+Or
+Four-year bachelor's degree in computer science or related field  (no work experience required)
+Graduates from other fields of study (outside of health science or IT/ computer technology):
+A four-year Honours Bachelor’s degree with at least a B+ or 77% (or the equivalent grade point average) in the final year.
+Applicants currently completing the final stages of a bachelor’s degree may be considered.
+Undergraduate degree completion, meeting the minimum grade point average (B+ or 77%), would be a condition on the applicant’s offer of admission.
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English language proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday, Tuesday, Thursday and Friday: 9 – 6 p.m.
+Wednesday: 9 – 4 p.m.
+Program Co-ordinator: Dr. Thérèse Bernier
+Email:
+Therese.Bernier@georgebrown.ca
+Phone: 416-415-5000 x 3744
+Office hours: Monday, 2-5 P.M.
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Health Informatics program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+- Select -
+Canadian Citizen or Permanent Resident
+International
+Country
+- Select -
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo - Brazzaville
+Congo - Kinshasa
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Côte d’Ivoire
+Denmark
+Diego Garcia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong SAR China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+North Macedonia
+Norway
+Oman
+Outlying Oceania
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Samoa
+San Marino
+Sark
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia & South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Barthélemy
+St. Helena
+St. Kitts & Nevis
+St. Lucia
+St. Martin
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard & Jan Mayen
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad & Tobago
+Tristan da Cunha
+Tunisia
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu
+Türkiye
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.
+CAPTCHA

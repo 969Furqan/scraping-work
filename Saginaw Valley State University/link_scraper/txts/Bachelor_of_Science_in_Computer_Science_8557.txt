@@ -1,0 +1,113 @@
+URL: https://www.svsu.edu/cs/
+
+Bachelor of Science in Computer Science
+SVSU
+>
+College of Science, Engineering & Technology
+>
+Computer Science & Information Systems
+Toggle navigation
+Meet A Cardinal
+Program Requirements
+Course Sequence
+Career Options
+CSIS Department
+About
+Technology doesn’t just amaze you. You’re curious about how it’s created, excited about its applications, and wonder how it will evolve in the future. If you’re strong with numbers and always think certain processes or systems could be made better, Saginaw Valley State University’s Bachelor of Science in Computer Science embraces your interest. Graduating some of the state’s top programmers, our degree program encourages your passion in the classroom and various experiential opportunities to expand your perspective of this dynamic and always-growing field in preparation for a rewarding career.
+What do you see yourself doing? Computer science majors go on to become innovative developers and software or hardware engineers that strive to streamline how devices work, tackle network administration or security issues, or manage complex databases. These possibilities shape the structure of the BS in Computer Science program. A holistic, cross-disciplinary look covers the theory, engineering, and troubleshooting of computational processes, hardware, and programming languages, bridging abstract concepts with practical applications.
+As a student looking to absorb as much as you can, you’ll learn about computer science’s mathematical foundation through exposure to matrix algebra, familiarize yourself with the field’s professional code of ethics, and explore computer algorithms. Through this knowledge, you’ll be ready to solve computing problems and deliver innovative solutions and services with confidence in your skills and professional integrity.
+The
+Department of Computer Science and Information Systems
+seeks to foster the professional and personal growth of every student enrolled in the Bachelor’s in Computer Science program. We don’t just teach concepts—we establish connections to launch careers. Small class sizes let you build strong bonds with your instructors, themselves committed to teaching and advancing the field through research and highlighting real-world applications during lectures.
+We further aim to have you make an impact in your first full-time job. As preparation, all curriculum is regularly revisited to ensure it touches on the latest concepts, and facilities are updated every two years, so you can hone your skills with the most relevant technologies. Along with dedicated labs for computer networking, forensics, and other projects, you’ll have access to open source and commercial systems without charge from your personal computer.
+Helping propel you forward, we maintain close relationships with local employers. Our connections open the door to finding your first internship, working part-time in computer science while completing your degree, and landing your first full-time role following graduation.
+For more information, contact Department Chair Scott D. James
+at james@svsu.edu
+.
+Apply
+Visit
+Tuition/Cost
+Department
+Cardinal Points
+One of two universities in Michigan
+that won a competitive bid against thousands of other applications to
+provide Google-funded outreach to community middle schools
+.
+Students are highly ranked nationally
+via the online programming contest platform, Kattis.
+SVSU students have a
+strong presence in the prestigious International Collegiate Programming Contest
+(ICPC).
+The hardware in the computer labs are
+refreshed every three years
+to ensure that students have
+the most current versions of both commercial and open source software available.
+What You’ll Study
+If you’re determined to learn all there is to know about computer science, this bachelor’s program examines the field through a broad lens. After starting with its mathematical foundation, you’ll be trained in programming languages and information systems before being introduced to the workings and applications of operating systems, databases, algorithms, networks, and programming theory.
+Laying the groundwork to realize your potential are courses in calculus, matrix algebra, statistics, discrete structures, communication and technical writing, and ethics for business and computer technology. After completing two rigorous semesters of computer programming, you’ll continue to flourish and contend with more challenges as you dive into advanced data structures and algorithms, computer information and architecture, the architecture and models of computer networks, database systems, object-oriented design and development, traditional and distribution operating systems, the principles behind the design of programming languages, models of computational complexity, web design, client and server sides of web application development, and Java.
+As you get through the 63-credit core, you’ll advance and specialize your knowledge with eight credits of electives in mobile application development, computer graphics, artificial intelligence, and UNIX and systems administration, in addition to higher-level computer science topics.
+A unique, exciting opportunity, you’ll build a large-scale system under the guidance of a department faculty member for a capstone project. Your work is designed to illustrate all you’ve acquired and your understanding of computer science’s practical applications.
+Review the full curriculum and all course descriptions
+.
+Among your major,
+Basic Skills courses
+, and
+General Education requirements
+, you’ll earn a minimum of 124 credits. As the Bachelor’s in Computer Science is an interdisciplinary program, no minor is required.
+Highlighted Courses
+Year 1
+Year 2
+Year 3
+Year 4
+Key Electives
+Click here to see a listing of programs
+Programs
+Majors
+Other
+Complementary Minors/Majors
+Beyond The Books
+Faculty and Student Cybersecurity Research
+The SVSU community researches cyber behavioral biometric modalities—keystroke dynamics, mouse dynamics, and touchscreen interaction patterns, for instance—with articles published at renowned national and international security conferences.
+Active Student Clubs and Organizations
+Soar in a variety of residential, academic, social, athletic, and fraternal clubs, events, programs, and organizations, including the Association for Computing Machinery (ACM) and annual hackathon CardinalCon.
+Interdisciplinary Programs for Career Development
+SVSU’s Interdisciplinary programs collaborate with multiple departments to lead students to greater career opportunities and development.
+After Graduation
+You have ideas, and SVSU’s BS in Computer Science transforms your dreams into skills that let you take action and leave your mark. That could be as a software engineer, web developer, webmaster, systems or database administrator, or a systems analyst. The comprehensive, hands-on education you receive further sets the stage for advancing or specializing your skills in a graduate program.
+11% projected growth across
+computer and information technology occupations
+through 2029. (U.S. Dept. of Labor, Bureau of Labor Statistics)
+$91,250  is the median yearly pay across the computer and information technology field in the U.S. (U.S. Dept. of Labor, Bureau of Labor Statistics)
+With a bachelor’s degree from SVSU’s Computer Science program, students are prepared for a multitude of careers in healthcare, education, hardware manufacturing, software development, and more. Some choose to work for regional businesses, and some take positions at globally renowned companies like Dow, IBM, and Microsoft.
+Our Students After Graduation...
+Employers
+SeeIt Solutions
+HCL Technologies
+Ford Motor Company
+Frankenmuth Insurance
+DevOps Engineer / Architect
+The Dow Chemical Company
+General Motors
+Auto-Owners Insurance
+Microsoft Corporation
+Covenant Healthcare
+Rehmann Group
+Graduate Programs
+Saginaw Valley State University
+University of Illinois at Urbana-Champaign
+University of Michigan
+Career Opportunities
+System Administration Analyst
+Software Engineer
+Database Administrator
+Network Analyst
+Application Developer
+DevOps Engineer / Architect
+Data Engineer
+Cardinal Successes
+These stories offer insight into how SVSU students have turned their education into successful opportunities yielding real-world success.
+Dustyn Tubbs
+Read more…
+Zach Metiva
+Read more…
+

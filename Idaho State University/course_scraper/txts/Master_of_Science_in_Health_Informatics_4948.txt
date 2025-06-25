@@ -1,0 +1,164 @@
+Link: https://coursecat.isu.edu/graduate/college-of-health/community-and-public-health/mshealthinfo/
+Master of Science in Health Informatics
+The Master of Science in Health Informatics degree is an innovative program in health informatics, an emergent field at the intersection of information, people, process, and technology within healthcare organizations. Health Informatics is the interdisciplinary field that studies and pursues effective uses of biomedical data, knowledge, information science, and technology, motivated by efforts to improve human health. Health Informatics is changing the practice and delivery of healthcare by providing technology-enriched solutions to enhance medical decision-making within the healthcare industry. Our mission is to provide potential and current healthcare professionals from diverse backgrounds with the knowledge and skill in health, information science & technology, and social & behavioral science, necessary to transform data into knowledge to empower healthcare providers to make informed medical decisions, enhance patient outcomes, advance medical research, empower patients, and enrich society. MSHI courses are offered online, providing the convenience of completing the degree remotely.
+Admission Requirements
+The Program Director will review MSHI Program applications. Admission standards and application procedures are presented in the graduate bulletin. The MSHI Program Director and the Department of Community and Public Health Chair will admit prospective students who satisfy the MSHI Program and Graduate School admission requirements. Applicants who do not completely satisfy requirements are referred to the MSHI Admissions Committee, consisting of the MSHI director and the MSHI graduate faculty, to determine admission or denial.
+Admission to the MSHI program is granted only to students showing high promise of success. For classified admission into the MSHI program, applicants must satisfy the following criteria:
+Meet all requirements of and submit an application to the ISU Graduate School.
+Applicants must have a minimum of a 3.0 GPA based on the last 60 hours of undergraduate work. Eligible credits are determined by the Graduate School.
+An applicant who currently holds a graduate degree must submit their transcripts, but the undergraduate GPA requirement will not apply. College transcripts must be submitted directly from the awarding institution to the ISU Graduate School.
+Submit a current copy of your CV along with two letters of recommendation from non-relative individuals familiar with your academic or professional abilities (no personal references).
+Two years of experience working in the health field is preferred for admission. A B.S. or B.A. degree in health or a health-related discipline may substitute for working experience. Applicants will be evaluated on an individual basis.
+Submit a statement of purpose (one to two page single-spaced typed essay) describing your interest in pursuing the MSHI degree and your vision of how it will facilitate your career goals.
+Restrictions may apply to international students due to courses being offered online. International students should check with the ISU International Program Office (IPO) to determine eligibility. If eligible, international students who have not graduated from an accredited college or university in the U.S., and whose native language is not English, must achieve satisfactory scores on the Test of English as a Foreign Language (TOEFL). Satisfactory TOEFL requirements for classified admission are described in the ISU Graduate Catalog under “
+Admission of International Students
+.”
+Applicants will not be considered until all above documentation has been submitted. Applications are due in accordance with ISU Graduate School application deadlines. International students shall abide by additional guidelines for applications as set forth in the
+ISU Graduate Catalog
+.
+Degree Requirements
+Students pursuing the MSHI degree are required to complete 30 credits of core courses associated with three foundational domains – health, information science & technology, and social & behavioral science - and 9 credits of courses in an area of specialization (track). Although not required, students can also earn credit for an applied internship within a healthcare facility and/or complete a thesis or large informatics project. All students will be required to develop a Professional Portfolio that must be approved by a committee of faculty before the MSHI degree is conferred.
+Health Informatics Core Courses
+(30 credits)
+– Students will take core courses in the following foundational domains based on the CAHIIM accreditation requirements:
+Health
+(18 credits)
+Information Science & Technology
+(9 credits)
+Social & Behavioral Science
+(3 credits)
+Specialization/Track Courses
+(9 credits)
+– Students will obtain specialized knowledge in an area of healthcare by taking courses in a track of their choice, selecting from the available tracks listed below.
+General Informatics Track
+– Upon approval by the Program Director of Health Informatics, students will select three courses (9 credits) from any of the other tracks. Upon completion of this track, students will have broad knowledge of several areas within the Health Informatics discipline.
+Rural Health Informatics
+Track
+– This track will focus on utilization of informatics theories, concepts, and methodologies to address challenges of providing healthcare in rural areas and providing rural healthcare providers with access to tools needed to better serve rural patient populations. Students completing this track will be skilled and prepared to serve as technical specialists and community support consultants in enhancing care in rural communities.
+Clinical Informatics
+Track
+– The focus of this track is application of informatics and information technology in the delivery of healthcare services. Emphasis will be placed on utilizing healthcare information to enhance quality of care, increase patient safety and enhancing patient outcomes. Upon completion of this track, students will have the knowledge and skills to work within the clinical environment as a Health Informaticist.
+Data Science & Analytics
+Track
+- Data science and analytics is an interdisciplinary field devoted to understanding scientific methods, processes, and systems to extract (mine) data in order to develop insights and inferences from healthcare data to enhance healthcare and patient outcomes. Upon completion of this track, students will have acquired data mining and analytical skills necessary to serve as quality data analysts, data scientists, improvement analysts, and/or evaluation specialists.
+Consumer (Personal) Health Informatics Track
+– The consumer health informatics track focuses on use of health informatics by consumers/patients. Emphasis will be placed on techniques and tools to enable patients and consumers to engage with clinicians, preventative medicine, and monitoring and controlling disease. Upon completion of this track, students will be equipped to serve as an Informaticist in the development, implementation, and/or support of tools utilized by patients and family members to manage their healthcare.
+Population Health Informatics Track
+– The focal point of the population health informatics track is application of informatics in areas of public health, including surveillance, prevention, preparedness, and health promotion. This track will prepare students to develop applications and/or analyze healthcare data looking for patterns associated with patient populations.
+Clinical Research Informatics
+Track
+– The Clinical Research Informatics track focuses on the use of informatics in the discovery and management of new knowledge relating to health and disease. This track will focus on enhancing care and outcomes through evidence-based research. Upon completion of this track, students will be prepared for entry into a PhD program and/or to pursue a career in health or biomedical informatics research.
+Professional Portfolio Development
+(required)
+– Throughout the MSHI degree, students will be required to develop a professional portfolio demonstrating achievement of core competencies, knowledge, and skill in the three foundational domains essential to Health Informatics. In selected MSHI courses, students will complete assignments that provide the opportunity to acquire such knowledge, skill, and competencies. Deliverables of these key assignments will be added to the professional portfolio. The student will develop the portfolio under the guidance and direction of the Health Informatics Program Director. In the final semester, students will present their portfolio to a committee of faculty to demonstrate their level of knowledge and competency. The faculty committee, comprised of the Health Informatics Program Director and an additional two graduate faculty, will assess the oral defense and the portfolio document and cast a vote regarding their approval of the portfolio, i.e., their view as to rather the student has reached an acceptable level of competency. The student must receive approval from the committee (pass the defense) before the degree is conferred. If the student does not pass the oral defense, under the direction of the Health Informatics Program Director, they will have the opportunity to complete additional assignments and/or courses to increase their level of competency. Students will have two chances at the oral defense of the portfolio.
+Thesis or Project
+(3 optional credits)
+– Although not required to obtain a MSHI degree, students may complete a Master’s Thesis or a large Health Informatics Project under the direction of the Program Director.
+Applied Healthcare Internship
+(3 optional credits)
+– To gain real-world experience, students may complete an internship within a healthcare organization. Students selecting this option are required to complete a minimum of a 180-hour internship within a healthcare organization. During the internship, the student will complete a large healthcare informatics project under the direction of the preceptor and the Health Informatics Program Director.
+Degree Options
+Course List
+Code
+Title
+Credits
+Health Informatics Core Course Work (required)
+30
+Track / Specialization (required)
+9
+Required Course Work (Includes Professional Portfolio)
+39
+Course Work plus Internship (optional)
+42
+Course Work plus Thesis or Project (optional)
+Course Work plus Thesis/Project + Internship (optional)
+45
+Online MSHI Degree Requirements - Coursework
+Course List
+Code
+Title
+Credits
+Tracks / Specializations
+General Health Informatics Track – Customized Track
+Upon approval of HI Program Director, students will select three courses (9 credits) from other tracks
+General Track Course 1 – Course selected from one of the tracks below
+3
+General Track Course 2 – Course selected from one of the tracks below
+3
+General Track Course 3 – Course selected from one of the tracks below
+3
+Rural Health Informatics Track
+HI 5540
+Fundamentals of Rural Healthcare
+3
+HI 5542
+Rural Health Research and Community Enrichment
+3
+HI 6641
+Rural Health Informatics
+3
+Clinical Informatics Track
+HI 5524
+Healthcare Workflow Process
+3
+HI 6528
+Electronic Health Records & Decision Support Systems
+3
+HI 6620
+Evaluation & Implementation Methods in Healthcare
+3
+Data Science & Analytics Track
+HI 5526
+Health Data Analytics
+3
+HI 5534
+Data Visualization
+3
+HI 6636
+Natural Language Processing
+3
+Consumer (Personal) Health Informatics Track (Anticipated Fall 2022 Rollout)
+HI 5528
+Consumer Behavior Theory & Technology
+3
+HI 5529
+Enhancing the Patient Experience & Satisfaction
+3
+HI 6627
+Consumer Health Informatics
+3
+Population Health Informatics Track (Anticipated Fall 2022 Rollout)
+MPH 6601
+Applications in Epidemiology
+3
+HI 6637
+Fundamentals of Population Health
+3
+HI 6638
+Population Health Informatics
+3
+Clinical Research Informatics Track (Anticipated Fall 2022 Rollout)
+MPH 6602
+Biostatistics
+3
+HI 6610
+Qualitative Research Methods in Healthcare
+3
+HI 6612
+Scientific Writing and Publication
+3
+Total Required Credits
+39
+Health Informatics Thesis or Project (optional)
+HI 6650
+Health Informatics Thesis
+1-6
+HI 6660
+Health Informatics Project
+3
+Health Informatics Internship (optional)
+HI 6540
+Health Informatics Internship
+3
+Total Required Credits plus Optional Credits
+39-45

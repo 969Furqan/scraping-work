@@ -1,0 +1,277 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/civil-engineering-mitigation-risk-natural-hazards
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+Civil engineering for mitigation of risk from natural hazards
+The risks associated with natural events are critical for communities, productive activities, infrastructure networks, and cultural heritage. In our modern societies, civil engineers play a fundamental role in mitigating the risks caused by natural disasters such as earthquakes, floods, and landslides. The Master's Degree Course in Civil Engineering for Mitigation of Risks from Natural Hazards is jointly offered by the University of Pavia and the Institute for Advanced Study (IUSS) of Pavia and enables students to acquire advanced skills in structural and geotechnical seismic engineering, hydraulic engineering, and hydrogeology. The courses, conducted entirely in English, benefit from highly qualified local professors as well as specially invited international specialists.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Guido Magenes
+Area
+Engineering
+Access
+Open
+Language
+English
+Degree class
+LM-23 - Civil engineering
+Department
+DEPARTMENT OF CIVIL ENGINEERING AND ARCHITECTURE
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso REDUCTION OF SEISMIC RISK
+Percorso HYDROGEOLOGICAL RISK ASSESSMENT AND MITIGATION
+Year of study:
+1
+Compulsory
+ADVANCED STRUCTURAL ANALYSIS AND FUNDAMENTALS OF SEISMIC DESIGN
+12
+							CFU -
+							 102 							hours
+2nd semester
+APPLIED MATHEMATICS
+6
+							CFU -
+							 45 							hours
+1st semester
+COMPUTATIONAL MECHANICS
+6
+							CFU -
+							 58 							hours
+1st semester
+DYNAMICS OF STRUCTURES
+6
+							CFU -
+							 49 							hours
+1st semester
+FOUNDATION ENGINEERING AND EARTH RETAINING STRUCTURES
+6
+							CFU -
+							 51 							hours
+2nd semester
+PROBABILITY AND STATISTICS FOR ENGINEERING APPLICATIONS
+6
+							CFU -
+							 51 							hours
+1st semester
+REINFORCED CONCRETE STRUCTURES
+6
+							CFU -
+							 51 							hours
+1st semester
+SEISMIC HAZARD AND GEOTECHNICAL EARTHQUAKE ENGINEERING
+12
+							CFU -
+							 102 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+BRIDGE STRUCTURES
+6
+							CFU -
+							 51 							hours
+MASONRY STRUCTURES
+6
+							CFU -
+							 53 							hours
+MASTER THESIS
+27
+							CFU -
+							 0 							hours
+RISK ASSESSMENT AND LOSS ESTIMATION
+6
+							CFU -
+							 51 							hours
+Choose a subject
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PROJECT WORK
+3
+							CFU -
+							 68 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+RISK EMERGENCY MANAGEMENT AND LEGISLATION
+3
+							CFU -
+							 25 							hours
+SEISMIC ISOLATION AND DISSIPATION
+6
+							CFU -
+							 51 							hours
+STEEL STRUCTURES
+6
+							CFU -
+							 51 							hours
+SUSTAINABILITY SCIENCE IN THE BUILT ENVIRONMENT
+3
+							CFU -
+							 23 							hours
+Year of study:
+1
+Compulsory
+APPLIED MATHEMATICS
+6
+							CFU -
+							 45 							hours
+1st semester
+COMPUTATIONAL FLUID DYNAMICS
+6
+							CFU -
+							 51 							hours
+2nd semester
+CONTINUUM MECHANICS
+6
+							CFU -
+							 48 							hours
+1st semester
+ENGINEERING GEOLOGY AND HYDROMORPHOLOGY
+12
+							CFU -
+							 106 							hours
+Annual
+FLUVIAL HYDRAULICS
+6
+							CFU -
+							 60 							hours
+1st semester
+GEOMATICS AND GIS
+6
+							CFU -
+							 58 							hours
+1st semester
+LANDSLIDES HAZARD AND RISK
+6
+							CFU -
+							 58 							hours
+2nd semester
+PROBABILITY AND STATISTICS FOR ENGINEERING APPLICATIONS
+6
+							CFU -
+							 51 							hours
+1st semester
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+SNOW AVALANCHES AND RELATED MOUNTAIN NATURAL HAZARDS
+6
+							CFU -
+							 45 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+FLOOD PROPAGATION AND FLUVIAL PROTECTION WORKS
+12
+							CFU -
+							 110 							hours
+HYDROLOGICAL RISKS
+6
+							CFU -
+							 38 							hours
+MASTER THESIS
+27
+							CFU -
+							 0 							hours
+RELIABLE DESIGN AND MANAGEMENT OF URBAN HYDRAULIC INFRASTRUCTURES
+6
+							CFU -
+							 51 							hours
+Choose a subject
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PROJECT WORK
+3
+							CFU -
+							 68 							hours
+6 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (6 CFU)
+FOUNDATION ENGINEERING AND EARTH RETAINING STRUCTURES
+6
+							CFU -
+							 51 							hours
+LANDSLIDE MODELING AND MITIGATION STRATEGIES
+6
+							CFU -
+							 51 							hours
+RISK EMERGENCY MANAGEMENT AND LEGISLATION
+3
+							CFU -
+							 25 							hours
+SUSTAINABILITY SCIENCE IN THE BUILT ENVIRONMENT
+3
+							CFU -
+							 23 							hours
+SYSTEMIC RISK AND INDIRECT IMPACTS
+3
+							CFU -
+							 27 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Masters degree program in Civil Engineering for Mitigation of Risk from Natural Hazards is designed to prepare professionals who know how to:
+- assess the risk of systems and works (structures, infrastructures, territories, networks) exposed in particular to natural phenomena such as earthquakes or other meteorological or geological events that can cause damage, instability and operability loss;
+- design new works or maintenance on existing projects and systems that reduce vulnerability and, consequently, mitigate the risk of the systems exposed.
+For this reason, the course aims to provide: 1) an in-depth knowledge of the theoretical-scientific aspects and of the engineering-application approaches in the structural, hydraulic, geotechnical, seismic, hydrological and geological fields, 2) advanced skills for the exercising of the profession to a high level. In particular, the course will allow students to acquire theoretical and experimental research tools (static, dynamic, kinematic measures ...) and innovative numerical-modeling tools (simulations of the phenomena studied with the use of deterministic and probabilistic mathematical models) for the resolution of civil engineering problems in the presence of natural risks, especially seismic and hydrogeological risk. The skills developed will also be useful in a broader risk setting (for example, of anthropic origin or due to the exercise of the works).
+The specific course objectives are to provide tools for:
+- the design, construction and management of structural, geotechnical and hydraulic engineering works;
+- the design, construction and management of the works for the use of water resources and for the hydrogeological defense of the land;
+- risk assessment associated with natural or anthropogenic causes / actions on individual works and on territorial systems;
+- the design of structural, infrastructural and planning / management measures for the mitigation of risk from natural events.
+In the seismic sphere, studied in depth will be the:
+- evaluation of seismic hazard;
+- numerical modeling and testing of materials and structures;
+- static and dynamic behavior of structures and their interaction with the ground;
+- structural and seismic design of ordinary structures of great importance such as bridges, buildings, rooves, retaining structures ...;
+- structural and geotechnical analysis of existing buildings;
+- maintenance methods for the reduction of seismic vulnerability;
+- reliability of buildings and infrastructure systems, seismic risk assessments.
+In the hydrogeological context, the following will also be examined:
+- the evaluation of the hydrogeological danger to the territory (with reference to floods, landslides, avalanches, debris flows);
+- the analysis of hydrodynamic and geomorphological phenomena;
+- the analysis of hydraulic and hydrological phenomena;
+- the design and use of tools for the quantification of hydrogeological risk;
+- the design and management of hydraulic and civil works and systems for the defense of the territory and risk mitigation.
+Career opportunities
+The employment opportunities for the Masters Degree in Civil Engineering for Mitigation of Risk from Natural Hazards are mainly:
+● structural design companies operating in a national and international context;
+● construction companies operating in a national and international context;
+● national and regional civil protection organizations;
+● public administrations and local authorities;
+● research institutes such as, in Italy, National Institute of Geophysics and Volcanology, ENEA, ANPA;
+● large insurance and re-insurance companies;
+● consultancy companies in the field of catastrophe risk management;
+● companies producing high-tech elements (isolators, heat sinks, composite materials, measurement and monitoring instruments)
+● freelance professions in the field of design, construction management, testing, risk assessment of works and infrastructures
+● researcher at a university or in other public or private research institutions.
+Admission requirements
+Access to the master's degree program in Civil Engineering for Mitigation of Risk from Natural Hazards presupposes a solid knowledge in engineering disciplines, with a good preparation in basic subjects and in specific subjects within the disciplinary field of civil engineering. To be admitted to the master's degree program, the student must therefore hold a three-year bachelor's degree (including those obtained under the regulations preceding the D.M. 509/1999 and subsequent amendments and integrations) or a three-year university diploma, or another foreign qualification recognized as suitable by the competent authorities of the University, in the Civil and Environmental Engineering class (Class L-7 according to D.M. 270/2004 or Class 8 according to D.M. 509/1999). In the case of a degree obtained in other classes of degrees, for students with degrees obtained from Italian universities, at least the following must have been obtained:
+
+18 ECTS credits in the following SSDs: MAT/01, MAT/02, MAT/03, MAT/04, MAT/05, MAT/06, MAT/07, MAT/08;
+12 ECTS credits in the SSDs FIS/01, FIS/02, and/or FIS/03;
+12 ECTS credits in the SSDs ICAR/01 and/or ICAR/02;
+6 ECTS credits in the SSD ICAR/07;
+18 ECTS credits in the SSDs ICAR/08 and/or ICAR/09;
+and at least 30 ECTS credits in the following SSDs: ING-INF/01, ING-INF/05, MAT/09, ICAR/04, ICAR/06, ICAR/10, ICAR/17, ING-IND/11, ING-IND/13, ING-IND/22, ING-IND/31, CHIM/01, CHIM/03, CHIM/07, or in the sectors previously listed if exceeding the minimum required.
+For students with degrees obtained from non-Italian universities, the correspondence between the acquired knowledge and those listed above will be verified by a special Commission appointed by the Didactic Council. Additionally, to access the master's degree program, the student must be fluent in the English language, both written and spoken, also with reference to disciplinary lexicons, with a level of proficiency at least equivalent to B2 according to the Common European Framework drafted by the Council of Europe. Admission to the Master's Degree Program is also subject to verification of the candidate's personal preparation, with criteria and methods established in the Didactic Regulations
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

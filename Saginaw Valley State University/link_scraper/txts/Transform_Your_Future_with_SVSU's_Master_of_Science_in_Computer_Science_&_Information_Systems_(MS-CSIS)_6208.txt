@@ -1,0 +1,100 @@
+URL: https://www.svsu.edu/mscsis/
+
+About the MS-CSIS Program
+Admission Requirements
+Curriculum
+Program Cost
+Office of Graduate Studies
+SVSU
+/
+Computer Science & Information Systems (MS-CSIS)
+Master in Computer Science & Information Systems
+✓ Lowest tuition in Michigan
+✓ Fast-Track Program
+✓ Flexible program designed around you
+Transform Your Future with SVSU's Master of Science in Computer Science & Information Systems (MS-CSIS)
+Meet Your Graduate Admissions Coordinator
+My name is Tanika Williams, and I am here to help you navigate your path to earning your graduate degree. If you have any questions regarding specific programs or application requirements use one of the links below or feel free to text me at (989) 461-2050.
+Apply Now
+Meet With Tanika
+Request Information
+Choose Your Path
+Depending on your chosen concentration, a Master of Science in Computer Science & Information Systems prepares students for positions as a Computer and Information Systems Manager, Software Developer, Computer and Information Research Scientist, Security Engineer, or Data Engineer.
+Computer Science
+A computer science master’s degree grows knowledge and skills beyond the undergraduate degree with advanced classes and hands-on experiences in one or more technology areas. A graduate from a master’s-level computer science program can enter the fast-growing computer science field in positions such as technology specialist, researcher and leader, which often require a graduate degree.
+Information Systems
+Earn your information systems master's degree in a program that helps you advance and transform your career. SVSU offers a flexible curriculum that supports your unique professional path. SVSU students benefit from unique corporate partnerships and a dynamic curriculum that mirrors current industry systems and methodologies, emphasizing design, implementation, evaluation, and modeling.
+A Transformative Experience
+SVSU's Master of Science in Computer Science & Information Systems offers working adults a flexible solution for earning a graduate degree in Computer Science from a highly ranked and nationally recognized program. With a MS-CSIS degree, you can land a job like.
+Cyber-security
+enables entry into security analyst, security engineer, or information systems auditor careers and advances the knowledge of professionals in system or network administration.
+Data Science
+provides background and experience for students interested in careers such as data scientist, data analyst and machine learning scientist.
+Information technology management
+enables entry into a career as a business analyst, quality assurance analyst, or project management professional and advances the overall technical management skills of both a technician and non-technical practitioner within a technical setting.
+Software development
+enables entry into careers as a software engineer, programmer analyst, or quality assurance professional and offers advanced computing skills for a wide range of technical professionals.
+Accessible Admissions
+Engaging and hands-on, SVSU’s accredited MS-CSIS program accepts students with a bachelor’s degree in Computer Science, Computer Engineering, Information Systems, Information Technology or a closely related field. Conditional acceptance may be granted to candidates from other areas such as engineering, mathematics, physical science and business disciplines.
+See Admissions Requirements
+Designed for Working Students
+Offered part-time or full-time, our hybrid MS-CSIS degree is made for the working student—with flexible class times and the perfect combination of in-person and remote instruction.
+See Curriculum
+Affordable and Competitive
+More affordable than comparable programs with a variety of loans and scholarships available, SVSU’s Master of Science in Computer Science & Information Systems program is a convenient and cost-effective way to advance your career.
+See Tuition Information
+Industry Outlook
+SVSU's MS-CSIS offers working adults a flexible solution for earning their degree from a highly ranked and nationally recognized program.
+Average Job Growth*
+25%
+Average Salary Range*
+$105K/year to $142K/year
+Average Job Placement Rate for SVSU Graduates
+90.9%
+*Stats are approximations, according to the Bureau of Labor Statistics, US Department of Labor
+Computer and Information Systems Managers:
+12% job growth and $142,530 median salaries, according to the Bureau of Labor Statistics, US Dept. of Labor
+Software Developers:
+24% job growth and $105,590 median salary, according to the Bureau of Labor Statistics, US Dept. of Labor
+Computer and Information Research Scientists:
+19% job growth and $118,370 median salary, according to the Bureau of Labor Statistics, US Dept. of Labor
+Security Engineer:
+$129,847 median salary, according to Glassdoor.com
+Data Engineer:
+$116,591 median salary, according to Glassdoor.com
+Alumni Experiences
+More
+x
+Bradley Chippi
+"My favorite part about the CSIS program is the curriculum and faculty. The staff has a wide variety of knowledge in all areas of Computer Science and Information Systems. Additionally, the classes offered are a wide variety: mobile, cloud, security, machine learning, and so much more. Lastly, almost every class had students working on projects that put the theory learned in class into practice."
+It was an excellent experience being a student in the program. All the students are deeply interested in the field and classes were interactive. I attended graduate school to expand my knowledge in the field. There were a lot of classes I was very interested in. Achieving a master’s degree has been a life goal of mine. Be passionate about the field. There is an endless amount of opportunities with this degree. The industry is everchanging, and it is exciting. Be communicative and build a relationship with the professors to get the best out of the program.
+Project thesis: The scope of the project was to perform binary data extraction and define features that will contribute towards classifying if an executable is a malicious crypto-miner or not. This has been accomplished by taking the executable file and converting it to a representational image of its binary contents. This allows building an image classification model of clean and malicious executables. It’s worth noting that the focus of this research was on static rather than dynamic malware analysis. Meaning, this is used to determine if an executable is malicious before being executed.
+
+The outcome of the project: Given the initial goal of attempting to get a model that was over 75% accurate, and that we saw our model performing at around 99.7% accuracy; we considered this research project to be successful. Our false positive and negative rates looked extremely encouraging as they’re both well below 1% and leave room for additional threshold tuning in either direction. Of course, this was only a small subset of the malware that exists in the world today, so future work could certainly be done utilizing the same model against various kinds of malware other than crypto miners. Additionally, this model could be leveraged by many other file types besides Windows executables.
+Close
+Bradley Chippi
+"My favorite part about the CSIS program is the curriculum and faculty. The staff has a wide variety of knowledge in all areas of Computer Science and Information Systems. Additionally, the classes offered are a wide variety: mobile, cloud, security, machine learning, and so much more. Lastly, almost every class had students working on projects that put the theory learned in class into practice."
+More
+More
+x
+Saloni Shah
+"My favorite aspect of the program is the flexibility of picking classes, the convenience of schedule and accommodating faculty."
+"I am getting a quality education at the pace of my choosing. After having my second child, while I take care of him; I have decided to upgrade my skills as I plan to rejoin the workforce. I am hoping that this program will help me enhance my skills and experience to get back into the workforce."  My suggestion would be, Don’t be afraid to ask for help from the instructors. Read ahead of program expectations and plan accordingly. Be prepared.
+Close
+Saloni Shah
+"My favorite aspect of the program is the flexibility of picking classes, the convenience of schedule and accommodating faculty."
+More
+CONTACT US.
+Graduate Admissions
+Wickes Hall 230
+gradadm@svsu.edu
+(989) 964-6096
+Aos Mulahuwaish
+MS-CSIS Program Coordinator
+amulahuw@svsu.edu
+(989) 964-4346
+Tanika Williams
+Graduate Admissions Coordinator
+gradadm@svsu.edu
+(989) 461-2050
+

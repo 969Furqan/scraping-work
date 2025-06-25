@@ -1,0 +1,59 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/energy-systems-mechanical-engineering-technology/btc-industrial-maintenance-mechanic/
+B.T.C. Industrial Maintenance Mechanic
+Student Outcomes:
+Describe and conduct safe work practices in laboratory and industrial environments.
+Identify and apply societal and regulatory codes and standards.
+Describe fundamental mechanical principles, fluid mechanics, thermodynamics, and equipment design.
+Conduct basic maintenance, troubleshooting and repair of common industrial mechanical systems.
+Identify technical documentation.
+Demonstrate basic structural welding.
+Demonstrate basic computer-aided drafting and design.
+Identify commissioning practices for equipment setup and alignment.
+Recognize specific equipment applications for reactive, preventive, predictive, and proactive maintenance.
+Major Requirements
+Course List
+Code
+Title
+Credits
+Choose two credits from the following:
+2
+ESET 1100
+&
+1100L
+Engineering Technology Orientation
+and Introduction to an Industrial Environment Laboratory
+or
+ESET 1162
+Industrial  Safety and Regulations
+ESET 1118
+Industrial Maintenance Mechanic I
+2
+ESET 1118L
+Industrial Maintenance Mechanic Lab I
+1
+ESET 1119
+Industrial Maintenance Mechanic II
+2
+ESET 1119L
+Industrial Maintenance Mechanic Lab II
+1
+ESET 1123
+Mechanical Power Transmission I
+2
+ESET 1123L
+Mechanical Power Transmission Laboratory I
+2
+ESET 1125
+Introduction to Structural Welding
+1
+ESET 1126
+Introduction to Mechanical Drafting and Computer Aided Design
+1
+ESET 1127
+Mechanical Power Transmission II
+2
+ESET 1127L
+Mechanical Power Transmission Laboratory  II
+2
+Total Credits
+18

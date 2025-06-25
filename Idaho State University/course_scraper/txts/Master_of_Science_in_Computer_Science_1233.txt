@@ -1,0 +1,62 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/computerscience/mscomputerscience/
+Master of Science in Computer Science
+Admission Requirements
+The student must meet all criteria for admission and then apply to the Graduate School. Criteria are as follows:
+GPA (4 point scale): 2.50 or better
+TOEFL*: Meet the Graduate School minimum requirement
+*for international students who do not speak English as their native language.
+General application deadlines: February 28 for Fall applicants. a
+Graduate Teaching Assistantships (GTAs) are competitive and are not guaranteed. To be considered, the graduate CS program application should be received by February 28. No separate GTA application is required.
+Applicants are expected to have a BS or BA in Computer Science, Math, Engineering, or the Physical Sciences. Applicants must have completed the following undergraduate courses prior to admission:
+Math 1170 Calculus I
+Math 1175 Calculus II
+Math/CS 1187 Applied Discrete Structures
+or Math 2287 Foundations of Mathematics
+Math 2240 Linear Algebra
+CS 1181 Computer Science Programming I
+CS 1337 Computer Organization and Architecture
+CS 2235 Data Structures and Algorithms
+CS 3309 Advanced Object-Oriented Programming
+These math and CS courses need to be those required by Computer Science, Math, and Engineering majors, and need to be completed with a GPA of B-. Applicants without these undergraduate courses may enroll as an undergraduate student or non-degree-seeking student to complete them. Following successful completion of these required undergraduate courses, the applicant can apply to the graduate program.
+General Requirements for the MSCS
+The student shall select an advisor during the first semester of residence and plan a program of study; the advisor and program of study must be approved by the CS graduate committee. 30 credit hours of CS, ECE, or Math courses are required to complete the M.S. degree, with at least 15 of the credits at the 6600 level. A maximum of 6 credits of CS 6692, Special Problems in Computer Science, may count towards degree requirements. A maximum of 6 credits of CS 6660 Computer Science Project may be counted towards the degree requirements.
+All MSCS students must complete CS 5512 and CS 5561. If the student has completed CS 4412 with a grade of at least a B-, then another CS 55xx course may be substituted. If the student has completed CS4461 with a grade of at least a B-, then another CS 55xx course may be substituted. All MSCS graduate courses must be completed with a grade of B- or higher. CS 5512 or 4412 and CS 5561 or 4461 must be completed with a grade of B- or higher prior to taking any 66xx level courses applied toward the MSCS.
+Thesis Option (30 credits)
+Course List
+Code
+Title
+Credits
+CS 5512
+Advanced Algorithms
+3
+CS 5561
+Secure Operating Systems
+3
+Approved CS 55xx electives
+9
+CS 6650
+Thesis
+3
+Approved CS, ECE, or Math 66xx Electives
+12
+Total Credits
+30
+Course-Only Option (30 credits)
+Course List
+Code
+Title
+Credits
+CS 5512
+Advanced Algorithms
+3
+CS 5561
+Secure Operating Systems
+3
+Approved CS, ECE, or Math 55xx electives
+9
+Approved CS, ECE, or Math 66xx Electives
+12
+Total Credits:
+30
+Doctoral Program in Engineering and Applied Science (Computer Science)
+A Computer Science doctoral program within the PhD in Engineering and Applied Science (EAS) program is administered through the College of Science and Engineering (CoSE). The complete description and requirements of the program are available in the PhD EAS program catalog at http://coursecat.isu.edu/graduate/scienceengineering/engineeringandappliedscience/.

@@ -1,0 +1,175 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/itc-energy-systems-technology/
+I.T.C. Energy Systems Technology
+(1 Year)
+Program Prerequisites:
+Students must be qualified for college-level coursework in English and Math (see an advisor for details).
+COT Min Test Scores (No English)
+Placement Test
+Math
+ACT
+19
+SAT
+500
+ALEKS
+30
+Description:
+Fundamental electronics, electrical, and energy systems program.
+Objective:
+To prepare students as entry-level technicians and maintenance assistants to meet the needs of industry.
+Major Requirements
+Course List
+Code
+Title
+Credits
+Required Courses:
+ESET 1100
+Engineering Technology Orientation
+1
+ESET 1100L
+Introduction to an Industrial Environment Laboratory
+1
+Select a minimum of sixteen (16) credits from the following courses:
+1
+16
+ESET 1101
+Electrical Circuits I
+ESET 1101L
+Electrical Circuits I Laboratory
+ESET 1102
+Electrical Circuits II
+ESET 1102L
+Electrical Circuits II Laboratory
+ESET 1110
+Introduction to Process Control
+ESET 1110L
+Introduction to Process Control Laboratory
+ESET 1121
+Basic Electricity and Electronics
+ESET 1121L
+Basic Electricity and Electronics Laboratory
+ESET 1122
+Electrical Systems and Motor Control Theory
+ESET 1122L
+Electrical Systems and Motor Control Theory Laboratory
+ESET 1123
+Mechanical Power Transmission I
+ESET 1123L
+Mechanical Power Transmission Laboratory I
+ESET 1125
+Introduction to Structural Welding
+ESET 1126
+Introduction to Mechanical Drafting and Computer Aided Design
+ESET 1127
+Mechanical Power Transmission II
+ESET 1127L
+Mechanical Power Transmission Laboratory  II
+ESET 1130
+Initial Operator Training and Student Operations
+ESET 1151
+Nuclear Industry Fundamental Concepts
+ESET 1151L
+Nuclear Industry Fundamental Concepts Lab
+ESET 1152
+Nuclear Careers and Information
+ESET 1153
+Radiological Control Fundamentals
+Select a minimum of eight (8) credits from the following math courses:
+8
+ESET 1140
+Applied Technical Intermediate Algebra
+MATH 1143
+Precalculus I: Algebra
+MATH 1144
+Precalculus II: Trigonometry
+MATH 1147
+Precalculus
+MATH 1153
+Statistical Reasoning
+MATH 1170
+Calculus I
+MGT 2216
+Business Statistics
+Choose a minimum of 4 credits of General Education Course Electives:
+4
+COMM 1101
+Fundamentals of Oral Communication
+CHEM 1101
+Introduction to Chemistry
+ENGL 1101
+Writing and Rhetoric I
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+Total Credits
+30
+1
+Students continuing to the AAS are advised to take the following curriculum as part of the ITC:
+Electrical Engineering Technology --
+ESET 1101
+,
+ESET 1101L
+,
+ESET 1102
+,
+ESET 1102L
+,
+ESET 1140
+Instrumentation Engineering Technology --
+ESET 1101
+,
+ESET 1101L
+,
+ESET 1102
+,
+ESET 1102L
+,
+ESET 1110
+,
+ESET 1101L
+,
+ESET 1140
+Mechanical Engineering Technology --
+ESET 1121
+,
+ESET 1121L
+,
+ESET 1122
+,
+ESET 1122L
+,
+ESET 1123
+,
+ESET 1123L
+,
+ESET 1125
+,
+ESET 1126
+,
+ESET 1127
+,
+ESET 1127L
+,
+ESET 1140
+Nuclear Engineering Technology --
+ESET 1121
+,
+ESET 1121L
+,
+ESET 1122
+,
+ESET 1122L
+,
+ESET 1140
+,
+ESET 1151
+and
+ESET 1151L
+, or
+ESET 1130
+,
+ESET 1152
+,
+ESET 1153
+Major Academic Plan (MAP)

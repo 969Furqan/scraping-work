@@ -1,0 +1,32 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/computerscience/ceftsecurecyber/
+Graduate Certificate in Secure Cyber Operations
+Admission Requirements
+The student must have a baccalaureate degree and meet all criteria for admission, and then apply to the Graduate School. In unusual circumstances, students may have a GPA lower than listed below. Criteria are:
+GPA (4 point scale): 2.50 or better
+TOEFL:  Meet the
+Graduate School minimum requirements
+Applicants are expected to have completed the following courses prior to full admission:
+Math 1143 College Algebra
+CS 1181 Introduction to Computer Science Programming I
+CS 2235 Data Structures and Algorithms
+All undergraduate prerequisite coursework must be completed with a grade of at least a C-. All graduate prerequisite coursework must be completed with a grade of at least a B-. If students have completed CS 1337 and 3337 they may waive the CS 5108 requirement. If students have completed CS 4416 or 4417 or 4465 they will substitute other CS 55xx or higher courses for the corresponding course(s) as selected by their CS graduate advisor.
+Graduate students must complete all prerequisite undergraduate coursework prior to being considered for graduate assistantships.
+General Requirements
+Course List
+Code
+Title
+Credits
+CS 5108
+Computer Organization, Networks, and Systems
+3
+CS 5516
+Foundations in Cybersecurity and Resilience
+3
+CS 5517
+Cybersecurity Threat Intelligence
+3
+CS 5565
+Special Problems in Cyber Physical Security
+3
+Total Credits
+12

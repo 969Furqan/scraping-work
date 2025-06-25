@@ -1,0 +1,64 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/computerizedmachiningtechnology/atc-cnc-operator/
+A.T.C. CNC Operator
+(2 Years)
+Program Admission Requirements
+Contact College of Technology Student Services at (208) 282-2622.
+COT Min Test Scores (No English)
+Placement Test
+Math
+SAT
+360
+ACT
+14
+ALEKS
+14
+Course List
+Code
+Title
+Credits
+Required Courses:
+MACH 1110
+Machine Tool Lab I
+3
+MACH 1111
+Machine Tool Theory I
+2
+MACH 1112
+Machine Math I
+3
+MACH 1115
+Applied Machining Geometry
+2
+MACH 1120
+Machine Tool Lab II
+3
+MACH 1121
+Machine Tool Theory II
+2
+MACH 1123
+Blueprint Reading
+1
+MACH 1131
+CNC Mill Setup
+2
+MACH 1135
+Applied Machining Trigonometry
+2
+MACH 1141
+CNC Lathe Setup
+2
+MACH 1145
+Geometric Dimensioning and Tolerancing I
+1
+MACH 2230
+CNC Mill Operations
+8
+MACH 2240
+CNC Lathe Operations
+8
+MACH 2245
+Geometric Dimensioning and Tolerancing II
+1
+Total Credits
+40
+Major Academic Plan (MAP)

@@ -1,0 +1,778 @@
+URL: https://flemingcollege.ca/programs/computer-engineering-technician
+
+Home
+»
+Home
+»
+Programs
+»
+Computer Engineering Technician
+Computer Engineering Technician
+Learn to program, support and troubleshoot computer hardware and software in this four-semester program.
+Program Information
+Start Date
+September 02, 2025
+Sutherland Campus
+September 02, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+CTN
+Delivery
+In Person
+Credential
+Ontario College Diploma
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$2814.6
+per semester*
+International Tuition
+$9310.56
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+4 semesters
+Program Highlights
+With this program, you will gain skills in computer networking and configuration, network security, and technical communications.
+You will also learn about solving computer problems that can cause both major costs and setbacks for businesses, whether due to a major hardware failure or a minor software incompatibility. Your core courses are complemented by  training in oral and written communications, customer relations, and team work. There's plenty of hands-on learning, putting the theory you learn in the classroom into practice.
+Upon graduation, you'll have the broad-based, transferable skills that are in demand with a firm foundation for a career configuring hardware and software for computer systems. You'll also find opportunities troubleshooting problems in systems both before and after delivery to the customer or client.
+Prepare for industry certification exams such as A+ and Cisco Networking.
+This program has received National Accreditation through the Canadian Technology Accreditation Board. Graduates are recognized by the Ontario Association of Certified Engineering Technicians and Technologists as meeting all the academic requirements for certification in the Certified Engineering Technician (Ctech) category.
+You have the opportunity to transfer to the three-year Computer Engineering Technology diploma.
+Why Choose Fleming
+Smaller classes mean more attention from dedicated faculty to help you meet challenges, and our broad-based approach to instruction will ensure versatility in your future career.  Through our partnerships with computer hardware and software industry leaders, we're able to direct our grads to satisfying careers in the field.
+Is this You?
+These traits and abilities will help you succeed:
+curiosity about how computers work
+enjoy working with people/teams
+interested in working hands-on with the latest computer technology
+excellent analytical skills (important for problem solving)
+experience working with computers, programming an asset
+Career Opportunities
+Employment opportunities for skilled technicians exist in a wide range of organizations, with roles such as:
+Embedded system support
+Customer service representative
+Technical sales and support representative
+Technical support analyst
+Computer user support
+Systems testing technician
+Help desk technician
+Self-employment is another career direction.
+Additional Costs
+Plan on $1,300 per year for books and supplies.
+Learning Outcomes
+Identify, analyze, develop, implement, verify and document the requirements for a computing environment.
+Contribute to the diagnostics, troubleshooting, documenting and monitoring of technical problems using appropriate methodologies and tools.
+Implement and maintain secure computing environments.
+Implement robust computing system solutions through validation testing that aligns with industry best practices.
+Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+Select and apply strategies for personal and professional development to enhance work performance.
+Apply project management principles and tools when working on projects within a computing environment.
+Adhere to ethical, legal, and regulatory requirements and/or principles in the development and management of computing solutions and systems.
+Support the integration of multiple software and hardware components using appropriate systems, methodologies and connection protocols.
+Install, configure, troubleshoot, and maintain a variety of computing devices and networked systems (software or hardware) in accordance with documented functional requirements and standards.
+Apply principles of digital and analog circuits to troubleshoot computing devices, including embedded components and systems.
+Contribute to the analysis, building, testing, implementation, and maintenance of embedded (including IoT*) devices and applications.
+Contribute to the development and maintenance of software applications for systems integration.
+Minimum Admission Requirements
+Students applying to Computer Engineering Technician must meet the following requirements:
+OSSD including Gr 12 C English and Gr 12 C Math
+OSSD with majority of courses at College (C ) or Open (O) unless otherwise stated.
+Grade 12 C courses will be accepted where Gr 11 C course requirements are listed.
+Where College level courses are listed, U and M courses will be accepted.
+New admission requirements effective September 2020.
+Students applying to Computer Engineering Technician must meet the following requirements:
+OSSD including Gr 12 (C) English and Gr 12 (C) Math
+Mature Students
+If you are 19 years of age or older before classes start, and you do not possess an OSSD, you can write the
+Skillsmarker
+to assess your eligibility for admission. Additional testing or academic upgrading may be necessary to meet specific course requirements for this program.
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10 Professional
+Processor:
+Core i5  7th Gen (i7 10th Gen recommended) OR Ryzen5 Mobile 4000 series (Ryzen7 4000 series recommended)
+Memory:
+16GB minimum (32+ GB recommended)
+Hard Disk:
+1TB (SSD recommended)
+Internet Connection: 40 Mbps Download and 10 Mbps Upload (minimum).  Unlimited bandwith capacity.
+Students are required to have their own computer, internet access, webcam and microphone.
+Some required software applications are not available for MAC OS or Chromebook.
+Computer must be virtual machine capable. No tablets or Chromebooks for lab work.
+In The News:
+Computer Engineering Technician
+Student Success Shines at Fleming's Innovation and Technology Showcase
+Transfer Agreements
+You may be able to use credits obtained at Fleming College to continue your postsecondary education in pursuit of a degree.  The articulation and credit transfer agreements with our partner institutions are summarized here.
+Athabasca University
+Bachelor of Science
+Requirement
+Completion of the program.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Applied Mathematics
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Computing and Information Systems
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Human Science
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Atlantic Technological University – Sligo
+Bachelor of Science (Ordinary) in Computer Networks & Cyber Security
+Requirement
+Minimum 60% cumulative program average.
+Transfer Credit
+Entry into 3rd-year studies of a 3-year program.
+Refer to the articulation agreement for further details.
+To apply please see the
+KOM Consultants
+website.
+For more information
+Visit the
+Atlantic Technological University – Sligo website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Griffith University
+Bachelor of Information Technology (3Yr)
+Requirement
+Minimum 65% cumulative program average.
+The program is offered face-to-face (Nathan campus or Gold Coast campus) or online.
+Transfer Credit
+120 credit points out of a 240-credit point degree.
+Refer to the articulation agreement for further details.
+To apply please see the
+Griffith University's admissions
+website.
+For more information
+Visit the
+Griffith University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Ontario Tech University
+Bachelor of Arts in Educational Studies and Digital Technology
+Requirement
+Minimum mid-70% cumulative program average.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to ONTransfer.ca for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Visit the
+ONTransfer.ca website
+for agreement information.
+Bachelor of Arts in Psychology
+Requirement
+Minimum mid-70% cumulative program average.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to Ontario Tech's website for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Bachelor of Commerce
+Requirement
+Minimum mid-70% cumulative program average.
+Completion of the Ontario Tech Commerce Bridge.
+Transfer Credit
+45 out of a 120-credit degree.
+Refer to ONTransfer.ca for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Visit the
+ONTransfer.ca website
+for agreement information.
+Seneca College
+Bachelor of Interdisciplinary Studies
+Requirement
+Minimum 70% cumulative program average.
+Transfer Credit
+Entry into 4th semester standing in an 8-semester program.
+Refer to Seneca College's website for further details.
+To apply please see the
+Ontario Colleges
+website.
+For more information
+Visit the
+Seneca College website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Technological University of the Shannon: Midlands Midwest
+Bachelor of Science in Computer Networks & System Management
+Requirement
+Minimum 60% cumulative program average.
+Transfer Credit
+Entry into 3rd-year studies of a 4-year program.
+Refer to the articulation agreement for further details.
+To apply please see the
+Technological University of the Shannon: Midwest's international
+website.
+For more information
+Visit the
+Technological University of the Shannon: Midlands Midwest website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+You might also be interested in:
+Artificial Intelligence
+Program Code:
+AI
+Ontario College Graduate Certificate
+Sutherland Campus
+January 2025, September 2025, January 2026
+Check Availability
+Computer Security and Investigations
+Program Code:
+CSI
+Ontario College Advanced Diploma
+Sutherland Campus
+September 2025, January 2026
+Check Availability
+Wireless Information Networking
+Program Code:
+WIN
+Ontario College Graduate Certificate
+Sutherland Campus
+May 2025, September 2025, January 2026, May 2026
+Check Availability
+Program Delivery Options
+Program Availability
+Go to the
+program page
+Mamdouh Mina MBA, MSc, BA, APMG,PMAC Cert.APM
+Professor: Computer Security Investigations
+Get ready to meet Mamdouh Mina, the dynamic Program Coordinator behind Fleming College's Computer Security and Investigations (CSI) program! With a diverse background spanning from running his own Internet Service Provider (ISP) company to managing large-scale government projects, Mamdouh has a wealth of experience in the computer field. His specialties include researching and acquiring unique solutions to seemingly impossible problems, data security and privacy, project management (including agile project management and project team coaching), network design, network forensics and investigation, cybersecurity, risk assessment, data backup, and wireless solutions. He loves to solve challenges and believes that there is always a way to tackle even the most daunting problems.
+But what really sets Mamdouh apart is his unwavering dedication to his students. Since taking on the role of Program Coordinator in early 2021, he has been on a mission to modernize and energize the CSI program, keeping it in line with the latest trends and technologies in computer security. This unique program encompasses a wide variety of computer security topics, including investigations, forensics, and cybersecurity, all in one 3-year program that is well-balanced and unique. Mamdouh is passionate about making a positive impact in his community, and he is working on ways to offer applied projects that benefit both students and the local community through the CSI program.
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 315.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1290.38
+Total
+$ 2814.60
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 48.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1290.38
+Total
+$ 1875.20
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 290.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1290.38
+Total
+$ 2789.60
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 387.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 1290.38
+Total
+$ 2214.20
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 315.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 7189.68
+Total
+$ 9310.56
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 48.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 7189.68
+Total
+$ 7774.50
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 290.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 7189.68
+Total
+$ 9285.56
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 387.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 7189.68
+Total
+$ 8113.50
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  September 2025
+Semester 1
+Delivery: In Person
+Communications I for Business and IT Professionals
+COMM 257
+Units/ Hours: 45
+Communications I for Business and IT Professionals is an introductory course that provides a foundation in college-level communications. In this course, students learn to read critically, write appropriately for a variety of audiences, conduct research, cite references, revise for clarity and correctness, and present those results in various formats. In seminars, labs, and modules students will engage in both independent and collaborative activities, including the development and presentation of a research assignment to help them become more effective communicators in academic and professional contexts within the fields of Business and IT.
+Computer Hardware
+COMP 191
+Units/ Hours: 45
+Today, computers can take on a variety of forms, including household appliances, vehicles, and even human implants. Regardless of the devices shape, size, or complexity, however, a common factor between them all is the computer hardware. During this course students will obtain a foundational understanding of the core hardware components that makeup modern computers. Through experiential-learning exercises and involved experimentation, students will leave the course prepared for in-demand industry certifications and having taken their first steps into the information technology landscape.
+Electricity I
+ELCT  84
+Units/ Hours: 60
+This course introduces students to the fundamental concepts of electricity and electrical test equipment. Topics to be covered include; basic DC and AC principles, such as voltage, current, resistance, power and the laws that govern them. Students will also learn how to work with components such as resistors, inductors, capacitors and test equipment, including digital multimeters, power supplies and oscilloscopes. Upon completion of the course, students will be able to construct and analyze simple DC and AC circuits and use test equipment to verify their operation and troubleshoot them as needed.
+Introduction to Cyber Trends and Digital Evidence
+COMP 482
+Units/ Hours: 45
+As technology advances, so does cyber security. With exciting new developments in the field over recent years, it's essential that students are familiar with upcoming cyber trends and new avenues of digital evidence. This course will provide a broad overview of the field, introducing students to useful and current fascinating technologies.  Students will leave with a greater understanding of cyber security and digital evidence, its terminology, software utilities for security professionals, and the necessary knowledge to tackle more advanced topics.
+Mathematics for Computing I
+MATH 145
+Units/ Hours: 60
+This course will enable student to apply foundational math concepts and acquire mathematical skills related to computing based programs. Topic coverage will include algebra, number systems, engineering/scientific notation, and trigonometry. It is designed to complement and reinforce learning within other first semester courses.
+Operating Systems I
+COMP  91
+Units/ Hours: 45
+To truly utilize a system to its full extent, one must first become accustomed with the fundamental aspects of the operating system (OS). Hidden just beneath the surface of our desktops, the OS is the main driving force of every system, managing file systems, threads and processes, memory, and much more. In this course, students will be introduced to the fundamentals of OSs, their configuration processes, and how to securely maintain and implement them. Through experiential-learning exercises and involved experimentation, students will leave the course with a firm-grasp on OS troubleshooting, its operational procedures, and the knowledge to begin pursuing a variety of in-demand industry certifications.
+Scripting Fundamentals
+COMP  86
+Units/ Hours: 45
+At one point or another, we've all wished we could automate a monotonous or tedious task. With a scripting language, you can do that and more! This course will introduce students to the programming fundamentals that make up scripting languages. Through experiential-learning exercises with an industry-standard scripting language, students will leave with a foundational understanding of these languages in addition to the practices to use them effectively during their careers.
+Semester 2
+Delivery: In Person
+Concepts of Information Security and Risk Management
+COMP 497
+Units/ Hours: 45
+Organizations today face the huge task of protecting and securing their sensitive data and information technology operations at many levels. Each year thousands of new vulnerabilities are discovered and Billions of dollars are lost through malicious activity against corporate, government and private technological entities.
+
+In this course, Learners will be introduced to the core concepts of information security and protection; examine current threats and vulnerabilities and learn techniques to assess and manage risk in an information technology based environment. Using a common criteria methodology, Learners will analyze/demonstrate common system flaws, malware and control methods; and software for threat assessment and security controls will be explored.
+
+Learners will become familiar with the roles and responsibilities of an IT Security professional in relation to the management of risk and the conduct of related threat assessments. Emphasis will be placed on the importance of effectively assessing and making decisions to reduce risk.
+Electronics I
+ELCT 105
+Units/ Hours: 60
+This course is an introduction to semiconductors, including the diode family, the bipolar junction transistor (BJT) and the field effect transistor (FET). Applications of these devices are examined including the full-wave capacitor filtered rectifier, the BJT and FET switch and both small signal and power BJT amplifiers. Students learn to design, construct, analyze, and test electronic circuitry at the "breadboard" level. Students explore Digital logic and interfacing with microprocessors.
+Pre-Requisites
+Electricity I (ELCT  84)
+Introduction to Networks
+COMP 525
+Units/ Hours: 60
+Computer networks have become the backbone of modern society, facilitating many of our day-to-day activities while constantly evolving to fit our needs. Although these networks may seem like magic, specialized computer hardware and protocols are working in unison to transmit our data around the world. This course provides a broad overview of computer networks, introducing students to essential networking devices, protocols, and security standards. Along the way, students will configure, manage, and maintain computer networks through experiential learning exercises, further developing their problem-solving and troubleshooting skills. Leaving the course, students will be equipped with the fundamental knowledge to pursue advanced computer networking concepts and in-demand industry certifications.
+Operating Systems II
+COMP  75
+Units/ Hours: 45
+Linux is consistently the operating system (OS) of choice, from cars and smartphones to servers and supercomputers. As an open-source project, Linux is flexible enough to satisfy various computing niches, yet it is still well-maintained thanks to the innovation and support from its dedicated community. This course expands upon students understanding of OS fundamentals, focusing on their presence within a Linux environment. Students will familiarize themselves with a comprehensive suite of advanced Linux utilities, facilitating system management, configuration, security, and troubleshooting through experiential learning exercises. Students leaving the course will be equipped with the practices and knowledge to utilize the full potential of Linux systems and pursue in-demand industry certifications.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Applications
+COMP 593
+Units/ Hours: 45
+Scripting Applications presents additional topics in Perl, Powershell and Python scripting. New scripting topics include subroutines, associative arrays, threads and child processes, socket programming and interfacing with SQL data bases. Scripting techniques are applied to various security related and other technical applications like log file analysis, password brute forcing, network scanning, windows registry access and process monitoring. Practical exercises are hosted on a mix of windows and linux platforms.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Fundamentals (COMP  86)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 3
+Delivery: In Person
+Agile Project Management
+COMP 596
+Units/ Hours: 45
+Agile Project Management (APM) has become an integral part of team work and It team structure in all aspect of Information technology, It is an Iterative approach to planning and guiding a project processes the students will be able to successfully implement agile methodologies and concept such as project envisioning, team velocity, users stories and advanced risk management. Students will also be able to apply all the learning by executing the acquired knowledge along with best practices to be able to deliver successful Information Technology project.
+Computer and Network Security
+COMP  13
+Units/ Hours: 45
+Cybersecurity is a multi-billion-dollar industry, and it impacts us all. From social engineering scams targeting end-users to complex topics like encryption implementation, the work to secure digital infrastructure is endless and constantly evolving. This course is designed to establish baseline knowledge in the concepts, requirements, and operations of cybersecurity in a modern IT department. Students will understand different security treats and how to implement security safeguards effectively. Additionally, students will also gain an understanding for how cybersecurity integrates with other important business operations like physical security, governance and legal. This course maps to introductory industry certifications and will prepare students to complete the certification exam.
+Digital Electronics System Design
+COMP 530
+Units/ Hours: 45
+This course will provide the students with an introduction to digital electronics, logic design including programmable logic devices (PLD). Using  low level fixed function devices to highly complex programmable, erasable and reprogrammable devices will allow the student to experience the digital development life cycle associated with computer system design.
+Pre-Requisites
+Electricity I (ELCT  84)
+Embedded Systems
+COMP  37
+Units/ Hours: 45
+An embedded control system is a self-contained computer system that works in real time to control devices such as motors, appliances, instrumentation, robots, cell phones, and others.  This course introduces students to embedded interfacing by working with a microcontroller development board and integrated development environment.  Students learn how to develop, modify and troubleshoot embedded software and create interfacing systems for basic input/output operations.  The students will also learn how to connect the microcontroller to the Internet and develop a web interface to control devices connected to the microcontroller, remotely and display data collected by the microcontroller, in real time.
+Pre-Requisites
+Electronics I (ELCT 105)
+Mathematics for Computing II
+MATH 146
+Units/ Hours: 60
+This course will enable student to extend math concepts and applied mathematical skills required for an engineering technician program. Topic coverage will include functions, conics, regression and matrix algebra. Students will be evaluated on both algebraic and technology-assisted approaches.
+Pre-Requisites
+Mathematics for Computing I (MATH 145)
+Programming in C++
+COMP  80
+Units/ Hours: 45
+In this course, students will learn to implement, build, test, and debug programs written in the C++ programming language.  The course begins with a discussion of the essential elements of procedural programming - variables, data types, expressions, branches, loops, functions, and pointers - and then covers the basics of object-oriented programming - classes, objects and inheritance. Practical lab activities are performed in a Windows environment using Visual Studio.
+Pre-Requisites
+Scripting Fundamentals (COMP  86)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 4
+Delivery: In Person
+Applied Projects for CTN
+APST 194
+Units/ Hours: 60
+This course allows the student to apply their experiential learning by utilizing their project management skills, computing and engineering skills to complete a project that demonstrate their abilities and allow them to showcase their abilities and serve the community by completing projects for local and surrounding area projects.
+Pre-Requisites
+Agile Project Management (COMP 596)
+Cloud Computing Provisioning
+COMP 595
+Units/ Hours: 45
+With networks speeds increasing and business needs ever-changing, cloud computing has established itself as the next frontier of modern computers. Due to the remote and flexible environment of cloud computing, a tailored approach to its security is necessary. This course introduces students to the concepts, practices, and logistics of cloud computing and cloud security. Students will manage and maintain cloud operating system configurations, access control, and virtualization through experiential learning exercises. As a result, students will have a strong understanding of cloud computing and the security considerations, preparing them for in-demand certifications and their future careers.
+Pre-Requisites
+Operating Systems II (COMP  75)
+Database Applications
+COMP 626
+Units/ Hours: 45
+Databases are an essential part of today's IT infrastructure, providing a flexible and scalable means for data to be efficiently stored and retrieved. Databases are not without their flaws, however, with poor implementations of them being vulnerable to injection and poisoning attacks. In this course, students will be introduced to the fundamentals of industry-standard database applications, their common vulnerabilities, and how to securely implement them in a business/IT environment. Students will leave the course with the skills to overcome database implementation challenges and the experience to properly utilize these applications during their careers.
+Pre-Requisites
+Scripting Applications (COMP 593)
+Embedded Systems Integration
+COMP 597
+Units/ Hours: 45
+Today's explosion of the machine to machine, embedded and internet of things worlds are spreading to all sectors of the market from healthcare to technology and everything between. This course will introduce the students to various aspects of modern communication between those intelligent embedded devices and the end-user through cloud-based system wireless or wired systems. This course will present the students the concept of system integration, with inter-operability and secure embedded system data exchange.
+Pre-Requisites
+Embedded Systems (COMP  37)
+Mathematics for Computing III
+MATH  98
+Units/ Hours: 45
+This course is the third in a series of technology mathematics courses that is mandatory for students pursuing a technology diploma.  All topics are covered with applicable problem sets both analytically and with the use of technology.  The topics covered include: limits, derivatives of algebraic and transcendental functions and their applications, selected methods of integration, differential equations, Laplace transforms, Maclaurin and Taylor series.
+Pre-Requisites
+Mathematics for Computing II (MATH 146)
+Working With Business and Industry
+ORGB  21
+Units/ Hours: 45
+This course examines and builds soft skills like self-awareness, interpersonal relations, motivation, small group dynamics, and conflict management in order to recognize and utilize appropriate tools and strategies. Learning how to recognize a personal inventory of skills and competencies will improve both the process and products of independent and team-based work. The development and application of these tools and strategies will prepare students in finding, obtaining and retaining a position within their chose career path.
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.

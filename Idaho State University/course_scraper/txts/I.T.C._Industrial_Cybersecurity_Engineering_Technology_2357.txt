@@ -1,0 +1,84 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/itc-industrial-cybersecurity-engr-tech
+I.T.C. Industrial Cybersecurity Engineering Technology
+(1 Year)
+Program Objectives:
+Identify and respond to security concerns relating to operational cyber-physical systems.
+Coordinate among key stakeholders for matters dealing with the security of cyber-physical
+systems.
+Promote stakeholder awareness and education relating to cyber-physical systems security.
+Establish optimal policies for managing risk in cyber-physical systems.
+Use security criteria to influence technology selection and deployment.
+Student Outcomes:
+1. Apply the fundamental principles of cyber-physical systems.
+2. Explain the need and purpose of securing cyber physical systems.
+3. Identify common weaknesses in cyber physical systems.
+4. Evaluate the security of cyber physical systems by applying pertinent recognized standards.
+5. Propose practices for managing cyber physical systems risk.
+6. Implement techniques for defending cyber physical systems.
+Program Admissions Requirements
+Students must meet with the Program Coordinator prior to beginning course work.
+Students must have completed a previous degree relating to Computer Science or Information Technology Systems and meet ESTEC acceptance requirements.
+Students are required to meet with the Program Coordinator before beginning course work. Students entering from other programs may be able to waive or substitute courses.
+COT Min Test Scores (No English)
+Placement Test
+Math
+ACT
+19
+SAT
+460
+ALEKS
+30
+Major Requirements
+Course List
+Code
+Title
+Credits
+Required Courses:
+ESET 1120
+Introduction to Energy Systems
+2
+ESET 1120L
+Introduction to Energy Systems Laboratory
+1
+ESET 1162
+Industrial  Safety and Regulations
+2
+ESET 1182
+Information Technology Fundamentals
+3
+ESET 2205
+Fundamentals of Control Logic
+3
+ESET 2222
+&
+ESET 2226
+Process Control Theory
+and Process Control Devices Laboratory
+2-4
+or
+ESET 2242
+Practical Process Measurements and Control
+ESET 2282
+Introduction to Networking
+3
+CYBR 3383
+Security Design for Cyber-Physical Systems
+3
+CYBR 3384
+Risk Management for Cyber-Physical Systems
+3
+CYBR 4481
+Defending Critical Infrastructure and Cyber Physical Systems
+3
+CYBR 4486
+Network Security for Industrial Environments
+3
+CYBR 4487
+Professional Development and Certification
+3
+INFO 4411
+Intermediate Information Assurance
+3
+Total Credits
+34-36
+Major Academic Plan (MAP)

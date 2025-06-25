@@ -1,0 +1,264 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/aas-industrial-cybersecurity-engr-tech
+A.A.S. Industrial Cybersecurity Engineering Technology
+(2 Years)
+Program Objectives:
+Identify and respond to security concerns relating to operational cyber-physical systems.
+Coordinate among key stakeholders for matters dealing with the security of cyber-physical
+systems.
+Promote stakeholder awareness and education relating to cyber-physical systems security.
+Establish optimal policies for managing risk in cyber-physical systems.
+Use security criteria to influence technology selection and deployment.
+Student Outcomes:
+1. Apply the fundamental principles of cyber-physical systems.
+2. Explain the need and purpose of securing cyber physical systems.
+3. Identify common weaknesses in cyber physical systems.
+4. Evaluate the security of cyber physical systems by applying pertinent recognized standards.
+5. Propose practices for managing cyber physical systems risk.
+6. Implement techniques for defending cyber physical systems.
+Program Admissions Requirements
+Students must meet with the Program Coordinator prior to beginning course work.
+COT Min Test Scores (No English)
+Placement Test
+Math
+ACT
+19
+SAT
+460
+ALEKS
+30
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1-
+ENGL 1101
+or
+ENGL 1102
+1
+3
+Objective 2
+3
+Objective 3 - Choose
+MATH 1143
+,
+MATH 1147
+,
+MATH 1153
+,
+MATH 1160
+,
+MATH 1170
+, or
+MGT 2216
+1
+3-5
+Objective 5
+4-5
+CHEM 1100
+Concepts of Chemistry
+or
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+or
+CHEM 1112
+&
+1112L
+General Chemistry II
+and General Chemistry II Lab
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+or
+PHYS 1111
+&
+PHYS 1113
+General Physics I
+and General Physics I Laboratory
+or
+PHYS 1112
+&
+PHYS 1114
+General Physics II
+and General Physics II Laboratory
+Objective 6
+3
+Total Credits
+16-19
+1
+“P” courses are equivalent to the original course.
+Major Requirements
+Course List
+Code
+Title
+Credits
+ESET 1121
+Basic Electricity and Electronics
+4
+ESET 1121L
+Basic Electricity and Electronics Laboratory
+3
+ESET 1140
+Applied Technical Intermediate Algebra
+1
+5
+ESET 1162
+Industrial  Safety and Regulations
+2
+ESET 1181
+Introduction to Cyber-Physical Systems
+3
+ESET 1182
+Information Technology Fundamentals
+3
+ESET 2282
+Introduction to Networking
+3
+CYBR 3383
+Security Design for Cyber-Physical Systems
+3
+CYBR 3384
+Risk Management for Cyber-Physical Systems
+3
+CYBR 4481
+Defending Critical Infrastructure and Cyber Physical Systems
+3
+CYBR 4486
+Network Security for Industrial Environments
+3
+CYBR 4487
+Professional Development and Certification
+3
+INFO 4411
+Intermediate Information Assurance
+3
+Choose a minimum of twelve (12) credits from the following:
+12
+ESET 1120
+Introduction to Energy Systems
+ESET 1120L
+Introduction to Energy Systems Laboratory
+ESET 1122
+Electrical Systems and Motor Control Theory
+ESET 1122L
+Electrical Systems and Motor Control Theory Laboratory
+ESET 2205
+Fundamentals of Control Logic
+ESET 2220
+Thermal Cycles and Heat Transfer
+ESET 2221
+Nuclear Steam Supply Systems
+ESET 2222
+Process Control Theory
+ESET 2226
+Process Control Devices Laboratory
+ESET 2242
+Practical Process Measurements and Control
+ESET 2251
+Reactor Theory Safety and Design
+ESET 2292
+Electrical Engineering Technology I
+ESET 2292L
+Electrical Engineering Technology I Laboratory
+INST 2281
+Electrical Automation Theory
+INST 2282
+Electrical Automation Laboratory
+Choose one of the following Objective 1 Courses:
+3
+ENGL 1101
+Writing and Rhetoric I
+or
+ENGL 1102
+Writing and Rhetoric II
+Choose one of the following Objective 3 Courses:
+3-5
+MATH 1143
+Precalculus I: Algebra
+or
+MATH 1147
+Precalculus
+or
+MATH 1153
+Statistical Reasoning
+or
+MATH 1160
+Survey of Calculus
+or
+MATH 1170
+Calculus I
+or
+MGT 2216
+Business Statistics
+Choose one of the following Objective 5 Courses:
+4-5
+CHEM 1100
+Concepts of Chemistry
+or
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+or
+CHEM 1112
+&
+1112L
+General Chemistry II
+and General Chemistry II Lab
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+or
+PHYS 1111
+&
+PHYS 1113
+General Physics I
+and General Physics I Laboratory
+or
+PHYS 1112
+&
+PHYS 1114
+General Physics II
+and General Physics II Laboratory
+Total Credits
+63-66
+1
+Apprenticeship students may substitute
+MATH 1147
+for
+ESET 1140
+.
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+16-19
+Major Requirements (Required General Education credits removed.)
+53
+Free Electives
+Total Credits
+69-72
+ISU Degree Requirements
+ISU General Education for College of Technology
+Major Academic Plan (MAP)

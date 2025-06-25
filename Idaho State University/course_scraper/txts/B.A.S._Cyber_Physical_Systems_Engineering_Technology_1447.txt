@@ -1,0 +1,190 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/bas-cyber-physical-systems-engr-tech/
+B.A.S. Cyber Physical Systems Engineering Technology
+Program Admissions Requirements
+Course List
+Code
+Title
+Credits
+Complete one of the following ESTEC AAS programs
+38
+Energy Systems Instrumentation Engineering Technology
+Energy Systems Electrical Engineering Technology
+Energy Systems Mechanical Engineering Technology
+Energy Systems Nuclear Operations Technology
+Industrial Cybersecurity Engineering Technology
+Total Credits
+38
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3 -
+MGT 2216
+3
+Objective 4
+6
+Objective 5 -
+CHEM 1100
+,
+CHEM 1111
+&
+CHEM 1111L
+,
+CHEM 1112
+&
+CHEM 1112L
+,
+PHYS 1100
+,
+PHYS 1101
+&
+PHYS 1101L
+,
+PHYS 1111
+&
+PHYS 1113
+,
+PHYS 1112
+&
+PHYS 1114
+and any other Objective 5 course
+7-8
+Objective 6 -
+ECON 2201
+Recommended
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7 -
+CS 1181
+Objective 8-
+INFO 1101
+Objective 9
+3
+Total Credits
+37-38
+Major Requirements
+Course List
+Code
+Title
+Credits
+MGT 2216
+Business Statistics
+3
+Choose any Objective 5 course and one of the following:
+7-8
+CHEM 1100
+Concepts of Chemistry
+or
+CHEM 1111
+&
+1111L
+General Chemistry I
+and General Chemistry I Lab
+or
+CHEM 1112
+&
+1112L
+General Chemistry II
+and General Chemistry II Lab
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+or
+PHYS 1111
+&
+PHYS 1113
+General Physics I
+and General Physics I Laboratory
+or
+PHYS 1112
+&
+PHYS 1114
+General Physics II
+and General Physics II Laboratory
+Choose one of the following Objective 7 or 8 Courses:
+3
+INFO 1101
+Digital Information Literacy
+CS 1181
+Computer Science and Programming I
+ESET 1181
+Introduction to Cyber-Physical Systems
+3
+ESET 2282
+Introduction to Networking
+3
+CYBR 3383
+Security Design for Cyber-Physical Systems
+3
+CYBR 3384
+Risk Management for Cyber-Physical Systems
+3
+CYBR 4481
+Defending Critical Infrastructure and Cyber Physical Systems
+3
+CYBR 4486
+Network Security for Industrial Environments
+3
+CYBR 4487
+Professional Development and Certification
+3
+CYBR 4489
+Capstone in Industrial Cybersecurity
+3
+or
+ESET 4497
+Internship
+BA 3316
+Introduction to Data Analytics
+3
+INFO 4411
+Intermediate Information Assurance
+3
+ENGL 3307
+Professional and Technical Writing
+3
+MGT 2217
+Applied Business Statistics
+3
+MGT 3312
+Individual and Organizational Behavior
+3
+MGT 3329
+Operations and Supply Chain Management
+3
+MGT 4482
+Project Management
+3
+Total Credits
+58-59
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+38
+General Education
+37-38
+Major Requirements (Required General Education credits removed.)
+45
+Upper Division Free Electives
+Free Electives
+Total Credits
+120-121
+ISU Degree Requirements
+ISU General Education
+Major Academic Plan (MAP)

@@ -1,0 +1,79 @@
+Source: https://distance.mst.edu/distance-programs/distance-graduate-certificates/cyber-security/
+
+Online Education
+Graduate Certificate in
+Cyber Security
+Computer Science
+Apply Now
+Request Info
+About the Certificate
+Protecting information systems is key to protecting the nation's critical infrastructures. Only through diligence and a well-trained workforce will we be able to adequately defend the nation's vital information resources. Cyber Security has one of the largest demands for an educated workforce within the federal, state, and industry domains.
+This certificate meets a majority of the requirements for the National Initiative for Cyber Security Education (NICE) standards for the NSA-DHS Center of Academic Excellence program.
+Missouri S&T is working toward offering a Master of Science in Cyber Security in the near future. Check with the Computer Science Department for details.
+Curriculum
+Required:
+COMP SCI 5601: Security Operations and Program Management
+COMP SCI 5602: Introduction to Cryptography
+Choose two of the following four courses:
+COMP SCI
+6600: Formal Methods in Computer Security
+COMP SCI
+6601: Secure Data Analysis
+COMP SCI 6304: Cloud Computing and Big Data Management
+COMP SCI 6605: Advanced Network Security
+There is overlap between the course offerings for this graduate certificate and other graduate certificates. No course can be used to satisfy the requirements for more than one certificate.
+Admission requirements
+The only entrance requirement for students entering a graduate certificate program is that they hold a bachelor’s degree and satisfy the prerequisites for any course they take in the program. Once admitted to the program, the student must take the designated courses. In order to receive a graduate certificate, the student must have an average graduate grade point average of 3.0 or better in the certificate courses taken. Students admitted to the certificate program will have non-degree graduate status; however, if they complete the four-course sequence with a grade of B or better in each of the courses taken, they will be eligible to be admitted to the MS program in computer science if they apply if they meet all the other pre-requisites for the degree.
+The certificate courses taken by students admitted to the MS program will count towards their master's degrees. Students who do not have all of the prerequisite courses necessary to take the courses in the certificate program will be allowed to take "bridge" courses at either the graduate or undergraduate level to prepare for the formal certificate courses. Once admitted to the program, a student will be given three years to complete the program so long as he/she maintains a B average in the courses taken.
+Distance application requirements
+Students applying for a graduate certificate must submit the following:
+Completed Application
+Statement of Purpose
+Transcripts
+Online Application
+When you start a new application, select "Graduate Online/Distance" and then select the certificate program.
+Don't forget to list your current employer and company location on the application.
+Statement of purpose should be 2-3 paragraphs explaining why you are applying for this program.
+Statement is to be submitted electronically on the
+online application
+; you'll copy and paste it into the provided text box.
+Unofficial transcripts are sufficient for an admit decision.
+Upload your transcripts on the
+online application
+under your "Institutional Data." If you previously attended S&T, you must upload your transcript. An unofficial transcript can be requested through Joe’SS.
+How to Request Unofficial Transcripts
+(pdf)
+PDF scans are preferred.
+The university requires official transcripts from all schools attended before a student may register for a second semester.
+In order for a transcript to be counted as official it must be sent directly from the school to S&T, it cannot come from a student.
+Official transcripts should be mailed to Global Learning:
+Missouri University of Science and Technology
+Office of Global Learning
+G8 Norwood Hall, 320 West 12th Street
+Rolla, MO 65409
+Pathway to a Master's Degree
+Are you a working professional who wants to earn your master's degree, but you don’t have time to take the GRE/GMAT? Then start in a graduate certificate program. Graduate certificates were designed as a pathway to a master's degree.* The admission requirements are more relaxed and credit earned will count toward your degree. Once you successfully earn your graduate certificate, you can continue with the corresponding master's degree without having to take the GRE/GMAT.
+Related Degrees
+This graduate certificate may act as a pathway to the following master’s programs:
+Computer Science
+(MS)
+*Completion of a graduate certificate program does not automatically guarantee admission into a corresponding graduate degree program. To continue in a master’s degree program, you must apply.
+Questions?
+Contact Us
+Missouri S&T Online Education
+Sylvia Skouby, Associate Director for Online Admissions
+Phone: 573-341-6903
+Email:
+stgrad@mst.edu
+Computer Science
+Dr. Ricardo Morales
+Assistant Teaching Professor
+Computer Science
+340 Computer Science Bldg.
+500 W. 15th St.
+Rolla, MO 65409-0350
+Phone: 573-341-6350
+Email:
+csgradcoord@mst.edu
+Web:
+cs.mst.edu

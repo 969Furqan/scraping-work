@@ -1,0 +1,63 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/mechanicalengineering/msmechanicalengineering/
+Master of Science in Mechanical Engineering
+Admission Requirements
+All applicants for the M.S. in ME program must have a Bachelor of Science degree in engineering, physical sciences, mathematics or a closely related field, and must meet Idaho State University Graduate School M.S. admission requirements. In addition, official Graduate Record Examinations (GRE) score reports are required for all applicants, except those with a B.S. degree in an Engineering discipline from ISU, with a score equal or above the 65th percentile on the Quantitative Reasoning area being required for admission.
+General Requirements
+With the assistance of the Mechanical Engineering faculty, the student shall select an initial advisor during the first semester of residence to help in planning a program of studies and research. The student must also complete a Plan of Study and form a complete advisory committee by the time six credits of course work have been completed.
+30 credit hours are required to complete the M.S. degree (at least 50% of the credits should be at the 6600 level). Approximately half of the credits are engineering and technical electives, subject to the approval of the student’s advisory committee. The Thesis or Special Project should consist of study and research that complements the course work selected.
+Required Courses (30 credits)
+Course List
+Code
+Title
+Credits
+Select at least 3 credits (1 course) of advanced mathematics from the following list:
+3
+ME 5521
+Engineering Modeling, Analysis, and Simulation
+MATH 5506
+Advanced Linear Algebra
+MATH 5542
+Introduction to Numerical Analysis II
+MATH 5565
+Partial Differential Equations
+Select at least 9 credits (3 courses) from the following list:
+9
+ME 6607
+Advanced Thermodynamics
+ME 6635
+Transport Phenomena
+ME 6676
+Conduction Heat Transfer
+ME 6640
+Advanced Vibrations
+MCE 6643
+Advanced Measurement Methods
+ME 6644
+Advanced Kinematic Design
+ME 6648
+Robotic Grasping/Manipulation
+ME/CE 6665
+Finite Element Methods
+Additional coursework, up to 12 credits (4 courses) of approved electives
+1
+12
+Thesis
+6
+ME 6650
+Thesis
+OR
+One additional elective course
+AND
+ME 6660
+Special Project
+2
+Total Credits
+30
+1
+Approved by Major Advisor.
+2
+Students desiring to do the non-thesis option must have a minimum of two years of industry experience, or a previous graduate degree (MS or PhD) in an engineering discipline that included the completion of a thesis or dissertation. In place of the 6-credit thesis, the non-thesis option consists of a 3-credit Special Project in addition to a 3-credit course. At the completion of the Special Project, the student will be required to do an oral presentation/defense of the Project.
+Doctor of Philosophy in Engineering and Applied Science
+A doctoral program in Engineering and Applied Science, administered through the College of Science and Engineering, is available to engineering students. The complete program description is provided in the
+Engineering and Applied Science
+section of the Graduate Catalog.

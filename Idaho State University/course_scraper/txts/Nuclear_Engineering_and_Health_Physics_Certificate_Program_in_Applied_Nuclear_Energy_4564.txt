@@ -1,0 +1,30 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/nuclearengineering/certappliednuclearenergy/
+Nuclear Engineering and Health Physics Certificate Program in Applied Nuclear Energy
+Admission Requirements
+The student must apply to and meet all criteria for admission to the Graduate School. GRE scores are not required if an earned grade point average of at least 3.0 or higher was achieved for all upper-division credits taken at the undergraduate level, regardless of the institution at which the credits were earned.
+Course List
+Code
+Title
+Credits
+Required Courses
+NSEN 6615
+Introduction to Practical Nuclear Engineering
+3
+NSEN 6617
+Applications of Nuclear Energy
+3
+NSEN 6651
+Nuclear Engineering Seminar
+1
+Electives
+Select one of the following:
+3
+ENGR 6606
+Environmental Law and Regulations
+HPHY 6610
+Radiation Regulations
+NSEN 6618
+Radioactive Waste Management
+NSEN 6619
+Materials Science of Radwaste
+Approved NE, NSEN, ENGR, ENVE or PHYS 55xx/66xx elective course.

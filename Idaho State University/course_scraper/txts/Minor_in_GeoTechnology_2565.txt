@@ -1,0 +1,46 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/geosciences/minor-geotechnology/
+Minor in GeoTechnology
+Course List
+Code
+Title
+Credits
+Core Courses
+GEOL 4403
+&
+4403L
+Principles of Geographic Information Systems
+and Principles of GIS Laboratory
+3
+GEOL 4404
+Advanced Geographic Information Systems
+3
+GEOL 4407
+GPS/GNSS Applications in Research
+3
+GEOL 4408
+GeoTechnology Seminar
+1-2
+or
+BIOL 4418
+Ecological Topics
+GEOL 4409
+Remote Sensing
+3
+Electives (must total at least 5 credits):
+5
+ANTH 4482
+Independent Problems in Anthropology
+BIOL 4482
+Independent Problems
+GEOL 4427
+Information Technology for GIS
+GEOL 4428
+Programming for GIS
+GEOL 4480
+Special Topics in GIS
+GEOL 4481
+GeoTechnology Internship
+GEOL 4482
+Independent Problems and Studies in Geology
+Total Credits
+18-19

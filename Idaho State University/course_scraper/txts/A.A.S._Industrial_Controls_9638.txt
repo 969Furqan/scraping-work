@@ -1,0 +1,146 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/aas-industrial-controls/
+A.A.S. Industrial Controls
+(1 Year
+)
+Description:
+Industrial Controls is offered as a second AAS degree following completion of an Electrical Journeyman AAS, or an Electrical Apprenticeship AAS program and completion of all General Education requirements. Students must have completed a minimum of three years of the Electrical Apprenticeship Program towards the first AAS degree before being able to apply for the Industrial Controls program.
+Students in this program can complete coursework focusing on either Instrumentation and Process Control or Motor Control and Protective Relaying.
+Program Objectives:
+Solve technical problems typical of those encountered in the energy systems instrumentation engineering technology discipline by using critical thinking skills, current technology, and principles of mathematics and applied science.
+Work and communicate effectively in multidisciplinary teams in both industrial and academic settings.
+Understand current professional issues and the need to pursue lifelong learning.
+Student Outcomes:
+Demonstrate safe work practices on industrial equipment.
+Work and communicate effectively in a diverse team environment.
+Utilize test equipment to troubleshoot and analyze electrical, electronic, and instrumentation related circuits.
+Analyze
+alternating current (AC) and direct current (DC) electronic circuits and logic fundamentals.
+Create schematics to document electrical, electronic, and process control systems.
+Design and troubleshoot circuits for motor controls and associated devices.
+Install, troubleshoot, and maintain electrical AC and DC motors, generators, and variable frequency drives.
+Install, configure, calibrate, and troubleshoot pressure, temperature, level, flow, and analytical instrumentation.
+Configure, troubleshoot, and optimize Proportional-integral-Derivative (PID) control loops.
+10. Use the fundamentals of pump and valve operation to troubleshoot final element issues.
+11. Utilize the fundamentals of fluid dynamics and thermodynamics to troubleshoot and maintain process control associated with industrial plants.
+12. Design, implement, and troubleshoot Programmable Logic Controllers (PLC) programs and associated Human Machine Interface (HMI) applications for industrial processes.
+13. Utilize the fundamentals of networks and digital communications to troubleshoot and maintain distributed plant automation and Supervisory Control and Data Acquisition (SCADA) systems.
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1 -
+ENGL 1101
+1
+3
+Objective 2 -
+COMM 1101
+3
+Objective 3 -
+MATH 1143
+1
+3
+Objective 5 -
+CHEM 1100
+or
+PHYS 1101
+and
+PHYS 1101L
+4
+Objective 6
+3
+Total Credits
+16
+1
+“P” courses are equivalent to the original course.
+Prerequisite Courses
+Students must complete nine (9) credits of the University’s General Education Objectives (see the General Education Requirements described in the Academic Information section of this catalog) and a minimum of five to six (5-6) credits of program-specific course work before entering this program.  Listed below are the prerequisite requirements for the Associate of Applied Science: Industrial Controls. Students must meet with the program coordinator prior to beginning required course work.
+Course List
+Code
+Title
+Credits
+Prerequisite Courses (14-15 Credits)
+ESET 1110
+&
+1110L
+Introduction to Process Control
+and Introduction to Process Control Laboratory
+2-3
+or
+ESET 1111
+Principles of AC Circuit Analysis
+ESET 1112
+Introduction to Digital Logic
+2
+ESET 1112L
+Introduction to Digital Logic Laboratory
+1
+COMM 1101
+Fundamentals of Oral Communication
+3
+ENGL 1101
+Writing and Rhetoric I
+3
+MATH 1143
+Precalculus I: Algebra
+3
+Required Courses (33-34 Credits)
+INST 2281
+&
+INST 2282
+&
+INST 2293
+&
+INST 2295
+&
+INST 2296
+Electrical Automation Theory
+and Electrical Automation Laboratory
+and Process Measurement and Control Laboratory
+and Process Measurement and Control Theory
+and Process Dynamics
+27
+OR
+ESET 2222
+&
+ESET 2226
+&
+ESET 2292
+&
+ESET 2292L
+&
+ESET 2293
+&
+ESET 2293L
+Process Control Theory
+and Process Control Devices Laboratory
+and Electrical Engineering Technology I
+and Electrical Engineering Technology I Laboratory
+and Electrical Engineering Technology II
+and Electrical Engineering Technology II Laboratory
+26
+CHEM 1100
+Concepts of Chemistry
+4
+or
+PHYS 1101/1101L
+Elements of Physics
+Objective 6: Social and Behavioral Ways of Knowing
+3
+Total Credits
+47-49
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements (Required General Education credits removed)
+5-6
+General Education
+16
+Major Requirements (Required General Education credits removed)
+37
+Free Electives
+Total Credits
+58-59

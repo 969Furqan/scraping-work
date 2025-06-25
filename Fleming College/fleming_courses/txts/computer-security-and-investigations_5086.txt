@@ -1,0 +1,1608 @@
+URL: https://flemingcollege.ca/programs/computer-security-and-investigations
+
+Home
+»
+Home
+»
+Programs
+»
+Computer Security and Investigations
+Computer Security and Investigations
+The Computer Security and Investigations program is designed to provide you with the necessary knowledge and skills to take a leadership role in the protection and security of information technology.
+Program Information
+Start Date
+September 02, 2025
+Sutherland Campus
+January 05, 2026
+Sutherland Campus
+September 02, 2025
+Domestic Availability
+Accepting Applications
+International Availability
+Accepting Applications
+Program Code
+CSI
+Delivery
+In Person
+Credential
+Ontario College Advanced Diploma
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$4010.35
+per semester*
+International Tuition
+$10656.69
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+6 semesters
+January 05, 2026
+Domestic Availability
+Accepting Applications
+International Availability
+Closed
+Program Code
+CSI
+Delivery
+In Person
+Credential
+Ontario College Advanced Diploma
+Academic School
+School of Business and Information Technology
+Location
+Sutherland Campus
+Program Contact
+Mamdouh Mina
+Program Coordinator
+Domestic Tuition
+$4010.35
+per semester*
+International Tuition
+$10656.69
+per semester*
+*Domestic tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+*International tuition amounts shown are from the 2024-2025 academic year and are subject to change.
+Apply Now
+Canadian Students
+International Students
+View Curriculum
+6 semesters
+Program Highlights
+The Computer Security and Investigations program is designed to provide you with the necessary knowledge and skills to take a leadership role in the protection and security of information technology. Your classes are regularly reviewed and improved to be the most current subjects demanded by the industry, such as:
+Advanced Ethical Hacking
+Incident Response
+Vulnerability, Threat and Risk Analysis
+Information Security
+Advanced Computer Forensics
+Internet and Hacking Investigations
+Open Source Intelligence
+CISCO Network Design and Management
+Network Security
+In addition to these cutting-edge subjects, you will also learn how to assess technical risk, develop systems and processes, to manage the risks associated with information technology, and be capable of providing technical assistance to prevent, investigate, and protect individuals and organizations from cyber-crime. Your studies will be from a security management and hands on technical perspective, with emphasis placed on the skills required to implement information technology security, and the investigative skills necessary to respond appropriately to breaches of security.
+You will have the added benefit of courses in law and justice, taking advantage of Fleming College's reputation and experience in these fields, in addition to obtaining the technical training you need to function as a cyber security consultant. In this three-year program, the final sixth semester is an applied project or field placement in partnership with business and, industry, or government department.
+* Students starting in January are required to attend classes over the summer semester.
+Why Choose Fleming
+Fleming has a well-known track record of producing talented graduates in the area of Cyber Security; you will acquire the best we have to offer and develop both technical skills and a security mindset, a winning combination that will put you on the road to success as an in-demand computer security specialist.
+There are no other programs like this in Ontario. The CSI program will provide you with the knowledge and skills to prepare you for industry certification in the Cyber Security, Computer Forensics, Incident Response and Secure Networking disciplines. As you progress through the program you will gain the skills required for you to become industry certified in a number of areas, including:
+CCNA – Cisco Certified Network Architect
+CCE – Certified Computer Examiner
+Security+
+Network+
+A+
+Linux+
+MCSA - Microsoft Certified Solutions Associate
+CISSP – Certified Information Systems Security Professional (student level qualification)
+CEH - Certified Ethical Hacker
+Work Experience
+In your final semester, you will work on an intensive team project or field placement. Each student will contribute specialized knowledge, learned in their program of study, to the solution of a real world technological problem posed by a sponsoring business or organization. Recent projects include:
+Field placements in Security Operations Centres (SOCs) as security analysts, conducting analysis and protection against cyber threats in real time
+Field placements within financial and forensic firms, working real cases
+Field placements within corporate security departments and information security service providers
+Field Placements within cyber security units of various government agencies
+Security and penetration testing engagements with industry organizations
+Forensic analysis and creation of standards for a security corporation
+Development and field deployment of a computer network Intrusion Detection System for a managed security service company to support large commercial clients
+This applied project or field placement will enhance problem-solving skills, applied industry knowledge, and the ability to work as part of a team. You'll also learn critical workplace skills such as time management, how to map a critical path, and presentation skills. Since you may be working on sophisticated developmental or research-based work, sponsors will often use the project as a testing ground and recruitment opportunity.
+Is this You?
+excellent oral and written communication skills
+good problem solving skills
+creative and analytical thinking skills
+strong interest in computers and technology
+able to keep a cool head in a crisis
+research and investigative skills and interest
+desire to learn and be challenged
+strong time management skills
+Career Opportunities
+Career opportunities are available in both public and private sector organizations. Job titles include:
+Information Technology Security Analyst
+Security Operations Centre Analyst
+Information Security Analyst
+Computer Security Consultant
+Penetration Tester
+Cyber Investigator
+Data Security Specialist
+Network Security Specialist
+Blue Team Analyst
+Computer Forensics Examiner
+Starting salaries for many IT security positions are in the range of $54,000 to $70,000. Industry surveys identify that IT security professionals are in strong demand, and professionals with the security skills you will acquire, consistently earn higher than average incomes among IT professionals.
+Advanced Standing
+Do you have another college diploma, or have you completed other technology courses at another college or university? You may be eligible for advanced standing entry to the Computer Security and Investigations program. With this fast track option, you can quickly complete the program and become qualified to enter the field of computer security. Contact the program coordinator to find out how you can take advantage of this opportunity.
+Learning Outcomes
+Conduct "threat risk" analysis of an organization's IT assets to determine vulnerabilities and develop appropriate countermeasures.
+Develop and justify information security policies and procedures for a corporation or institution to mitigate the risk and meet operational requirements.
+Manage and facilitate the implementation of information security policies and procedures.
+Conduct analysis of the effectiveness and appropriateness of information security policies, procedures and technology in a changing environment.
+Report and investigate information security breaches and crimes using the appropriate internal and external resources.
+Select, assess and implement appropriate security countermeasures for IT assets, such as communication networks, computer hardware and software, to provide protection and support the objectives of the organization.
+Develop, implement and manage information security emergency plans, disaster recovery plans and business recovery plans.
+Document, prepare and assist in the presentation of evidence in court cases in compliance with criminal law, rules of evidence and the Charter of Rights and Freedom.
+Assess information gathering skills used in basic investigative techniques.
+Work in a manner consistent with all relevant law and legislation and professional, organizational and ethical standards.
+Distinguish criminal, civil and administrative components of the justice.
+Make decisions and take courses of action that reflect sound ethical and moral standards of conduct.
+Develop life long learning habits through the pursuit of interdisciplinary areas of study related to social and cultural understanding, civil life, personal understanding, science and technology, and arts in society.
+Minimum Admission Requirements
+Students applying to Computer Security and Investigations must meet the following requirements:
+OSSD including Gr 12 C English and Gr 12 C Math
+OSSD with majority of courses at College (C ) or Open (O) unless otherwise stated.
+Grade 12 C courses will be accepted where Gr 11 C course requirements are listed.
+Where College level courses are listed, U and M courses will be accepted.
+Mature Students
+If you are 19 years of age or older before classes start, and you do not possess an OSSD, you can write the
+Skillsmarker
+to assess your eligibility for admission. Additional testing or academic upgrading may be necessary to meet specific course requirements for this program.
+Technology Requirements
+PC / Windows
+Operating System:
+Windows 10 Professional
+Processor:
+Core i5  7th Gen (i7 10th Gen recommended) OR Ryzen5 Mobile 4000 series (Ryzen7 4000 series recommended)
+Memory:
+16GB minimum (32+ GB recommended)
+Hard Disk:
+1TB (SSD recommended)
+Internet Connection: 40 Mbps Download and 10 Mbps Upload (minimum).  Unlimited bandwith capacity.
+Students are required to have their own computer, internet access, webcam and microphone.
+Some required software applications are not available for MAC OS or Chromebook.
+Computer must be virtual machine capable. No tablets or Chromebooks for lab work.
+In The News:
+Computer Security and Investigations
+Student Success Shines at Fleming's Innovation and Technology Showcase
+Transfer Agreements
+You may be able to use credits obtained at Fleming College to continue your postsecondary education in pursuit of a degree.  The articulation and credit transfer agreements with our partner institutions are summarized here.
+Athabasca University
+Bachelor of Science
+Requirement
+Completion of the program.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Applied Mathematics
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Computing and Information Systems
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Bachelor of Science in Human Science
+Requirement
+Completion of the program.
+Transfer Credit
+30 out of a 120-credit degree.
+Refer to the articulation statement for further details.
+To apply please see the
+Apply Alberta
+website.
+For more information
+Visit the
+Athabasca University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Griffith University
+Bachelor of Information Technology (3Yr)
+Requirement
+Minimum 65% cumulative program average.
+The program is offered face-to-face (Nathan campus or Gold Coast campus) or online.
+Transfer Credit
+160 credit points out of a 240-credit point degree.
+Refer to the articulation agreement for further details.
+To apply please see the
+Griffith University's admissions
+website.
+For more information
+Visit the
+Griffith University website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Ontario Tech University
+Bachelor of Arts in Educational Studies and Digital Technology
+Requirement
+Minimum mid-70% cumulative program average.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to ONTransfer.ca for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Visit the
+ONTransfer.ca website
+for agreement information.
+Bachelor of Arts in Psychology
+Requirement
+Minimum mid-70% cumulative program average.
+Transfer Credit
+60 out of a 120-credit degree.
+Refer to Ontario Tech's website for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Bachelor of Commerce
+Requirement
+Minimum mid-70% cumulative program average.
+Completion of the Ontario Tech Commerce Bridge.
+Transfer Credit
+45 out of a 120-credit degree.
+Refer to ONTransfer.ca for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Ontario Tech University website
+for further articulation and program information.
+Visit the
+ONTransfer.ca website
+for agreement information.
+Seneca College
+Bachelor of Interdisciplinary Studies
+Requirement
+Minimum 70% cumulative program average.
+Transfer Credit
+Entry into 5th semester standing in an 8-semester program.
+Refer to Seneca College's website for further details.
+To apply please see the
+Ontario Universities' Application Centre (OUAC)
+website.
+For more information
+Visit the
+Seneca College website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+Technological University of the Shannon: Midlands Midwest
+Bachelor of Science in Computer Networks & System Management
+Requirement
+Minimum 60% cumulative program average.
+Transfer Credit
+Entry into 4th-year studies of a 4-year program.
+Refer to the articulation agreement for further details.
+To apply please see the
+Technological University of the Shannon: Midwest's international
+website.
+For more information
+Visit the
+Technological University of the Shannon: Midlands Midwest website
+for further articulation and program information.
+See the
+official articulation agreement
+.
+You might also be interested in:
+Artificial Intelligence
+Program Code:
+AI
+Ontario College Graduate Certificate
+Sutherland Campus
+January 2025, September 2025, January 2026
+Check Availability
+Computer Engineering Technician
+Program Code:
+CTN
+Ontario College Diploma
+Sutherland Campus
+September 2025
+Check Availability
+Wireless Information Networking
+Program Code:
+WIN
+Ontario College Graduate Certificate
+Sutherland Campus
+May 2025, September 2025, January 2026, May 2026
+Check Availability
+Program Delivery Options
+Program Availability
+Go to the
+program page
+Mamdouh Mina MBA, MSc, BA, APMG,PMAC Cert.APM
+Professor: Computer Security Investigations
+Get ready to meet Mamdouh Mina, the dynamic Program Coordinator behind Fleming College's Computer Security and Investigations (CSI) program! With a diverse background spanning from running his own Internet Service Provider (ISP) company to managing large-scale government projects, Mamdouh has a wealth of experience in the computer field. His specialties include researching and acquiring unique solutions to seemingly impossible problems, data security and privacy, project management (including agile project management and project team coaching), network design, network forensics and investigation, cybersecurity, risk assessment, data backup, and wireless solutions. He loves to solve challenges and believes that there is always a way to tackle even the most daunting problems.
+But what really sets Mamdouh apart is his unwavering dedication to his students. Since taking on the role of Program Coordinator in early 2021, he has been on a mission to modernize and energize the CSI program, keeping it in line with the latest trends and technologies in computer security. This unique program encompasses a wide variety of computer security topics, including investigations, forensics, and cybersecurity, all in one 3-year program that is well-balanced and unique. Mamdouh is passionate about making a positive impact in his community, and he is working on ways to offer applied projects that benefit both students and the local community through the CSI program.
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4010.35
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 320.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4330.35
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+Semester 5
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4010.35
+Semester 6
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+International Health Plan
+$ 844.10
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 10656.69
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 320.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 11146.15
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+Semester 5
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 10826.15
+Semester 6
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Domestic Student Tuition
+Domestic Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4010.35
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 320.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4330.35
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+Semester 5
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health Plan
+$ 307.40
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 4010.35
+Semester 6
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 2801.13
+Total
+$ 3337.95
+The fees above are for the current academic year for domestic students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$307.40
+$365.00
+September to August
+Winter
+$215.71
+$255.50
+January to August
+Spring
+$158.05
+$142.35
+May to August
+International Student Tuition
+International Tuition Detail
+Tuition and ancillary fees are subject to change without notice.  The fees presented below reflect
+Fall start programs only for the current academic year
+.  For details about the fee differences for other program start dates please refer to the Tuition Details chart below.
+Semester 1
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 255.50
+International Health Plan
+$ 844.10
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 10656.69
+Semester 2
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+Semester 3
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Program Supply Fee
+$ 320.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 11146.15
+Semester 4
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+Semester 5
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Integrated Transportation Fee
+$ 365.00
+International Health Plan
+$ 904.06
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 10826.15
+Semester 6
+Amount
+Academic Supports
+$ 27.19
+Alumni Fee
+$ 19.33
+Athletics and Recreation
+$ 61.47
+Career Services
+$ 15.46
+Health and Counselling
+$ 56.67
+Information Technology Fee
+$ 115.66
+Peterborough Sport & Wellness Centre
+$ 95.00
+Student Achievement & Records
+$ 22.66
+Student Activity Fee
+$ 112.78
+Student One Card Fee
+$ 10.60
+Tuition
+$ 9020.27
+Total
+$ 9557.09
+The fees above are for the current academic year for international students.  Please note that the fees reflect the Health Plan and Integrated Transportation (Sutherland Programs only) charges for the fall entry point.  These charges are applied up front and provide service coverage for a full year September to August.  The charges for the winter and spring terms are as follows:
+Health Plan
+Integrated Transportation
+Coverage
+Fall
+$904.06
+$365.00
+September to August
+Winter
+$844.10
+$255.50
+January to August
+Spring
+$698.48
+$142.35
+May to August
+Courses and Descriptions
+Curriculum:  September 2025
+Semester 1
+Delivery: In Person
+Communications I for Business and IT Professionals
+COMM 257
+Units/ Hours: 45
+Communications I for Business and IT Professionals is an introductory course that provides a foundation in college-level communications. In this course, students learn to read critically, write appropriately for a variety of audiences, conduct research, cite references, revise for clarity and correctness, and present those results in various formats. In seminars, labs, and modules students will engage in both independent and collaborative activities, including the development and presentation of a research assignment to help them become more effective communicators in academic and professional contexts within the fields of Business and IT.
+Computer Hardware
+COMP 191
+Units/ Hours: 45
+Today, computers can take on a variety of forms, including household appliances, vehicles, and even human implants. Regardless of the devices shape, size, or complexity, however, a common factor between them all is the computer hardware. During this course students will obtain a foundational understanding of the core hardware components that makeup modern computers. Through experiential-learning exercises and involved experimentation, students will leave the course prepared for in-demand industry certifications and having taken their first steps into the information technology landscape.
+Introduction to Cyber Trends and Digital Evidence
+COMP 482
+Units/ Hours: 45
+As technology advances, so does cyber security. With exciting new developments in the field over recent years, it's essential that students are familiar with upcoming cyber trends and new avenues of digital evidence. This course will provide a broad overview of the field, introducing students to useful and current fascinating technologies.  Students will leave with a greater understanding of cyber security and digital evidence, its terminology, software utilities for security professionals, and the necessary knowledge to tackle more advanced topics.
+Mathematics for Computing I
+MATH 145
+Units/ Hours: 60
+This course will enable student to apply foundational math concepts and acquire mathematical skills related to computing based programs. Topic coverage will include algebra, number systems, engineering/scientific notation, and trigonometry. It is designed to complement and reinforce learning within other first semester courses.
+Operating Systems I
+COMP  91
+Units/ Hours: 45
+To truly utilize a system to its full extent, one must first become accustomed with the fundamental aspects of the operating system (OS). Hidden just beneath the surface of our desktops, the OS is the main driving force of every system, managing file systems, threads and processes, memory, and much more. In this course, students will be introduced to the fundamentals of OSs, their configuration processes, and how to securely maintain and implement them. Through experiential-learning exercises and involved experimentation, students will leave the course with a firm-grasp on OS troubleshooting, its operational procedures, and the knowledge to begin pursuing a variety of in-demand industry certifications.
+Scripting Fundamentals
+COMP  86
+Units/ Hours: 45
+At one point or another, we've all wished we could automate a monotonous or tedious task. With a scripting language, you can do that and more! This course will introduce students to the programming fundamentals that make up scripting languages. Through experiential-learning exercises with an industry-standard scripting language, students will leave with a foundational understanding of these languages in addition to the practices to use them effectively during their careers.
+Semester 2
+Delivery: In Person
+Concepts of Information Security and Risk Management
+COMP 497
+Units/ Hours: 45
+Organizations today face the huge task of protecting and securing their sensitive data and information technology operations at many levels. Each year thousands of new vulnerabilities are discovered and Billions of dollars are lost through malicious activity against corporate, government and private technological entities.
+
+In this course, Learners will be introduced to the core concepts of information security and protection; examine current threats and vulnerabilities and learn techniques to assess and manage risk in an information technology based environment. Using a common criteria methodology, Learners will analyze/demonstrate common system flaws, malware and control methods; and software for threat assessment and security controls will be explored.
+
+Learners will become familiar with the roles and responsibilities of an IT Security professional in relation to the management of risk and the conduct of related threat assessments. Emphasis will be placed on the importance of effectively assessing and making decisions to reduce risk.
+Cyber Law, Privacy and Ethics
+COMP 623
+Units/ Hours: 60
+As technology evolves, the laws governing privacy and its ethical usage must as well. Due to this changing legal landscape, cybersecurity professionals must have a clear and current understanding of cyber laws and their impact on privacy and ethics. This course introduces students to relevant laws in the cyber world, encouraging the exploration and examination of their own and organizations privacy during the digital transformation. Students will leave armed with the skills and knowledge to navigate this complex landscape while juggling the ethical challenges inherent to the field.
+Pre-Requisites
+Introduction to Cyber Trends and Digital Evidence (COMP 482)
+Communications I (COMM 201)
+Introduction to Networks
+COMP 525
+Units/ Hours: 60
+Computer networks have become the backbone of modern society, facilitating many of our day-to-day activities while constantly evolving to fit our needs. Although these networks may seem like magic, specialized computer hardware and protocols are working in unison to transmit our data around the world. This course provides a broad overview of computer networks, introducing students to essential networking devices, protocols, and security standards. Along the way, students will configure, manage, and maintain computer networks through experiential learning exercises, further developing their problem-solving and troubleshooting skills. Leaving the course, students will be equipped with the fundamental knowledge to pursue advanced computer networking concepts and in-demand industry certifications.
+Operating Systems II
+COMP  75
+Units/ Hours: 45
+Linux is consistently the operating system (OS) of choice, from cars and smartphones to servers and supercomputers. As an open-source project, Linux is flexible enough to satisfy various computing niches, yet it is still well-maintained thanks to the innovation and support from its dedicated community. This course expands upon students understanding of OS fundamentals, focusing on their presence within a Linux environment. Students will familiarize themselves with a comprehensive suite of advanced Linux utilities, facilitating system management, configuration, security, and troubleshooting through experiential learning exercises. Students leaving the course will be equipped with the practices and knowledge to utilize the full potential of Linux systems and pursue in-demand industry certifications.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Applications
+COMP 593
+Units/ Hours: 45
+Scripting Applications presents additional topics in Perl, Powershell and Python scripting. New scripting topics include subroutines, associative arrays, threads and child processes, socket programming and interfacing with SQL data bases. Scripting techniques are applied to various security related and other technical applications like log file analysis, password brute forcing, network scanning, windows registry access and process monitoring. Practical exercises are hosted on a mix of windows and linux platforms.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Fundamentals (COMP  86)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 3
+Delivery: In Person
+Computer and Network Security
+COMP  13
+Units/ Hours: 45
+Cybersecurity is a multi-billion-dollar industry, and it impacts us all. From social engineering scams targeting end-users to complex topics like encryption implementation, the work to secure digital infrastructure is endless and constantly evolving. This course is designed to establish baseline knowledge in the concepts, requirements, and operations of cybersecurity in a modern IT department. Students will understand different security treats and how to implement security safeguards effectively. Additionally, students will also gain an understanding for how cybersecurity integrates with other important business operations like physical security, governance and legal. This course maps to introductory industry certifications and will prepare students to complete the certification exam.
+Database Applications
+COMP 626
+Units/ Hours: 45
+Databases are an essential part of today's IT infrastructure, providing a flexible and scalable means for data to be efficiently stored and retrieved. Databases are not without their flaws, however, with poor implementations of them being vulnerable to injection and poisoning attacks. In this course, students will be introduced to the fundamentals of industry-standard database applications, their common vulnerabilities, and how to securely implement them in a business/IT environment. Students will leave the course with the skills to overcome database implementation challenges and the experience to properly utilize these applications during their careers.
+Pre-Requisites
+Scripting Applications (COMP 593)
+Emergency Management & Operational Security
+COMP  38
+Units/ Hours: 45
+Cyber attacks can happen anytime and anywhere; no one is safe. Although these attacks are inevitable, understanding how you can be attacked and preparing to respond to one are the best ways to protect yourself. This course will introduce students to the principles of both operational security and emergency management. By participating in threat modelling, designing emergency management procedures, and more, students may familiarize themselves with industry-standard practices and the intricacies of these topics. Students will leave the course with a firm grasp on operational security strategies and emergency management procedures, ready to pursue related industry certifications.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Applications (COMP 593)
+Concepts of Information Security and Risk Management (COMP 497)
+Cyber Law, Privacy and Ethics (COMP 623)
+Introduction to Networks (COMP 525)
+Internet Investigations
+COMP  51
+Units/ Hours: 45
+The internet contains a vast wealth of information. From obscure conspiracies to personal profiles, the internet truly has it all. In this course, students will leverage the capabilities of the internet to perform in-depth online investigations. Students will learn to utilize essential open-source intelligence resources, such as social media, search engines, and more, to compliment investigative techniques and platforms. Leaving the course, students will have a detailed understanding of industry-standard investigative processes, different investigative styles, and a toolkit of indispensable resources that will aid them during their careers.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+Operating Systems I (COMP  91)
+Concepts of Information Security and Risk Management (COMP 497)
+Cyber Law, Privacy and Ethics (COMP 623)
+Network Investigations and Packet Analysis
+COMP 631
+Units/ Hours: 60
+Just like computer systems, computer networks are an integral part of our day-to-day lives, with the internet excellently displaying their usefulness. These resources are essential, requiring diligent time and effort from cybersecurity professionals to effectively secure computer networks. This course introduces students to the core principles of computer network security, including network monitoring, network investigations, network scripting, and identifying/resolving network vulnerabilities. Students will leave the course experienced with securing traditional networks and will be able to begin pursuing in-demand industry certifications that require this pre-requisite knowledge.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+Wireless Security and Design
+COMP 630
+Units/ Hours: 60
+As we continue to embrace mobile and internet-of-things (IoT) technologies further, wireless computer networks are becoming even more desirable for personal and enterprise usage. Unlike a traditional network that transmits data over a wire, wireless networks rely on radio frequencies to broadcast data. This course introduces students to modern wireless network design and security challenges inherent to the wireless medium. Students will leave the course able to analyze wireless networks from a security perspective. Additionally, they will be equipped to pursue specialized industry certifications related to wireless security.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 4
+Delivery: In Person
+Agile Project Management
+COMP 596
+Units/ Hours: 45
+Agile Project Management (APM) has become an integral part of team work and It team structure in all aspect of Information technology, It is an Iterative approach to planning and guiding a project processes the students will be able to successfully implement agile methodologies and concept such as project envisioning, team velocity, users stories and advanced risk management. Students will also be able to apply all the learning by executing the acquired knowledge along with best practices to be able to deliver successful Information Technology project.
+Cloud Computing Provisioning
+COMP 595
+Units/ Hours: 45
+With networks speeds increasing and business needs ever-changing, cloud computing has established itself as the next frontier of modern computers. Due to the remote and flexible environment of cloud computing, a tailored approach to its security is necessary. This course introduces students to the concepts, practices, and logistics of cloud computing and cloud security. Students will manage and maintain cloud operating system configurations, access control, and virtualization through experiential learning exercises. As a result, students will have a strong understanding of cloud computing and the security considerations, preparing them for in-demand certifications and their future careers.
+Pre-Requisites
+Operating Systems II (COMP  75)
+Digital Investigation
+COMP  33
+Units/ Hours: 45
+Intentionally or not, our lives are shared with technology. From daily internet browsing to the photos on our phones, our digital identities have become as significant as their real-life counterparts. Due to this digital transformation, digital evidence has become increasingly valuable to law enforcement, private investigators, and corporations. This course will introduce students to the foundational resources, strategies, and practices used by digital investigators in the field. With an emphasis on digital identities, students will engage in experiential learning exercises, utilizing industry-standard technologies to perform real-world digital investigations. Students will leave the course prepared to tackle advanced investigative concepts and challenges inherent to the field.
+Pre-Requisites
+Operating Systems II (COMP  75)
+Internet Investigations (COMP  51)
+Info Management & Cryptography
+COMP  43
+Units/ Hours: 45
+In the modern and ever-evolving IT landscape, cryptography is an unsung hero. Invisible to the average user, cryptographic technologies work around the clock to facilitate private communications, crypto-currencies, origin authentication, and more. This course will introduce students to the core concepts of cryptography and their practical applications in industry-standard technologies. Students will uncover the significance of cryptography in trending applications, such as blockchain, through experiential learning exercises. Students will leave the course with a firm grasp of cryptography's presence and significance in information security, preparing them for in-demand industry certifications.
+Pre-Requisites
+Computer and Network Security (COMP  13)
+Scripting Applications (COMP 593)
+Operating Systems II (COMP  75)
+Intro to Pentesting & Intrusion Analysis
+COMP 265
+Units/ Hours: 45
+The best way to evaluate a security posture is to see it in action. Penetration tests (pentests) achieve this by emulating a real cyber-attack to identify security vulnerabilities. Encompassing numerous aspects of cybersecurity, pentests can be as complex as they are intriguing. This course introduces students to the foundational practices, strategies, and ethics of pentests. Through experiential learning exercises, students will utilize industry-standard tools to evaluate a controlled system's security posture, facilitating all phases of the cyber kill-chain. Due to the ethically gray line of pentests, students will also obtain a deep understanding of intrusion analysis by analyzing real-world cyber-attacks and the elements that made them attacks. Students will leave the course with a self-curated "Red Team" toolkit and respect for the ethics of pentests, preparing them for in-demand industry certifications and their future careers.
+Pre-Requisites
+Scripting Applications (COMP 593)
+Operating Systems II (COMP  75)
+Computer and Network Security (COMP  13)
+Network Analysis and Forensics
+COMP 625
+Units/ Hours: 45
+Our world is a connected place, and computer networks serve as the way we digitally communicate with others. From mobile devices to corporate networks, a computer network contains a wealth of information for a forensic examination. From analyzing mobile communications to troubleshooting complex network issues, a forensic examination of a network can have many applicable actions. Students will leave this course with an understanding of how to dive deep into networks, records, logs, and other information to aid in forensic and performance investigations.
+Working With Business and Industry
+ORGB  21
+Units/ Hours: 45
+This course examines and builds soft skills like self-awareness, interpersonal relations, motivation, small group dynamics, and conflict management in order to recognize and utilize appropriate tools and strategies. Learning how to recognize a personal inventory of skills and competencies will improve both the process and products of independent and team-based work. The development and application of these tools and strategies will prepare students in finding, obtaining and retaining a position within their chose career path.
+Semester 5
+Delivery: In Person
+Advanced Investigations
+COMP   3
+Units/ Hours: 45
+Every year businesses suffer significant economic loss from a variety of threats including intrusions, viruses, theft of data or loss of information.  In this course, students will learn about the technical aspects of the Internet and how it can be used as an investigative tool.  Students will conduct advanced responses to system compromises and Internet related crimes, including such activities as: searches, locate the origin of e-mail messages, track criminals operating on the Internet, investigate computer crime and intrusions, and consider personal computers as an extension of the crime scene.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Cyber Law, Privacy and Ethics (COMP 623)
+Digital Investigation (COMP  33)
+Advanced Pentesting
+COMP 357
+Units/ Hours: 45
+This class will immerse the student into an interactive environment where they will be shown how to expand upon the basic penetration skills learned in previous courses.  New skills will prepare students to scan, test, hack and secure their own systems. The lab intensive environment gives each student in-depth knowledge and practical experience on how to assess the risk to, and penetration test Linux and Windows networks, wireless networks, web servers and voip environments.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Computer Forensics
+COMP  20
+Units/ Hours: 45
+With Cybercrimes on the rise and threatening organizational data, the need for computer forensics has not been more important in today's computer world. Computer Forensics science is always moving as the devices and level of sophistication of today's computer, cloud, and mobile devices changes. In this course the students will continue to explore the forensics work and dig into all aspects of forensics from Collection, examination, analysis and reporting of Data, the course will allow the student many opportunities to explore real life simulated situations to prepare our students to the real-life forensics work in the field.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Cyber Law, Privacy and Ethics (COMP 623)
+Digital Investigation (COMP  33)
+Firewalls and Intrusion Detection
+COMP 232
+Units/ Hours: 45
+Firewalls and intrusion detection systems (IDS) are the dynamic duo of computer network security. While firewalls prevent malicious traffic from entering a network, IDSs notify users that a breach has occurred. Although each serves a distinct purpose, both require an understanding of networking protocols, network architecture, and variations of the technologies to successfully secure a network. This course expands students' understanding of firewalls and IDSs by analyzing the technologies' variations, implementations, and configurations through experiential-learning exercises. Leaving the course, students will be prepared for related industry certifications and ready to apply these practices and knowledge during their careers.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Security Architecture Data Management
+COMP  85
+Units/ Hours: 45
+For cybersecurity to be effective it must become part of what an organization does daily. Topics like security awareness and security by design have become normal for the business world, and security must be integrated into the architecture of the IT resources and services that are used daily. This course will introduce students to the processes for integrating security into the server environments that are used throughout the industry today. From on-premises to the cloud, students will design solutions that are resilient to all types of security threats as well as design measures to detect problems before they happen. The culmination of this course is an understanding of how to integrate security into an organization from the ground up, and the practical experiences to implement security tools.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Security Compliance and Incident Response
+COMP 624
+Units/ Hours: 60
+This course combines Security Compliance and Incident response to prepare our students to handle compliance and incident response to protect their organization and effectively deals with latest trends and threats. Compliance to security standards, regulations and laws allows stakeholders including customers and investors to be assured of an organization's Cyber preparedness. Security Compliance closely builds into the Governance and Risk aspects of Information Security.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Emergency Management & Operational Security (COMP  38)
+Semester 6
+Delivery: In Person
+Applied Project - CSI
+APST  11
+Units/ Hours: 350
+The course is offers two modes of experiential learning semester and has two optional implementations, one as an Applied Project and the other as a field Placement. In Applied Project, The students continue their learning with a project,
+which will be supplied during the first week of class. This is a team-based project which they will execute full time (no timetable) for an enterprise/community/ faculty sponsor. The second option is as a placement opportunity where the
+student will apply to companies offering placement positions and will compete to get those positions to gain experience working directly in the field and establishing their area of specialization.
+Pre-Requisites
+Firewalls and Intrusion Detection (COMP 232)
+Advanced Investigations (COMP   3)
+Advanced Pentesting (COMP 357)
+Security Architecture Data Management (COMP  85)
+Working With Business and Industry (ORGB  21)
+Computer Forensics (COMP  20)
+Courses and Descriptions
+Curriculum:  January 2026
+Semester 1
+Delivery: In Person
+Communications I for Business and IT Professionals
+COMM 257
+Units/ Hours: 45
+Communications I for Business and IT Professionals is an introductory course that provides a foundation in college-level communications. In this course, students learn to read critically, write appropriately for a variety of audiences, conduct research, cite references, revise for clarity and correctness, and present those results in various formats. In seminars, labs, and modules students will engage in both independent and collaborative activities, including the development and presentation of a research assignment to help them become more effective communicators in academic and professional contexts within the fields of Business and IT.
+Computer Hardware
+COMP 191
+Units/ Hours: 45
+Today, computers can take on a variety of forms, including household appliances, vehicles, and even human implants. Regardless of the devices shape, size, or complexity, however, a common factor between them all is the computer hardware. During this course students will obtain a foundational understanding of the core hardware components that makeup modern computers. Through experiential-learning exercises and involved experimentation, students will leave the course prepared for in-demand industry certifications and having taken their first steps into the information technology landscape.
+Introduction to Cyber Trends and Digital Evidence
+COMP 482
+Units/ Hours: 45
+As technology advances, so does cyber security. With exciting new developments in the field over recent years, it's essential that students are familiar with upcoming cyber trends and new avenues of digital evidence. This course will provide a broad overview of the field, introducing students to useful and current fascinating technologies.  Students will leave with a greater understanding of cyber security and digital evidence, its terminology, software utilities for security professionals, and the necessary knowledge to tackle more advanced topics.
+Mathematics for Computing I
+MATH 145
+Units/ Hours: 60
+This course will enable student to apply foundational math concepts and acquire mathematical skills related to computing based programs. Topic coverage will include algebra, number systems, engineering/scientific notation, and trigonometry. It is designed to complement and reinforce learning within other first semester courses.
+Operating Systems I
+COMP  91
+Units/ Hours: 45
+To truly utilize a system to its full extent, one must first become accustomed with the fundamental aspects of the operating system (OS). Hidden just beneath the surface of our desktops, the OS is the main driving force of every system, managing file systems, threads and processes, memory, and much more. In this course, students will be introduced to the fundamentals of OSs, their configuration processes, and how to securely maintain and implement them. Through experiential-learning exercises and involved experimentation, students will leave the course with a firm-grasp on OS troubleshooting, its operational procedures, and the knowledge to begin pursuing a variety of in-demand industry certifications.
+Scripting Fundamentals
+COMP  86
+Units/ Hours: 45
+At one point or another, we've all wished we could automate a monotonous or tedious task. With a scripting language, you can do that and more! This course will introduce students to the programming fundamentals that make up scripting languages. Through experiential-learning exercises with an industry-standard scripting language, students will leave with a foundational understanding of these languages in addition to the practices to use them effectively during their careers.
+Semester 2
+Delivery: In Person
+Concepts of Information Security and Risk Management
+COMP 497
+Units/ Hours: 45
+Organizations today face the huge task of protecting and securing their sensitive data and information technology operations at many levels. Each year thousands of new vulnerabilities are discovered and Billions of dollars are lost through malicious activity against corporate, government and private technological entities.
+
+In this course, Learners will be introduced to the core concepts of information security and protection; examine current threats and vulnerabilities and learn techniques to assess and manage risk in an information technology based environment. Using a common criteria methodology, Learners will analyze/demonstrate common system flaws, malware and control methods; and software for threat assessment and security controls will be explored.
+
+Learners will become familiar with the roles and responsibilities of an IT Security professional in relation to the management of risk and the conduct of related threat assessments. Emphasis will be placed on the importance of effectively assessing and making decisions to reduce risk.
+Cyber Law, Privacy and Ethics
+COMP 623
+Units/ Hours: 60
+As technology evolves, the laws governing privacy and its ethical usage must as well. Due to this changing legal landscape, cybersecurity professionals must have a clear and current understanding of cyber laws and their impact on privacy and ethics. This course introduces students to relevant laws in the cyber world, encouraging the exploration and examination of their own and organizations privacy during the digital transformation. Students will leave armed with the skills and knowledge to navigate this complex landscape while juggling the ethical challenges inherent to the field.
+Pre-Requisites
+Introduction to Cyber Trends and Digital Evidence (COMP 482)
+Communications I (COMM 201)
+Introduction to Networks
+COMP 525
+Units/ Hours: 60
+Computer networks have become the backbone of modern society, facilitating many of our day-to-day activities while constantly evolving to fit our needs. Although these networks may seem like magic, specialized computer hardware and protocols are working in unison to transmit our data around the world. This course provides a broad overview of computer networks, introducing students to essential networking devices, protocols, and security standards. Along the way, students will configure, manage, and maintain computer networks through experiential learning exercises, further developing their problem-solving and troubleshooting skills. Leaving the course, students will be equipped with the fundamental knowledge to pursue advanced computer networking concepts and in-demand industry certifications.
+Operating Systems II
+COMP  75
+Units/ Hours: 45
+Linux is consistently the operating system (OS) of choice, from cars and smartphones to servers and supercomputers. As an open-source project, Linux is flexible enough to satisfy various computing niches, yet it is still well-maintained thanks to the innovation and support from its dedicated community. This course expands upon students understanding of OS fundamentals, focusing on their presence within a Linux environment. Students will familiarize themselves with a comprehensive suite of advanced Linux utilities, facilitating system management, configuration, security, and troubleshooting through experiential learning exercises. Students leaving the course will be equipped with the practices and knowledge to utilize the full potential of Linux systems and pursue in-demand industry certifications.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Applications
+COMP 593
+Units/ Hours: 45
+Scripting Applications presents additional topics in Perl, Powershell and Python scripting. New scripting topics include subroutines, associative arrays, threads and child processes, socket programming and interfacing with SQL data bases. Scripting techniques are applied to various security related and other technical applications like log file analysis, password brute forcing, network scanning, windows registry access and process monitoring. Practical exercises are hosted on a mix of windows and linux platforms.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Fundamentals (COMP  86)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 3
+Delivery: In Person
+Computer and Network Security
+COMP  13
+Units/ Hours: 45
+Cybersecurity is a multi-billion-dollar industry, and it impacts us all. From social engineering scams targeting end-users to complex topics like encryption implementation, the work to secure digital infrastructure is endless and constantly evolving. This course is designed to establish baseline knowledge in the concepts, requirements, and operations of cybersecurity in a modern IT department. Students will understand different security treats and how to implement security safeguards effectively. Additionally, students will also gain an understanding for how cybersecurity integrates with other important business operations like physical security, governance and legal. This course maps to introductory industry certifications and will prepare students to complete the certification exam.
+Database Applications
+COMP 626
+Units/ Hours: 45
+Databases are an essential part of today's IT infrastructure, providing a flexible and scalable means for data to be efficiently stored and retrieved. Databases are not without their flaws, however, with poor implementations of them being vulnerable to injection and poisoning attacks. In this course, students will be introduced to the fundamentals of industry-standard database applications, their common vulnerabilities, and how to securely implement them in a business/IT environment. Students will leave the course with the skills to overcome database implementation challenges and the experience to properly utilize these applications during their careers.
+Pre-Requisites
+Scripting Applications (COMP 593)
+Emergency Management & Operational Security
+COMP  38
+Units/ Hours: 45
+Cyber attacks can happen anytime and anywhere; no one is safe. Although these attacks are inevitable, understanding how you can be attacked and preparing to respond to one are the best ways to protect yourself. This course will introduce students to the principles of both operational security and emergency management. By participating in threat modelling, designing emergency management procedures, and more, students may familiarize themselves with industry-standard practices and the intricacies of these topics. Students will leave the course with a firm grasp on operational security strategies and emergency management procedures, ready to pursue related industry certifications.
+Pre-Requisites
+Operating Systems I (COMP  91)
+Scripting Applications (COMP 593)
+Concepts of Information Security and Risk Management (COMP 497)
+Cyber Law, Privacy and Ethics (COMP 623)
+Introduction to Networks (COMP 525)
+Internet Investigations
+COMP  51
+Units/ Hours: 45
+The internet contains a vast wealth of information. From obscure conspiracies to personal profiles, the internet truly has it all. In this course, students will leverage the capabilities of the internet to perform in-depth online investigations. Students will learn to utilize essential open-source intelligence resources, such as social media, search engines, and more, to compliment investigative techniques and platforms. Leaving the course, students will have a detailed understanding of industry-standard investigative processes, different investigative styles, and a toolkit of indispensable resources that will aid them during their careers.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+Operating Systems I (COMP  91)
+Concepts of Information Security and Risk Management (COMP 497)
+Cyber Law, Privacy and Ethics (COMP 623)
+Network Investigations and Packet Analysis
+COMP 631
+Units/ Hours: 60
+Just like computer systems, computer networks are an integral part of our day-to-day lives, with the internet excellently displaying their usefulness. These resources are essential, requiring diligent time and effort from cybersecurity professionals to effectively secure computer networks. This course introduces students to the core principles of computer network security, including network monitoring, network investigations, network scripting, and identifying/resolving network vulnerabilities. Students will leave the course experienced with securing traditional networks and will be able to begin pursuing in-demand industry certifications that require this pre-requisite knowledge.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+Wireless Security and Design
+COMP 630
+Units/ Hours: 60
+As we continue to embrace mobile and internet-of-things (IoT) technologies further, wireless computer networks are becoming even more desirable for personal and enterprise usage. Unlike a traditional network that transmits data over a wire, wireless networks rely on radio frequencies to broadcast data. This course introduces students to modern wireless network design and security challenges inherent to the wireless medium. Students will leave the course able to analyze wireless networks from a security perspective. Additionally, they will be equipped to pursue specialized industry certifications related to wireless security.
+Pre-Requisites
+Introduction to Networks (COMP 525)
+General Education Elective
+Units/ Hours: 45
+All graduates of diploma programs
+require general education credits
+. These courses allow you to explore issues of societal concern by looking at the history, theory and contemporary applications of those issues.
+Your program has designated some required general education courses. In addition, you have the opportunity to
+choose from a list of electives
+each semester.
+Many of these courses and some other general education courses are also available through evening classes, by distance education, or on-line. See our Part-Time Studies Calendar for these opportunities.
+You may already possess general education equivalencies from other colleges or universities. Please see the General Education Co-ordinators at the Peterborough and Lindsay locations for possible exemptions.
+Semester 4
+Delivery: In Person
+Agile Project Management
+COMP 596
+Units/ Hours: 45
+Agile Project Management (APM) has become an integral part of team work and It team structure in all aspect of Information technology, It is an Iterative approach to planning and guiding a project processes the students will be able to successfully implement agile methodologies and concept such as project envisioning, team velocity, users stories and advanced risk management. Students will also be able to apply all the learning by executing the acquired knowledge along with best practices to be able to deliver successful Information Technology project.
+Cloud Computing Provisioning
+COMP 595
+Units/ Hours: 45
+With networks speeds increasing and business needs ever-changing, cloud computing has established itself as the next frontier of modern computers. Due to the remote and flexible environment of cloud computing, a tailored approach to its security is necessary. This course introduces students to the concepts, practices, and logistics of cloud computing and cloud security. Students will manage and maintain cloud operating system configurations, access control, and virtualization through experiential learning exercises. As a result, students will have a strong understanding of cloud computing and the security considerations, preparing them for in-demand certifications and their future careers.
+Pre-Requisites
+Operating Systems II (COMP  75)
+Digital Investigation
+COMP  33
+Units/ Hours: 45
+Intentionally or not, our lives are shared with technology. From daily internet browsing to the photos on our phones, our digital identities have become as significant as their real-life counterparts. Due to this digital transformation, digital evidence has become increasingly valuable to law enforcement, private investigators, and corporations. This course will introduce students to the foundational resources, strategies, and practices used by digital investigators in the field. With an emphasis on digital identities, students will engage in experiential learning exercises, utilizing industry-standard technologies to perform real-world digital investigations. Students will leave the course prepared to tackle advanced investigative concepts and challenges inherent to the field.
+Pre-Requisites
+Operating Systems II (COMP  75)
+Internet Investigations (COMP  51)
+Info Management & Cryptography
+COMP  43
+Units/ Hours: 45
+In the modern and ever-evolving IT landscape, cryptography is an unsung hero. Invisible to the average user, cryptographic technologies work around the clock to facilitate private communications, crypto-currencies, origin authentication, and more. This course will introduce students to the core concepts of cryptography and their practical applications in industry-standard technologies. Students will uncover the significance of cryptography in trending applications, such as blockchain, through experiential learning exercises. Students will leave the course with a firm grasp of cryptography's presence and significance in information security, preparing them for in-demand industry certifications.
+Pre-Requisites
+Computer and Network Security (COMP  13)
+Scripting Applications (COMP 593)
+Operating Systems II (COMP  75)
+Intro to Pentesting & Intrusion Analysis
+COMP 265
+Units/ Hours: 45
+The best way to evaluate a security posture is to see it in action. Penetration tests (pentests) achieve this by emulating a real cyber-attack to identify security vulnerabilities. Encompassing numerous aspects of cybersecurity, pentests can be as complex as they are intriguing. This course introduces students to the foundational practices, strategies, and ethics of pentests. Through experiential learning exercises, students will utilize industry-standard tools to evaluate a controlled system's security posture, facilitating all phases of the cyber kill-chain. Due to the ethically gray line of pentests, students will also obtain a deep understanding of intrusion analysis by analyzing real-world cyber-attacks and the elements that made them attacks. Students will leave the course with a self-curated "Red Team" toolkit and respect for the ethics of pentests, preparing them for in-demand industry certifications and their future careers.
+Pre-Requisites
+Scripting Applications (COMP 593)
+Operating Systems II (COMP  75)
+Computer and Network Security (COMP  13)
+Network Analysis and Forensics
+COMP 625
+Units/ Hours: 45
+Our world is a connected place, and computer networks serve as the way we digitally communicate with others. From mobile devices to corporate networks, a computer network contains a wealth of information for a forensic examination. From analyzing mobile communications to troubleshooting complex network issues, a forensic examination of a network can have many applicable actions. Students will leave this course with an understanding of how to dive deep into networks, records, logs, and other information to aid in forensic and performance investigations.
+Working With Business and Industry
+ORGB  21
+Units/ Hours: 45
+This course examines and builds soft skills like self-awareness, interpersonal relations, motivation, small group dynamics, and conflict management in order to recognize and utilize appropriate tools and strategies. Learning how to recognize a personal inventory of skills and competencies will improve both the process and products of independent and team-based work. The development and application of these tools and strategies will prepare students in finding, obtaining and retaining a position within their chose career path.
+Semester 5
+Delivery: In Person
+Advanced Investigations
+COMP   3
+Units/ Hours: 45
+Every year businesses suffer significant economic loss from a variety of threats including intrusions, viruses, theft of data or loss of information.  In this course, students will learn about the technical aspects of the Internet and how it can be used as an investigative tool.  Students will conduct advanced responses to system compromises and Internet related crimes, including such activities as: searches, locate the origin of e-mail messages, track criminals operating on the Internet, investigate computer crime and intrusions, and consider personal computers as an extension of the crime scene.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Cyber Law, Privacy and Ethics (COMP 623)
+Digital Investigation (COMP  33)
+Advanced Pentesting
+COMP 357
+Units/ Hours: 45
+This class will immerse the student into an interactive environment where they will be shown how to expand upon the basic penetration skills learned in previous courses.  New skills will prepare students to scan, test, hack and secure their own systems. The lab intensive environment gives each student in-depth knowledge and practical experience on how to assess the risk to, and penetration test Linux and Windows networks, wireless networks, web servers and voip environments.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Computer Forensics
+COMP  20
+Units/ Hours: 45
+With Cybercrimes on the rise and threatening organizational data, the need for computer forensics has not been more important in today's computer world. Computer Forensics science is always moving as the devices and level of sophistication of today's computer, cloud, and mobile devices changes. In this course the students will continue to explore the forensics work and dig into all aspects of forensics from Collection, examination, analysis and reporting of Data, the course will allow the student many opportunities to explore real life simulated situations to prepare our students to the real-life forensics work in the field.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Cyber Law, Privacy and Ethics (COMP 623)
+Digital Investigation (COMP  33)
+Firewalls and Intrusion Detection
+COMP 232
+Units/ Hours: 45
+Firewalls and intrusion detection systems (IDS) are the dynamic duo of computer network security. While firewalls prevent malicious traffic from entering a network, IDSs notify users that a breach has occurred. Although each serves a distinct purpose, both require an understanding of networking protocols, network architecture, and variations of the technologies to successfully secure a network. This course expands students' understanding of firewalls and IDSs by analyzing the technologies' variations, implementations, and configurations through experiential-learning exercises. Leaving the course, students will be prepared for related industry certifications and ready to apply these practices and knowledge during their careers.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Security Architecture Data Management
+COMP  85
+Units/ Hours: 45
+For cybersecurity to be effective it must become part of what an organization does daily. Topics like security awareness and security by design have become normal for the business world, and security must be integrated into the architecture of the IT resources and services that are used daily. This course will introduce students to the processes for integrating security into the server environments that are used throughout the industry today. From on-premises to the cloud, students will design solutions that are resilient to all types of security threats as well as design measures to detect problems before they happen. The culmination of this course is an understanding of how to integrate security into an organization from the ground up, and the practical experiences to implement security tools.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Intro to Pentesting & Intrusion Analysis (COMP 265)
+Digital Investigation (COMP  33)
+Security Compliance and Incident Response
+COMP 624
+Units/ Hours: 60
+This course combines Security Compliance and Incident response to prepare our students to handle compliance and incident response to protect their organization and effectively deals with latest trends and threats. Compliance to security standards, regulations and laws allows stakeholders including customers and investors to be assured of an organization's Cyber preparedness. Security Compliance closely builds into the Governance and Risk aspects of Information Security.
+Pre-Requisites
+Info Management & Cryptography (COMP  43)
+Emergency Management & Operational Security (COMP  38)
+Semester 6
+Delivery: In Person
+Applied Project - CSI
+APST  11
+Units/ Hours: 350
+The course is offers two modes of experiential learning semester and has two optional implementations, one as an Applied Project and the other as a field Placement. In Applied Project, The students continue their learning with a project,
+which will be supplied during the first week of class. This is a team-based project which they will execute full time (no timetable) for an enterprise/community/ faculty sponsor. The second option is as a placement opportunity where the
+student will apply to companies offering placement positions and will compete to get those positions to gain experience working directly in the field and establishing their area of specialization.
+Pre-Requisites
+Firewalls and Intrusion Detection (COMP 232)
+Advanced Investigations (COMP   3)
+Advanced Pentesting (COMP 357)
+Security Architecture Data Management (COMP  85)
+Working With Business and Industry (ORGB  21)
+Computer Forensics (COMP  20)

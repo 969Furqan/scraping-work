@@ -1,0 +1,54 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/energysystemstechnologyandeducationcenter/btc-instrumentation-and-automation-assistant/
+B.T.C. Instrumentation and Automation Assistant
+(1 Year)
+Objective:
+To prepare students as entry-level technician and maintenance assistants to meet the needs of the electrical and process industry.
+Employers include food processing, mining, semiconductor, chemical, paper, steel, petroleum, utilities and manufacturing industries. Graduates will have theoretical knowledge and hands-on experience setting up and calibrating electronic devices that measure and control temperature, level, flow, pressure, motion, force, humidity and acidity.
+Graduates will be able to troubleshoot single and three phase motor controls, basic variable frequency drives, programmable logic controllers, sensors, relays, timers, solenoids, and other automation devices.
+Course List
+Code
+Title
+Credits
+Required Courses:
+ESET 1103
+Introduction to Electronics Theory
+1
+ESET 1103L
+Introduction to Electronics Lab
+1
+ESET 1104
+DC Electronics Principles Theory
+2
+ESET 1104L
+DC Electronics Principles Lab
+2
+ESET 1105
+AC Electronics Principles Theory
+4
+ESET 1105L
+AC Electronics Principles Lab
+2
+INST 1140
+Introduction to Motors and Motor Control Theory
+2
+INST 2220
+Introduction to Programmable Logic Controllers
+3
+INST 2240
+Theory
+2
+INST 2242
+Theory
+2
+INST 2251
+Laboratory
+1
+INST 2253
+Laboratory
+1
+INST 2254
+Laboratory
+1
+Total Credits
+24
+Major Academic Plan (MAP)

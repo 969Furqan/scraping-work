@@ -1,0 +1,588 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/electronic-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Master’s Degree in Electronic Engineering provides advanced training in the design, development, and management of systems, products, applications, and services in the fields of electronics, signal processing and transmission, including in space environments, and photonics.
+The program emphasizes methodological aspects and generalizes the theoretical frameworks introduced during the Bachelor's Degree. This approach enables graduates to analyze and solve “new” problems that are not specifically addressed in the course but arise due to the ongoing scientific and technological evolution in their careers.
+The educational path also offers specific competencies in the use of modern experimental tools, numerical simulation, and design techniques, which are widely used for problem analysis in advanced electronic engineering. Most of the coursework is conducted in English, and the program attracts a diverse international student body, creating a multicultural learning environment.
+Overview of the program
+Duration
+2 years
+Credits
+120
+Coordinator of the course
+Fabio Dell'acqua
+Area
+Engineering
+Access
+Open
+Language
+English
+Degree class
+LM-29 - Electronic engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso MICROELECTRONICS
+Percorso PHOTONICS
+Percorso SPACE COMMUNICATION AND SENSING
+Year of study:
+1
+Compulsory
+ADVANCED MATHEMATICAL AND NUMERICAL METHODS FOR ENGINEERS
+9
+							CFU -
+							 70 							hours
+1st semester
+ANALOG INTEGRATED CIRCUITS
+9
+							CFU -
+							 88 							hours
+1st semester
+DIGITAL IC DESIGN
+6
+							CFU -
+							 56 							hours
+2nd semester
+ELECTRONIC INSTRUMENTATION AND TECHNOLOGIES
+9
+							CFU -
+							 76 							hours
+2nd semester
+INTEGRATED CIRCUIT DEVICES
+9
+							CFU -
+							 77 							hours
+1st semester
+INTRODUCTION TO QUANTUM MECHANICS
+3
+							CFU -
+							 23 							hours
+1st semester
+MICROWAVES
+9
+							CFU -
+							 86 							hours
+2nd semester
+RF MICROELECTRONICS
+9
+							CFU -
+							 82 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+ANALOG-DIGITAL INTERFACE CIRCUITS
+6
+							CFU -
+							 51 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+Choose a subject (6 CFU)
+ANTENNAS
+6
+							CFU -
+							 60 							hours
+ELECTRO-OPTICAL INSTRUMENTATION
+6
+							CFU -
+							 52 							hours
+INTEGRATED POWER MANAGEMENT
+6
+							CFU -
+							 46 							hours
+Choose a subject (6 CFU)
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+STATISTICAL SIGNAL PROCESSING
+6
+							CFU -
+							 45 							hours
+Choose a subject (3 CFU)
+ADVANCED TOPICS IN MICROWAVE TECHNOLOGIES
+3
+							CFU -
+							 23 							hours
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL TOPICS IN MICROELECTRONICS AND PHOTONICS
+3
+							CFU -
+							 28 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+CUBESATS AND SMALLSATS FOR EARTH OBSERVATION
+3
+							CFU -
+							 23 							hours
+DIGITAL COMMUNICATIONS
+6
+							CFU -
+							 54 							hours
+ELECTRO-OPTICAL INSTRUMENTATION
+6
+							CFU -
+							 52 							hours
+THE CLASS IS CONCERNED WITH THE DESIGN GROUND-UP OF A MICROCONTROLLER BOARD, FROM THE HARDWARE CHOICES TO THE FIRMWARE IMPLEMENTATION. FOCUS IS MORE ON SOFTWARE THAN HARDWARE
+6
+							CFU -
+							 45 							hours
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 68 							hours
+INTEGRATED PHOTONIC CIRCUITS
+6
+							CFU -
+							 55 							hours
+INTEGRATED POWER MANAGEMENT
+6
+							CFU -
+							 46 							hours
+INTERNET AND MULTIMEDIA
+6
+							CFU -
+							 46 							hours
+INTRODUCTION TO QUANTUM TECHNOLOGIES
+3
+							CFU -
+							 23 							hours
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+MACHINE LEARNING FOR EARTH OBSERVATION DATA PROCESSING AND FUSION
+3
+							CFU -
+							 44 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+MICROWAVE MEASUREMENTS
+6
+							CFU -
+							 58 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+SATELLITE AND SPACE SYSTEMS
+6
+							CFU -
+							 49 							hours
+SATELLITE DATA ANALYSIS
+6
+							CFU -
+							 45 							hours
+BIOMEDICAL INSTRUMENTATION LM
+6
+							CFU -
+							 66 							hours
+THERMAL MANAGEMENT FOR INDUSTRIAL AND SPACE APPLICATIONS
+6
+							CFU -
+							 60 							hours
+UAV AND SENSORS FOR PRECISION AGRICULTURE
+3
+							CFU -
+							 23 							hours
+Year of study:
+1
+Compulsory
+ADVANCED MATHEMATICAL AND NUMERICAL METHODS FOR ENGINEERS
+9
+							CFU -
+							 70 							hours
+1st semester
+DIGITAL COMMUNICATIONS
+6
+							CFU -
+							 54 							hours
+2nd semester
+INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM TECHNOLOGIES
+6
+							CFU -
+							 45 							hours
+1st semester
+MICROWAVES
+9
+							CFU -
+							 86 							hours
+2nd semester
+OPTICAL COMMUNICATIONS
+9
+							CFU -
+							 77 							hours
+2nd semester
+OPTOELECTRONIC DEVICES
+9
+							CFU -
+							 82 							hours
+1st semester
+QUANTUM ELECTRONICS AND NONLINEAR OPTICS
+9
+							CFU -
+							 94 							hours
+2nd semester
+Choose a subject
+ANTENNAS
+6
+							CFU -
+							 60 							hours
+1st semester
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+1st semester
+Year of study:
+2
+Compulsory
+ELECTRO-OPTICAL INSTRUMENTATION
+6
+							CFU -
+							 52 							hours
+INDUSTRIAL LASER DESIGN
+6
+							CFU -
+							 45 							hours
+INTEGRATED PHOTONIC CIRCUITS
+6
+							CFU -
+							 55 							hours
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+Choose a subject (3 CFU)
+ADVANCED TOPICS IN MICROWAVE TECHNOLOGIES
+3
+							CFU -
+							 23 							hours
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL TOPICS IN MICROELECTRONICS AND PHOTONICS
+3
+							CFU -
+							 28 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+ANALOG-DIGITAL INTERFACE CIRCUITS
+6
+							CFU -
+							 51 							hours
+ANTENNAS AND PROPAGATION
+9
+							CFU -
+							 80 							hours
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+CUBESATS AND SMALLSATS FOR EARTH OBSERVATION
+3
+							CFU -
+							 23 							hours
+HYPERSPECTRAL DATA PROCESSING
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 68 							hours
+INTERNET AND MULTIMEDIA
+6
+							CFU -
+							 46 							hours
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+MACHINE LEARNING FOR EARTH OBSERVATION DATA PROCESSING AND FUSION
+3
+							CFU -
+							 44 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+MICROWAVE MEASUREMENTS
+6
+							CFU -
+							 58 							hours
+BIOMEDICAL OPTOELECTRONICS
+6
+							CFU -
+							 46 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+RETRIEVAL OF BIOPHYSICAL PARAMETERS FROM OPTICAL AND RADAR DATA
+3
+							CFU -
+							 23 							hours
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+SAR DIFFERENTIAL INTERFEROMETRY AND TOMOGRAPHY
+3
+							CFU -
+							 23 							hours
+SATELLITE AND SPACE SYSTEMS
+6
+							CFU -
+							 49 							hours
+SATELLITE DATA ANALYSIS
+6
+							CFU -
+							 45 							hours
+BIOMEDICAL INSTRUMENTATION LM
+6
+							CFU -
+							 66 							hours
+UAV AND SENSORS FOR PRECISION AGRICULTURE
+3
+							CFU -
+							 23 							hours
+Year of study:
+1
+Compulsory
+ADVANCED MATHEMATICAL AND NUMERICAL METHODS FOR ENGINEERS
+9
+							CFU -
+							 70 							hours
+1st semester
+ANTENNAS AND PROPAGATION
+9
+							CFU -
+							 80 							hours
+1st semester
+DIGITAL COMMUNICATIONS
+6
+							CFU -
+							 54 							hours
+2nd semester
+INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM TECHNOLOGIES
+6
+							CFU -
+							 45 							hours
+1st semester
+MICROWAVES
+9
+							CFU -
+							 86 							hours
+2nd semester
+SATELLITE DATA ANALYSIS
+9
+							CFU -
+							 68 							hours
+1st semester
+STATISTICAL SIGNAL PROCESSING
+6
+							CFU -
+							 45 							hours
+2nd semester
+Choose a subject
+OPTICAL COMMUNICATIONS
+9
+							CFU -
+							 77 							hours
+2nd semester
+RF MICROELECTRONICS
+9
+							CFU -
+							 82 							hours
+2nd semester
+Year of study:
+2
+Compulsory
+MASTER THESIS
+24
+							CFU -
+							 0 							hours
+MICROWAVE MEASUREMENTS
+6
+							CFU -
+							 58 							hours
+SATELLITE AND SPACE SYSTEMS
+6
+							CFU -
+							 60 							hours
+WIRED AND WIRELESS COMMUNICATION SYSTEMS
+6
+							CFU -
+							 45 							hours
+Scegli un insegnamento (3 CFU)
+ADVANCED TOPICS IN MICROWAVE TECHNOLOGIES
+3
+							CFU -
+							 23 							hours
+ENVIRONMENTAL ETHICS
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL TOPICS IN MICROELECTRONICS AND PHOTONICS
+3
+							CFU -
+							 28 							hours
+ITALIAN LANGUAGE FOR FOREIGN STUDENTS
+3
+							CFU -
+							 23 							hours
+PLANNING, MANAGEMENT AND SUPPLY OF GOODS AND SERVICES
+3
+							CFU -
+							 23 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+APPLIED BIOELECTROMAGNETISM
+6
+							CFU -
+							 49 							hours
+CUBESATS AND SMALLSATS FOR EARTH OBSERVATION
+3
+							CFU -
+							 23 							hours
+ELECTRO-OPTICAL INSTRUMENTATION
+6
+							CFU -
+							 52 							hours
+HYPERSPECTRAL DATA PROCESSING
+3
+							CFU -
+							 23 							hours
+INDUSTRIAL CONTROL
+6
+							CFU -
+							 68 							hours
+INTERNET AND MULTIMEDIA
+6
+							CFU -
+							 46 							hours
+INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM TECHNOLOGIES
+6
+							CFU -
+							 45 							hours
+LASER SAFETY
+6
+							CFU -
+							 45 							hours
+MACHINE LEARNING FOR EARTH OBSERVATION DATA PROCESSING AND FUSION
+3
+							CFU -
+							 44 							hours
+MICROSENSORS, INTEGRATED MICROSYSTEMS AND MEMS
+6
+							CFU -
+							 46 							hours
+ORGANIZATION THEORY AND DESIGN
+6
+							CFU -
+							 50 							hours
+PROCESS CONTROL
+6
+							CFU -
+							 45 							hours
+PROCESSING OF MULTI-FREQUENCY SAR IMAGES
+3
+							CFU -
+							 23 							hours
+REMOTE SENSING FOR WATER APPLICATIONS
+3
+							CFU -
+							 23 							hours
+REMOTE SENSING FOR WILDFIRE APPLICATIONS
+3
+							CFU -
+							 23 							hours
+RETRIEVAL OF BIOPHYSICAL PARAMETERS FROM OPTICAL AND RADAR DATA
+3
+							CFU -
+							 23 							hours
+ROBOT CONTROL
+6
+							CFU -
+							 45 							hours
+SAR DIFFERENTIAL INTERFEROMETRY AND TOMOGRAPHY
+3
+							CFU -
+							 23 							hours
+BIOMEDICAL INSTRUMENTATION LM
+6
+							CFU -
+							 66 							hours
+UAV AND SENSORS FOR PRECISION AGRICULTURE
+3
+							CFU -
+							 23 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Master of Science in Electronic Engineering is aimed to train professionals who want to pursue an advanced knowledge of the theoretical and scientific aspects of the engineering disciplines related to this specific field , thus being able to identify, understand, formulate and solve - in an innovative way - the main, and even complex  problems, typically encountered in electronics, photonics and telecommunications. Classes are taught in English, which is the universal language in the electronic field. This graduate engineer will be able to carry on a bright professional career, thanks to his/her flexibility and capability to stay always updated about the technology evolution, in an English-speaking, international  job market. The acquired background will give him/her the capability to carry on scientific research in outstanding national and international institutions. To ensure these results, graduate studies in Electronic Engineering are devoted to further improve the knowledge in the theoretical and practical disciplines previously earned with the undergraduate degree, but also to update the student with the most recent technologies. In this way, the acquired skills will be in line with the state of the art developments in the ICT world and will provide the engineer with a good qualification for addressing new problems with great confidence and for continuously renovating his/her expertise. At the same time, by following this graduate program the student will acquire great skills in the use of simulation and experimental tools that are used in an advanced approach for solving electronic engineering problems. This educational objective is realized thanks to the presence of research laboratories and of scientific collaborations with electronics industries: all these features contribute to create the ideal environment to prepare, educate, and train high profile professionals able to immediately enter into the world of industrial research and development. In the training, particular emphasis will be given to provide strong methodological bases and great engineering expertise in the field of advanced design as well as of development, production and management of manufacturing and service activities, with regard to:
+- Microelectronic circuits and systems, also suitable for operation in the microwaves and radio frequencies;
+- Electronic and electro-optics instrumentation;
+- Optoelectronic devices and systems;
+- Telecommunications systems and remote sensing.
+In order to better accomplish the training of the graduate electronic engineer, the program will include advanced courses in Electronics and Electromagnetic Fields. Other mandatory activities will cover Mathematics and Electrical Communications whereas elective classes, including Physics of Matter, advanced Electrical Communications, advanced topics in Electronics, will treat in more depth specific topics or address specific applications.
+Career opportunities
+Many companies are interested in professionals who can actively participate in developing innovative processes involving the production or supply of services and the advanced design of systems and their management. The Master’s programme in Electronics Engineering goes a long way toward meeting these needs by educating electronics engineers with a high-level professional profile who can immediately enter the working world, prepared not only to understand but above all to promote innovations. The most evident opportunities are in the manufacturing industries, in particular with regard to electronic components, devices and systems, even with a high degree of integration and miniaturization (microelectronics), opto-electronic components and devices, telecommunications equipment and systems, industrial and measurement instruments, and, in general, all those industrial sectors that apply electronic, electro-optical and electromagnetic technologies for their product innovation. In addition to manufacturing firms, other possible career opportunities are with public and private service firms, where, along with the demand for technical competencies, there is a need for managerial and production organization capacities.  Lombardy has one of the greatest industrial concentrations in Europe as well as many service sector firms. Some of the main Italian electronics, instrumentation, telecommunications and transport companies, along with the Italian branches of the main multinational firms in the sector, have their offices here. In Pavia, in addition to small- and medium-size electronics and telecommunications equipment and systems firms, and automatics and robotics firms, in recent years several microelectronic design centers for important multinational semiconductor firms have begun operating (STMicroelectronics, International Rectivers, Austrianmicrosystems, Marvell and – in the immediate vicinity of Pavia – Maxim and National Semiconductors).  Of note is the fact that for 10 years STMicroelecronics has maintained a research center on the university campus with its own personnel that support high-level training which aims, among other things, at the training and subsequent recruitment of highly-qualified engineers with specific professional competencies in the high-quality design of integrated microelectronic systems. Other sectors with employment possibilities are the opto-electronic systems and equipment and telecommunications industries.  Employment possibilities are favored in these sectors as well by well-established avenues for research collaboration.
+Admission requirements
+To be admitted to the master's degree course, the student must be in possession of a degree (including that obtained according to the regulations previously in force in Ministerial Decree 509/1999 and subsequent amendments and additions) or a three-year university diploma, or another qualification studies obtained abroad, recognized as suitable by the competent bodies of the University. Admission also requires the possession of curricular requirements and the adequacy of the student's initial preparation. Access to the master's degree in Electronic Engineering presupposes solid knowledge in engineering disciplines, with good preparation in the basic subjects and specific subjects in the field of electronics, electromagnetic fields and telecommunications. These skills are specified by the teaching regulations of the master's degree course in terms of curricular requirements, through the definition of the minimum number of university training credits (CFU) that the candidate must have acquired in his previous career, referring to the various training activities envisaged by the current legislation and to individual scientific-disciplinary sectors and/or groups of scientific-disciplinary sectors, and recognized as suitable by the Teaching Council. To access the master's degree, the student must also be able to use the English language fluently, in written and oral form, also with reference to disciplinary lexicons; the level of knowledge required will be explained in the teaching regulations of the master's degree course and will refer to the levels of competence indicated in the Common European Framework drawn up by the Council of Europe. Admission to the Master's Degree Course is also subject to verification of the adequacy of the candidate's personal preparation, with criteria and methods established by the Faculty Council upon proposal of the Teaching Council.
+Academic Regulation
+Academic Regulation
+Useful information
+How to apply
+Course website
+Admission requirements
+FAQ
+Watch the tutorial
+Incoming transfer
+Contacts
+Fees and funding
+Student Portal

@@ -1,0 +1,89 @@
+Source: https://cs.mst.edu/graduate-degrees/
+
+Graduate Degrees and Certificates
+Master of Science and Doctorate of Philosophy in Computer Science
+The computer science department offers a Master of Science and Doctorate of Philosophy, as well as a number of graduate certificates.
+The computer science department offers comprehensive M.S. and Ph.D. degree programs that focus on computer network security, software engineering, web databases, wireless systems, intelligent systems, data mining, parallel and distributed processing pervasive computing, computer networks, scientific visualization, and algorithms. These research activities support the department’s two major areas of excellence: software engineering and critical infrastructure protection.
+Graduate Coordinator
+Office:
+325 Computer Science Building
+Phone:
+573-341-4491
+Email:
+csgradcoord@mst.edu
+Catalog information
+The computer science program offers graduate programs of study which lead to the M.S. degree (thesis and non-thesis options), the Ph.D. degree.
+For more information, check out the university catalog:
+Graduate Degree in Computer Science
+Graduate Degrees
+Master of Science
+Master of Science in Computer Science
+Doctor of Philosophy
+Doctor of Philosophy in Computer Science
+Graduate Certificates in Computer Science
+Interested in furthering your education and knowledge of computer science? The computer science department offers a number of graduate certificates. Courses can be taken online, and are taught by experts in their chosen field. And if you decide to pursue a Master of Science in computer science, all of the computer science certificate courses you complete will count towards your degree.
+Note: No course can be used to satisfy the requirements for more than one certificate.
+Big Data Management & Analytics
+Big Data Management and Security
+Computational Intelligence
+Cyber-Security
+Information Systems and Cloud Computing
+Wireless Networks and Mobile Systems
+Graduate Research
+As a graduate student, you’ll do research alongside expert computer science faculty in the areas of distributed embedded systems, machine learning, data mining, and software engineering. Or you can choose the interdisciplinary route, doing research beside faculty in various engineering disciplines. In fact, Computer Science graduate students often work in large group settings with faculty from departments across campus, examining advanced research problems in bio-informatics, homeland security, embedded systems, and virtual reality. Cooperation between students and faculty at this advanced level is a hallmark of the computer science research program.
+Learn more about our Research
+Securing an Advisor
+Master's degree - Thesis/Non-thesis
+There are two options in the Master program (thesis option and non-thesis option). The non-thesis option requires coursework only, while the thesis option requires a thesis  with your research advisor with less course work.
+Both options are equally considered for admission without preference or priority. For the thesis option, procedure of how to secure an advisor and seek his or her confirmation is the same as that of PhD (see PhD requirements below). Master students may change the degree option at any time during the study.
+Doctoral degree
+The most important thing for PhD admission is to secure your tentative advisor, even before you formally apply (individual contact as stated below). View the department's
+faculty directory
+to review each faculty member's research areas and identify your potential PhD advisor. Contact the faculty member by email with your portfolio (CV, transcript, publication, etc.). If he or she is willing to serve as your PhD advisor, seek confirmation.
+Once you have a confirmation, ask for a Recommendation Letter from your potential advisor and specify your potential advisor in your Statement of Purpose to be part of your application package. Please note that the confirmation to serve as your advisor does not mean you’ll be automatically offered a financial assistantship. You need to ask the advisor about the availability of assistantship (see the link to “Graduate Degree Funding”).
+You may  apply formally for PhD without this procedure of securing the advisor. We will circulate your application materials to faculty members to see if someone is interested in serving as your advisor. If you are applying for the PhD program without a MS degree (directly from BS) and without securing an advisor, we may still admit you as an MS to be able to convert to PhD within 2-3 semesters (all your credits are then counted toward PhD). During this period, you interact with faculty and demonstrate your aptitude for PhD.
+Graduate Degree Funding
+At Missouri S&T we value our graduate students. Graduate students have funding opportunities available in addition to
+scholarships
+. In our commitment to your education, we've put together several funding opportunities to help make your degree an excellent return on investment.
+Take a look at what we have to offer
+.
+Graduate Assistantship Information
+There are three major mechanisms of assistantship for graduate students in Computer Science: Graduate Research Assistants (GRA), Graduate Teaching Assistants (GRA) and Fellowship. There are also Grader positions based on hourly rate wages. Students can be appointed as GRA or GTA by any rate up to 50% FTE (Full-Time Equivalent), which is the maximum part-time employment rate for students (100% represents the full-time job). Monthly wage for 50% FTE is approximately $2,000, which is proportional to the % FTE (e.g. $400 for 10% FTE). The student’s out-of-state tuition is waived if the student is offered at least a 25% FTE or higher.
+Graduate Research Assistantship (GRA)
+This assistantship is to support students by contributing to a faculty members’ research. If a GRA is offered, the out-of-state tuition is waived (if higher than 25% FTE) and the monthly wage is provided according to % FTE. Students may contact individual faculty members with materials (CVs, publication, etc.) preferably before application to demonstrate their qualification and competency in the interested research areas. The faculty member may offer a GRA position with admission if the student is qualified and funding is available. Or it may be offered anytime with continued interactions with faculty members during study in the Computer Science program.
+Graduate Teaching Assistantship (GTA)
+GTAs are normally required to teach undergraduate-level laboratory courses. If a GTA is offered, the out-of-state tuition is waived (if higher than 25% FTE) and the monthly wage is provided according to % FTE. The department appoints GTAs every semester. Students apply for the GTA positions several months earlier than the start of class to teach, pass the communication test (non-native speakers only) and are selected by the department. Therefore, new incoming students are typically not eligible for the GTA position during the first semester.
+Grader
+This mechanism provides students with biweekly wages based on hourly rates (no tuition waived). Graders are normally required to grade assignments from undergraduate-level courses. Students may contact individual faculty members who teach the course to be appointed as Grader several months earlier before the start of class. Typically new incoming international students are not eligible for the Grader position (US citizens or permanent residents are eligible) during the first semester.
+Suggested Out of Department Courses
+Any 5xxx/6xxx level course not used in the undergraduate curriculum may be taken that is out of the field of Computer Science study.
+Cross-listed courses with CS, taught by a CS professor are considered CS – in department – courses
+ECE courses may be taken as out-of-department if not taught by CS faculty.
+Math and Statistics
+Stat 5643– Probability And Statistics
+Stat 5644– Mathematical Statistics
+Math 5107– Combinatorics And Graph Theory
+Math 5603– Methods of Applied Mathematics
+Information Science and Technology (IST)
+5251Technological Innovation Management and Leadership (but not also EMGT 5100 nor EMGT 5111)
+4257Network Economy
+4261 Information Systems Project Management (but not also EMGT 361)
+5168 Law & Ethics in E-Commerce (but not also CS 317)
+5885 Human Computer Interaction
+5886 Human-Computer Interaction Prototyping
+5887 Human-Computer Interaction Evaluation
+6887 Research Methods in Human-Computer Interaction
+Other IST courses with Advisor and Graduate Advisor approval only.
+Apply to S&T
+View cost estimates
+Learn about new graduate orientation
+Can't find what you're looking for?
+Check out some graduate student resources
+here
+.
+Follow Computer Science
+Facebook
+Twitter
+Linked In
+Youtube

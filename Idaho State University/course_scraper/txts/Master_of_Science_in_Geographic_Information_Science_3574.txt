@@ -1,0 +1,119 @@
+Link: https://coursecat.isu.edu/graduate/scienceengineering/geosciences/msgeographicinfoscience/
+Master of Science in Geographic Information Science
+The MSGIS degree is offered to students who wish to become competent geospatial researchers and Geographic Information Systems (GIS) analysts. The program focuses on advancing knowledge to acquire, store and manage, visualize, model, and analyze information about spatial features and phenomena, with strong emphasis on real world geospatial applications. The MSGIS is designed as an interdisciplinary study of the nature, function, and development of spatial information systems and the application of these systems in research. Students will be involved in the technical study of the design and evaluation of scientific inquiry methods, tools, and techniques that will involve formulating hypotheses, collecting spatial information, and developing techniques for spatial analysis.
+Applicants must hold a degree of Bachelor of Science or Bachelor of Arts in any discipline that allows a research focus on Geotechnologies, including, but not limited to: Geosciences, Anthropology, Biology, Business, Information Technology, Computer Science, and Engineering. Each student in this program will have a member of the current Geotechnology faculty as his/her major advisor.
+NOTE: Due to the interdisciplinary nature of this program, applicants should initially contact a faculty member or the Geotechnologies Program Director, in the Department of Geosciences, in order to match his/her interests with those of potential faculty advisors.
+Admission Requirements
+Applicants must apply to and meet all criteria for admission to the Graduate School as well as additional criteria for admission to the Department of Geosciences.
+General Requirements
+In his/her application, a student must state a preference for the Thesis Option or Non-Thesis Option for the master's degree in GIS. The Geotechnologies graduate faculty will determine for which track the student is accepted.
+Thesis Option:
+Students desiring to enter careers in research or to pursue a doctorate are encouraged to request the Thesis Option master's degree in GIS. Students supported on research assistantships or teaching assistantships will typically be required to enroll in the Thesis Option. A minimum of 30 credit hours is required for completion of the Thesis Option master's degree in GIS, with a minimum of 15 credit hours (including six thesis credits) completed in 6600-level courses. The student’s graduate advisory committee (major advisor and co-advisor) will establish specific research goals, thesis topic, and the course electives in the program of study.
+Professional MSGIS Option:
+This program is particularly suited for those who wish to earn additional education to gain or enhance their GIS career opportunities in industry and government. Typically, students are not awarded research assistantships or teaching assistantships in the Professional MSGIS Option. A minimum of 30 credit hours is required for completion, with a minimum of 15 credit hours completed in 6600-level courses. In their final semester, all Professional MSGIS students will complete a written and oral capstone exam administered by Geosciences graduate faculty and a graduate faculty representative. All master's degree students are required to take a 1 credit hour graduate seminar (in any related discipline) and eleven credit hours of core courses. Generally, these will be taken during the first year of study. Prerequisites for core courses are designed to permit students entering the master's degree program from all disciplines. Students entering with some, or all of the core courses taken at the undergraduate level may, with permission from the student’s advisory committee, substitute other graduate-level courses in the program of study.
+Program Requirements:
+Course List
+Code
+Title
+Credits
+Graduate Seminar (taken in a related discipline)
+1
+Core Geotechnologies Courses
+11
+Electives
+12 Thesis; 18 Non-Thesis
+12
+GEOL 6650
+Thesis
+6 credits thesis; 0 non-thesis
+6
+Total Credits
+30
+*
+Total Hours includes 15 hours at 6600-level
+Section A - Core Courses
+Course List
+Code
+Title
+Credits
+GEOL 5504
+Advanced Geographic Information Systems
+3
+GEOL 5507
+GPS/GNSS Applications in Research
+3
+GEOL 5508
+GeoTechnology Seminar
+2
+GEOL 5509
+Remote Sensing
+3
+Section B - Electives
+Course List
+Code
+Title
+Credits
+ANTH 6641
+Research Project
+1-6
+BIOL 6651
+Advanced Studies in Ecology (Advanced Data Analysis for Biologists)
+3
+INFO 5507
+Database Design and Implementation
+3
+CS 5551
+Database Theory Design and Programming
+3
+CS 5542
+GUI Development
+3
+GEMT 5530
+Principles and Applications
+3
+GEMT 5532
+Principles of Photogrammetry
+3
+GEOL 5502
+Geomorphology
+4
+GEOL 5555
+Geologic Data Methods
+3
+GEOL 5527
+Information Technology for GIS
+3
+GEOL 5528
+Programming for GIS
+3
+GEOL 5571
+Historical Geography of Idaho
+3
+GEOL 5581
+GeoTechnology Internship
+1-3
+GEOL 6628
+Advanced GIS Programming
+3
+GEOL 6607
+Spatial Analysis
+4
+GEOL 6608
+Geostatistics Spatial Data Analysis and Modeling
+3
+GEOL 6609
+Advanced Image Processing
+3
+GEOL 6611
+UAS Applications for the Geosciences
+3
+GEOL 6648
+Research Problems
+1-6
+GEOL 6604
+Watershed Modeling
+3
+Certain graduate courses not shown in the list above may be acceptable with approval of the student’s advisory committee. All courses in the program of study require approval by the student’s advisory committee and final approval by the Graduate School. Non-Thesis Option master's degree students must have their planned program of study approved by the Geotechnologies program director in their first semester and by the Graduate School in their final semester.
+Thesis Option master's degree students are expected to complete a thesis that will be original and encompass all stages of scientific work, including project design, implementation, and communication. A graduate student may sign up for thesis credits only after his/her thesis prospectus has been submitted and approved by the advisory committee. Additionally, all thesis option master's degree students are required to present at least one colloquium dealing with his/her thesis topic prior to taking his/her oral examination.
+For current information regarding GIS Center and courses, see the website:
+http://giscenter.isu.edu.

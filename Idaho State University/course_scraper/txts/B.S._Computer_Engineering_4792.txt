@@ -1,0 +1,177 @@
+Link: https://coursecat.isu.edu/undergraduate/scienceengineering/electrical-and-computer-engineering/bs-computer-engineering/
+B.S. Computer Engineering
+Program Admissions Requirements
+Including the university's General Education Requirements (a minimum of 36 credits--see the General Education Requirements in the Academic Information section of this catalog), the program of study for the Bachelor of Science in Computer Engineering degree totals a minimum of 120 credits as follows:
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1-
+ENGL 1101
+,
+ENGL 1102
+1
+6
+Objective 2-
+COMM 1101
+3
+Objective 3-
+MATH 1170
+4
+Objective 4
+6
+Objective 5-
+PHYS 2211
+,
+CHEM 1111
+,
+CHEM 1111L
+9
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7-
+CS 1181
+Objective 8
+Objective 9
+3
+Total Credits
+40
+1
+“P” courses are equivalent to the original course.
+Major Requirements
+All required courses for the B.S. Computer Engineering major must be completed with a grade of C- or higher.
+Course List
+Code
+Title
+Credits
+CHEM 1111
+General Chemistry I (Partially Fulfills General Education Objective 5)
+4
+CHEM 1111L
+General Chemistry I Lab (Partially Fulfills General Education Objective 5)
+1
+CS 1181
+Computer Science and Programming I (Fulfills General Education Objective 7)
+3
+ENGL 3307
+Professional and Technical Writing
+3
+MATH 1170
+Calculus I (Fulfills General Education Objective 3)
+4
+MATH 1175
+Calculus II
+4
+MATH 2240
+Linear Algebra
+3
+MATH 3360
+Differential Equations
+3
+PHYS 2211
+Engineering Physics I (Partially satisfies General Education Objective 5)
+4
+PHYS 2212
+Engineering Physics II
+4
+CS 1187
+Applied Discrete Structures
+3
+CS 1337
+Computer Organization and Architecture
+3
+CS 2235
+Data Structures and Algorithms
+3
+CS 3309
+Advanced Object-Oriented Programming
+3
+CS 3337
+Secure Systems and Networks
+3
+CS 4461
+Secure Operating Systems
+3
+ECE 1100
+Foundations of Electrical and Computer Engineering
+1
+ECE 2200
+Electrical Circuits I
+3
+ECE 2200L
+Electrical Circuits I Laboratory
+1
+ECE 2250
+Introduction to Digital Systems
+3
+ECE 2250L
+Introduction to Digital Systems Laboratory
+1
+ECE 3320
+Introduction to Electronics
+3
+ECE 3300
+Electrical Circuits II
+3
+ECE 3300L
+Electrical Circuits II Laboratory
+1
+ECE 3310
+Signals and Systems
+3
+ECE 4450
+Advanced Digital Logic Design
+3
+ECE 4411
+Applied Engineering Methods
+3
+ECE 4460
+Advanced Computer Architecture
+3
+ECE 4460L
+Advanced Computer Architecture Laboratory
+1
+ECE 4451
+Embedded Systems Engineering
+2
+ECE 4451L
+Embedded Systems Engineering Laboratory
+1
+ECE 4420
+Advanced Electronics
+3
+ECE 4420L
+Advanced Electronics Laboratory
+1
+ECE 4470
+Digital Signal Processing
+3
+ECE 4495
+Capstone Design Project I
+3
+ECE 4496
+Capstone Design Project II
+3
+Total Credits
+96
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+40
+Major Requirements (Required General Education credits removed.)
+80
+Upper Division Free Electives
+0
+Free Electives
+0
+Total Credits
+120

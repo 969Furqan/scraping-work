@@ -1,0 +1,125 @@
+Source: https://distance.mst.edu/distance-programs/distance-graduate-degrees/systems-engineering/
+
+Real Degrees for Working Professionals
+Master of Science in Systems Engineering
+Interested in how to manage complex systems and projects? This program is designed to provide engineers and engineering managers the advanced knowledge and skills needed for confident decision making in the conception and implementation of complex systems.
+Courses in theory and application of systems engineering and management are combined with specialization areas that allow you to design a program that fits your career goals.  This interdisciplinary program can be applied to cyber physical systems, defense, space, aircraft, communications, navigation, sensor, computer software, computer hardware, transportation, infrastructure energy and other aerospace and commercial systems activities.
+Thesis and non-thesis options available.
+The non-thesis degree requires 30 credit hours; the thesis degree requires 36 credit hours and includes a research component.
+Core Courses:
+SYS ENG  5101 Systems Engineering and Analysis
+SYS ENG 6102 Information Based Design
+SYS ENG 6103 Systems Life Cycle Costing
+SYS ENG 6104 Systems Architecting
+SYS ENG 6196 Systems Engineering Capstone
+SYS ENG 6542 Model Based Systems Engineering
+Specialization courses provide students the ability to address technology needs in the context of the overall systems engineering program. These graduate courses can be selected from engineering or the physical science department with the approval of the program director.
+As part of your master's degree track in Systems Engineering, you can obtain two graduate certificates in an emphasis area. Emphasis areas include cyber physical systems, engineering management, project management, financial engineering, computational intelligence engineering and model based systems engineering.
+Admission Requirements
+Bachelor’s degree in engineering, applied mathematics, computer science or a physical science
+Undergraduate GPA ≥ 3.0
+Undergraduate courses: Calculus Series (I, II, III), Differential Equations, Statistics, Physics (I, II) or Chemistry, Engineering Economy
+International requirement: TOEFL ≥ 80 or IELTS
+≥ 6.5, or
+satisfactory completion of an approved English language Institute program
+Doctorate Degree in Systems Engineering
+The content of all Ph.D. programs is individually structured by the student in consultation with and approved by the student’s advisory committee. All requirements for the degree must normally be completed within an eight year period. At appropriate points in their program, Ph.D. students must pass both a qualifying examination and a comprehensive examination. Students have the
+option of conducting research that is beneficial to their professional work. There is no residency requirement for the Ph.D.; however, the P
+h.D. Comprehensive Exam and the Defense of Dissertation must take place on the S&T campus. A sudent is also required to have at least two video conferences per month with their research advisor and at least two per semester with their Ph.D. committee.
+The total credit requirements for graduation are 54 credits after the successful completion of M.S. degree in Systems Engineering or 84 credits after a B.S. degree.
+Ph.D. Course Requirements
+Core Curriculum  (24 credit hours) required courses:
+SYS ENG 5101 Systems Engineering and Analysis
+SYS ENG 6101 Advance Research Methodologies*
+SYS ENG 6104 Systems Architecting*
+SYS ENG 6110 Optimization Under Uncertainty*
+SYS ENG 6239 Smart Engineering System Design
+SYS ENG 6412 Mathematical Programming*
+SYS ENG 6521 Modeling Complex Systems
+SYS ENG 6542 Modeling Based System Engineering
+Systems Engineering Electives (6 credit hours)
+Specialization Electives (24 credit hours)
+Research (30 credit hours)
+TOTAL (84 CREDIT HOURS)
+*Denotes the core courses students need to take and have a GPA of 3.5 before taking the oral Ph.D. qualifying exam.
+Areas of Research Specialization:
+Cyber Physical Systems
+Modeling and Simulation
+Model Based Systems Engineering
+System of Systems Architecting
+Complex Adaptive Systems
+Human System Integration
+Infrastructure Systems
+Admission Requirements
+MS in Systems Engineering or related field with
+3.5 GPA
+Minimum of three years of full time work experience beyond the bachelor's degree
+GRE V ≥ 155, GRE Q ≥ 148, and GRE WR
+≥
+4.0
+International requirement: TOEFL ≥ 80 or IELTS
+≥ 6.5, or
+satisfactory completion of an approved English language Institute program
+Graduate Certificates
+Your Pathway to a Graduate Degree
+Start earning college credit toward a graduate degree. The GRE is not required to enter a certificate program, and credit earned may be applied toward your master’s degree.*
+Graduate Certificate Programs
+Computational Intelligence
+Cyber Physical Systems
+(Network Centric Systems)
+Financial Engineering
+Foundations of Supply Chain Integration Systems
+Model Based Systems Engineering
+Modeling and Simulation for Decision Systems
+Network Centric Systems
+Systems Engineering
+Systems of Human Capital Management
+Obtain two graduate certificates as part of your master’s degree track in Systems Engineering. Learn more —
+Systems Engineering Emphasis
+(pdf)
+*restrictions may apply
+Completion of a graduate certificate program does not automatically guarantee admission into a corresponding graduate degree program. To continue in a master’s degree program, you must apply. Check with the academic department for program specific details and requirements.
+Learn more about the certificate to master's program
+.
+Accreditation
+Missouri University of Science & Technology is accredited by the
+Higher Learning Commission
+, one of six regional institutional accreditors in the United States.
+Nondegree-seeking enrollment
+Prior to acceptance into the program, you may enroll in up to 6 credit hours as a nondegree-seeking (in some cases, post-baccalaureate) student. Enrollment does not guarantee acceptance. Learn more about
+nondegree-seeking university student admissions
+.
+Licensure and disclosures
+If you live outside of Missouri and are thinking about enrolling in a program that leads to professional licensure, the University of Missouri System strongly recommends that you check with the relevant licensing board in your state or the state where you plan to work. This will help you obtain the most current information about state licensure requirements before you enroll in any academic program. While Missouri University of Science & Technology strives to provide current licensure information, it's important to note that licensure regulations are subject to change.
+For more details, please visit our
+licensure and disclosure page
+.
+State authorization
+States require that Missouri University of Science and Technology be authorized to deliver university-level distance/online education to their residents.
+The process for authorization varies by state
+.
+For more details, please visit our
+state authorization page
+.
+Authorized
+Students residing in all states are eligible to enroll in this program.
+Internships
+Internships are encouraged for explore real-life applications of teacher leadership. Find more about available opportunities on
+S&T's Career Opportunities
+page.
+Faculty
+Our academic leaders are experts in their respective disciplines and bring extensive experience in higher education, industry, and departmental management. Learn more about the
+Engineering Management and Systems Engineering Faculty
+at S&T.
+Questions?
+Contact Us
+Missouri S&T Online Education
+Sylvia Skouby
+Associate Director for Online Admissions
+573-341-6903  |
+stgrad@mst.edu
+Engineering Management and Systems Engineering
+Cihan Dagli, PhD
+Founder and Director of Systems Engineering Graduate Program and Professor of Engineering Management & Systems Engineering
+573-647-9125  |
+dagli@mst.edu

@@ -1,0 +1,48 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/aircraftmaintenancetechnology/itc-airframe/
+I.T.C. Airframe
+(1 Year)
+Course List
+Code
+Title
+Credits
+AIRM 1100
+Introduction to Aircraft Maintenance and Aviation Aerodynamics
+2
+AIRM 1101
+Mathematics
+3
+AIRM 1104
+Materials and Processes
+4
+AIRM 1107
+Forms and Regulations
+2
+AIRM 1108
+Basic Electricity
+3
+AIRM 1109
+Fluid Systems
+2
+AIRM 1110
+Landing Gear Systems
+2
+AIRM 1111
+Auxiliary Systems
+3
+AIRM 1112
+Aircraft Electrical Systems
+3
+AIRM 1113
+Rigging and Inspection
+2
+AIRM 1114
+Metallic Structures
+4
+AIRM 1115
+Aircraft Instruments, Communications, and Navigation
+2
+AIRM 1116
+Non-Metallic Structures
+3
+Total Credits
+35

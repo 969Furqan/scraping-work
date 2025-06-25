@@ -1,0 +1,103 @@
+URL: https://www.svsu.edu/giscertificate/
+
+Geographic Information Systems (GIS) Certificate
+SVSU
+>
+College of Arts and Behavioral Sciences
+>
+Geography Department
+About
+In the Geographic Information Systems (GIS) Certificate program, students learn how to use geographic mapping and imaging software, interpret and analyze geospatial data, and present conclusions to clients for land development projects, resource monitoring and management, and scientific studies. Situated in the heart of the Great Lakes, SVSU’s unique location lends itself to the study of landscapes altered by both human actions and natural processes. Our GIS Certificate ensures students have the skills they need to study, record, understand and evaluate changes in these landscapes through the use of digital technology, so they can help clients make better decisions and develop timely policies regarding the development, use and conservation of different landscapes
+SVSU's GIS Certificate is designed to complement a student’s primary field of study or serve as a stand-alone certificate for working professionals who want to acquire GIS skills. The program builds students’ expertise in a range of data driven decision-making, geospatial technology, remote sensing and analysis skills, increasingly sought by a wide range of employers and graduate programs. Students will also complete an approved internship or faculty directed project that drives them to demonstrate their ability to translate classroom learning and applied research into professional practice.
+Current SVSU students who are interested in pursuing a GIS Certificate can contact the
+Office of the Registrar
+. Working professionals who are not current SVSU students can contact the
+Office of Admissions
+. Anyone with questions can also contact geography faculty members
+Rhett Mohler
+or
+Julie Commerford
+.
+Apply
+Visit
+Tuition/Cost
+Department
+Cardinal Points
+Complete your GIS Certificate in two semesters (15 credits).
+Achieve a competitive advantage in the workforce by using the most up-to-date tools and techniques available in the field of GIS today.
+Gain firsthand experience with ArcGIS Pro, ENVI, and Pix4D software to create visual conceptualizations of a variety of geographical data.
+Available to working professionals utilizing GIS in their line of work or others looking for a career change.
+Take advantage of internship opportunities with local businesses or organizations.
+It was nice to have the class and be able to use it at work at the same time, because I was able to take the skills I was learning and apply them directly to my position. It reinforced what I was learning.
+— Chris Jankowski
+Bay County Department of Water and Sewer
+Increase your GIS skills with the GIS Certificate program at SVSU.
+The program is 5 courses (15 credits)
+Four of the five classes are offered from 4 p.m. - 7 p.m. on Tuesdays and Wednesdays to provide maximum flexibility for working professionals
+The fifth class is your internship and meets only 5 times during one semester
+Up-to-date computers and software for processing large GIS and Remote Sensing datasets
+An imaging Unmanned Aerial Vehicle (drone) is available for research projects and in-class exercises
+Access to a virtual computer is available 24/7 to work on projects outside of class time
+The GIS Certificate is appropriate for individuals of any skill level
+GIS Certificate students like that they get hands-on experience using GIS and Remote Sensing software every week. They finish the certificate ready to do geospatial analyses in their careers!
+— Julie Commerford, Ph.D.
+Associate Professor of Geography
+Career / Internship Opportunities
+Bay County Road Commission
+Bay County Environmental Affairs and Community Development
+Chippewa Nature Center
+Saginaw County Road Commission
+Saginaw County Mosquito Abatement Commission
+Saginaw Basin Land Conservancy
+Wade Trim
+Bay County Department of Water and Sewer
+Bay City State Recreation Area
+Central Michigan CISMA
+Shiawassee National Wildlife Refuge
+YMCA of Saginaw
+City of Saginaw
+Bay County Mosquito Control
+City of Bay City
+Bay City Electric Light and Power
+Midland County GIS
+Saginaw Crime Prevention Council
+*We can also tailor the internship to your current employer’s needs.
+GIS Certificate Requirements
+The program includes a total of 15 credits as listed below (each course is 3 credits). Because each class is offered once per year, students can earn a GIS Certificate in only two semesters.
+GEOG 340 – Geographic Information Systems
+Offered every fall semester
+Skills taught include:
+· Data visualization and cartography
+· Analyzing vector and raster data
+· Digitizing
+GEOG 341 – Remote Sensing
+Offered every fall semester
+Skills taught include:
+· Image basics and scale
+· Acquiring and displaying imagery
+· Imagery processing
+· Image classification/change detection
+GEOG 440 – Advanced GIS
+Offered every winter semester
+Skills taught include:
+· Geostatistics and Geocoding
+· Web Mapping
+· Developing new GIS tools
+GEOG 441 – Advanced Remote Sensing
+Offered every winter semester
+Skills taught include:
+· Advanced image processing
+· Accuracy assessment methods
+· Lidar and UAV remote sensing
+GEOG 499 – Independent Study/Internship
+Offered every winter semester
+We can suggest/provide an internship for you, or your internship can be tailored to your employer’s current GIS needs
+SVSU: Connect
+Fully integrated into social networks,
+SVSU Connect
+is a valuable networking space
+dedicated to the community of SVSU students, faculty and alumni which cultivates a culture of helping and giving back. In addition to
+connecting with each other
+, students at all points along their journey can reach out to alumni mentors for guidance and insight into
+making the most of their SVSU experience and successfully transitioning into life after graduation.
+

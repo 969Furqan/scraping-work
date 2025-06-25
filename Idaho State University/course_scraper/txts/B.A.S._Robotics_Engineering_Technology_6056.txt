@@ -1,0 +1,157 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/roboticsandcommunicationsystemsengineeringtechnology/bas-robotics-engineering-technology/
+B.A.S. Robotics Engineering Technology
+(4 Years)
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+6
+Objective 2
+3
+Objective 3
+3
+Objective 4
+6
+Objective 5
+7
+Objective 6
+6
+Students must fulfill Objective 7 or Objective 8
+3
+Objective 7
+Objective 8
+Objective 9
+3
+Total Credits
+37
+In addition to 8 of the 9 General Education Objectives (a minimum of 36 credits--see the
+General Education Requirements
+in the Academic Information section of this catalog), Robotics Engineering Technology majors are required to take the following courses:
+Course List
+Code
+Title
+Credits
+Required Courses:
+ENGL 3307
+Professional and Technical Writing
+3
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+4
+or
+PHYS 1100
+Essentials of Physics
+or
+PHYS 1111/1113
+General Physics I
+RCET 1153A
+Basic Electricity and DC Circuit Theory
+4
+RCET 1153B
+Basic Electricity and AC Circuit Theory
+4
+RCET 1154A
+Analog Control Devices Theory
+4
+RCET 1154B
+Digital Control Devices Theory
+4
+RCET 1155A
+Basic Electricity and DC Circuit Lab
+2
+RCET 1155B
+Basic Electricity and AC Circuit Lab
+2
+RCET 1156A
+Analog Control Devices Laboratory
+2
+RCET 1156B
+Digital Control Devices Laboratory
+2
+RCET 2251
+Systems Analog and Digital Theory
+6
+RCET 2253
+Systems Analog and Digital Laboratory
+5
+RCET 2265
+Computer Fundamentals and Introduction to Programming
+4
+RCET 2267
+Radio Frequency Transmission Theory
+6
+RCET 2268
+Radio Frequency Transmission Lab
+5
+RCET 2271
+Introduction to Lab Simulation Software
+2
+RCET 1372
+Calculus for Electronics
+4
+RCET 3371
+Advanced Programming Techniques and GUI Development
+4
+RCET 3372
+Advanced Applications of Calculus for Robotics
+4
+RCET 3373
+Advanced Computer Architecture and Embedded Systems Theory
+5
+RCET 3374
+Advanced Systems Analysis Theory
+4
+RCET 3375
+Advanced Computer Architecture and Embedded Systems Laboratory
+5
+RCET 3376
+Advanced Systems Analysis Theory
+5
+Select a minimum of 10 credits from the following:
+10
+RCET 3331
+Laser Systems and Optics Theory
+RCET 3332
+Laser Systems and Optics Laboratory
+RCET 3370
+Electronic Drafting for PCB Design
+RCET 3382
+Rapid Prototyping Technologies
+RCET 3383
+Advanced Laser Systems and Optics Theory
+RCET 3384
+Advanced Laser Systems and Optics Laboratory
+RCET 3396
+Independent Study
+RCET 3398
+Special Topics
+MGT or OLP Upper Division Courses Numbered 3300-4499
+Total Credits
+100
+​Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+37
+Major Requirements (w/o General Education)
+96
+Free Electives
+0
+Total Credits
+133
+For information contact:
+College of Technology
+Student Services
+RFC Building (Bldg #48)
+(208) 282-3939
+http://www.isu.edu/ctech/studentservices/

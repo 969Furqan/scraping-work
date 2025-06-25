@@ -1,0 +1,124 @@
+Link: https://coursecat.isu.edu/undergraduate/technology/unmannedaerialsystems/aas-unmanned-aerial-systems/
+A.A.S. Unmanned Aerial Systems
+(2 Years)
+Program Admissions Requirements
+COT Min Test Scores (No English)
+Placement Test
+Math
+SAT
+320
+ACT
+14
+ALEKS
+14
+General Education
+The listing below includes program requirements that also fulfill General Education requirements.
+Course List
+Code
+Title
+Credits
+Objective 1
+3
+ENGL 1101
+Writing and Rhetoric I
+1
+or
+ENGL 1102
+Writing and Rhetoric II
+Objective 2
+3
+COMM 1101
+Fundamentals of Oral Communication
+Objective 3
+3
+Objective 6
+3
+Any unfilled objective
+4
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+Total Credits
+16
+1
+“P” courses are equivalent to the original course.
+Major Requirements
+Course List
+Code
+Title
+Credits
+UAS 1100
+Introduction to Unmanned Aerial Systems
+1
+UAS 1110
+Applied Mathematics and Electronics for Unmanned Systems
+3
+UAS 1115
+Flight Theory
+3
+UAS 1120
+Flight Laboratory I
+4
+UAS 1150
+Unmanned Systems Design
+3
+UAS 1155
+Flight Control and Subsystems
+4
+UAS 1170
+Flight Laboratory II
+4
+UAS 2200
+Advanced Electronics and Payload for Unmanned Systems
+3
+UAS 2225
+Flight Laboratory III
+5
+UAS 2228
+Principles of GIS
+3
+UAS 2240
+Avionics and Sensors for UAS
+2
+UAS 2250
+Imagery Analysis
+4
+UAS 2252
+Ground Control Points for Unmanned Aerial Systems
+1
+UAS 2255
+Autopilot Theory
+3
+UAS 2270
+Autopilot Laboratory
+4
+UAS 2282
+Introduction to Rapid Prototyping
+2
+PHYS 1101
+&
+1101L
+Elements of Physics
+and Elements of Physics Laboratory
+4
+Total Credits
+53
+Degree Totals
+Course List
+Code
+Title
+Credits
+Program Admission Requirements
+0
+General Education
+16
+Major Requirements (w/o gen eds)
+49
+Free Electives
+Total Credits
+65
+ISU Degree Requirements
+ISU General Education for College of Technology
+Major Academic Plan (MAP)

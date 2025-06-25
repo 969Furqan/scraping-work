@@ -1,0 +1,316 @@
+https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/first-cycle-degree-course/electronic-and-computer-engineering
+
+Home
+Education
+Bachelor's and Master's degree programs
+Links condivisione social
+Share button
+The Bachelor’s Degree in Electronic and Computer Engineering aims to train professionals with a general background and practical competencies suitable for professional fields that require the ability to continuously adapt to the rapid evolution of technologies. In addition to a solid basic engineering education, the program offers an introduction to the two disciplines of Electronics and Computer Science, which represent the two pillars of the so-called information society.
+Starting from the third year, the educational path differentiates into two curricula:
+One focused more on Electronics and Telecommunications.
+The other focused more on Computer Science and Automation.
+Overview of the program
+Duration
+3 years
+Credits
+180
+Coordinator of the course
+Chiara Toffanin
+Area
+Engineering
+Access
+Open
+Language
+Italian
+Degree class
+L-8 - Information technology engineering
+Department
+DEPARTMENT OF ELECTRICAL,COMPUTER AND BIOMEDICAL ENGINEERING
+Location
+PAVIA - University of Pavia
+Study Plan
+Enrollment Year 2024/2025
+Percorso ELETTRONICA
+Percorso INFORMATICA
+Year of study:
+1
+Compulsory
+MATHEMATICAL ANALYSIS 1
+9
+							CFU -
+							 83 							hours
+1st semester
+MATHEMATICAL ANALYSIS 2
+9
+							CFU -
+							 83 							hours
+2nd semester
+LINEAR ELECTRIC CIRCUITS
+6
+							CFU -
+							 54 							hours
+2nd semester
+ECONOMICS
+6
+							CFU -
+							 45 							hours
+PHYSICS
+9
+							CFU -
+							 90 							hours
+2nd semester
+PRINCIPLES OF COMPUTER SCIENCE
+12
+							CFU -
+							 116 							hours
+Annual
+GEOMETRY AND ALGEBRA
+6
+							CFU -
+							 60 							hours
+1st semester
+Year of study:
+2
+Compulsory
+AUTOMATIC CONTROL
+12
+							CFU -
+							 164 							hours
+ELECTRONICS I
+9
+							CFU -
+							 102 							hours
+PHYSICS II
+9
+							CFU -
+							 75 							hours
+MATHEMATICAL METHODS
+6
+							CFU -
+							 60 							hours
+LOGICAL NETWORKS AND COMPUTERS
+12
+							CFU -
+							 122 							hours
+SIGNAL AND COMMUNICATION THEORY
+9
+							CFU -
+							 45 							hours
+Year of study:
+3
+Compulsory
+ELECTROMAGNET FIELDS AND CIRCUITS
+12
+							CFU -
+							 111 							hours
+ELECTRONICS FOR DIGITAL SYSTEMS
+6
+							CFU -
+							 61 							hours
+ELECTRONICS II
+12
+							CFU -
+							 127 							hours
+PHOTONICS
+6
+							CFU -
+							 56 							hours
+FINAL EXAM
+3
+							CFU -
+							 0 							hours
+COMPUTER NETWORKS
+6
+							CFU -
+							 60 							hours
+TELECOMMUNICATION SYSTEMS
+9
+							CFU -
+							 78 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+LABORATORY FINAL PROJECT
+6
+							CFU -
+							 135 							hours
+CHEMISTRY
+6
+							CFU -
+							 45 							hours
+ENGLISH AND COMMUNICATION SKILLS FOR ENGINEERING
+6
+							CFU -
+							 54 							hours
+MECHATRONICS
+6
+							CFU -
+							 51 							hours
+TRAINEESHIP
+12
+							CFU -
+							 300 							hours
+Year of study:
+1
+Compulsory
+MATHEMATICAL ANALYSIS 1
+9
+							CFU -
+							 83 							hours
+1st semester
+MATHEMATICAL ANALYSIS 2
+9
+							CFU -
+							 83 							hours
+2nd semester
+LINEAR ELECTRIC CIRCUITS
+6
+							CFU -
+							 54 							hours
+2nd semester
+ECONOMICS
+6
+							CFU -
+							 45 							hours
+PHYSICS
+9
+							CFU -
+							 90 							hours
+2nd semester
+PRINCIPLES OF COMPUTER SCIENCE
+12
+							CFU -
+							 116 							hours
+Annual
+GEOMETRY AND ALGEBRA
+6
+							CFU -
+							 60 							hours
+1st semester
+Year of study:
+2
+Compulsory
+AUTOMATIC CONTROL
+12
+							CFU -
+							 164 							hours
+ELECTRONICS I
+9
+							CFU -
+							 102 							hours
+PHYSICS II
+9
+							CFU -
+							 75 							hours
+MATHEMATICAL METHODS
+6
+							CFU -
+							 60 							hours
+LOGICAL NETWORKS AND COMPUTERS
+12
+							CFU -
+							 122 							hours
+SIGNAL AND COMMUNICATION THEORY
+9
+							CFU -
+							 45 							hours
+Year of study:
+3
+Compulsory
+ALGORITHMS AND DATA STRUCTURES
+6
+							CFU -
+							 45 							hours
+DATA BASE
+6
+							CFU -
+							 62 							hours
+IDENTIFICATION OF MODELS AND DATA ANALYSIS
+12
+							CFU -
+							 99 							hours
+MECHATRONICS
+6
+							CFU -
+							 51 							hours
+OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING
+9
+							CFU -
+							 76 							hours
+FINAL EXAM
+3
+							CFU -
+							 0 							hours
+COMPUTER NETWORKS AND OPERATING SYSTEMS
+12
+							CFU -
+							 105 							hours
+12 Elective ECTS to be selected among the entire available academic offer of the university. The degree programme recommends: (12 CFU)
+LABORATORY FINAL PROJECT
+6
+							CFU -
+							 135 							hours
+CHEMISTRY
+6
+							CFU -
+							 45 							hours
+ELECTRONICS II A
+6
+							CFU -
+							 57 							hours
+ELECTRONICS II B
+6
+							CFU -
+							 78 							hours
+ENGLISH AND COMMUNICATION SKILLS FOR ENGINEERING
+6
+							CFU -
+							 54 							hours
+BUSINESS MANAGEMENT
+6
+							CFU -
+							 45 							hours
+QUALITY MANAGEMENT
+6
+							CFU -
+							 45 							hours
+MODELS OF BIOLOGICAL SYSTEMS
+6
+							CFU -
+							 80 							hours
+TELECOMMUNICATION SYSTEMS
+6
+							CFU -
+							 50 							hours
+TRAINEESHIP
+12
+							CFU -
+							 300 							hours
+Overview of the program, goals and career opportunities
+Educational goals
+The Bachelor's Degree in Electronic and Computer Engineering aims to train, over the course of three years, a graduate with a general education and application skills appropriate to a professional field such as Information Engineering, which requires the ability to continuously adapt to the rapid evolution of technologies. At the end of his or her training, the graduate should be able to identify, analyze, formalize and solve the main problems typical of the field. In addition, he or she should be equipped with a solid methodological foundation, such that he or she has the flexibility to keep up with the evolution of technology. To this end, in addition to specific knowledge, solid theoretical and methodological foundations will be provided to the student, in order to avoid rapid obsolescence of skills and provide, instead, the necessary tools and methods for continuous updating, even after graduation. To this end, during the first two years, ample space is given to teachings of the physical-mathematical foundations of engineering (mathematical analysis, geometry and linear algebra, general physics), and the foundations of computer science, as well as teachings that introduce the fundamentals of the engineering disciplines typical of Electrical and Computer Engineering (automation, electromagnetic fields, electronics, computer science, telecommunications). As a result of these, solid theoretical and methodological foundations are provided to the student. In fact, the presentation of the topics emphasizes both methodological and applied aspects, the latter exemplified through significant laboratory experiences and with the discussion of examples of the solution of simple application problems. The traditional 'ex cathedra' lectures are then flanked by a substantial number of numerical and experimental exercises, so as to facilitate the assimilation of theoretical concepts while simultaneously developing mastery of their use through the analysis and solution of concrete examples. In the later years, differentiated pathways may be provided, each aimed at investigating more specific aspects of the field, for example, those oriented toward Electronics, Telecommunications, Computer Science and Automation. During the third year, an internship in an extra-university work environment is also offered. Finally, the curriculum aims to provide adequate knowledge to deal with the possible continuation of studies in master's degree programs. The primary objectives of the course of study are to learn: - of the physical-mathematical knowledge necessary for the understanding of the fundamentals of electronics and telecommunications, as well as the applications of information technology in these fields; - of the ability to understand the operation and applications of analog electronic devices; - of the ability to understand the operation, applications and design techniques of analog electronic circuits; - of the ability to understand the operation, applications and design techniques of telecommunications systems and apparatus - of the knowledge of information processing and transmission techniques and their application in telecommunications systems and electronic computers; - of the knowledge of the fundamentals of automatic controls and their applications; - of the knowledge of the techniques and applications of electronic measurements; - of the use of computer-aided design tools; - of the knowledge of elements of applied engineering economics. More specific topics may also be covered, including as part of ad hoc pathways. Such insights could cover, for example: - knowledge of digital electronic circuits and their use; - knowledge at an introductory level of microwave and photonic techniques; - knowledge necessary for the use and design of a computer network; - tools and techniques for the autonomous development of management and computing programs; - knowledge of techniques for the design and management of information systems for business, health care, citizen and public administration.
+Career opportunities
+Entrepreneurs/Management Consultants:
+The job opportunities available to the graduate in Electronic and Computer Engineering are very broad, and they continue to expand hand-in-hand with the increased pervasiveness of these disciplines. Below are some of the most common employment areas and the most requested professional skills for the electronics sector:
+- companies that manufacture electronic products;
+- telecommunications companies;
+- management and development of telematic systems and services;
+- management and development of electronic components and circuits.
+Some of the most requested professional skills in the IT area are the following:
+- management and development of networked IT systems and environments;
+- management and development of multimedia systems;
+- management of automation systems for industry and services;
+- management and development of information systems for companies, the healthcare sector, citizens, and the public administration.
+The following table shows the ISTAT codes of the professions for which the Degree Course prepares graduates. It should be remembered, however, that the qualification as a "technician" is normally used in the engineering professions to indicate a high school graduate. Therefore, given that the ISTAT codes for the degrees in this area are those of the "large group 3", the latter have been indicated, keeping in mind that the term "technical" must be understood as "junior engineer"
+Admission requirements
+In order to be admitted to the Degree Course, the student must possess the high school diploma required by the regulations in force, or another qualification obtained abroad, recognized as suitable by the competent bodies of the University. As far as initial preparation is concerned, it is necessary to be able to communicate effectively, in written and oral form, in English, to possess some specific knowledge in the area of Mathematics, which will be carefully described in the Didactic Regulations of the course of study, and a good basic knowledge of Physics. The Faculty offers students who intend to enroll in a test (placement test), the outcome of which attests to the student's overall competence in the above areas. Limited to Mathematics and English Language from the same test, the student's knowledge level deficit, if any, is deducted, which can be made up after matriculation. For students in such deficit, the Faculty organizes remedial courses with related testing and provides study and self-learning tools, including in the language area. The procedures for making up any gaps and educational deficits of the student (to be made up in any case within the first year of study) are governed by the Didactic Regulations of the Degree Course.
+Academic Regulation
+Academic Regulation
+Useful information
+Assessment test
+How to apply
+Student Portal
+FAQ
+Watch the tutorial
+Contacts
+Incoming transfer
+Fees and funding
+Course website

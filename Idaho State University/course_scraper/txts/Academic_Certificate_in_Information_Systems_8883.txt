@@ -1,0 +1,17 @@
+Link: https://coursecat.isu.edu/undergraduate/business/accounting/information-systems-certificate/
+Academic Certificate in Information Systems
+Course List
+Code
+Title
+Credits
+INFO 4150
+Information Systems and Controls
+3
+INFO 4380
+Networking and Cybersecurity
+3
+INFO 4480
+Systems Administration and Cloud Computing
+3
+Total Credits
+9
